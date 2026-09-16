@@ -25,7 +25,7 @@ AI業界とSNSマーケティングのニュースを**毎朝6時台（JST）に
 | AI公式 | OpenAI／Google DeepMind／Google Research／Microsoft／Mistral／NVIDIA／AWS ML／Hugging Face／Google Developers／GitHub Blog |
 | SNS・広告公式 | Meta Newsroom／YouTube公式ブログ／Google 広告・コマース公式 |
 | AI重要人物 | Import AI（Jack Clark）／Simon Willison／Sam Altman／Andrej Karpathy／Ethan Mollick／Lilian Weng／Nathan Lambert／Latent Space／Ben Thompson／深津貴之／梶谷健人 |
-| SNS重要人物 | Lia Haberman（ICYMI） |
+| SNS重要人物 | Jon Loomer（Meta広告） |
 | AIメディア | ITmedia AI+／ASCII.jp／TechCrunch AI／The Verge AI／MIT Tech Review／Ars Technica |
 | SNSマーケメディア | Social Media Today／Social Media Examiner／Buffer／Hootsuite／Search Engine Journal／Adweek／ソーシャルメディアラボ／MarkeZine／AdverTimes／ITmediaマーケティング／Web担 |
 | YouTube公式 | Anthropic／OpenAI／Google DeepMind／Creator Insider（YouTube公式）／Meta |
@@ -109,5 +109,6 @@ AI業界とSNSマーケティングのニュースを**毎朝6時台（JST）に
 - **サムネイル**：記事のOGP画像・YouTube公式サムネを直接参照しています（画像はこのリポジトリに保存しません）。
 - **収集しないことにしたソース**：MarkeTRUNK（profuture.co.jp）は収集スクリプトのUser-Agentに403を返すため、bot拒否の意思表示とみなして対象から外しました。ferret・Ledge.aiはRSS提供を終了していました。
 - **Web担当者フォーラム**：RSSは返りますが2026-07-21以降の更新が確認できませんでした。しばらく記事が流れてこないようなら `sources.yml` から削除してください。
+- **Substackの `*.substack.com` は使えません**：GitHub Actionsの実行元IPから403が返ります（ローカルからは取得できるので気づきにくい）。Substack発でも独自ドメインを持つもの（oneusefulthing.org・interconnects.ai・latent.space・jack-clark.net）は問題なく取得できています。新しくSubstackの書き手を足すときは、独自ドメイン側のURLを探してください。
 - **YouTubeチャンネルの追加**：`channel_id` 直書きを推奨します。ハンドルからの解決はページ内の `"channelId"` を使うと**別チャンネルを拾います**（@Meta が Facebook チャンネルに化ける例を確認済み）。`collect.py` は canonical / externalId から解決しています。
 - **メンテナンス**：60日間コミットがないとGitHubがスケジュール実行を自動停止します。毎日コミットが発生する本システムでは通常起きませんが、長期停止後はActionsタブで再有効化してください。

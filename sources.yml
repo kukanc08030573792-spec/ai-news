@@ -75,8 +75,10 @@ sources:
     topic: sns
 
   # ---------- AI｜重要人物の発信 ----------
+  # importai.substack.com はGitHub Actionsの実行元IPから403になるため、
+  # 同じ内容が載る本人サイト側のフィードを使う（最新記事の日時が一致することを確認済み）。
   - name: Import AI（Jack Clark／Anthropic共同創業者）
-    url: https://importai.substack.com/feed
+    url: https://jack-clark.net/feed/
     tier: voice
     topic: ai
   - name: Simon Willison
@@ -121,8 +123,11 @@ sources:
     topic: ai
 
   # ---------- SNSマーケ｜重要人物の発信 ----------
-  - name: Lia Haberman（ICYMI）
-    url: https://liahaberman.substack.com/feed
+  # ※ Lia Haberman（ICYMI）は liahaberman.substack.com のみの配信で、
+  #    GitHub Actionsの実行元IPから403になる。代替ドメインも無いため
+  #    自動収集はあきらめ、下の manual_links に置いてある。
+  - name: Jon Loomer（Meta広告）
+    url: https://www.jonloomer.com/feed/
     tier: voice
     topic: sns
 
@@ -283,6 +288,9 @@ manual_links:
   - name: LinkedIn Official Blog
     url: https://www.linkedin.com/blog/
     note: RSS提供なし
+  - name: Lia Haberman（ICYMI）
+    url: https://liahaberman.substack.com/
+    note: プラットフォーム仕様変更の解説で定評。Substack側の制限で自動収集できない
   - name: Meta for Business ニュース
     url: https://www.facebook.com/business/news
     note: 広告プロダクトの変更告知
