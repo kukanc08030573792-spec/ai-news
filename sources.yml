@@ -1,0 +1,297 @@
+# ============================================================
+# AI・SNSマーケティング ニュース収集 設定ファイル
+# GitHubのWeb画面から直接編集 → コミットで次回実行から反映されます。
+#
+# 【tier】そのソースが何者かの宣言。AIには推測させず、ここで確定させる。
+#   official : 企業・プラットフォームの公式発表（一次情報）
+#   voice    : 重要人物・有識者本人の発信
+#   media    : 報道・解説メディア（二次情報）
+#
+# 【topic】主にどちらの話題か。ai / sns を書く。
+#   公式・重要人物はこの宣言をそのまま使う（本文が明確に反対を示すときだけ覆る）。
+#   メディアは総合ITフィードも含むため宣言を鵜呑みにせず、
+#   本文のキーワードに根拠がある記事だけを採用する。
+#
+# ※ 全URLは2026-09-16に実際に取得して生存を確認済み。
+# ============================================================
+
+sources:
+
+  # ---------- AI｜公式（一次情報） ----------
+  - name: OpenAI
+    url: https://openai.com/news/rss.xml
+    tier: official
+    topic: ai
+  - name: Google DeepMind
+    url: https://deepmind.google/blog/rss.xml
+    tier: official
+    topic: ai
+  - name: Google Research
+    url: https://research.google/blog/rss/
+    tier: official
+    topic: ai
+  - name: Microsoft Source
+    url: https://news.microsoft.com/source/feed/
+    tier: official
+    topic: ai
+  - name: Mistral AI
+    url: https://mistral.ai/rss.xml
+    tier: official
+    topic: ai
+  - name: NVIDIA Blog
+    url: https://blogs.nvidia.com/feed/
+    tier: official
+    topic: ai
+  - name: AWS Machine Learning Blog
+    url: https://aws.amazon.com/blogs/machine-learning/feed/
+    tier: official
+    topic: ai
+  - name: Hugging Face
+    url: https://huggingface.co/blog/feed.xml
+    tier: official
+    topic: ai
+  - name: Google Developers Blog
+    url: https://developers.googleblog.com/feeds/posts/default
+    tier: official
+    topic: ai
+  - name: GitHub Blog (AI)
+    url: https://github.blog/ai-and-ml/feed/
+    tier: official
+    topic: ai
+
+  # ---------- SNS・広告｜公式（一次情報） ----------
+  # Meta Newsroom は Meta社のAI発表とSNS施策の両方が流れる（topicはAIが記事単位で判定）
+  - name: Meta Newsroom
+    url: https://about.fb.com/news/feed/
+    tier: official
+    topic: sns
+  - name: YouTube公式ブログ
+    url: https://blog.youtube/rss/
+    tier: official
+    topic: sns
+  - name: Google 広告・コマース公式
+    url: https://blog.google/products/ads-commerce/rss/
+    tier: official
+    topic: sns
+
+  # ---------- AI｜重要人物の発信 ----------
+  - name: Import AI（Jack Clark／Anthropic共同創業者）
+    url: https://importai.substack.com/feed
+    tier: voice
+    topic: ai
+  - name: Simon Willison
+    url: https://simonwillison.net/atom/everything/
+    tier: voice
+    topic: ai
+  - name: Sam Altman（OpenAI CEO）
+    url: https://blog.samaltman.com/posts.atom
+    tier: voice
+    topic: ai
+  - name: Andrej Karpathy
+    url: https://karpathy.bearblog.dev/feed/
+    tier: voice
+    topic: ai
+  - name: Ethan Mollick（One Useful Thing）
+    url: https://www.oneusefulthing.org/feed
+    tier: voice
+    topic: ai
+  - name: Lilian Weng
+    url: https://lilianweng.github.io/index.xml
+    tier: voice
+    topic: ai
+  - name: Nathan Lambert（Interconnects）
+    url: https://www.interconnects.ai/feed
+    tier: voice
+    topic: ai
+  - name: Latent Space
+    url: https://www.latent.space/feed
+    tier: voice
+    topic: ai
+  - name: Ben Thompson（Stratechery）
+    url: https://stratechery.com/feed/
+    tier: voice
+    topic: ai
+  - name: 深津貴之
+    url: https://note.com/fladdict/rss
+    tier: voice
+    topic: ai
+  - name: 梶谷健人
+    url: https://note.com/kajiken0630/rss
+    tier: voice
+    topic: ai
+
+  # ---------- SNSマーケ｜重要人物の発信 ----------
+  - name: Lia Haberman（ICYMI）
+    url: https://liahaberman.substack.com/feed
+    tier: voice
+    topic: sns
+
+  # ---------- AI｜メディア ----------
+  - name: ITmedia AI+
+    url: https://rss.itmedia.co.jp/rss/2.0/aiplus.xml
+    tier: media
+    topic: ai
+  - name: ASCII.jp
+    url: https://ascii.jp/rss.xml
+    tier: media
+    topic: ai
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    tier: media
+    topic: ai
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    tier: media
+    topic: ai
+  - name: MIT Technology Review AI
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    tier: media
+    topic: ai
+  - name: Ars Technica AI
+    url: https://arstechnica.com/ai/feed/
+    tier: media
+    topic: ai
+
+  # ---------- SNSマーケ｜メディア ----------
+  # Social Media Today は TikTok/Instagram/X の公式発表を当日〜翌日に記事化する。
+  # これら3社は公式RSSを提供していないため、実質的な一次情報の受け皿になる。
+  - name: Social Media Today
+    url: https://www.socialmediatoday.com/feeds/news/
+    tier: media
+    topic: sns
+  - name: Social Media Examiner
+    url: https://www.socialmediaexaminer.com/feed/
+    tier: media
+    topic: sns
+  - name: Buffer
+    url: https://buffer.com/resources/rss/
+    tier: media
+    topic: sns
+  - name: Hootsuite
+    url: https://blog.hootsuite.com/feed/
+    tier: media
+    topic: sns
+  - name: Search Engine Journal
+    url: https://www.searchenginejournal.com/feed/
+    tier: media
+    topic: sns
+  - name: Adweek（ソーシャル）
+    url: https://www.adweek.com/category/social-marketing/feed/
+    tier: media
+    topic: sns
+  - name: ソーシャルメディアラボ（ガイアックス）
+    url: https://gaiax-socialmedialab.jp/feed/
+    tier: media
+    topic: sns
+  - name: MarkeZine
+    url: https://markezine.jp/rss/new/20/index.xml
+    tier: media
+    topic: sns
+  - name: 宣伝会議 AdverTimes
+    url: https://www.advertimes.com/feed/
+    tier: media
+    topic: sns
+  - name: ITmedia マーケティング
+    url: https://rss.itmedia.co.jp/rss/2.0/marketing.xml
+    tier: media
+    topic: sns
+  # Web担当者フォーラムはRSSが返るが2026-07-21以降の更新が確認できなかった。
+  # しばらく様子を見て、記事が流れてこないようなら削除してよい。
+  - name: Web担当者フォーラム
+    url: https://webtan.impress.co.jp/rss.xml
+    tier: media
+    topic: sns
+
+
+# ---- Google News キーワード検索 ----
+# proxy_for を書くと「公式RSSが無い企業の発表を報道経由で拾う」枠になり、
+# サイトの「公式」タブに〈報道経由〉バッジ付きで表示される。
+google_news_queries:
+  - query: Anthropic OR Claude AI
+    topic: ai
+    proxy_for: Anthropic
+  - query: TikTok 新機能 OR TikTok アップデート
+    topic: sns
+    proxy_for: TikTok
+  - query: Instagram 新機能 OR Instagram アップデート
+    topic: sns
+    proxy_for: Instagram
+  - query: X（旧Twitter）仕様変更 OR Twitter 新機能
+    topic: sns
+    proxy_for: X (Twitter)
+  - query: LinkedIn 新機能 OR LinkedIn アップデート
+    topic: sns
+    proxy_for: LinkedIn
+  # 以下は一般キーワード（tier=media 扱い）
+  - query: 生成AI 業務活用 OR 生成AI 導入事例
+    topic: ai
+  - query: AIエージェント 業務自動化
+    topic: ai
+  - query: SNSマーケティング 最新動向
+    topic: sns
+  - query: ショート動画 マーケティング 戦略
+    topic: sns
+
+
+# ---- YouTubeチャンネル監視 ----
+# channel_id は 2026-09-16 に実際にフィードを取得し、
+# チャンネル名が一致することまで確認済み。
+#
+# ※ handle（@名）でも指定できるが、channel_id 直書きを推奨する。
+#   ハンドルからの解決は canonical / externalId を見ており、
+#   ページ内に多数現れる "channelId" は別チャンネルを指すため使っていない
+#   （@Meta が Facebook チャンネルに化ける例を確認済み）。
+youtube_channels:
+  - name: Anthropic                        # @anthropic-ai
+    channel_id: UCrDwWp7EBBv4NwvScIpBDOA
+    tier: official
+    topic: ai
+  - name: OpenAI                           # @OpenAI
+    channel_id: UCXZCJLdBC09xxGZ6gcdrc6A
+    tier: official
+    topic: ai
+  - name: Google DeepMind                  # @GoogleDeepMind
+    channel_id: UCP7jMXSY2xbc3KCAE0MHQ-A
+    tier: official
+    topic: ai
+  # YouTube公式のクリエイター向け告知チャンネル（仕様変更はまずここで告知される）
+  - name: Creator Insider（YouTube公式）    # @CreatorInsider
+    channel_id: UCGg-UqjRgzhYDPJMr-9HXCg
+    tier: official
+    topic: sns
+  - name: Meta                             # @Meta
+    channel_id: UC04FyDIvYXNecpbG8gyOw4A
+    tier: official
+    topic: sns
+
+
+# ---- 手動チェック用リンク集（サイトの「公式リンク」タブに表示） ----
+# RSSが提供されておらず自動収集できないもの。人が定期的に見る前提。
+manual_links:
+  - name: Anthropic News
+    url: https://www.anthropic.com/news
+    note: RSS提供なし。Claudeの新モデル・機能はここが一次情報
+  - name: TikTok Newsroom
+    url: https://newsroom.tiktok.com/
+    note: RSS提供なし。日本向け施策は「ja-jp」に切替
+  - name: Instagram Blog
+    url: https://about.instagram.com/blog
+    note: RSS提供なし。Adam Mosseri（責任者）の告知もここ経由
+  - name: X Blog
+    url: https://blog.x.com/
+    note: RSS提供なし（外部アクセスも制限あり）
+  - name: LinkedIn Official Blog
+    url: https://www.linkedin.com/blog/
+    note: RSS提供なし
+  - name: Meta for Business ニュース
+    url: https://www.facebook.com/business/news
+    note: 広告プロダクトの変更告知
+
+
+# ---- 動作設定 ----
+settings:
+  max_items_per_feed: 15        # 1フィードあたり1回で取り込む最大件数
+  max_new_items_per_run: 90     # 1回の実行で処理する新規記事の上限（AI無料枠保護）
+  request_timeout_sec: 15
+  lookback_days: 4              # 何日前までの記事を新規として扱うか
+  max_summary_chars: 160        # 要約欄に出す文字数の上限

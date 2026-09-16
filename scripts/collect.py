@@ -1,0 +1,764 @@
+#!/usr/bin/env python3
+"""AI・SNSマーケティング ニュース収集スクリプト
+
+RSS / Google News / YouTubeチャンネルRSS から記事を収集し、
+GitHub Models で要約・話題分類して docs/data/ に出力する。
+GitHub Actions から毎朝実行される想定（ローカル実行も可）。
+
+設計方針:
+  tier（公式／人物／メディア）は sources.yml での宣言をそのまま使う。
+  「公式かどうか」はソースの属性であり、AIに推測させると誤るため。
+  AIには topic（ai／sns／other）の判定と要約だけを任せる。
+
+robot-news の collect.py をベースに、ソース構造と分類を差し替えたもの。
+Google News URL復号・OGP取得・既存データ修復の仕組みは流用。
+"""
+import base64
+import hashlib
+import html
+import json
+import os
+import re
+import sys
+import time
+import urllib.parse
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+import feedparser
+import requests
+import yaml
+from bs4 import BeautifulSoup
+
+ROOT = Path(__file__).resolve().parent.parent
+DOCS = ROOT / "docs"
+DATA = DOCS / "data"
+ARCHIVE = DATA / "archive"
+JST = timezone(timedelta(hours=9))
+UA = {"User-Agent": "Mozilla/5.0 (compatible; ai-news-collector/1.0)"}
+
+RECENT_LIMIT = 600  # articles.json に載せる最新件数（全件はarchiveに保持）
+VALID_TIERS = ("official", "voice", "media")
+VALID_TOPICS = ("ai", "sns", "other")
+
+
+def log(*args):
+    print("[collect]", *args, file=sys.stderr)
+
+
+def load_json(path, default):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return default
+
+
+def save_json(path, obj):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=1)
+
+
+def normalize_url(url):
+    """トラッキングパラメータ除去などでURLを正規化（重複排除キー用）"""
+    try:
+        p = urllib.parse.urlsplit(url.strip())
+        q = [
+            (k, v)
+            for k, v in urllib.parse.parse_qsl(p.query)
+            if not k.lower().startswith(("utm_", "fbclid", "gclid", "yclid", "cmpid"))
+        ]
+        return urllib.parse.urlunsplit(
+            (p.scheme.lower(), p.netloc.lower(), p.path.rstrip("/"),
+             urllib.parse.urlencode(q), "")
+        )
+    except ValueError:
+        return url
+
+
+def item_id(url):
+    return hashlib.sha1(normalize_url(url).encode("utf-8")).hexdigest()[:12]
+
+
+def title_key(title):
+    """タイトルの実質重複を検出するための正規化キー"""
+    t = re.sub(r"[\s　]+", "", str(title).lower())
+    t = re.sub(r"[^0-9a-zA-Zぁ-んァ-ヶ一-龠ー]", "", t)
+    return t[:60]
+
+
+def entry_datetime(entry):
+    for key in ("published_parsed", "updated_parsed"):
+        t = entry.get(key)
+        if t:
+            return datetime(*t[:6], tzinfo=timezone.utc)
+    return None
+
+
+def strip_tags(text, limit=300):
+    if not text:
+        return ""
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = html.unescape(re.sub(r"\s+", " ", text)).strip()
+    return text[:limit]
+
+
+def is_gnews(url):
+    return "news.google.com" in urllib.parse.urlsplit(url).netloc
+
+
+# ---------------- ソース収集 ----------------
+
+def fetch_feed(url, timeout):
+    try:
+        r = requests.get(url, headers=UA, timeout=timeout)
+        r.raise_for_status()
+        return feedparser.parse(r.content)
+    except Exception as e:  # noqa: BLE001
+        log(f"feed取得失敗 {url}: {e}")
+        return None
+
+
+def resolve_youtube_channel(handle, cache, timeout):
+    """@handle → channel_id（UC...）を解決。結果はキャッシュ。"""
+    if handle in cache:
+        return cache[handle]
+    try:
+        r = requests.get(f"https://www.youtube.com/@{handle}", headers=UA, timeout=timeout)
+        # 重要: "channelId" はページ内の関連チャンネル分も多数マッチするため使わない。
+        # 最初の一致が別チャンネルを指すことが実際にある
+        # （@Meta → Facebookチャンネル、@CreatorInsider → 別ID になる例を確認済み）。
+        # canonical と externalId だけがそのページ自身のチャンネルを指す。
+        m = re.search(
+            r'<link rel="canonical" href="https://www\.youtube\.com/channel/(UC[\w-]{22})"', r.text
+        ) or re.search(r'"externalId":"(UC[\w-]{22})"', r.text)
+        if m:
+            cache[handle] = m.group(1)
+            return m.group(1)
+        log(f"YouTubeハンドル解決失敗 @{handle}: channelIdが見つからない")
+    except Exception as e:  # noqa: BLE001
+        log(f"YouTubeハンドル解決失敗 @{handle}: {e}")
+    return None
+
+
+def collect_candidates(cfg):
+    """全ソースから候補記事を集める（要約前の生データ）"""
+    st = cfg.get("settings", {}) or {}
+    timeout = st.get("request_timeout_sec", 15)
+    per_feed = st.get("max_items_per_feed", 15)
+    candidates = []
+
+    def add_entries(feed, source, kind, tier, topic, proxy_for=None):
+        if not feed:
+            return 0
+        n = 0
+        for e in feed.entries[:per_feed]:
+            link = e.get("link")
+            if not link:
+                continue
+            item = {
+                "url": link,
+                "title": strip_tags(e.get("title", ""), 200),
+                "source": source,
+                "type": kind,
+                "tier": tier,
+                "topic_hint": topic,
+                "proxy_for": proxy_for,
+                "published": entry_datetime(e),
+                "description": strip_tags(
+                    e.get("summary", "") or
+                    (e.get("content", [{}])[0].get("value", "") if e.get("content") else "")
+                ),
+            }
+            if kind == "video":
+                vid = e.get("yt_videoid")
+                if vid:
+                    item["thumbnail"] = f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg"
+            candidates.append(item)
+            n += 1
+        return n
+
+    # 1) 宣言済みRSSソース
+    for s in cfg.get("sources") or []:
+        tier = s.get("tier", "media")
+        if tier not in VALID_TIERS:
+            log(f"不正なtier '{tier}'（{s.get('name')}）→ media として扱う")
+            tier = "media"
+        n = add_entries(fetch_feed(s["url"], timeout), s["name"], "article",
+                        tier, s.get("topic", "other"))
+        log(f"  {s['name']}[{tier}]: {n}件")
+
+    # 2) Google News キーワード検索
+    for q in cfg.get("google_news_queries") or []:
+        # 文字列だけで書かれていた場合も受け付ける
+        if isinstance(q, str):
+            q = {"query": q, "topic": "other"}
+        proxy_for = q.get("proxy_for")
+        # proxy_for付き＝公式RSSが無い企業の発表を報道経由で拾う枠
+        tier = "official" if proxy_for else "media"
+        url = ("https://news.google.com/rss/search?q=" +
+               urllib.parse.quote(str(q["query"])) + "&hl=ja&gl=JP&ceid=JP:ja")
+        feed = fetch_feed(url, timeout)
+        n = 0
+        if feed:
+            for e in feed.entries[:per_feed]:
+                # Google Newsのタイトルは「記事名 - 媒体名」形式
+                title = strip_tags(e.get("title", ""), 200)
+                source = "Google News"
+                if " - " in title:
+                    title, source = title.rsplit(" - ", 1)
+                candidates.append({
+                    "url": e.get("link", ""),
+                    "title": title,
+                    "source": source,
+                    "type": "article",
+                    "tier": tier,
+                    "topic_hint": q.get("topic", "other"),
+                    "proxy_for": proxy_for,
+                    "published": entry_datetime(e),
+                    "description": strip_tags(e.get("summary", "")),
+                })
+                n += 1
+        log(f"  GNews「{q['query'][:28]}」[{tier}]: {n}件")
+
+    # 3) YouTubeチャンネル
+    ch_cache = load_json(DATA / "channel_cache.json", {})
+    for ch in cfg.get("youtube_channels") or []:
+        cid = ch.get("channel_id") or resolve_youtube_channel(
+            ch.get("handle", ""), ch_cache, timeout)
+        if not cid:
+            log(f"チャンネルID不明のためスキップ: {ch.get('name')}")
+            continue
+        feed = fetch_feed(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}", timeout)
+        n = add_entries(feed, ch.get("name", "YouTube"), "video",
+                        ch.get("tier", "official"), ch.get("topic", "other"))
+        log(f"  YT {ch.get('name')}: {n}件")
+    save_json(DATA / "channel_cache.json", ch_cache)
+
+    return candidates
+
+
+# ---------------- Google News URL復号 ----------------
+
+def _gnews_id(url):
+    m = re.search(r"news\.google\.com/(?:rss/)?(?:articles|read)/([^?/&]+)", url)
+    return m.group(1) if m else None
+
+
+def decode_gnews_url(url, timeout):
+    """Google NewsリダイレクトURL → 実記事URL（失敗時はNone）"""
+    gid = _gnews_id(url)
+    if not gid:
+        return None
+    # 旧形式: base64内に実URLが直接埋まっている
+    try:
+        raw = base64.urlsafe_b64decode(gid + "=" * (-len(gid) % 4))
+        m = re.search(rb'https?://[^\x00-\x20"\\]+', raw)
+        if m and b"news.google.com" not in m.group(0):
+            return m.group(0).decode("utf-8", "ignore")
+    except Exception:  # noqa: BLE001
+        pass
+    # 新形式: 内部API（batchexecute）で復号
+    try:
+        page = requests.get(f"https://news.google.com/rss/articles/{gid}",
+                            headers=UA, timeout=timeout)
+        soup = BeautifulSoup(page.text, "html.parser")
+        div = soup.select_one("c-wiz > div[data-n-a-sg][data-n-a-ts]")
+        if not div:
+            return None
+        sg, ts = div["data-n-a-sg"], div["data-n-a-ts"]
+        inner = (
+            '["garturlreq",[["X","X",["X","X"],null,null,1,1,"JP:ja",null,1,'
+            'null,null,null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,null,0],'
+            f'"{gid}",{ts},"{sg}"]'
+        )
+        body = "f.req=" + urllib.parse.quote(json.dumps([[["Fbv4je", inner, None, "generic"]]]))
+        r = requests.post(
+            "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+            headers={**UA, "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"},
+            data=body, timeout=timeout)
+        r.raise_for_status()
+        chunk = json.loads(r.text.split("\n\n")[1])
+        real = json.loads(chunk[0][2])[1]
+        if isinstance(real, str) and real.startswith("http"):
+            return real
+    except Exception as e:  # noqa: BLE001
+        log(f"GoogleNews復号失敗 {gid[:24]}…: {e}")
+    return None
+
+
+# ---------------- サムネイル・本文情報（OGP） ----------------
+
+def fetch_ogp(url, timeout):
+    """og:image / og:description を取得"""
+    try:
+        r = requests.get(url, headers=UA, timeout=timeout, allow_redirects=True)
+        final = r.url
+        if is_gnews(final):
+            return None, None, url  # 解決できず
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        def og(prop):
+            tag = soup.find("meta", attrs={"property": prop}) or soup.find(
+                "meta", attrs={"name": prop})
+            return tag.get("content", "").strip() if tag else None
+
+        return og("og:image"), og("og:description"), final
+    except Exception as e:  # noqa: BLE001
+        log(f"OGP取得失敗 {url[:80]}: {e}")
+        return None, None, url
+
+
+# ---------------- 要約テキストの整形 ----------------
+
+# 配信元が説明文の先頭や末尾に付ける定型。要約として読ませるには邪魔になる。
+_NOISE_PATTERNS = [
+    re.compile(r"^お知らせ｜\s*"),
+    re.compile(r"^.{0,40}?のプレスリリース（\d{4}年\d{1,2}月\d{1,2}日\s*\d{1,2}時\d{1,2}分）\s*"),
+    re.compile(r"\s{3,}[^\s]{1,20}$"),            # 末尾の「　　　ITmedia」等
+    re.compile(r"（画像）（\d+/\d+枚目）\s*"),
+    re.compile(r"^\s*\[\d+\]\s*"),
+]
+
+
+def _is_mojibake(text):
+    """文字化け（誤った文字コードで読まれた日本語）の検出。
+    ラテン1の記号類が不自然に多い場合は化けているとみなす。"""
+    if not text:
+        return False
+    odd = sum(1 for c in text if "\u00a0" <= c <= "\u00ff" or c in "ÍÌÆÐ¨©Û")
+    return odd / max(len(text), 1) > 0.25
+
+
+def clean_description(desc, max_chars):
+    """要約欄に出すテキスト。配信元の説明文をそのまま出すと読めないため整える。
+    整形できないときは空文字を返し、カードはタイトルだけで読ませる。"""
+    t = (desc or "").strip()
+    for pat in _NOISE_PATTERNS:
+        t = pat.sub("", t).strip()
+    if _is_mojibake(t):
+        return ""
+    if len(t) < 15:
+        return ""
+    t = t[:max_chars]
+    # 文の途中で切れた場合は最後の句点まで戻す（読点は戻しすぎるので対象外）
+    cut = t.rfind("。")
+    if cut >= max_chars * 0.5:
+        t = t[:cut + 1]
+    return t
+
+
+# ---------------- 話題の分類 ----------------
+
+# 話題分類用のキーワード。
+# 短い英単語（ai, x など）は部分一致だと available / said / email 等を誤爆するため、
+# 英字のキーワードだけ単語境界付きの正規表現で判定する。
+_JA_SNS = (
+    "ソーシャル", "インフルエンサー", "クリエイター", "リール", "ショート動画",
+    "マーケティング", "エンゲージメント", "フォロワー", "投稿", "広告運用",
+    "インスタ", "ティックトック", "ツイッター",
+)
+_EN_SNS = (
+    "instagram", "tiktok", "youtube", "facebook", "linkedin", "twitter",
+    "threads", "sns", "social media", "creator", "influencer", "reels",
+    "shorts", "engagement", "follower", "ad campaign",
+)
+_JA_AI = (
+    "生成ai", "機械学習", "ディープラーニング", "人工知能", "大規模言語モデル",
+    "エージェント", "チャットボット",
+)
+_EN_AI = (
+    "ai", "llm", "gpt", "claude", "gemini", "openai", "anthropic", "deepmind",
+    "machine learning", "neural", "transformer", "inference", "chatbot",
+)
+
+
+def _has_en(text, words):
+    return any(re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?![a-z0-9])", text)
+               for w in words)
+
+
+def classify(item):
+    """記事の話題を ai / sns / other に分類する。
+
+    公式・重要人物は sources.yml の topic 宣言をそのまま信じてよい
+    （そのソースが何を扱うかは既知で、かつ無条件に採用するため）。
+    メディアは ASCII.jp のような総合ITフィードも含むので宣言を鵜呑みにせず、
+    本文に根拠がある場合だけ ai / sns とする。根拠がなければ other＝不採用。
+    """
+    text = (item["title"] + " " + item["description"]).lower()
+    hit_sns = any(k in text for k in _JA_SNS) or _has_en(text, _EN_SNS)
+    hit_ai = any(k in text for k in _JA_AI) or _has_en(text, _EN_AI)
+
+    if item.get("tier") in ("official", "voice"):
+        hint = item.get("topic_hint")
+        # 宣言を基本にしつつ、本文が明確に反対を示すときはそちらを採る
+        if hint == "ai" and hit_sns and not hit_ai:
+            return "sns"
+        if hint == "sns" and hit_ai and not hit_sns:
+            return "ai"
+        return hint if hint in ("ai", "sns") else ("sns" if hit_sns else "ai" if hit_ai else "other")
+
+    # メディア: SNS側を優先（SNSプラットフォームのAI機能追加などはsns扱い）
+    if hit_sns:
+        return "sns"
+    if hit_ai:
+        return "ai"
+    return "other"
+
+
+def classify_and_trim(new_items, cfg):
+    """記事を話題分類し、要約欄に出すテキストを整える。
+
+    要約はAIを使わず、配信元の説明文を整形して使う。
+    公式・重要人物の記事は話題判定にかかわらず必ず残し、
+    メディア記事だけ、話題に該当しないものを落とす。
+    """
+    st = cfg.get("settings", {}) or {}
+    max_chars = st.get("max_summary_chars", 160)
+
+    kept, dropped = [], 0
+    for it in new_items:
+        it["topic"] = classify(it)
+        it["summary"] = clean_description(it["description"], max_chars)
+
+        # 公式・重要人物の発信は取りこぼさないことが本システムの主目的なので、
+        # 話題判定にかかわらず残す
+        if it["tier"] in ("official", "voice"):
+            kept.append(it)
+            continue
+        # メディアは ai / sns に該当するものだけ採用
+        if it["topic"] == "other":
+            dropped += 1
+            continue
+        kept.append(it)
+
+    no_summary = sum(1 for it in kept if not it["summary"])
+    if no_summary:
+        log(f"要約テキストを作れなかった記事 {no_summary}件（タイトルのみ表示）")
+    return kept, dropped
+
+
+# ---------------- 既存データの修復 ----------------
+
+REPAIR_DECODE_LIMIT = 30   # 1回の実行で復号を試す既存記事の上限
+REPAIR_THUMB_LIMIT = 30    # 1回の実行でサムネ取得を試す既存記事の上限
+REPAIR_MAX_TRIES = 3       # 失敗の再試行上限（超えたら諦める）
+
+
+def _better_item(a, b):
+    """同一タイトルの2件から残す方を選ぶ（公式＞実URL＞サムネ有り）"""
+    def score(x):
+        return (x.get("tier") == "official", x.get("tier") == "voice",
+                not is_gnews(x.get("url", "")), bool(x.get("thumbnail")))
+    return a if score(a) >= score(b) else b
+
+
+def repair_items(items, seen, timeout):
+    """過去記事の修復：タイトル重複掃除・Google News URL復号・サムネ取得。
+    処理量は上限付きで、数日かけて自然に全件修復される。"""
+    changed = False
+
+    # 1) タイトル重複の掃除
+    order, by_key, dropped = [], {}, set()
+    for it in items:
+        k = title_key(it.get("title", ""))
+        if not k:
+            order.append(it)
+            continue
+        if k in by_key:
+            keep = _better_item(by_key[k], it)
+            drop = it if keep is by_key[k] else by_key[k]
+            dropped.add(drop["id"])
+            if keep is not by_key[k]:
+                order[order.index(by_key[k])] = keep
+                by_key[k] = keep
+            changed = True
+        else:
+            by_key[k] = it
+            order.append(it)
+    items = order
+    if dropped:
+        log(f"修復: タイトル重複 {len(dropped)}件を削除")
+
+    # 2) Google News URLの復号（サムネ取得の前提）
+    n = 0
+    for it in items:
+        if n >= REPAIR_DECODE_LIMIT:
+            break
+        if is_gnews(it.get("url", "")) and it.get("_fix_tries", 0) < REPAIR_MAX_TRIES:
+            real = decode_gnews_url(it["url"], timeout)
+            time.sleep(1)
+            n += 1
+            changed = True
+            if real:
+                it["url"] = real
+                seen.add(item_id(real))  # 実URL側でも再収集を防ぐ
+                it.pop("_fix_tries", None)
+            else:
+                it["_fix_tries"] = it.get("_fix_tries", 0) + 1
+    if n:
+        log(f"修復: URL復号を{n}件試行")
+
+    # 3) サムネイル取得
+    m = 0
+    for it in items:
+        if m >= REPAIR_THUMB_LIMIT:
+            break
+        if (it.get("type") == "article" and not it.get("thumbnail")
+                and not is_gnews(it.get("url", ""))
+                and it.get("_thumb_tries", 0) < REPAIR_MAX_TRIES):
+            img, _desc, _final = fetch_ogp(it["url"], timeout)
+            m += 1
+            changed = True
+            if img:
+                it["thumbnail"] = img
+                it.pop("_thumb_tries", None)
+            else:
+                it["_thumb_tries"] = it.get("_thumb_tries", 0) + 1
+    if m:
+        log(f"修復: サムネ取得を{m}件試行")
+
+    return items, dropped, changed
+
+
+# ---------------- 取り込み枠の配分 ----------------
+
+# 1回の実行枠をtierごとにどう分けるか。合計が1を超えるのは、
+# 他のtierが枠を使い切らなかったぶんを融通するため（下で余りを再配分する）。
+TIER_QUOTA = {"official": 0.50, "voice": 0.30, "media": 0.40}
+
+
+def allocate_by_tier(items, max_new, now):
+    """公式・重要人物・メディアに枠を配分して取り込み対象を決める。
+    各tierの取り分を先に確保し、余った枠を新しい順で埋める。"""
+    if len(items) <= max_new:
+        return items
+
+    recent_first = sorted(items, key=lambda x: x["published"] or now, reverse=True)
+    picked, picked_ids = [], set()
+
+    for tier, ratio in TIER_QUOTA.items():
+        quota = max(1, int(max_new * ratio))
+        for it in recent_first:
+            if len(picked) >= max_new:
+                break
+            if it["tier"] == tier and it["id"] not in picked_ids and quota > 0:
+                picked.append(it)
+                picked_ids.add(it["id"])
+                quota -= 1
+
+    # 余った枠を、tierを問わず新しい順で埋める
+    for it in recent_first:
+        if len(picked) >= max_new:
+            break
+        if it["id"] not in picked_ids:
+            picked.append(it)
+            picked_ids.add(it["id"])
+
+    counts = {}
+    for it in picked:
+        counts[it["tier"]] = counts.get(it["tier"], 0) + 1
+    log(f"枠配分: {counts}")
+    return picked
+
+
+# ---------------- メイン ----------------
+
+def main():
+    cfg = yaml.safe_load((ROOT / "sources.yml").read_text(encoding="utf-8")) or {}
+    st = cfg.get("settings", {}) or {}
+    timeout = st.get("request_timeout_sec", 15)
+    lookback = timedelta(days=st.get("lookback_days", 4))
+    max_new = st.get("max_new_items_per_run", 90)
+    now = datetime.now(timezone.utc)
+
+    seen = set(load_json(DATA / "seen_ids.json", []))
+    processed = set()  # 今回の実行で処理した全ID（不採用も含め、再処理を防ぐ）
+    candidates = collect_candidates(cfg)
+    log(f"候補 {len(candidates)}件")
+
+    # 1) URLベースの重複・期間外を除外
+    fresh, batch_ids = [], set()
+    for it in candidates:
+        it["id"] = item_id(it["url"])
+        if it["id"] in seen or it["id"] in batch_ids:
+            continue
+        if it["published"] and now - it["published"] > lookback:
+            continue
+        batch_ids.add(it["id"])
+        fresh.append(it)
+
+    # tierごとに枠を確保してから上限まで詰める。
+    # 単純に「公式を先頭に並べて上から切る」だと、公式の本数が多い日
+    # （特に初回実行）に重要人物の発信が1件も入らなくなるため。
+    fresh = allocate_by_tier(fresh, max_new, now)
+    fresh.sort(key=lambda x: x["published"] or now, reverse=True)
+    processed.update(it["id"] for it in fresh)
+    log(f"新規 {len(fresh)}件")
+
+    # 2) Google NewsリダイレクトURLを実URLへ復号
+    for it in fresh:
+        if is_gnews(it["url"]):
+            real = decode_gnews_url(it["url"], timeout)
+            if real:
+                it["url"] = real
+                it["id"] = item_id(real)
+                processed.add(it["id"])
+            time.sleep(1)  # Google側への配慮
+
+    # 3) 復号後URLでの再重複チェック
+    deduped, ids2 = [], set()
+    for it in fresh:
+        if it["id"] in seen or it["id"] in ids2:
+            continue
+        ids2.add(it["id"])
+        deduped.append(it)
+    fresh = deduped
+
+    # 4) タイトルの実質重複を排除（配信先違いの同一記事）
+    existing_titles = {
+        title_key(a.get("title", ""))
+        for a in load_json(DATA / "articles.json", {}).get("items", [])
+    }
+
+    no_key, by_title = [], {}
+    for it in fresh:
+        k = title_key(it["title"])
+        if not k:
+            no_key.append(it)
+        elif k in existing_titles:
+            continue  # 過去に掲載済みの同一タイトル
+        elif k in by_title:
+            by_title[k] = _better_item(by_title[k], it)
+        else:
+            by_title[k] = it
+    fresh = no_key + list(by_title.values())
+    fresh.sort(key=lambda x: x["published"] or now, reverse=True)
+    log(f"重複排除後 {len(fresh)}件")
+
+    # 5) OGP（サムネ・説明文）取得 ※動画はサムネ取得済み
+    for it in fresh:
+        if it["type"] == "article":
+            img, desc, final_url = fetch_ogp(it["url"], timeout)
+            if img:
+                it["thumbnail"] = img
+            if desc and len(desc) > len(it["description"]):
+                it["description"] = desc[:300]
+            if final_url != it["url"] and not is_gnews(final_url):
+                it["url"] = final_url
+                it["id"] = item_id(final_url)
+                processed.add(it["id"])
+    # 最終URLでの再重複チェック
+    final, ids3 = [], set()
+    for it in fresh:
+        if it["id"] in seen or it["id"] in ids3:
+            continue
+        ids3.add(it["id"])
+        final.append(it)
+    fresh = final
+
+    # 6) 話題分類・要約テキストの整形
+    kept, dropped = classify_and_trim(fresh, cfg)
+    log(f"採用 {len(kept)}件（話題外で除外 {dropped}件）")
+
+    # 出力形式に整形
+    def pack(it):
+        return {
+            "id": it["id"],
+            "url": it["url"],
+            "title": it["title"],
+            "summary": it["summary"],
+            "source": it["source"],
+            "type": it["type"],
+            "tier": it["tier"],
+            "topic": it["topic"],
+            "proxy_for": it.get("proxy_for"),
+            "thumbnail": it.get("thumbnail"),
+            "published": (it["published"] or now).astimezone(JST).isoformat(timespec="minutes"),
+            "collected": now.astimezone(JST).isoformat(timespec="minutes"),
+        }
+
+    packed = [pack(it) for it in kept]
+
+    # 月別アーカイブへ追記（全量保持）
+    by_month = {}
+    for p in packed:
+        by_month.setdefault(p["published"][:7], []).append(p)
+    for month, items in by_month.items():
+        path = ARCHIVE / f"{month}.json"
+        arch = load_json(path, [])
+        arch_ids = {a["id"] for a in arch}
+        arch.extend([p for p in items if p["id"] not in arch_ids])
+        arch.sort(key=lambda x: x["published"], reverse=True)
+        save_json(path, arch)
+
+    # 最新N件（表示用）
+    recent = load_json(DATA / "articles.json", {"items": []}).get("items", [])
+    recent_ids = {a["id"] for a in packed}
+    recent = packed + [a for a in recent if a["id"] not in recent_ids]
+    recent.sort(key=lambda x: x["published"], reverse=True)
+    recent = recent[:RECENT_LIMIT]
+
+    # 過去記事の修復（重複掃除・URL復号・サムネ取得）
+    recent, dropped_ids, repaired = repair_items(recent, seen, timeout)
+
+    # 修復結果を月別アーカイブにも反映
+    if repaired:
+        rep = {it["id"]: it for it in recent}
+        for path in ARCHIVE.glob("*.json"):
+            arch = load_json(path, [])
+            new_arch = [rep.get(a["id"], a) for a in arch
+                        if a["id"] not in dropped_ids]
+            if new_arch != arch:
+                save_json(path, new_arch)
+
+    # 既知ID更新（不採用・重複分も含め再処理しない）
+    seen.update(processed)
+    save_json(DATA / "seen_ids.json", sorted(seen))
+
+    repo = os.environ.get("GITHUB_REPOSITORY", "OWNER/REPO")
+    months = sorted((p.stem for p in ARCHIVE.glob("*.json")), reverse=True)
+    meta = {
+        "last_updated": now.astimezone(JST).isoformat(timespec="minutes"),
+        "repo": repo,
+        "archive_months": months,
+        "manual_links": [
+            {"name": m.get("name", ""), "url": m.get("url", ""), "note": m.get("note", "")}
+            for m in (cfg.get("manual_links") or [])
+        ],
+    }
+    save_json(DATA / "articles.json", {"meta": meta, "items": recent})
+    write_rss(recent[:50], repo)
+    log("完了")
+
+
+def write_rss(items, repo):
+    owner, _, name = repo.partition("/")
+    site = f"https://{owner}.github.io/{name}/"
+    e = lambda s: html.escape(str(s or ""), quote=True)  # noqa: E731
+    parts = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0"><channel>',
+        "<title>AI・SNSマーケティング ニュース</title>",
+        f"<link>{e(site)}</link>",
+        "<description>AI業界とSNSマーケティングの公式発表・重要人物の発信を毎朝自動収集</description>",
+        "<language>ja</language>",
+    ]
+    for it in items:
+        parts.append(
+            "<item>"
+            f"<title>{e(it['title'])}</title>"
+            f"<link>{e(it['url'])}</link>"
+            f"<guid isPermaLink=\"false\">{e(it['id'])}</guid>"
+            f"<description>{e(it['summary'])}</description>"
+            f"<pubDate>{e(datetime.fromisoformat(it['published']).strftime('%a, %d %b %Y %H:%M:%S %z'))}</pubDate>"
+            "</item>"
+        )
+    parts.append("</channel></rss>")
+    (DOCS / "feed.xml").write_text("\n".join(parts), encoding="utf-8")
+
+
+if __name__ == "__main__":
+    main()
