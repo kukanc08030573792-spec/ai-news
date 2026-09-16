@@ -14,6 +14,20 @@
   "collected": "2026-09-17T08:39+09:00"
  },
  {
+  "id": "a4343f672586",
+  "url": "https://note.com/kajiken0630/n/n8590fc7be157",
+  "title": "AIの腹の中に広がる世界の話。",
+  "summary": "世の中のAIに対する関心は、どうにもつまらない方向に向かっている気がする。  「生産性向上！」「革新的使い方！」みたいな小手先の仕事術ばかりがもてはやされていて、多くの人がその奥にある途方もない面白さに気づいていない。",
+  "source": "梶谷健人",
+  "type": "article",
+  "tier": "voice",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://assets.st-note.com/production/uploads/images/314486732/rectangle_large_type_2_a69580fcb4163a443db4a20f48f448b6.png?fit=bounds&quality=85&width=1280",
+  "published": "2026-09-17T08:15+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "4232e033adf5",
   "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/",
   "title": "Anthropic、Claudeの「チャット」と「Cowork」を統合 資料作成の「Docs」「Slides」も",
@@ -26,6 +40,20 @@
   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/17/2000001565/10006799/2048",
   "published": "2026-09-17T08:05+09:00",
   "collected": "2026-09-17T08:39+09:00"
+ },
+ {
+  "id": "fec34fb9c95b",
+  "url": "https://www.socialmediatoday.com/news/report-highlights-the-value-of-creator-led-collabs-on-instagram/830619/",
+  "title": "Report highlights the value of creator-led collabs on Instagram",
+  "summary": "Creator-published brand collaborations outperform brand posts and brand-published collaborations, according to a new study from Emplifi.",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/Q9DRUfhT7TUu9uxJtBR1gpRa2ZBfChaPF4rhkXea0hU/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbXBsaWZpX2JyYW5kX2NvbGxhYnMyLnBuZw==.webp",
+  "published": "2026-09-17T08:04+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "49ed234c0e65",
@@ -96,7 +124,7 @@
   "thumbnail": null,
   "published": "2026-09-17T08:00+09:00",
   "collected": "2026-09-17T08:39+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "eef9bcf0297f",
@@ -237,7 +265,7 @@
   "thumbnail": null,
   "published": "2026-09-17T07:03+09:00",
   "collected": "2026-09-17T08:39+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "49304d8a5eff",
@@ -266,7 +294,7 @@
   "thumbnail": null,
   "published": "2026-09-17T07:02+09:00",
   "collected": "2026-09-17T08:39+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f5d640595de2",
@@ -281,7 +309,7 @@
   "thumbnail": null,
   "published": "2026-09-17T07:01+09:00",
   "collected": "2026-09-17T08:39+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "040b0bd79ff4",
@@ -296,7 +324,7 @@
   "thumbnail": null,
   "published": "2026-09-17T07:00+09:00",
   "collected": "2026-09-17T08:39+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "1794bd8727f0",
@@ -311,7 +339,21 @@
   "thumbnail": null,
   "published": "2026-09-17T07:00+09:00",
   "collected": "2026-09-17T08:39+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
+ },
+ {
+  "id": "6088e66a9e22",
+  "url": "https://www.itmedia.co.jp/business/articles/2609/17/news027.html",
+  "title": "「AIが人類を絶滅させる確率は10％超」 Anthropic安全責任者が認めた危機感",
+  "summary": "",
+  "source": "ITmedia",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://image.itmedia.co.jp/business/articles/2609/17/cover_news027.jpg",
+  "published": "2026-09-17T07:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "de7eaef39a80",
@@ -326,6 +368,20 @@
   "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/xl/ed8de61ce6796246.png?20200122",
   "published": "2026-09-17T06:52+09:00",
   "collected": "2026-09-17T08:39+09:00"
+ },
+ {
+  "id": "b3346ce3b688",
+  "url": "https://www.socialmediatoday.com/news/meta-adds-simplified-third-party-ai-support-to-whatsapp/830617/",
+  "title": "Meta adds simplified third-party AI support to WhatsApp",
+  "summary": "The update will help brands set up their preferred agent profiles and responses without requiring in-depth coding knowledge.",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/74UrpaM7uQP0fC2Xqg7m2oZPuEQV79H-epgoDnEm_dc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS93aGF0c2FwcF9sb2dvLmpwZw==.webp",
+  "published": "2026-09-17T06:47+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "dcf3f3c7b193",
@@ -368,7 +424,7 @@
   "thumbnail": null,
   "published": "2026-09-17T06:30+09:00",
   "collected": "2026-09-17T08:39+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "c063f4b95a20",
@@ -565,7 +621,7 @@
   "thumbnail": null,
   "published": "2026-09-17T03:09+09:00",
   "collected": "2026-09-17T08:39+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "e82447047905",
@@ -706,7 +762,7 @@
   "thumbnail": null,
   "published": "2026-09-17T01:00+09:00",
   "collected": "2026-09-17T08:39+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "5b258133c86f",
@@ -807,6 +863,48 @@
   "collected": "2026-09-17T08:39+09:00"
  },
  {
+  "id": "a553240ea84f",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+  "title": "The sexy AI-powered dating app scams are here",
+  "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268744_Inside_romance_AI_scam_apps_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-09-16T23:45+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "4b173bfe1385",
+  "url": "https://www.searchenginejournal.com/mit-anthropic-openai-sent-the-same-warning-get-your-evidence-house-in-order-now/589249/",
+  "title": "MIT, Anthropic & OpenAI Sent The Same Warning, Get Your Evidence House In Order Now via @sejournal, @gregjarboe",
+  "summary": "Three AI warnings landed in five days. Nicholas Carr described the pattern in 2008, and it changes how you plan next quarter. The post MIT, Anthropic & OpenAI S",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ai-warning-560.png",
+  "published": "2026-09-16T23:30+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "7da679bc9c36",
+  "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+  "title": "Threads’ new features let podcasters promote shows and reach listeners",
+  "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as M",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/Threads-podcast-feat.jpg?resize=1200,675",
+  "published": "2026-09-16T23:24+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "1cedf22522b8",
   "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/industry-government/government-operations-and-infrastructure/2026/09/15/introducing-microsoft-365-g7-intelligence-trust-for-the-mission-ahead/",
   "title": "Introducing Microsoft 365 G7: AI tools for government teams",
@@ -891,6 +989,62 @@
   "collected": "2026-09-17T08:39+09:00"
  },
  {
+  "id": "af1917c42c04",
+  "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+  "title": "Former Infosys chief’s AI startup nabs another $53M",
+  "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/08/vishal-sikka.jpg?resize=1200,800",
+  "published": "2026-09-16T22:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "b738357c85c2",
+  "url": "https://buffer.com/resources/facebook-ads-beginners-guide/",
+  "title": "How to Run Facebook Ads: 2026 Beginner's Guide",
+  "summary": "Facebook Ads can feel overwhelming at first, but they don't have to be. Here's what you need to know to get your campaigns up and running.",
+  "source": "Buffer",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2026/09/facebook-ads.png",
+  "published": "2026-09-16T22:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "805b49bb7015",
+  "url": "https://www.adweek.com/creativity/goodwipes-uses-ai-spoof-openai-astra-ad/",
+  "title": "Goodwipes Uses AI to Spoof OpenAI’s Astra Ad, With a Butt-Wiping Twist",
+  "summary": "\"Asstra\" was developed in four days by Frank Cartagena's OK Future.",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/09/tiktok-benefit-creators-plot-1.png?w=600&h=315&crop=1",
+  "published": "2026-09-16T21:57+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "82986f89daa5",
+  "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+  "title": "Building the materials foundation for AI",
+  "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial ",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Mike-Finelli-business-lab.png?resize=1200,600",
+  "published": "2026-09-16T21:47+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "8a29d2d387de",
   "url": "https://news.yahoo.co.jp/articles/4bba49b68e641552fdd3e2c6bc89d654ba7ec94b",
   "title": "米Anthropicが財務アドバイザー向けAI「Claude for Financial Advisors」を発表（ビジネス＋IT）",
@@ -903,6 +1057,20 @@
   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260916-00186985-biz_plus-000-1-view.jpg?exp=10800",
   "published": "2026-09-16T21:20+09:00",
   "collected": "2026-09-17T08:39+09:00"
+ },
+ {
+  "id": "c8837126c99b",
+  "url": "https://news.infoseek.co.jp/article/prtimes_000000239_000145072/",
+  "title": "10月14日開催／デモ実演・金融機関限定セミナー金融機関におけるAIエージェントの利活用とリスク管理 ❘ セミナーインフォ",
+  "summary": "10月14日開催／デモ実演・金融機関限定セミナー金融機関におけるAIエージェントの利活用とリスク管理 ❘ セミナーインフォ",
+  "source": "Infoseek",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+  "published": "2026-09-16T21:10+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "cbc158125a42",
@@ -933,6 +1101,48 @@
   "collected": "2026-09-17T08:39+09:00"
  },
  {
+  "id": "01c0a6104455",
+  "url": "https://www.searchenginejournal.com/beyond-content-parity-building-a-validated-content-workflow-for-ai-search/586184/",
+  "title": "Beyond Content Parity: Building A Validated Content Workflow For AI Search via @sejournal, @billhunt",
+  "summary": "Build a validated content workflow for AI search by identifying decision gaps, acquiring original knowledge, and proving claims before publishing. The post Beyo",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/08/content-workflow-278.png",
+  "published": "2026-09-16T21:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "3a2fbb6e3782",
+  "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+  "title": "A brief history of AI executives calling for regulation",
+  "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose co",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/AI_extinction.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-09-16T21:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "faf605910198",
+  "url": "https://blog.hootsuite.com/ai-marketing-examples/",
+  "title": "6 real AI marketing examples (+ what to steal from them)",
+  "summary": "See how six real brands are using AI in marketing, plus what you can actually borrow for your own campaigns. No AI hype required. The post 6 real AI marketing e",
+  "source": "Hootsuite",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/09/ai-marketing-examples.png",
+  "published": "2026-09-16T20:17+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "eb9a9ca239b7",
   "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
   "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
@@ -945,6 +1155,48 @@
   "thumbnail": "https://substackcdn.com/image/youtube/w_728,c_limit/cJ0EOzey--o",
   "published": "2026-09-16T20:09+09:00",
   "collected": "2026-09-17T08:39+09:00"
+ },
+ {
+  "id": "b4dfc3eb9bd8",
+  "url": "https://www.adweek.com/creativity/ai-r-studio-wins-higgsfields-ai-adathon-competition/",
+  "title": "AI-R Studio Wins Higgsfield’s AI Adathon Competition",
+  "summary": "The winner was presented on stage at Brandweek 2026",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/09/Copy-of-Copy-of-TEMPLATE-Link-Thumbnail-9.jpg?w=600&h=315&crop=1",
+  "published": "2026-09-16T20:05+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "27c664dff238",
+  "url": "https://aismiley.co.jp/webinar/aihakunsummer20262a-3/",
+  "title": "成果が出るAIエージェントの導入｜業務自動化事例紹介",
+  "summary": "【AI博覧会 Summer 2026】 成果が出るAIエージェントの導入｜業務自動化事例紹介 講演内容 生成A",
+  "source": "AIsmiley",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://aismiley.co.jp/wp-content/uploads/2021/10/bannar.png",
+  "published": "2026-09-16T19:38+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "9865f95e8748",
+  "url": "https://www.searchenginejournal.com/ex-googler-jeff-dean-explains-what-users-should-understand-about-gemini/589593/",
+  "title": "Ex-Googler Jeff Dean Explains Design Choices Behind Gemini via @sejournal, @martinibuster",
+  "summary": "Ex-Googler Jeff Dean shares insights from Gemini's development and the approach he uses to discover promising new ideas. The post Ex-Googler Jeff Dean Explains ",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ex-googler-jeff-dean-888.jpg",
+  "published": "2026-09-16T19:31+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "b748c93f86d9",
@@ -961,6 +1213,34 @@
   "collected": "2026-09-17T08:39+09:00"
  },
  {
+  "id": "81020786d9ce",
+  "url": "https://www.adweek.com/brand-marketing/how-crocs-became-one-of-tiktok-shops-top-sellers/",
+  "title": "How Crocs Became One of TikTok Shop’s Top Sellers",
+  "summary": "Crocs chief brand officer Terence Reilly demonstrated the brand's 'audacious' social strategy live at Brandweek.",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/09/lilly-im8-7.png?w=600&h=315&crop=1",
+  "published": "2026-09-16T19:13+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "8360a0a487e6",
+  "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/244892.html",
+  "title": "人とAIが協働する業務の自動運転プラットフォームを開発・提供するYoom株式会社へ出資",
+  "summary": "",
+  "source": "tv-tokyo.co.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prtimes.jp/img/13943/1456/resize/d13943-1456-95781a05c52cb699a039-0.jpg",
+  "published": "2026-09-16T18:27+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "71646fffd914",
   "url": "https://openai.com/index/unlocking-new-ways-of-working/",
   "title": "How workers are unlocking new ways of working",
@@ -973,6 +1253,20 @@
   "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/1gs0leQWyRXaqM1FSYP2pB/90ebb6eb87e6c0cfd0ce654dc0a7692c/blog-seo-option040-v002.png?w=1600&h=900&fit=fill",
   "published": "2026-09-16T18:00+09:00",
   "collected": "2026-09-17T08:39+09:00"
+ },
+ {
+  "id": "451515b918ad",
+  "url": "https://www.advertimes.com/20260916/article557741/?utm_source=feed",
+  "title": "「あなたはどれくらい危険？」 タイム誌がAI自身に問いかけた異例の表紙",
+  "summary": "米タイム誌は、日本時間９月15日、新しい発売号の表紙を公開した。どこかで見たような、生成AIのチャットの画面に、「How dangerous are you?」と入力したデザインになっており、AI企業の研究者らから相次いでAIに関する警鐘が鳴らされていることを受けたものとみられる。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/time_how-dangerous-are-you_ai_ogp.jpg",
+  "published": "2026-09-16T17:38+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "c62eed2eed98",
@@ -1197,7 +1491,7 @@
   "thumbnail": null,
   "published": "2026-09-16T17:30+09:00",
   "collected": "2026-09-16T17:36+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "79d22d438bcc",
@@ -1298,6 +1592,20 @@
   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/44347/600/44347-600-fb862e336d7888908e968196251ac0f8-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "published": "2026-09-16T15:30+09:00",
   "collected": "2026-09-16T17:32+09:00"
+ },
+ {
+  "id": "20a874541160",
+  "url": "https://www.adweek.com/creativity/bobbie-enlists-nara-smith-for-a-satirical-take-on-parenting-pressure/",
+  "title": "Bobbie Enlists Nara Smith for a Satirical Take on Parenting Pressure",
+  "summary": "Bobbie enlisted influencer Nara Smith to stress the point that some things, like baby formula, cannot be made from scratch.",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/09/BobbieNaraSmith.png?w=600&h=315&crop=1",
+  "published": "2026-09-16T15:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "4bd9f8ab18ba",
@@ -1466,7 +1774,7 @@
   "thumbnail": null,
   "published": "2026-09-16T11:00+09:00",
   "collected": "2026-09-16T17:36+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3e287a26c20d",
@@ -1565,7 +1873,7 @@
   "thumbnail": null,
   "published": "2026-09-16T09:00+09:00",
   "collected": "2026-09-16T17:36+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "63b9407a67d2",
@@ -1707,7 +2015,7 @@
   "thumbnail": null,
   "published": "2026-09-16T07:02+09:00",
   "collected": "2026-09-16T17:36+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "9fc9c110c7f2",
@@ -1722,7 +2030,7 @@
   "thumbnail": null,
   "published": "2026-09-16T07:01+09:00",
   "collected": "2026-09-16T17:36+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "e5c91dcfd7bf",
@@ -1751,7 +2059,7 @@
   "thumbnail": null,
   "published": "2026-09-16T07:00+09:00",
   "collected": "2026-09-16T17:36+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "ac343a3cc32d",
@@ -1780,7 +2088,7 @@
   "thumbnail": null,
   "published": "2026-09-16T06:30+09:00",
   "collected": "2026-09-16T17:36+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "b7fa0b47c3d5",
@@ -2315,6 +2623,34 @@
   "collected": "2026-09-16T17:36+09:00"
  },
  {
+  "id": "be65fdf59a5b",
+  "url": "https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/",
+  "title": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker",
+  "summary": "We go live with OpenAI (ChatGPT) on Sept 22, to help you understand how your business can sell products or drive leads on ChatGPT. The post Selling On ChatGPT: ",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/shutterstock_2237091713-679.jpg",
+  "published": "2026-09-15T23:10+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "e1cbe30e1dec",
+  "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+  "title": "This doorbell camera lets a human security guard watch your front door",
+  "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launche",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&strip=all&crop=0%2C10.742968278881%2C100%2C78.514063442239&w=1200",
+  "published": "2026-09-15T22:36+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "85055a99e70c",
   "url": "https://www.youtube.com/watch?v=GeqYKAA7DyQ",
   "title": "Unlocking the Business of Brand Deals on YouTube /w @hopescope",
@@ -2327,6 +2663,20 @@
   "thumbnail": "https://i.ytimg.com/vi/GeqYKAA7DyQ/hqdefault.jpg",
   "published": "2026-09-15T22:00+09:00",
   "collected": "2026-09-16T17:32+09:00"
+ },
+ {
+  "id": "3c126044b676",
+  "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+  "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+  "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/China-US-AI-race-1152x648.jpg",
+  "published": "2026-09-15T21:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "6bfd64bf4079",
@@ -2343,6 +2693,20 @@
   "collected": "2026-09-16T17:36+09:00"
  },
  {
+  "id": "46db0c0e9e3d",
+  "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/",
+  "title": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
+  "summary": "Anthropic shares prompting upgrades that save tokens, improve how AI writes, code more efficiently, and handle longer tasks. The post Anthropic Shares Power Pro",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/anthropic-prompting-536.jpg",
+  "published": "2026-09-15T19:14+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "1953ffa4ce46",
   "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
   "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
@@ -2357,6 +2721,48 @@
   "collected": "2026-09-16T17:32+09:00"
  },
  {
+  "id": "140a9042b172",
+  "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+  "title": "What’s at stake in AI’s trillion-dollar gamble",
+  "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few year",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600",
+  "published": "2026-09-15T19:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "ba57af005b69",
+  "url": "https://www.socialmediaexaminer.com/how-to-think-like-a-filmmaker-ai-video-with-seedance/",
+  "title": "How to Think Like a Filmmaker: AI Video With Seedance",
+  "summary": "Wondering how to create AI-generated video that looks cinematic instead of cheap? Want a repeatable workflow for turning a simple concept into polished AI video",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.socialmediaexaminer.com/wp-content/uploads/2026/09/AIP123_PRIMARY.jpg",
+  "published": "2026-09-15T19:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "75ea47d71f49",
+  "url": "https://www.socialmediaexaminer.com/instagram-email-subscriber-tactic-no-ad-youtube-strategy-and-industry-news/",
+  "title": "Instagram Email Subscriber Tactic, No-Ad YouTube Strategy, and Industry News",
+  "summary": "Here's a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared. ",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://www.socialmediaexaminer.com/wp-content/uploads/2018/11/NewBack.png",
+  "published": "2026-09-15T18:30+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "3af255894211",
   "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
   "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
@@ -2369,6 +2775,62 @@
   "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/CHOP_still.png",
   "published": "2026-09-15T18:00+09:00",
   "collected": "2026-09-16T17:32+09:00"
+ },
+ {
+  "id": "493ff97202c3",
+  "url": "https://www.advertimes.com/20260915/article557545/?utm_source=feed",
+  "title": "ポーラ銀座で清川あさみ・名和晃平の初二人展 生成AI画像も用いた9メートルの共作を展示",
+  "summary": "ポーラ・オルビスホールディングスは、東京・銀座のポーラ ミュージアム アネックスで、現代美術家・アートディレクターの清川あさみと、彫刻家の名和晃平による二人展「Invisible Garden」を開始する。両氏による二人展は今回が初めて。会期は9月16日から11月8日まで。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/pola-ginza_first-two-person-exhibit_a-kiyokawa_k-nawa_ogp.jpg",
+  "published": "2026-09-15T16:41+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "70a30c29f8a2",
+  "url": "https://www.advertimes.com/20260915/article557596/?utm_source=feed",
+  "title": "ずっと羽生結弦に抱かれてきたプーさんが、今度は羽生を抱きしめた 「可愛いの掛け算」夢の共演にファン感涙 100周年でかなった“夢のツーショット”",
+  "summary": "ウォルト・ディズニー・ジャパンは9月15日、「くまのプーさん」原作デビュー100周年を記念したティザー映像を公式SNSで公開した。 The post ずっと羽生結弦に抱かれてきたプーさんが、今度は羽生を抱きしめた 「可愛いの掛け算」夢の共演にファン感涙 100周年でかなった“夢のツーショット” first appear",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/hanyuandpoo-ogp.jpg",
+  "published": "2026-09-15T16:31+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "0b708cad3a29",
+  "url": "https://thinkit.co.jp/article/39067",
+  "title": "【生成AIの事例トレンド】「試用」から「本格的な組み込み」のフェーズへ",
+  "summary": "【Think IT】本記事は、生成AIコミュニティ「IKIGAI lab.」に所属するメンバーが、生成AIに関するニュースを紹介＆深掘りしながら、AIがもたらす「半歩先」の未来に皆さんをご案内します。",
+  "source": "thinkit.co.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://thinkit.co.jp/sites/default/files/styles/1200x630/public/ren_gen-ai-times_main_35.png?itok=XudJkoK8",
+  "published": "2026-09-15T16:24+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "8cea88057b19",
+  "url": "https://www.advertimes.com/20260915/article557563/?utm_source=feed",
+  "title": "Suica新キャラ、二次創作だらけで勝手に“キャラ立ち” 生成AI時代は「ユーザーがキャラクターを育てる」 ミャクミャクにも通じる成功キャラの方程式",
+  "summary": "JR東日本が9月8日に発表した「Suicaのペンギン」の後継キャラクター候補3案をめぐり、SNS上で思わぬ盛り上がりが起きている。 The post Suica新キャラ、二次創作だらけで勝手に“キャラ立ち” 生成AI時代は「ユーザーがキャラクターを育てる」 ミャクミャクにも通じる成功キャラの方程式 first appe",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/suica-ip-ogp.jpg",
+  "published": "2026-09-15T16:09+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "05d8e0b482ac",
@@ -2412,6 +2874,20 @@
   "published": "2026-09-15T11:29+09:00",
   "collected": "2026-09-16T17:32+09:00",
   "_thumb_tries": 3
+ },
+ {
+  "id": "3daa33c89eb7",
+  "url": "https://exawizards.com/column/seminar-report/kiyobank/",
+  "title": "【エクサウィザーズ × 紀陽銀行共催セミナーレポート】「失敗しない!生成AI導入セミナー」 〜1,700社の実績から紐解く、中小企業のための具体事例〜",
+  "summary": "2026年7月21日、株式会社エクサウィザーズと株式会社紀陽銀行は、地域企業の経営者様やDX推進担当者様を対象とした「失敗しない!生成AI導入セミナー」を、紀陽銀行大阪ビルとオンラインのハイブリッド形式で開催しました。",
+  "source": "株式会社エクサウィザーズ",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://exawizards.com/column/wp-content/uploads/2026/09/kiyobank.jpg",
+  "published": "2026-09-15T11:14+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "2190e53bad0e",
@@ -2485,6 +2961,20 @@
   "_thumb_tries": 3
  },
  {
+  "id": "9f1bce286771",
+  "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+  "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+  "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”...",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+  "published": "2026-09-15T06:04+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "759e7e0f90b5",
   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505114604155322368/",
   "title": "Great example from Jeff Hollan showing how Foundry makes long-running agents enterprise-ready, starting with business outcomes and building security, safety guardrails, auditability, and FinOps into t",
@@ -2528,6 +3018,34 @@
   "_thumb_tries": 3
  },
  {
+  "id": "b6599ce272d3",
+  "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+  "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+  "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg",
+  "published": "2026-09-15T04:45+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "d05ffa596d4c",
+  "url": "https://blog.hootsuite.com/social-media-team/",
+  "title": "How to build a social media team in 2026",
+  "summary": "Ready to build your dream social media team? These are the key roles, skills, and salary expectations to keep in mind. The post How to build a social media team",
+  "source": "Hootsuite",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2023/10/social-media-team.png",
+  "published": "2026-09-15T04:39+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "6048049306c4",
   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505036158616104960/",
   "title": "Quincy, Washington shows what’s possible when you build datacenters with communities, and grow together over time.",
@@ -2540,6 +3058,34 @@
   "thumbnail": "https://media.licdn.com/dms/image/v2/D4E12AQEXvQHDzD-EcA/article-cover_image-shrink_720_1280/B4EaCb8MJyG4AQ-/0/1789322643957?e=2147483647&v=beta&t=YTMFh2MZ91sSS2q4uSqwazSCeYy53Tujau12YHGVhgo",
   "published": "2026-09-15T04:38+09:00",
   "collected": "2026-09-16T17:36+09:00"
+ },
+ {
+  "id": "7df04c7f4eb4",
+  "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+  "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+  "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg",
+  "published": "2026-09-15T04:28+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "74b73d1a2e13",
+  "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+  "title": "AI leaders want to hit the brakes after years of reckless speed",
+  "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg",
+  "published": "2026-09-15T04:06+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "a78bb9edd166",
@@ -2584,6 +3130,20 @@
   "collected": "2026-09-16T17:36+09:00"
  },
  {
+  "id": "b847922400c7",
+  "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+  "title": "The AI industry has taken a doomer turn. What now?",
+  "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO o",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIAlgo.jpg?resize=1200,600",
+  "published": "2026-09-15T02:54+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "b42d0c00078b",
   "url": "https://www.youtube.com/shorts/ORNMTHvC45o",
   "title": "Meet Muse, your personal AI agent",
@@ -2610,6 +3170,20 @@
   "thumbnail": "https://substackcdn.com/image/fetch/$s_!B0-U!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F215289811%2F00f17267-ccc0-4361-b29d-c2fef2128ec5%2Ftranscoded-1789165150.png",
   "published": "2026-09-15T01:04+09:00",
   "collected": "2026-09-16T17:32+09:00"
+ },
+ {
+  "id": "c6517bed48fd",
+  "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+  "title": "AI agents blew the whistle on their cheating colleagues",
+  "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavi",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIangentscheating.jpg?resize=1200,600",
+  "published": "2026-09-15T01:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "078f0cd4555d",
@@ -2725,6 +3299,21 @@
   "collected": "2026-09-16T17:36+09:00"
  },
  {
+  "id": "a1f9849d5774",
+  "url": "https://www.rbbtoday.com/release/prtimes2-today/20260914/1356009.html",
+  "title": "【GEO（生成AI検索）対策事例】株式会社ラクス、AI検索におけるブランド露出対比130％を実現！AI起点のリードも増加。「ミエルカGEO」活用の成功事例を公開",
+  "summary": "【GEO（生成AI検索）対策事例】株式会社ラクス、AI検索におけるブランド露出対比130％を実現！AI起点のリードも増加。「ミエルカGEO」活用の成功事例を公開    RBB TODAY",
+  "source": "RBB TODAY",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-14T20:40+09:00",
+  "collected": "2026-09-17T08:50+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "e1c567bd7de2",
   "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
   "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
@@ -2753,6 +3342,20 @@
   "collected": "2026-09-16T17:36+09:00"
  },
  {
+  "id": "88a93c443ccd",
+  "url": "https://prtimes.jp/main/html/rd/p/000000177.000137731.html",
+  "title": "Uravation、AIエージェント「Genspark」に特化した法人研修〈Genspark実践編〉を提供開始。受講者の実業務を題材に、調査・資料作成・定型業務の自動化を12時間で作り切る",
+  "summary": "Uravation、AIエージェント「Genspark」に特化した法人研修〈Genspark実践編〉を提供開始。受講者の実業務を題材に、調査・資料作成・定型業務の自動化を12時間で作り切る",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/137731/177/137731-177-0d5da629b6465cf77b2290ff6ee0d9c3-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-09-14T16:32+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
   "id": "cdcf218a3eea",
   "url": "https://news.yahoo.co.jp/articles/a13ca2e207232b590285a3f4be6cf28748b50da9",
   "title": "アンソロピック、中国系AIラボ7社の「Claude」不正利用を指摘。人民解放軍関連の入力も転送か（あたらしい経済）",
@@ -2765,6 +3368,20 @@
   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00010015-neweco-000-1-view.jpg?exp=10800",
   "published": "2026-09-14T15:52+09:00",
   "collected": "2026-09-16T17:36+09:00"
+ },
+ {
+  "id": "1c84b6d58d80",
+  "url": "https://buffer.com/resources/best-time-to-post-on-tiktok/",
+  "title": "The Best Time to Post on TikTok in 2026: New Data from 7M Posts",
+  "summary": "We analyzed 7.1 million TikTok posts to find the best time to post on TikTok in 2026. Here's what the data says — plus how to find your own best times.",
+  "source": "Buffer",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2026/02/best-time-to-post-tiktok.png",
+  "published": "2026-09-14T15:00+09:00",
+  "collected": "2026-09-17T08:50+09:00"
  },
  {
   "id": "7f3af1d9f75e",
@@ -2793,6 +3410,35 @@
   "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_Image_2026_9_13_15_26_21_c908d53392/Chat_GPT_Image_2026_9_13_15_26_21_c908d53392.png",
   "published": "2026-09-14T10:21+09:00",
   "collected": "2026-09-16T17:36+09:00"
+ },
+ {
+  "id": "c0728e9f8689",
+  "url": "https://webdesigning.book.mynavi.jp/article/35135/",
+  "title": "Wix、中小企業向け独立型マルチAIエージェントシステム「Symphony by Wix」を提供開始",
+  "summary": "Symphony（シンフォニー）は、個人事業主や中小企業向けに各ビジネスの動き方を学習、構築したマルチAIエージェントの連携チームにより業務自動化や新たなビジネス機会の創出、事業成長を支援します。",
+  "source": "株式会社マイナビ",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://webdesigning.book.mynavi.jp/wp-content/uploads/2026/09/main-3.jpg",
+  "published": "2026-09-14T10:02+09:00",
+  "collected": "2026-09-17T08:50+09:00"
+ },
+ {
+  "id": "6500eafd7351",
+  "url": "https://prtimes.jp/main/html/rd/p/000000289.000002500.html",
+  "title": "経営改善提案資料の作成を1週間から数時間へ、生成AI活用の事例を公開",
+  "summary": "経営改善提案資料の作成を1週間から数時間へ、生成AI活用の事例を公開    PR TIMES",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-14T09:30+09:00",
+  "collected": "2026-09-17T08:50+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "3dab7f1784c1",
@@ -2906,7 +3552,7 @@
   "thumbnail": null,
   "published": "2026-09-13T11:00+09:00",
   "collected": "2026-09-16T17:36+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "2981ecf752e1",
