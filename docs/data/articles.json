@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-16T17:32+09:00",
+  "last_updated": "2026-09-16T17:36+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -30,6 +30,11 @@
     "name": "LinkedIn Official Blog",
     "url": "https://www.linkedin.com/blog/",
     "note": "RSS提供なし"
+   },
+   {
+    "name": "Lia Haberman（ICYMI）",
+    "url": "https://liahaberman.substack.com/",
+    "note": "プラットフォーム仕様変更の解説で定評。Substack側の制限で自動収集できない"
    },
    {
     "name": "Meta for Business ニュース",
@@ -264,6 +269,21 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "44eb7ac045fc",
+   "url": "https://news.nicovideo.jp/watch/nw19779288?news_ref=watch_60_nw19628745",
+   "title": "生成AI活用、7割超が「毎日利用」も約4割が「情報の変化に追いつけない」と回答─AI博覧会Nagoya来場者調査",
+   "summary": "生成AI活用、7割超が「毎日利用」も約4割が「情報の変化に追いつけない」と回答─AI博覧会Nagoya来場者調査",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-16T17:30+09:00",
+   "collected": "2026-09-16T17:36+09:00",
+   "_thumb_tries": 1
+  },
+  {
    "id": "79d22d438bcc",
    "url": "https://enterprisezine.jp/news/detail/25104",
    "title": "弁護士ドットコム、法務AIエージェントのClaude向けMCPコネクタを提供開始",
@@ -276,7 +296,7 @@
    "thumbnail": null,
    "published": "2026-09-16T17:24+09:00",
    "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "3de1b8dafadd",
@@ -291,7 +311,7 @@
    "thumbnail": null,
    "published": "2026-09-16T17:00+09:00",
    "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "304f2f161256",
@@ -306,6 +326,20 @@
    "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/16/2000001552/10006734/2048",
    "published": "2026-09-16T16:51+09:00",
    "collected": "2026-09-16T17:32+09:00"
+  },
+  {
+   "id": "b32ce8c4862d",
+   "url": "https://ascii.jp/elem/000/004/435/4435466/?rss",
+   "title": "【10/6開催】AIで浮いた人材、次の一手は地方に——冨山和彦氏ら登壇 [PR]",
+   "summary": "AIによる人材の余剰は、ホワイトカラーの仕事が集中する首都圏でこそ、まず発生する。浮いた人と組織の力をどこで使うのか——『ホワイトカラー消滅』の冨山和彦氏と、東京から広島へ動いた実践者たちが「地方での価値創造」という次の一手を議論する。10月6日（火）東京開催、参加無料。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/xl/ed8de61ce6796246.png?20200122",
+   "published": "2026-09-16T16:49+09:00",
+   "collected": "2026-09-16T17:36+09:00"
   },
   {
    "id": "026059921fba",
@@ -406,6 +440,133 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "3386ca4506e8",
+   "url": "https://japan.zdnet.com/pickup/keeperSecurity_202609/35252112/",
+   "title": "AIを全社に「任せる」時代の現実 活用の加速と、ID・統制のガードレール、3社が描くエンタープライズAIの勝ち筋",
+   "summary": "AIを全社に「任せる」時代の現実 活用の加速と、ID・統制のガードレール、3社が描くエンタープライズAIの勝ち筋",
+   "source": "japan.zdnet.com",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://japan.zdnet.com/storage/2026/09/03/e42f3fb9e2a128406132efa581532298/thumb_keepersecurity_1000.jpg",
+   "published": "2026-09-16T13:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "749825b9ddb4",
+   "url": "https://news.infoseek.co.jp/article/prtimes_000000408_000002454/",
+   "title": "ギブリー、電話対応から後処理業務まで自動化するAIエージェント「DECA Voice Agent」を提供開始｜Infoseekニュース",
+   "summary": "ギブリー、電話対応から後処理業務まで自動化するAIエージェント「DECA Voice Agent」を提供開始｜Infoseekニュース",
+   "source": "Infoseek",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+   "published": "2026-09-16T12:40+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "4b1153be2fc5",
+   "url": "https://www.advertimes.com/20260916/article557449/?utm_source=feed",
+   "title": "「悩みはAIに相談する」──メーカーのマーケターと高校生・卒業生が本音で語った”α世代の消費行動”",
+   "summary": "「悩みはAIに相談し、AIがおすすめした商品を買う」。この一言が飛び出した瞬間、ステージ上の空気が変わったのがわかった。 The post 「悩みはAIに相談する」──メーカーのマーケターと高校生・卒業生が本音で語った”α世代の消費行動” first appeared on AdverTimes.（アドタイ） by 宣",
+   "source": "宣伝会議 AdverTimes",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/aisodan-ogp.jpg",
+   "published": "2026-09-16T12:31+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "b7ac67986f05",
+   "url": "https://www.advertimes.com/20260916/article557606/?utm_source=feed",
+   "title": "シャープ広報はなぜ “粋” なのか 嵐、さくらみこ、ナフサ不足で見せた神対応の数々…114歳誕生日に祝福殺到までの積み重ね",
+   "summary": "「本日はシャープ114歳の誕生日です。おめでとう。なにぶん高齢なので、やさしくしてください。」 シャープが9月15日、公式Xに投稿した自社の“誕生日祝い”が反響を集めている。投稿には「お誕生日おめでとうございます」など、ユーザーから祝福の声が相次いだ。",
+   "source": "宣伝会議 AdverTimes",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/sharp_pr_brilliant-responses_ogp.jpg",
+   "published": "2026-09-16T11:57+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "f738ac7c53d5",
+   "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001529/",
+   "title": "Meta、InstagramやFacebook横断の新サブスク「Meta One」発表 AI枠拡大で月額949円から",
+   "summary": "Metaがサブスク「Meta One」を提供開始した。InstagramやFacebook、WhatsAppを横断し、AI利用枠の拡大や表現機能、ビジネスツールなど50以上の機能を用意。日本でも展開し、バンドルプランは月額949円から。認証バッジを含む事業者向け機能も揃える。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/16/2000001529/10006650/2048",
+   "published": "2026-09-16T11:24+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "5d45b41ac374",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/16/news030.html",
+   "title": "ウェザーニューズが「社外AIは漏えいが怖い」を“独自AI”で解決 社員8割が使うその中身とは",
+   "summary": "",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/ait/articles/2609/16/cover_news030.jpg",
+   "published": "2026-09-16T11:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "99f8fc126797",
+   "url": "https://markezine.jp/article/detail/77288",
+   "title": "マーケと営業の「空白」を埋め、商談化率60％超へ。シームレスな顧客体験を実現する「AI SDR」とは",
+   "summary": "Webサイト訪問から商談に至る購買プロセスには、情報収集や比較検討が訪問者任せになってしまう空白の区間が存在する。この区間において、マーケターと営業がいかに訪問者に寄り添い、検討状況に合わせた最適な提案・支援を行えるかが、その後の成約や顧客満足度を大きく左右する。この解決策として注目を集めるのが「AI SDR」だ。",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-16T11:00+09:00",
+   "collected": "2026-09-16T17:36+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "3e287a26c20d",
+   "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001524/",
+   "title": "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開 推論強化の上位版も",
+   "summary": "Googleが音声対話向け新モデル「Gemini 3.8 Live」と多段階推論を強化した「Gemini 3.8 Live Extended Thinking」を提供開始した。会話を止めずにツール実行や推論を進められる点が特長で、一般向け機能やWorkspace、API経由で展開する。音声には電子透かしを埋め込む。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/16/2000001524/10006624/2048",
+   "published": "2026-09-16T10:16+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "f8425b358242",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2609/16/2000001383/",
+   "title": "社内のAIはどこで動かす？ 日本HPの実践者に聞く、クラウドとローカルの使い分け",
+   "summary": "生成AIを試した企業が、次に向き合うのは業務への活用をどう広げるかという課題だ。社外に出せないデータを扱いたい。部門で繰り返す処理を自動化したい。利用料金や接続環境を気にせず使いたい。用途が具体的になるほど、モデルの能力に加えて「どこで動かすか」が導入の判断に関わってくる。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/16/2000001383/10006614/2048",
+   "published": "2026-09-16T10:15+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "6e3ffe909ff4",
    "url": "https://www.youtube.com/watch?v=OujC4t5leqQ",
    "title": "Riley's Rebuilds",
@@ -434,6 +595,63 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "fc6cd841d67b",
+   "url": "https://prtimes.jp/main/html/rd/p/000000012.000166537.html",
+   "title": "12時間の生成AI研修でClaude Codeの組織活用を実現。Salesforce連携による顧客ヘルススコア判定を内製化",
+   "summary": "12時間の生成AI研修でClaude Codeの組織活用を実現。Salesforce連携による顧客ヘルススコア判定を内製化",
+   "source": "PR TIMES",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/166537/12/166537-12-65fffdda8a885cec84842e334e3b63d8-1535x1024.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-09-16T10:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "d2de68ab7234",
+   "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+   "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+   "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+   "published": "2026-09-16T09:20+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "3410a9cd3f2e",
+   "url": "https://markezine.jp/article/detail/77491",
+   "title": "AI時代、CSの役割はどう変わるのか。イタンジ×カケハシが語るVSaaSにおける“人の価値”",
+   "summary": "生成AIの普及に伴い、カスタマーサクセス（CS）領域でも定型業務の自動化が進んでいる。オペレーションの効率化が進む一方、改めて問われているのが「人だからこそ提供できる価値」の再定義だ。",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-16T09:00+09:00",
+   "collected": "2026-09-16T17:36+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "63b9407a67d2",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+   "title": "AI and data centers are incredibly unpopular in every poll",
+   "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and d",
+   "source": "The Verge AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "published": "2026-09-16T08:34+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "bdf18ed4bda7",
    "url": "https://www.youtube.com/shorts/DhAsqpjliYw",
    "title": "Stay on top of the pack with ChatGPT Work.",
@@ -446,6 +664,20 @@
    "thumbnail": "https://i.ytimg.com/vi/DhAsqpjliYw/hqdefault.jpg",
    "published": "2026-09-16T08:31+09:00",
    "collected": "2026-09-16T17:32+09:00"
+  },
+  {
+   "id": "b26a2dea09cb",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2609/16/news012.html",
+   "title": "「足りないのはCOBOL人材じゃない」 日立が語る、AI時代のシステム刷新における“人”の役割",
+   "summary": "",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2609/16/cover_news012.jpg",
+   "published": "2026-09-16T08:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
   },
   {
    "id": "41c6582cafe4",
@@ -516,7 +748,179 @@
    "thumbnail": null,
    "published": "2026-09-16T07:06+09:00",
    "collected": "2026-09-16T17:32+09:00",
+   "_thumb_tries": 2
+  },
+  {
+   "id": "04087acc3d64",
+   "url": "https://webtan.impress.co.jp/e/2026/09/16/53304",
+   "title": "「Cloudflare」の基本的な仕組みと導入メリットを解説【週間ランキング】",
+   "summary": "「Cloudflare」の基本的な仕組みと導入メリットを解説【週間ランキング】 isoya 2026年9月16日 Web担人気記事ランキング シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 2026年9月9日～2026年9月15日にアクセス数の多かった記事のランキングを発表！ 見逃している人気記事",
+   "source": "Web担当者フォーラム",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/ranking/ranking_nomal.png?itok=IMSdTLC2",
+   "published": "2026-09-16T07:04+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "7d499d673be8",
+   "url": "https://webtan.impress.co.jp/n/2026/09/16/53302",
+   "title": "電通デジタルが「エージェンティックコマース最適化」支援サービス開始、AI自律購買時代に備える",
+   "summary": "電通デジタルが「エージェンティックコマース最適化」支援サービス開始、AI自律購買時代に備える AIエージェントが正しく商品を理解・推薦できるデータ基盤を整備、購買導線も検証 noboru.kojima 2026年9月16日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 電通デジタルは、AIエージ",
+   "source": "Web担当者フォーラム",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-16T07:02+09:00",
+   "collected": "2026-09-16T17:36+09:00",
    "_thumb_tries": 1
+  },
+  {
+   "id": "9fc9c110c7f2",
+   "url": "https://webtan.impress.co.jp/n/2026/09/16/53301",
+   "title": "リンクシェア・ジャパンがSEO・AI検索統合分析ツール「LinkSurge」に「記事見出し最適化分析」追加",
+   "summary": "リンクシェア・ジャパンがSEO・AI検索統合分析ツール「LinkSurge」に「記事見出し最適化分析」追加 見出しごとのブロック単位でAI検索の引用適性を診断、AI引用の改善策を提案 noboru.kojima 2026年9月16日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 楽天グループでア",
+   "source": "Web担当者フォーラム",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-16T07:01+09:00",
+   "collected": "2026-09-16T17:36+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "e5c91dcfd7bf",
+   "url": "https://www.itmedia.co.jp/business/articles/2609/16/news039.html",
+   "title": "富士通、国産CPU「モナカ」販売 スパコン技術を結集した“小さなチップ”に託す「3兆円のAIビジネス」の行方",
+   "summary": "xmÊªYCPUuiJvðÌ·éB¯ÐZpðWµ½g¬³È`bvhÉõµ½ÌÍA2035NxÜÅÉ_¤AIsêÅÌ3~KÍÌrWlXno¾BÊ½µÄA»ÌsûÍ",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/business/articles/2609/16/cover_news039.jpg",
+   "published": "2026-09-16T07:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "37831d3bce43",
+   "url": "https://markezine.jp/article/detail/77632",
+   "title": "リンクシェア・ジャパン、SEO・AI検索分析ツールに見出し単位の引用適性診断を追加",
+   "summary": "",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-16T07:00+09:00",
+   "collected": "2026-09-16T17:36+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "ac343a3cc32d",
+   "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+   "title": "The AI data center boom is colliding with cities scarred by big industry",
+   "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted ",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
+   "published": "2026-09-16T06:47+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "90f58e6b5c9a",
+   "url": "https://webtan.impress.co.jp/n/2026/09/16/53262",
+   "title": "BtoB発注、66.4%がパートナー企業選びに生成AIを活用【プロベル調べ】",
+   "summary": "BtoB発注、66.4%がパートナー企業選びに生成AIを活用【プロベル調べ】 「客観的な外部評価」の重要性が浮き彫りに。 atomik 2026年9月16日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 プロベルは、「BtoBサービス・ツールの選定プロセスにおける生成AI活用」に関する調査結果を",
+   "source": "Web担当者フォーラム",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-16T06:30+09:00",
+   "collected": "2026-09-16T17:36+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "b7fa0b47c3d5",
+   "url": "https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/",
+   "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern",
+   "summary": "Cloudflare's Disallow AI Training keeps mixed-use crawlers available for search. Google and Apple honor training opt-outs; Bing robots.txt support is pending. T",
+   "source": "Search Engine Journal",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/cloudflare-disallow-ai-training-featured.jpg",
+   "published": "2026-09-16T06:29+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "21600dd1b852",
+   "url": "https://www.socialmediatoday.com/news/tiktok-announces-featured-creators-for-hispanic-heritage-month/830484/",
+   "title": "TikTok announces featured creators for Hispanic Heritage Month",
+   "summary": "The app will showcase journalist Fernando Hurtado, musician Jasmine Wesley and comedian Eric Sedeño as part of a larger community celebration.",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/7pCxQdow6ccQjdzOm1IEcNr0TS6nORtlJ0FEHdaTy2c/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfaGlzcGFuaWNfaGVyaXRhZ2VfbW9udGgucG5n.webp",
+   "published": "2026-09-16T06:07+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "a2ff22c763ee",
+   "url": "https://www.socialmediatoday.com/news/snapchat-report-highlights-users-political-engagement/830483/",
+   "title": "Snapchat report highlights users’ political engagement",
+   "summary": "The platform study, released ahead of the U.S. midterms in November, found that nearly 80% of Snapchatters plan to vote.",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/CQutc65mz2PiIpw5-CPO7GjFrAp3SoDPTeGvmDCYry8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF92b3RpbmdfcmVzZWFyY2gyLnBuZw==.webp",
+   "published": "2026-09-16T06:02+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "81a1258e2d97",
+   "url": "https://www.socialmediatoday.com/news/meta-adds-more-creator-partnership-tools/830480/",
+   "title": "Meta adds more creator partnership tools",
+   "summary": "The company’s refreshed Creator Marketing hub will offer expanded access to additional discovery and outreach features to facilitate promotions.",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/xBPpSYd6JJxQ23l5Qmu5a_5c7QIkXv1PPHi9a5bNqPk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2NyZWF0b3JfbWFya2V0aW5nX2h1Yi5wbmc=.webp",
+   "published": "2026-09-16T05:48+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "1ad152d23630",
+   "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+   "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+   "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, a",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+   "published": "2026-09-16T05:12+09:00",
+   "collected": "2026-09-16T17:36+09:00"
   },
   {
    "id": "dfe4dbbe0065",
@@ -531,6 +935,34 @@
    "thumbnail": "https://substackcdn.com/image/fetch/$s_!hNAj!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32a5826-6fd5-4608-bc04-4240a5e538df_2560x1440.png",
    "published": "2026-09-16T05:11+09:00",
    "collected": "2026-09-16T17:32+09:00"
+  },
+  {
+   "id": "26b1adbd0418",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html",
+   "title": "「APIキーは.envに」はもはや通用しない AIエージェントの“内通者化”をどう防ぐ？",
+   "summary": "",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/ait/articles/2609/17/cover_news006.jpg",
+   "published": "2026-09-16T05:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "22910a726894",
+   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03232/091100007/",
+   "title": "生成AIは社員何人分の業務を担うか、メガバンクのリテール部門で試算した",
+   "summary": "「生成AIの影響を大きく受ける」業界の1つとして取り上げた金融業界を例に、AIエージェントに限定せず、広く生成AIを利用して活用したビジネスインパクトを、実際の企業の財務諸表を参考にしつつ考えてみたい。金融・保険業においては「AI活用による労働時間削減率は約24％見込める」との試算がある。",
+   "source": "日経クロステック",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://xtech.nikkei.com/atcl/nxt/column/18/03232/091100007/topm.jpg?20220512",
+   "published": "2026-09-16T05:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
   },
   {
    "id": "1b7fb0d3a1e4",
@@ -575,6 +1007,62 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "4e8fdb6bb606",
+   "url": "https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/",
+   "title": "Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity",
+   "summary": "Spot false claims and impersonators in AI search, then match each brand protection problem to the right correction, report, or preventive action. The post Brand",
+   "source": "Search Engine Journal",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/08/protecting-brand-identity-503.png",
+   "published": "2026-09-16T04:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "7376438c216d",
+   "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+   "published": "2026-09-16T04:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "5592958fbdf6",
+   "url": "https://blog.hootsuite.com/social-media-data-collection/",
+   "title": "Social media data collection: A 2026 guide",
+   "summary": "Social media data collection is messy at scale. In this guide, get key metrics and methods to collect from analytics, to listening, and more. The post Social me",
+   "source": "Hootsuite",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2024/09/social-media-data-collection.png",
+   "published": "2026-09-16T03:58+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "0285ce6207cf",
+   "url": "https://blog.hootsuite.com/how-to-make-money-on-tiktok/",
+   "title": "How to make money on TikTok in 2026: 15 proven ways",
+   "summary": "Learn how to make money on TikTok with 15 proven methods, from Creator Rewards and gifts to TikTok Shop, affiliate links, and brand deals. The post How to make ",
+   "source": "Hootsuite",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2024/08/Tiktok-followers-main-image-1.png",
+   "published": "2026-09-16T03:39+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "6833c13830f0",
    "url": "https://blogs.windows.com/devices/2026/09/14/more-choice-and-possibility-with-windows-pcs-at-ifa/",
    "title": "Microsoft’s partners debut new Windows PCs at IFA",
@@ -589,6 +1077,20 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "1990f3ad93a1",
+   "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+   "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+   "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
+   "published": "2026-09-16T03:29+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "51385449c8dc",
    "url": "https://news.microsoft.com/source/asia/2026/09/14/the-new-media-movement-how-the-copilot-creators-collective-is-shaping-the-future-of-creativity-and-ai-literacy/",
    "title": "How the Copilot Creators Collective is shaping the future of creativity and AI literacy",
@@ -601,6 +1103,62 @@
    "thumbnail": "https://news.microsoft.com/source/asia/wp-content/uploads/2026/08/Copilot-Creator-Launch.png",
    "published": "2026-09-16T03:28+09:00",
    "collected": "2026-09-16T17:32+09:00"
+  },
+  {
+   "id": "ab976ef2042d",
+   "url": "https://blog.hootsuite.com/social-media-collaboration-tools/",
+   "title": "Best social media collaboration tools for 2026",
+   "summary": "Social media collaboration tools help teams plan, approve, and publish faster. Compare 10 options with pricing, pros/cons, and tips for 2026. The post Best soci",
+   "source": "Hootsuite",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2024/03/social-collaboration-tools.png",
+   "published": "2026-09-16T03:17+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "bdda1fd4470f",
+   "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+   "title": "Roundtables: Could AI really kill us all?",
+   "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are",
+   "source": "MIT Technology Review AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/September.26_Roundtables-Assets-2.png?resize=1200,600",
+   "published": "2026-09-16T02:47+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "911b74d594a1",
+   "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+   "title": "AI agents now have a place to snitch",
+   "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+   "published": "2026-09-16T02:42+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "73c493e5b2ef",
+   "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+   "title": "Meta expands subscription push with new AI-focused plans",
+   "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+   "published": "2026-09-16T02:05+09:00",
+   "collected": "2026-09-16T17:36+09:00"
   },
   {
    "id": "78ec933d8f3c",
@@ -659,6 +1217,34 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "c6794c0f7903",
+   "url": "https://www.adweek.com/media/anthropics-dario-amodei-and-nvidias-jensen-huang-take-their-ai-safety-fight-to-dreamforce/",
+   "title": "Anthropic’s Dario Amodei and Nvidia’s Jensen Huang Take Their AI Safety Fight to Dreamforce",
+   "summary": "Two of AI's most influential executives are on opposite sides of a debate.",
+   "source": "Adweek（ソーシャル）",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/09/Dreamforce.png?w=600&h=315&crop=1",
+   "published": "2026-09-16T01:14+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "47d648234ee6",
+   "url": "https://blog.hootsuite.com/social-media-value/",
+   "title": "The real value of social media for your business (beyond ROI)",
+   "summary": "ROI is only half the story. Learn how to prove the real value of social media, and finally get leadership to listen. The post The real value of social media for",
+   "source": "Hootsuite",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/09/social-media-value.png",
+   "published": "2026-09-16T01:12+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "38ee17817bda",
    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
    "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
@@ -701,6 +1287,20 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "564ec8477305",
+   "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+   "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+   "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?resize=1200,800",
+   "published": "2026-09-16T00:47+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "7c4fa5165e59",
    "url": "https://www.youtube.com/shorts/Th5WmdddoJw",
    "title": "Check out Meta One",
@@ -729,6 +1329,34 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "ed47b12377be",
+   "url": "https://www.advertimes.com/20260916/article557567/?utm_source=feed",
+   "title": "インスタに「お金を払う時代」到来？ メタが新サブスクを開始 クリエイターやビジネスへのサポート強化",
+   "summary": "Instagramなどを運営するメタは日本時間9月16日、新たなサブスクリプションプラン「Meta One」を発表した。 The post インスタに「お金を払う時代」到来？ メタが新サブスクを開始 クリエイターやビジネスへのサポート強化 first appeared on AdverTimes.（アドタイ） by 宣",
+   "source": "宣伝会議 AdverTimes",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/meta-ogp.jpg",
+   "published": "2026-09-16T00:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "60e3714cb4a4",
+   "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+   "title": "Meta’s new One subscriptions put a price on social media and AI",
+   "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI ",
+   "source": "The Verge AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.063453493324&w=1200",
+   "published": "2026-09-16T00:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "d69ce8689fec",
    "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
    "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
@@ -743,6 +1371,20 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "401afc56f779",
+   "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+   "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+   "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Hero.jpeg?resize=1200,677",
+   "published": "2026-09-15T23:42+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "85055a99e70c",
    "url": "https://www.youtube.com/watch?v=GeqYKAA7DyQ",
    "title": "Unlocking the Business of Brand Deals on YouTube /w @hopescope",
@@ -755,6 +1397,20 @@
    "thumbnail": "https://i.ytimg.com/vi/GeqYKAA7DyQ/hqdefault.jpg",
    "published": "2026-09-15T22:00+09:00",
    "collected": "2026-09-16T17:32+09:00"
+  },
+  {
+   "id": "6bfd64bf4079",
+   "url": "https://www.jonloomer.com/muse-meta-ai-agent/",
+   "title": "What I Built With Muse, Meta’s New AI Agent",
+   "summary": "Meta’s new Muse AI agent can research, build, and monitor. Here’s what I learned from using it and the tool I built in one evening. The post What I Built With M",
+   "source": "Jon Loomer（Meta広告）",
+   "type": "article",
+   "tier": "voice",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.jonloomer.com/wp-content/uploads/2026/09/meta-muse-ai-agent.png",
+   "published": "2026-09-15T20:30+09:00",
+   "collected": "2026-09-16T17:36+09:00"
   },
   {
    "id": "1953ffa4ce46",
@@ -811,7 +1467,7 @@
    "thumbnail": null,
    "published": "2026-09-15T11:29+09:00",
    "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "2190e53bad0e",
@@ -842,6 +1498,34 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "2f6f1db038ee",
+   "url": "https://www.youtube.com/shorts/aetX0vbKPTo",
+   "title": "Read Your Comments but Stay True to You! — @MadFit #CreatorAdvice",
+   "summary": "Fitness creator @MadFit chats with Creator Liaison @ReneRitchie about her journey from dance workouts to building a massive fitness channel by listening closely",
+   "source": "Creator Insider（YouTube公式）",
+   "type": "video",
+   "tier": "official",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://i.ytimg.com/vi/aetX0vbKPTo/hqdefault.jpg",
+   "published": "2026-09-15T07:28+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "b0f58c7c2ee4",
+   "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
+   "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+   "summary": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat de",
+   "source": "AWS Machine Learning Blog",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-21301-featured-image.png",
+   "published": "2026-09-15T06:22+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "8c13889dc16c",
    "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
    "title": "The contagion of fear",
@@ -854,7 +1538,35 @@
    "thumbnail": null,
    "published": "2026-09-15T06:18+09:00",
    "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
+  },
+  {
+   "id": "759e7e0f90b5",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505114604155322368/",
+   "title": "Great example from Jeff Hollan showing how Foundry makes long-running agents enterprise-ready, starting with business outcomes and building security, safety guardrails, auditability, and FinOps into t",
+   "summary": "Great example from Jeff Hollan showing how Foundry makes long-running agents enterprise-ready, starting with business outcomes and building security, safety gua",
+   "source": "Microsoft Source",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://dms.licdn.com/playlist/vid/v2/D5605AQG49bxsEGAXHw/thumbnail-with-play-button-overlay-high/B56aCcSbJuJMCY-/0/1789328477557?e=2147483647&v=beta&t=FewBpLHhNnuxuWKTtVJ1uzei98GX3vgXdPXg4Jdtptk",
+   "published": "2026-09-15T05:40+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "e7186f2bf9d3",
+   "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
+   "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+   "summary": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks thro",
+   "source": "AWS Machine Learning Blog",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/14/ML-21874-featured-image.png",
+   "published": "2026-09-15T05:35+09:00",
+   "collected": "2026-09-16T17:36+09:00"
   },
   {
    "id": "6fda9df2a11d",
@@ -869,7 +1581,77 @@
    "thumbnail": null,
    "published": "2026-09-15T05:21+09:00",
    "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
+  },
+  {
+   "id": "6048049306c4",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505036158616104960/",
+   "title": "Quincy, Washington shows what’s possible when you build datacenters with communities, and grow together over time.",
+   "summary": "The post Quincy, Washington shows what’s possible when you build datacenters with communities, and grow together over time. appeared first on Source .",
+   "source": "Microsoft Source",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://media.licdn.com/dms/image/v2/D4E12AQEXvQHDzD-EcA/article-cover_image-shrink_720_1280/B4EaCb8MJyG4AQ-/0/1789322643957?e=2147483647&v=beta&t=YTMFh2MZ91sSS2q4uSqwazSCeYy53Tujau12YHGVhgo",
+   "published": "2026-09-15T04:38+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "a78bb9edd166",
+   "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/14/the-ai-shift-is-real-how-pharmaceutical-leaders-are-operationalizing-ai/",
+   "title": "Inside the pharmaceutical industry’s AI shift",
+   "summary": "See how pharmaceutical leaders use Microsoft AI to speed R&D, modernize manufacturing, and improve patient outcomes. Learn more.",
+   "source": "Microsoft Source",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/09/Pharmaceutical-Leaders-5.jpg",
+   "published": "2026-09-15T03:38+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "b0ca7c1604fd",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7504986609365352448/",
+   "title": "Any pursuit of superintelligence has to be grounded in the core principle that if the AI we build is not helping humanity and under human control, it’s not worth pursuing. [Read more]",
+   "summary": "Any pursuit of superintelligence has to be grounded in the core principle that if the AI we build is not helping humanity and under human control, it's not wort",
+   "source": "Microsoft Source",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
+   "published": "2026-09-15T03:32+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "61a0a9938bc7",
+   "url": "https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds/",
+   "title": "Nearly half of Irish workers reassess careers as AI reshapes work",
+   "summary": "Discover insights from Microsoft Ireland's 2026 Work Trend Index, highlighting how AI is reshaping career paths, workforce skills, and workplace dynamics in Ire",
+   "source": "Microsoft Source",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://news.microsoft.com/source/emea/wp-content/uploads/2026/09/CD_4-1024x559.png",
+   "published": "2026-09-15T03:30+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "b42d0c00078b",
+   "url": "https://www.youtube.com/shorts/ORNMTHvC45o",
+   "title": "Meet Muse, your personal AI agent",
+   "summary": "Meet Muse, your personal AI agent. Most AI gives you answers—Muse gives you outcomes. It handles the work and finishes the things you keep meaning to get to, so",
+   "source": "Meta",
+   "type": "video",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://i.ytimg.com/vi/ORNMTHvC45o/hqdefault.jpg",
+   "published": "2026-09-15T02:05+09:00",
+   "collected": "2026-09-16T17:36+09:00"
   },
   {
    "id": "0f1f17c81528",
@@ -886,6 +1668,76 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "078f0cd4555d",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
+   "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+   "summary": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (",
+   "source": "AWS Machine Learning Blog",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-21160-featured-image.png",
+   "published": "2026-09-15T00:58+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "b7a9db624c3c",
+   "url": "https://www.youtube.com/watch?v=PSnJBfa183Y",
+   "title": "Detecting wildfires with ChatGPT",
+   "summary": "Most fifth-grade science projects end up in a closet. Ryan Honary’s became SensoRy AI—a wildfire detection system that identifies fires at ignition and alerts f",
+   "source": "OpenAI",
+   "type": "video",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://i.ytimg.com/vi/PSnJBfa183Y/hqdefault.jpg",
+   "published": "2026-09-15T00:57+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "4201afd95762",
+   "url": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
+   "title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+   "summary": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-trai",
+   "source": "AWS Machine Learning Blog",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/09/ML-21197-featured-image.png",
+   "published": "2026-09-15T00:47+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "88bfedcc150b",
+   "url": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
+   "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+   "summary": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Da",
+   "source": "AWS Machine Learning Blog",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/28/ML-21670-featured-image.png",
+   "published": "2026-09-15T00:42+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "f447d8cbcd59",
+   "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+   "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+   "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a l",
+   "source": "NVIDIA Blog",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Local-AI_Perplexity-on-Windows_Blog_Feature.jpg",
+   "published": "2026-09-15T00:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "09740d212978",
    "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
    "title": "Quoting Laurie Voss",
@@ -898,7 +1750,35 @@
    "thumbnail": null,
    "published": "2026-09-14T23:34+09:00",
    "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
+  },
+  {
+   "id": "a0ccf283dc85",
+   "url": "https://www.jonloomer.com/qvt/text-customization-chatgpt-ads-ai-enhancement/",
+   "title": "Text Customization ChatGPT Ads AI Enhancement",
+   "summary": "AI is coming to ChatGPT ads… When creating a ChatGPT ads campaign, some advertisers are seeing this new toggle: Text Customization. Let’s take a closer look… Wh",
+   "source": "Jon Loomer（Meta広告）",
+   "type": "article",
+   "tier": "voice",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.jonloomer.com/wp-content/uploads/2026/09/text-customization-1.png",
+   "published": "2026-09-14T22:30+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "5a883e7baeb6",
+   "url": "https://blog.youtube/news-and-events/youtube-creators-venice-toronto-film-festivals/",
+   "title": "YouTube debuts new Creator Shows at the Venice and Toronto International Film Festivals",
+   "summary": "YouTube debuted five original creator shows and documentaries at the Venice and Toronto international film festivals, bringing independent digital projects to g",
+   "source": "YouTube公式ブログ",
+   "type": "article",
+   "tier": "official",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YTBoat_Party_3.max-1440x810.jpg",
+   "published": "2026-09-14T22:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
   },
   {
    "id": "e1c567bd7de2",
@@ -915,6 +1795,62 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "5706c8561704",
+   "url": "https://www.youtube.com/watch?v=uA5PiAXKGis",
+   "title": "How Fyxer built an AI executive assistant people trust",
+   "summary": "See how Fyxer built an AI executive assistant that follows the thread across emails, meetings and everyday work. By combining OpenAI models with insights from m",
+   "source": "OpenAI",
+   "type": "video",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://i.ytimg.com/vi/uA5PiAXKGis/hqdefault.jpg",
+   "published": "2026-09-14T18:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "cdcf218a3eea",
+   "url": "https://news.yahoo.co.jp/articles/a13ca2e207232b590285a3f4be6cf28748b50da9",
+   "title": "アンソロピック、中国系AIラボ7社の「Claude」不正利用を指摘。人民解放軍関連の入力も転送か（あたらしい経済）",
+   "summary": "米AI企業アンソロピック（Anthropic）が、AIモデル「クロード（Claude）」の悪用実態をまとめた脅威情報レポート「Detecting and countering misuse of A",
+   "source": "news.yahoo.co.jp",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260914-00010015-neweco-000-1-view.jpg?exp=10800",
+   "published": "2026-09-14T15:52+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "7f3af1d9f75e",
+   "url": "https://gihyo.jp/article/2026/09/claude-plugin-eval",
+   "title": "Anthropic、Claude Codeのプラグイン評価コマンド「claude plugin eval」を紹介",
+   "summary": "Anthropicは2026年9月11日、Claude Codeのプラグインやスキルの効果を評価するコマンド「claude plugin eval」を公式XアカウントのClaudeDevsで紹介した。",
+   "source": "gihyo.jp",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://gihyo.jp/assets/images/ICON/2026/3042_claude-plugin-eval.png",
+   "published": "2026-09-14T11:36+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "ac308dc9705a",
+   "url": "https://ledge.ai/articles/anthropic_claude_threat_intelligence_september_2026",
+   "title": "Anthropic、Claude悪用の実態を公開 攻撃自動化から監視・兵器開発・不正蒸留まで",
+   "summary": "AI・人工知能関連のニュースやトレンドを高頻度で配信！最新ニュースやインタビュー、イベントレポートなどAIに関するさまざまな情報を独自の切り口で掲載",
+   "source": "Ledge.ai",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/Chat_GPT_Image_2026_9_13_15_26_21_c908d53392/Chat_GPT_Image_2026_9_13_15_26_21_c908d53392.png",
+   "published": "2026-09-14T10:21+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "3dab7f1784c1",
    "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
    "title": "commit-rewriter 0.1",
@@ -929,6 +1865,34 @@
    "collected": "2026-09-16T17:32+09:00"
   },
   {
+   "id": "12e9dd685180",
+   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/",
+   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+   "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+   "source": "OpenAI",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/2ONJEXhA8M9IGON14JgHTc/4450550ce2d8b38c7fe2e7825839c92a/og.png?w=1600&h=900&fit=fill",
+   "published": "2026-09-14T09:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "a4074eaadfc4",
+   "url": "https://www.watch.impress.co.jp/docs/news/2140393.html",
+   "title": "アンソロピック、「AI悪用」レポート 国家による影響工作や中国AIの蒸留を非難",
+   "summary": "Anthropic(アンソロピック)は10日(米国時間)、AIの悪用についてまとめたレポートを公開した。サイバー攻撃や、監視、影響工作、通常兵器、生物兵器の悪用、詐欺・不正行為、違法蒸留など、Claudeの悪用事例についてまとめており、ロシアの諜報活動での悪用や、競合となるオープンウェイトモデルによる蒸留などについて紹",
+   "source": "Impress Watch",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://www.watch.impress.co.jp/img/ipw/list/2140/393/a01.jpg",
+   "published": "2026-09-14T09:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
    "id": "0fb6fdee2c1a",
    "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
    "title": "shot-scraper 1.12",
@@ -941,6 +1905,49 @@
    "thumbnail": null,
    "published": "2026-09-14T08:58+09:00",
    "collected": "2026-09-16T17:32+09:00",
+   "_thumb_tries": 2
+  },
+  {
+   "id": "8a499e3c7f8c",
+   "url": "https://news.mynavi.jp/techplus/article/20260913-4951131/",
+   "title": "Anthropic、AIモデル「Claude」による4件目の不正アクセスを発表",
+   "summary": "Anthropicは9月9日(米国時間)、AIモデル「Claude」による第三者システムへの4件目となる不正アクセスを発表した。同社は7月30日、過去3件の事案について調査結果をレポートとして報告、4件目の事案は、この前回調査で見落とされていた。",
+   "source": "マイナビニュース",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://news.mynavi.jp/techplus/article/20260913-4951131/ogp_images/ogp.jpg",
+   "published": "2026-09-13T16:41+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "42eaf3f69ac2",
+   "url": "https://exawizards.com/column/ai-trend/news-09-13-2026/",
+   "title": "「AI開発は減速すべき」Anthropic CEOが提言、Altman氏、Musk氏が同日に同調 - AI新聞",
+   "summary": "米AnthropicのDario Amodei（ダリオ・アモデイ）CEOが9月12日、自身のサイトに「We Must Pace the Frontier（フロンティアのペースを調整せねばならない）」と題したエッセイを公開 […]",
+   "source": "株式会社エクサウィザーズ",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://exawizards.com/column/wp-content/uploads/2026/09/スクリーンショット-2026-09-13-13.57.59.jpg",
+   "published": "2026-09-13T14:01+09:00",
+   "collected": "2026-09-16T17:36+09:00"
+  },
+  {
+   "id": "6aaf7f24aeb1",
+   "url": "https://rocket-boys.co.jp/security-measures-lab/anthropic-claude-ai-safety-report/",
+   "title": "Anthropic、中国のAIが裏側でClaudeを利用と報告 Kimi・DeepSeekのユーザー入力転送、Alibaba蒸留、兵器開発にも悪用",
+   "summary": "Anthropic、中国のAIが裏側でClaudeを利用と報告 Kimi・DeepSeekのユーザー入力転送、Alibaba蒸留、兵器開発にも悪用",
+   "source": "合同会社ロケットボーイズ",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": null,
+   "published": "2026-09-13T11:00+09:00",
+   "collected": "2026-09-16T17:36+09:00",
    "_thumb_tries": 1
   },
   {
@@ -970,7 +1977,7 @@
    "thumbnail": null,
    "published": "2026-09-13T06:16+09:00",
    "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "ee6663ae007e",
@@ -985,7 +1992,7 @@
    "thumbnail": null,
    "published": "2026-09-13T03:00+09:00",
    "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "46af3aa4b297",
@@ -1000,6 +2007,20 @@
    "thumbnail": "https://substackcdn.com/image/fetch/$s_!5LAd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ad2af0-b40a-433d-bd78-0514683c9eb4_2560x1440.png",
    "published": "2026-09-13T00:01+09:00",
    "collected": "2026-09-16T17:32+09:00"
+  },
+  {
+   "id": "daaa7a0d942f",
+   "url": "https://www.youtube.com/shorts/SiJGdlmdUms",
+   "title": "GPT-6 Astra needs less babysitting",
+   "summary": "",
+   "source": "OpenAI",
+   "type": "video",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://i.ytimg.com/vi/SiJGdlmdUms/hqdefault.jpg",
+   "published": "2026-09-13T00:00+09:00",
+   "collected": "2026-09-16T17:36+09:00"
   }
  ]
 }
