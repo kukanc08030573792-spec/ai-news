@@ -230,6 +230,8 @@ def collect_candidates(cfg):
         if not cid:
             log(f"チャンネルID不明のためスキップ: {ch.get('name')}")
             continue
+        # 立て続けに叩くとYouTube側が404/500を返すため間隔を空ける
+        time.sleep(3)
         feed = fetch_feed(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}", timeout)
         n = add_entries(feed, ch.get("name", "YouTube"), "video",
                         ch.get("tier", "official"), ch.get("topic", "other"))
