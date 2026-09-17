@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-17T08:50+09:00",
+  "last_updated": "2026-09-17T09:52+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -45,6 +45,107 @@
  },
  "items": [
   {
+   "id": "4ed5979fa5f3",
+   "url": "https://ascii.jp/elem/000/004/435/4435575/?rss",
+   "title": "レベルファイブ「安易なAI使用」を謝罪 ユーザー向け映像ではAIを直接使わない方向へ",
+   "summary": "レベルファイブは9月17日、「LEVEL5 VISION 2026 II」で公開した一部PVについて、生成AIの使用による間違いや人的ミスがあったとして謝罪した。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/09/17/4526770/xl/bb879897536bdfbd.png?20200122",
+   "published": "2026-09-17T09:35+09:00",
+   "collected": "2026-09-17T09:52+09:00"
+  },
+  {
+   "id": "79ab0e137820",
+   "url": "https://markezine.jp/article/detail/77641",
+   "title": "電通デジタル、AI時代の購買体験に対応する「エージェンティックコマース最適化」支援を開始",
+   "summary": "",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-17T09:30+09:00",
+   "collected": "2026-09-17T09:52+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "6b8b0b6f48f2",
+   "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+   "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+   "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post M",
+   "source": "GitHub Blog (AI)",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://github.blog/wp-content/uploads/2026/01/generic-github-copilot-logo-stripe.png",
+   "published": "2026-09-17T09:26+09:00",
+   "collected": "2026-09-17T09:52+09:00"
+  },
+  {
+   "id": "9747f1bedca6",
+   "url": "https://ascii.jp/elem/000/004/435/4435559/?rss",
+   "title": "AI駆動型開発で生産性倍増を狙うIBM セキュリティ、トークンコスト、品質の課題をどう解決する？",
+   "summary": "日本IBMの年次イベント「Think Japan」が、2026年9月8日、オークラ東京で開催され、基調講演に登壇した日本IBMの村田将輝社長が、フロンティアAIを活用した製品およびサービスにおけるセキュリティ対策について説明。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/09/16/4526688/xl/2878abb4864347b5.jpg?20200122",
+   "published": "2026-09-17T09:00+09:00",
+   "collected": "2026-09-17T09:52+09:00"
+  },
+  {
+   "id": "e0185c5368f1",
+   "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+   "title": "datasette 1.0a40",
+   "summary": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the ",
+   "source": "Simon Willison",
+   "type": "article",
+   "tier": "voice",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-17T08:51+09:00",
+   "collected": "2026-09-17T09:52+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "cc26b568e696",
+   "url": "https://simonwillison.net/2026/Sep/16/datasette-2/",
+   "title": "datasette 0.65.5",
+   "summary": "Release: datasette 0.65.5 Security fix for an issue where a trailing newline in a requested table name could bypass table permissions and expose private rows, r",
+   "source": "Simon Willison",
+   "type": "article",
+   "tier": "voice",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-17T08:51+09:00",
+   "collected": "2026-09-17T09:52+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "d2f3ab14e50f",
+   "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+   "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+   "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track o",
+   "source": "The Verge AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=5.0466377440347%2C0%2C89.906724511931%2C100&w=1200",
+   "published": "2026-09-17T08:40+09:00",
+   "collected": "2026-09-17T09:52+09:00"
+  },
+  {
    "id": "307e9b027f09",
    "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
    "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
@@ -71,6 +172,20 @@
    "thumbnail": "https://assets.st-note.com/production/uploads/images/314486732/rectangle_large_type_2_a69580fcb4163a443db4a20f48f448b6.png?fit=bounds&quality=85&width=1280",
    "published": "2026-09-17T08:15+09:00",
    "collected": "2026-09-17T08:50+09:00"
+  },
+  {
+   "id": "2567a7dc9a18",
+   "url": "https://news.yahoo.co.jp/articles/c3195dbd7c1568f0f6342e36609daed056882a03",
+   "title": "Anthropic、Claudeの「チャット」と「Cowork」を統合 資料作成の「Docs」「Slides」も（ITmedia NEWS）",
+   "summary": "米Anthropicは9月16日（現地時間）、AIアシスタント「Claude」のチャットと、エージェント型の作業環境「Claude Cowork」を統合すると発表した。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000023-zdn_n-000-1-view.jpg?exp=10800",
+   "published": "2026-09-17T08:06+09:00",
+   "collected": "2026-09-17T09:52+09:00"
   },
   {
    "id": "4232e033adf5",
@@ -169,7 +284,7 @@
    "thumbnail": null,
    "published": "2026-09-17T08:00+09:00",
    "collected": "2026-09-17T08:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "eef9bcf0297f",
@@ -310,7 +425,7 @@
    "thumbnail": null,
    "published": "2026-09-17T07:03+09:00",
    "collected": "2026-09-17T08:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "49304d8a5eff",
@@ -339,7 +454,7 @@
    "thumbnail": null,
    "published": "2026-09-17T07:02+09:00",
    "collected": "2026-09-17T08:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "f5d640595de2",
@@ -354,7 +469,7 @@
    "thumbnail": null,
    "published": "2026-09-17T07:01+09:00",
    "collected": "2026-09-17T08:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "6088e66a9e22",
@@ -383,7 +498,7 @@
    "thumbnail": null,
    "published": "2026-09-17T07:00+09:00",
    "collected": "2026-09-17T08:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "1794bd8727f0",
@@ -398,7 +513,7 @@
    "thumbnail": null,
    "published": "2026-09-17T07:00+09:00",
    "collected": "2026-09-17T08:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "de7eaef39a80",
@@ -469,7 +584,7 @@
    "thumbnail": null,
    "published": "2026-09-17T06:30+09:00",
    "collected": "2026-09-17T08:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "c063f4b95a20",
@@ -666,7 +781,7 @@
    "thumbnail": null,
    "published": "2026-09-17T03:09+09:00",
    "collected": "2026-09-17T08:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "e82447047905",
@@ -807,7 +922,7 @@
    "thumbnail": null,
    "published": "2026-09-17T01:00+09:00",
    "collected": "2026-09-17T08:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5b258133c86f",
@@ -3356,7 +3471,7 @@
    "thumbnail": null,
    "published": "2026-09-14T20:40+09:00",
    "collected": "2026-09-17T08:50+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "e1c567bd7de2",
@@ -3483,7 +3598,7 @@
    "thumbnail": null,
    "published": "2026-09-14T09:30+09:00",
    "collected": "2026-09-17T08:50+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "3dab7f1784c1",
