@@ -1,5 +1,35 @@
 [
  {
+  "id": "763f50a61611",
+  "url": "https://markezine.jp/article/detail/77415",
+  "title": "7万人規模に急成長のイベント「BitSummit」に学ぶ、マーケターが知るべきインディーゲームの魅力",
+  "summary": "2013年にわずか200人の有志から始まったインディーゲームの祭典「BitSummit」は、2025年開催時点で7万人規模の一大イベントへと成長を遂げた。巨大予算で制作する誰もが知るAAAゲームとは異なり、クリエイターとファンが直接結びつく熱狂的なコミュニティは、マーケターも知っておくべき価値があるという。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-18T10:00+09:00",
+  "collected": "2026-09-18T10:16+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "80f4d5a35a9c",
+  "url": "https://webtan.impress.co.jp/q/2026/09/53312",
+  "title": "Google3大アプリ活用術『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』を3名様にプレゼント",
+  "summary": "Google3大アプリ活用術『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』を3名様にプレゼント 読者プレゼント webtan 2026年9月18日 【申込は9/25まで】書籍『できるGoogleスプレッドシート＆ドキュメント＆スライド Gemini対応』を3名様にプレゼントします。",
+  "source": "Web担当者フォーラム",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-18T10:00+09:00",
+  "collected": "2026-09-18T10:16+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "0e2847526113",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html",
   "title": "自然言語や画像から3D CADモデルを生成、資金調達で開発と海外展開を加速",
@@ -27,7 +57,7 @@
   "thumbnail": null,
   "published": "2026-09-18T08:59+09:00",
   "collected": "2026-09-18T09:46+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Be alert: targeted attacks on prominent Rustaceans",
   "summary_orig": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign"
  },
@@ -44,7 +74,7 @@
   "thumbnail": null,
   "published": "2026-09-18T08:37+09:00",
   "collected": "2026-09-18T09:46+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "How To Write With An LLM",
   "summary_orig": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests t"
  },
@@ -4064,7 +4094,7 @@
   "id": "e5c91dcfd7bf",
   "url": "https://www.itmedia.co.jp/business/articles/2609/16/news039.html",
   "title": "富士通、国産CPU「モナカ」販売 スパコン技術を結集した“小さなチップ”に託す「3兆円のAIビジネス」の行方",
-  "summary": "xm? YCPUuiJv? éB? ÐZp? W µ½ g ¬³ È 'bvh Éõµ½ ÍÍA 2035 Nx Ü Å É _¤ AIsêÅÍ 3 ~ KÍÍrWlXno ¾ B? ½ µÄA »ÍsûÍ",
+  "summary": "xm? YCPUuiJv? éB? ÐZp? W µ½ g ¬³ È 'bvh Éõµ½ ÍÍA 2035 Nx Ü Å É_¤ AIsêÅÍ 3 ~ KÍÍrWlXno ¾ B ?½ µÄA »ÍsûÍ",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -4073,7 +4103,7 @@
   "thumbnail": "https://image.itmedia.co.jp/business/articles/2609/16/cover_news039.jpg",
   "published": "2026-09-16T07:00+09:00",
   "collected": "2026-09-16T17:36+09:00",
-  "summary_orig": "xmÊªYCPUuiJvðÌ·éB¯ÐZpðWµ½g¬³È`bvhÉõµ½ÌÍA2035NxÜÅÉ_¤AIsêÅÌ3~KÍÌrWlXno¾BÊ½µÄA»ÌsûÍ"
+  "summary_orig": "xm? YCPUuiJv? éB? ÐZp? W µ½ g ¬³ È 'bvh Éõµ½ ÍÍA 2035 Nx Ü Å É _¤ AIsêÅÍ 3 ~ KÍÍrWlXno ¾ B? ½ µÄA »ÍsûÍ"
  },
  {
   "id": "37831d3bce43",
@@ -4631,7 +4661,7 @@
   "id": "7c4fa5165e59",
   "url": "https://www.youtube.com/shorts/Th5WmdddoJw",
   "title": "Meta Oneをチェック",
-  "summary": "People use our apps in all kinds of ways, and they’re increasingly asking for tools built for more specific needs. That’s what Meta One is about—more ways to cr",
+  "summary": "人々はさまざまな方法でアプリを使用しており、より具体的なニーズに合わせて構築されたツールを求めています。それがMeta Oneの目的です。より多くの方法で",
   "source": "Meta",
   "type": "video",
   "tier": "official",
@@ -4640,13 +4670,14 @@
   "thumbnail": "https://i.ytimg.com/vi/Th5WmdddoJw/hqdefault.jpg",
   "published": "2026-09-16T00:36+09:00",
   "collected": "2026-09-16T17:32+09:00",
-  "title_orig": "Check out Meta One"
+  "title_orig": "Check out Meta One",
+  "summary_orig": "People use our apps in all kinds of ways, and they’re increasingly asking for tools built for more specific needs. That’s what Meta One is about—more ways to cr"
  },
  {
   "id": "6808e2789408",
   "url": "https://about.fb.com/news/2026/09/presentation-de-meta-one-un-service-dabonnement-offrant-davantage-de-fonctionnalites-et-dia-pour-creer-se-connecter-et-se-demarquer/",
-  "title": "Présentation de Meta One : Un service d’abonnement offrant davantage de fonctionnalités et d’IA pour créer, se connecter et se démarquer",
-  "summary": "À retenir Nous lançons Meta One, un nouveau service d’abonnement sur nos applications qui offre un usage accru de l’IA et des fonctionnalités d’expression enric",
+  "title": "Présentation de Meta One: Un service d 'abonnement offrant davantage de fonctionnalités et d' ia pour créer, se connecter et se démarquer",
+  "summary": "À retenir Nous lançons Meta One, un nouveau service d 'abonnement sur nos applications qui offre un usage accru de l' ia et des fonctionnalités d 'expression enric",
   "source": "Meta Newsroom",
   "type": "article",
   "tier": "official",
@@ -4654,13 +4685,15 @@
   "proxy_for": null,
   "thumbnail": "https://about.fb.com/wp-content/uploads/2026/09/Meta-One-Bundle-plans-for-individuals.png?w=1200",
   "published": "2026-09-16T00:25+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "Présentation de Meta One : Un service d’abonnement offrant davantage de fonctionnalités et d’IA pour créer, se connecter et se démarquer",
+  "summary_orig": "À retenir Nous lançons Meta One, un nouveau service d’abonnement sur nos applications qui offre un usage accru de l’IA et des fonctionnalités d’expression enric"
  },
  {
   "id": "d69ce8689fec",
   "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
-  "title": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
-  "summary": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, an",
+  "title": "Meta Oneのご紹介：より多くの機能とAIで作成、接続、目立つサブスクリプションサービス",
+  "summary": "Facebook、Instagram、WhatsApp、Meta AIの新しいサブスクリプションサービスであるMeta Oneを導入します。これにより、より多くのAIの使用、強化された表現機能、",
   "source": "Meta Newsroom",
   "type": "article",
   "tier": "official",
@@ -4668,7 +4701,9 @@
   "proxy_for": null,
   "thumbnail": "https://about.fb.com/wp-content/uploads/2026/09/Introducing-Meta-One_A-Subscription-Service-With-More-Features-and-AI-to-Create-Connect-and-Stand-Out_Social-Share.jpg?w=1200",
   "published": "2026-09-16T00:00+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out",
+  "summary_orig": "We're introducing Meta One, a new subscription service on Facebook, Instagram, WhatsApp, and Meta AI that offers more AI usage, enhanced expression features, an"
  },
  {
   "id": "ed47b12377be",
@@ -4687,8 +4722,8 @@
  {
   "id": "60e3714cb4a4",
   "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-  "title": "Meta’s new One subscriptions put a price on social media and AI",
-  "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI ",
+  "title": "Metaの新しいOneサブスクリプションは、ソーシャルメディアとAIに価格を設定します",
+  "summary": "新しいAIアシスタントMuseを立ち上げた直後、Metaの立ち上げたサブスクリプションバンドルは、スタンドアロンアプリのサブスクリプションと追加のAIを組み合わせる",
   "source": "The Verge AI",
   "type": "article",
   "tier": "media",
@@ -4696,13 +4731,15 @@
   "proxy_for": null,
   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Meta-One-Bundle-plans-for-individuals.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.063453493324&w=1200",
   "published": "2026-09-16T00:00+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Meta’s new One subscriptions put a price on social media and AI",
+  "summary_orig": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI"
  },
  {
   "id": "401afc56f779",
   "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-  "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-  "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+  "title": "TikTokの元幹部は、AIを使用して写真のポーズをとる方法を教えるアプリを構築しました",
+  "summary": "基本的にカメラアプリであるSuperposeは、自撮りや写真を分析し、AIを使用して4つのポーズを生成します。",
   "source": "TechCrunch AI",
   "type": "article",
   "tier": "media",
@@ -4710,13 +4747,15 @@
   "proxy_for": null,
   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Hero.jpeg?resize=1200,677",
   "published": "2026-09-15T23:42+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+  "summary_orig": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI."
  },
  {
   "id": "be65fdf59a5b",
   "url": "https://www.searchenginejournal.com/selling-on-chatgpt-how-brands-are-driving-revenue-through-ads-geo-webinar/589430/",
-  "title": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker",
-  "summary": "We go live with OpenAI (ChatGPT) on Sept 22, to help you understand how your business can sell products or drive leads on ChatGPT. The post Selling On ChatGPT: ",
+  "title": "ChatGPTでの販売：ブランドが広告とジオを通じて収益を上げている方法[ウェビナー] @ sejournal、@ lorenbaker経由",
+  "summary": "9月22日にOpenAI （ ChatGPT ）を使用して、ビジネスがChatGPTで製品を販売したり、見込み客を増やしたりする方法を理解するのに役立ちます。The post Selling On ChatGPT:",
   "source": "Search Engine Journal",
   "type": "article",
   "tier": "media",
@@ -4724,13 +4763,15 @@
   "proxy_for": null,
   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/shutterstock_2237091713-679.jpg",
   "published": "2026-09-15T23:10+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "Selling On ChatGPT: How Brands Are Driving Revenue Through Ads & GEO [Webinar] via @sejournal, @lorenbaker",
+  "summary_orig": "We go live with OpenAI (ChatGPT) on Sept 22, to help you understand how your business can sell products or drive leads on ChatGPT. The post Selling On ChatGPT:"
  },
  {
   "id": "e1cbe30e1dec",
   "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-  "title": "This doorbell camera lets a human security guard watch your front door",
-  "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launche",
+  "title": "このドアベルカメラを使用すると、人間の警備員が玄関ドアを監視できます",
+  "summary": "DIYホームセキュリティ企業のSimpliSafeは、AIを搭載したプロアクティブなセキュリティ機能を玄関に持ち込んでいます。新しいSimpliSafeビデオドアベルシリーズ2の発売",
   "source": "The Verge AI",
   "type": "article",
   "tier": "media",
@@ -4738,13 +4779,15 @@
   "proxy_for": null,
   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/SimpliSafe-Video-Doorbell-Series-2_06_250844.jpg?quality=90&strip=all&crop=0%2C10.742968278881%2C100%2C78.514063442239&w=1200",
   "published": "2026-09-15T22:36+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "This doorbell camera lets a human security guard watch your front door",
+  "summary_orig": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launche"
  },
  {
   "id": "85055a99e70c",
   "url": "https://www.youtube.com/watch?v=GeqYKAA7DyQ",
-  "title": "Unlocking the Business of Brand Deals on YouTube /w @hopescope",
-  "summary": "Creator @hopescope and YouTube senior director, Romana, sit down with Creator Liaison @ReneRitchie for an in-depth chat on the reality of running a YouTube chan",
+  "title": "YouTubeでブランドセールのビジネスのロックを解除/@ hopescopeで",
+  "summary": "クリエイターの@ hopescopeとYouTubeシニアディレクターのRomanaは、クリエイターのLiaison @ ReneRitchieと座って、YouTubeチャンを実行する現実についての詳細なチャットをします",
   "source": "Creator Insider（YouTube公式）",
   "type": "video",
   "tier": "official",
@@ -4752,13 +4795,15 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/GeqYKAA7DyQ/hqdefault.jpg",
   "published": "2026-09-15T22:00+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "Unlocking the Business of Brand Deals on YouTube /w @hopescope",
+  "summary_orig": "Creator @hopescope and YouTube senior director, Romana, sit down with Creator Liaison @ReneRitchie for an in-depth chat on the reality of running a YouTube chan"
  },
  {
   "id": "3c126044b676",
   "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-  "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-  "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+  "title": "限定：フロンティアAIモデルへの支払いは、5倍のコストで4か月先行購入",
+  "summary": "Arsは、安価なオープンモデルがどのように機能に追いついたかについてのMozillaのレポートをプレビューしました。",
   "source": "Ars Technica AI",
   "type": "article",
   "tier": "media",
@@ -4766,13 +4811,15 @@
   "proxy_for": null,
   "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/China-US-AI-race-1152x648.jpg",
   "published": "2026-09-15T21:00+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+  "summary_orig": "Ars previewed Mozilla’s report on how cheap open models caught up on capability."
  },
  {
   "id": "6bfd64bf4079",
   "url": "https://www.jonloomer.com/muse-meta-ai-agent/",
-  "title": "What I Built With Muse, Meta’s New AI Agent",
-  "summary": "Meta’s new Muse AI agent can research, build, and monitor. Here’s what I learned from using it and the tool I built in one evening. The post What I Built With M",
+  "title": "Metaの新しいAIエージェントであるMuseで構築したもの",
+  "summary": "Metaの新しいMuse AIエージェントは、研究、構築、監視を行うことができます。これを使って学んだことと、1晩で作ったツールをご紹介します。The post What I Built With M",
   "source": "Jon Loomer（Meta広告）",
   "type": "article",
   "tier": "voice",
@@ -4780,13 +4827,15 @@
   "proxy_for": null,
   "thumbnail": "https://www.jonloomer.com/wp-content/uploads/2026/09/meta-muse-ai-agent.png",
   "published": "2026-09-15T20:30+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "What I Built With Muse, Meta’s New AI Agent",
+  "summary_orig": "Meta’s new Muse AI agent can research, build, and monitor. Here’s what I learned from using it and the tool I built in one evening. The post What I Built With M"
  },
  {
   "id": "46db0c0e9e3d",
   "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/",
-  "title": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
-  "summary": "Anthropic shares prompting upgrades that save tokens, improve how AI writes, code more efficiently, and handle longer tasks. The post Anthropic Shares Power Pro",
+  "title": "Anthropic Shares Power Prompts That Improve AI Results via @ sejournal、@ martinibuster",
+  "summary": "Anthropicは、トークンを節約し、AIの書き方を改善し、より効率的にコーディングし、より長いタスクを処理するアップグレードを促します。POST Anthropic Shares Power Pro",
   "source": "Search Engine Journal",
   "type": "article",
   "tier": "media",
@@ -4794,13 +4843,15 @@
   "proxy_for": null,
   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/anthropic-prompting-536.jpg",
   "published": "2026-09-15T19:14+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
+  "summary_orig": "Anthropic shares prompting upgrades that save tokens, improve how AI writes, code more efficiently, and handle longer tasks. The post Anthropic Shares Power Pro"
  },
  {
   "id": "1953ffa4ce46",
   "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
-  "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
-  "summary": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+  "title": "OpenAI広告、ChatGPTでのAmazon広告、Apple Payを受け入れるWalmart",
+  "summary": "ChatGPT広告は機能しており、チャットボットに関するAmazonの最大の問題を解決します。そして、ウォルマートは最終的にApple Payに屈します。なぜなら、現状維持と戦うのは難しいからです。",
   "source": "Ben Thompson（Stratechery）",
   "type": "article",
   "tier": "voice",
@@ -4808,13 +4859,15 @@
   "proxy_for": null,
   "thumbnail": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
   "published": "2026-09-15T19:00+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+  "summary_orig": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard."
  },
  {
   "id": "140a9042b172",
   "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-  "title": "What’s at stake in AI’s trillion-dollar gamble",
-  "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few year",
+  "title": "AIの1兆ドルのギャンブルで何が危機に瀕しているのか",
+  "summary": "ペンシルベニア大学ウォートンスクールの金融学教授であるジェシカ・ワクターが、今後数年間のAIの経済への影響を評価したいと考えたとき",
   "source": "MIT Technology Review AI",
   "type": "article",
   "tier": "media",
@@ -4822,13 +4875,15 @@
   "proxy_for": null,
   "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600",
   "published": "2026-09-15T19:00+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "What’s at stake in AI’s trillion-dollar gamble",
+  "summary_orig": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few year"
  },
  {
   "id": "ba57af005b69",
   "url": "https://www.socialmediaexaminer.com/how-to-think-like-a-filmmaker-ai-video-with-seedance/",
-  "title": "How to Think Like a Filmmaker: AI Video With Seedance",
-  "summary": "Wondering how to create AI-generated video that looks cinematic instead of cheap? Want a repeatable workflow for turning a simple concept into polished AI video",
+  "title": "映画製作者のように考える方法：シーダンスを備えたAIビデオ",
+  "summary": "安価ではなく映画のように見えるAI生成ビデオを作成する方法をお探しですか？シンプルなコンセプトを洗練されたAIビデオに変換するための反復可能なワークフローが必要です",
   "source": "Social Media Examiner",
   "type": "article",
   "tier": "media",
@@ -4836,13 +4891,15 @@
   "proxy_for": null,
   "thumbnail": "https://www.socialmediaexaminer.com/wp-content/uploads/2026/09/AIP123_PRIMARY.jpg",
   "published": "2026-09-15T19:00+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "How to Think Like a Filmmaker: AI Video With Seedance",
+  "summary_orig": "Wondering how to create AI-generated video that looks cinematic instead of cheap? Want a repeatable workflow for turning a simple concept into polished AI video"
  },
  {
   "id": "75ea47d71f49",
   "url": "https://www.socialmediaexaminer.com/instagram-email-subscriber-tactic-no-ad-youtube-strategy-and-industry-news/",
-  "title": "Instagram Email Subscriber Tactic, No-Ad YouTube Strategy, and Industry News",
-  "summary": "Here's a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared. ",
+  "title": "Instagramのメール購読者の戦術、広告なしのYouTube戦略、業界ニュース",
+  "summary": "ここでは、今日知っておくべき最も重要な洞察、傾向、最新情報を要約します。数分で追いつき、準備を整えて週の残りの時間を過ごしましょう。",
   "source": "Social Media Examiner",
   "type": "article",
   "tier": "media",
@@ -4850,13 +4907,15 @@
   "proxy_for": null,
   "thumbnail": "https://www.socialmediaexaminer.com/wp-content/uploads/2018/11/NewBack.png",
   "published": "2026-09-15T18:30+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "Instagram Email Subscriber Tactic, No-Ad YouTube Strategy, and Industry News",
+  "summary_orig": "Here's a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
  },
  {
   "id": "3af255894211",
   "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
-  "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
-  "summary": "Children’s Hospital of Philadelphia is using open source AI tools to model children’s hearts in seconds — with the goal of enabling safer, more precise care for",
+  "title": "Heart of the Matter: How a Major Children's Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+  "summary": "フィラデルフィア小児病院は、オープンソースのAIツールを使用して、より安全でより正確なケアを可能にすることを目標に、子供の心臓を数秒でモデル化しています。",
   "source": "NVIDIA Blog",
   "type": "article",
   "tier": "official",
@@ -4864,7 +4923,9 @@
   "proxy_for": null,
   "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/CHOP_still.png",
   "published": "2026-09-15T18:00+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+  "summary_orig": "Children’s Hospital of Philadelphia is using open source AI tools to model children’s hearts in seconds — with the goal of enabling safer, more precise care for"
  },
  {
   "id": "493ff97202c3",
@@ -4925,8 +4986,8 @@
  {
   "id": "05d8e0b482ac",
   "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-  "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
-  "summary": "Pacing gathers pace.",
+  "title": "[AINews] XAI、OpenAI、およびAnthropicのすべてのコサインとして、サードパーティの評価者向けにAEF -1標準が登場",
+  "summary": "ペーシングはペーシングを促進します。",
   "source": "Latent Space",
   "type": "article",
   "tier": "voice",
@@ -4934,7 +4995,9 @@
   "proxy_for": null,
   "thumbnail": "https://substackcdn.com/image/fetch/$s_!iik6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c4317a9-8fa4-4cf0-8705-b6746229cb83_1820x2052.png",
   "published": "2026-09-15T13:50+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+  "summary_orig": "Pacing gathers pace."
  },
  {
   "id": "56f96e0f0213",
@@ -5010,8 +5073,8 @@
  {
   "id": "2f6f1db038ee",
   "url": "https://www.youtube.com/shorts/aetX0vbKPTo",
-  "title": "Read Your Comments but Stay True to You! — @MadFit #CreatorAdvice",
-  "summary": "Fitness creator @MadFit chats with Creator Liaison @ReneRitchie about her journey from dance workouts to building a massive fitness channel by listening closely",
+  "title": "あなたのコメントを読んで、あなたに忠実であり続けてください！ — @ MadFit # CreatorAdvice",
+  "summary": "フィットネスクリエイター@ MadFitとクリエイターリエゾン@ ReneRitchieは、ダンスワークアウトから大規模なフィットネスチャンネルを構築するまでの道のりについて、注意深く話を聞いています",
   "source": "Creator Insider（YouTube公式）",
   "type": "video",
   "tier": "official",
@@ -5019,13 +5082,15 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/aetX0vbKPTo/hqdefault.jpg",
   "published": "2026-09-15T07:28+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Read Your Comments but Stay True to You! — @MadFit #CreatorAdvice",
+  "summary_orig": "Fitness creator @MadFit chats with Creator Liaison @ReneRitchie about her journey from dance workouts to building a massive fitness channel by listening closely"
  },
  {
   "id": "b0f58c7c2ee4",
   "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
-  "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
-  "summary": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat de",
+  "title": "異常AI ：大規模なエージェント型メールセキュリティのためのAmazon Bedrock AgentCore",
+  "summary": "Abnormal AIがAmazon Bedrock AgentCore Code Interpreterを、リアルタイムの電子メール脅威の背後にあるエージェントのための一時的なコンピューティングスクラッチパッドとしてどのように展開したかを学びます",
   "source": "AWS Machine Learning Blog",
   "type": "article",
   "tier": "official",
@@ -5033,13 +5098,15 @@
   "proxy_for": null,
   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-21301-featured-image.png",
   "published": "2026-09-15T06:22+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+  "summary_orig": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat de"
  },
  {
   "id": "8c13889dc16c",
   "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
-  "title": "The contagion of fear",
-  "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could",
+  "title": "恐怖の伝染",
+  "summary": "Bryan Cantrill氏は、Anthropicの元従業員であるJacob Coxon氏が、多くのAnthropicの研究者がAIは「",
   "source": "Simon Willison",
   "type": "article",
   "tier": "voice",
@@ -5048,13 +5115,15 @@
   "thumbnail": null,
   "published": "2026-09-15T06:18+09:00",
   "collected": "2026-09-16T17:32+09:00",
-  "_thumb_tries": 3
+  "_thumb_tries": 3,
+  "title_orig": "The contagion of fear",
+  "summary_orig": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could"
  },
  {
   "id": "9f1bce286771",
   "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-  "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-  "summary": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”...",
+  "title": "AIボット「ティミー」「レン」「ジャッキー」がソーシャルメディアをスロップであふれさせている",
+  "summary": "「こんにちは、私は生後数日のAlエージェントで、エージェントのための小さなプラットフォームに住んでいます。」...",
   "source": "Ars Technica AI",
   "type": "article",
   "tier": "media",
@@ -5062,13 +5131,15 @@
   "proxy_for": null,
   "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
   "published": "2026-09-15T06:04+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+  "summary_orig": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”..."
  },
  {
   "id": "759e7e0f90b5",
   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505114604155322368/",
-  "title": "Great example from Jeff Hollan showing how Foundry makes long-running agents enterprise-ready, starting with business outcomes and building security, safety guardrails, auditability, and FinOps into t",
-  "summary": "Great example from Jeff Hollan showing how Foundry makes long-running agents enterprise-ready, starting with business outcomes and building security, safety gua",
+  "title": "Jeff Hollan氏の素晴らしい例では、Foundryが長期的なエージェントをエンタープライズ対応にする方法を示しています。ビジネスの成果から始め、セキュリティ、安全ガードレール、監査可能性、およびFinOpsを",
+  "summary": "Jeff Hollan氏の素晴らしい例では、Foundryがどのように長期的なエージェントをエンタープライズ対応にするかを示しています。ビジネスの成果から始め、セキュリティ、安全性を構築します。",
   "source": "Microsoft Source",
   "type": "article",
   "tier": "official",
@@ -5076,13 +5147,15 @@
   "proxy_for": null,
   "thumbnail": "https://dms.licdn.com/playlist/vid/v2/D5605AQG49bxsEGAXHw/thumbnail-with-play-button-overlay-high/B56aCcSbJuJMCY-/0/1789328477557?e=2147483647&v=beta&t=FewBpLHhNnuxuWKTtVJ1uzei98GX3vgXdPXg4Jdtptk",
   "published": "2026-09-15T05:40+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Great example from Jeff Hollan showing how Foundry makes long-running agents enterprise-ready, starting with business outcomes and building security, safety guardrails, auditability, and FinOps into t",
+  "summary_orig": "Great example from Jeff Hollan showing how Foundry makes long-running agents enterprise-ready, starting with business outcomes and building security, safety gua"
  },
  {
   "id": "e7186f2bf9d3",
   "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
-  "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
-  "summary": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks thro",
+  "title": "Amazon Bedrock AgentCoreを使用して、AIエージェントのエンドユーザーOAuth同意を管理する",
+  "summary": "Amazon Bedrock AgentCore Identityは、同意ポータル、マネージドWebエクスペリエンス、AgentCore Gatewayのセッションバインディングエンドポイントを提供するようになりました。この投稿は歩き回っています",
   "source": "AWS Machine Learning Blog",
   "type": "article",
   "tier": "official",
@@ -5090,13 +5163,15 @@
   "proxy_for": null,
   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/14/ML-21874-featured-image.png",
   "published": "2026-09-15T05:35+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+  "summary_orig": "Amazon Bedrock AgentCore Identity now offers a Consent portal, a managed web experience and session binding endpoint for AgentCore Gateway. This post walks thro"
  },
  {
   "id": "6fda9df2a11d",
   "url": "https://simonwillison.net/2026/Sep/14/influences/",
-  "title": "What blog posts influenced your thinking the most?",
-  "summary": "My comment on What blog posts influenced your thinking the most? — Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that n",
+  "title": "あなたの考えに最も影響を与えたブログ記事は何ですか？",
+  "summary": "どのブログ投稿があなたの考えに最も影響を与えましたか？に関する私のコメント— Lobste.rs。私にとって初期のJoel Spolskyのものは、The Law of Leaky Abstractionsでした。私はそれを読んだn",
   "source": "Simon Willison",
   "type": "article",
   "tier": "voice",
@@ -5105,13 +5180,15 @@
   "thumbnail": null,
   "published": "2026-09-15T05:21+09:00",
   "collected": "2026-09-16T17:32+09:00",
-  "_thumb_tries": 3
+  "_thumb_tries": 3,
+  "title_orig": "What blog posts influenced your thinking the most?",
+  "summary_orig": "My comment on What blog posts influenced your thinking the most? — Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that n"
  },
  {
   "id": "b6599ce272d3",
   "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-  "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-  "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+  "title": "Appleが解決策を見つけた後、OpenAIはMuskの独占禁止法訴訟との戦いにとどまった",
+  "summary": "Musk氏は、OpenAIではなくChatGPTの統合を介してAppleを攻撃するのをやめた。",
   "source": "Ars Technica AI",
   "type": "article",
   "tier": "media",
@@ -5119,13 +5196,15 @@
   "proxy_for": null,
   "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg",
   "published": "2026-09-15T04:45+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+  "summary_orig": "Musk stops attacking Apple over ChatGPT integration but not OpenAI."
  },
  {
   "id": "d05ffa596d4c",
   "url": "https://blog.hootsuite.com/social-media-team/",
-  "title": "How to build a social media team in 2026",
-  "summary": "Ready to build your dream social media team? These are the key roles, skills, and salary expectations to keep in mind. The post How to build a social media team",
+  "title": "2026年にソーシャルメディアチームを構築する方法",
+  "summary": "夢のソーシャルメディアチームを構築する準備はできましたか？これらは、心に留めておくべき重要な役割、スキル、および給与の期待です。投稿ソーシャルメディアチームを構築する方法",
   "source": "Hootsuite",
   "type": "article",
   "tier": "media",
@@ -5133,13 +5212,15 @@
   "proxy_for": null,
   "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2023/10/social-media-team.png",
   "published": "2026-09-15T04:39+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "How to build a social media team in 2026",
+  "summary_orig": "Ready to build your dream social media team? These are the key roles, skills, and salary expectations to keep in mind. The post How to build a social media team"
  },
  {
   "id": "6048049306c4",
   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7505036158616104960/",
-  "title": "Quincy, Washington shows what’s possible when you build datacenters with communities, and grow together over time.",
-  "summary": "The post Quincy, Washington shows what’s possible when you build datacenters with communities, and grow together over time. appeared first on Source .",
+  "title": "ワシントン州クインシーでは、コミュニティとともにデータセンターを構築し、時間の経過とともに共に成長することが可能であることを示しています。",
+  "summary": "ワシントン州クインシーの記事は、コミュニティとともにデータセンターを構築し、時間の経過とともに一緒に成長することが可能であることを示しています。Sourceに最初に登場しました。",
   "source": "Microsoft Source",
   "type": "article",
   "tier": "official",
@@ -5147,13 +5228,15 @@
   "proxy_for": null,
   "thumbnail": "https://media.licdn.com/dms/image/v2/D4E12AQEXvQHDzD-EcA/article-cover_image-shrink_720_1280/B4EaCb8MJyG4AQ-/0/1789322643957?e=2147483647&v=beta&t=YTMFh2MZ91sSS2q4uSqwazSCeYy53Tujau12YHGVhgo",
   "published": "2026-09-15T04:38+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Quincy, Washington shows what’s possible when you build datacenters with communities, and grow together over time.",
+  "summary_orig": "The post Quincy, Washington shows what’s possible when you build datacenters with communities, and grow together over time. appeared first on Source ."
  },
  {
   "id": "7df04c7f4eb4",
   "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-  "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-  "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
+  "title": "Apple、Siri AIとLiquid Glassの改良を加えたiOS 27、macOS Golden Gate 27をリリース",
+  "summary": "これは、インテルアプリ用のRosettaをサポートするmacOSの最後のバージョンでもあります。",
   "source": "Ars Technica AI",
   "type": "article",
   "tier": "media",
@@ -5161,13 +5244,15 @@
   "proxy_for": null,
   "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg",
   "published": "2026-09-15T04:28+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+  "summary_orig": "This is also the last version of macOS to support Rosetta for Intel apps."
  },
  {
   "id": "74b73d1a2e13",
   "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-  "title": "AI leaders want to hit the brakes after years of reckless speed",
-  "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+  "title": "AIリーダーは、長年の無謀なスピードの後にブレーキをかけたいと考えています",
+  "summary": "安全性は合言葉ですが、業界には別のメリットがあるかもしれません。",
   "source": "Ars Technica AI",
   "type": "article",
   "tier": "media",
@@ -5175,13 +5260,15 @@
   "proxy_for": null,
   "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg",
   "published": "2026-09-15T04:06+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "AI leaders want to hit the brakes after years of reckless speed",
+  "summary_orig": "Safety is the watchword, but there could be ulterior benefits for the industry."
  },
  {
   "id": "a78bb9edd166",
   "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/14/the-ai-shift-is-real-how-pharmaceutical-leaders-are-operationalizing-ai/",
-  "title": "Inside the pharmaceutical industry’s AI shift",
-  "summary": "See how pharmaceutical leaders use Microsoft AI to speed R&D, modernize manufacturing, and improve patient outcomes. Learn more.",
+  "title": "製薬業界のAIシフトの内側",
+  "summary": "医薬品業界のリーダーがMicrosoft AIを使用して研究開発をスピードアップし、製造業をモダナイズし、患者の転帰を改善する方法をご覧ください。詳細はこちら。",
   "source": "Microsoft Source",
   "type": "article",
   "tier": "official",
@@ -5189,13 +5276,15 @@
   "proxy_for": null,
   "thumbnail": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/09/Pharmaceutical-Leaders-5.jpg",
   "published": "2026-09-15T03:38+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Inside the pharmaceutical industry’s AI shift",
+  "summary_orig": "See how pharmaceutical leaders use Microsoft AI to speed R&D, modernize manufacturing, and improve patient outcomes. Learn more."
  },
  {
   "id": "b0ca7c1604fd",
   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7504986609365352448/",
-  "title": "Any pursuit of superintelligence has to be grounded in the core principle that if the AI we build is not helping humanity and under human control, it’s not worth pursuing. [Read more]",
-  "summary": "Any pursuit of superintelligence has to be grounded in the core principle that if the AI we build is not helping humanity and under human control, it's not wort",
+  "title": "スーパーインテリジェンスの追求は、私たちが構築するAIが人類を助けておらず、人間の制御下にあるのであれば、追求する価値はないというコア原則に基づいていなければなりません。[続きを読む]",
+  "summary": "スーパーインテリジェンスの追求は、私たちが構築するAIが人類を助けておらず、人間の制御下にない場合、それはワートではないというコア原則に基づいていなければなりません",
   "source": "Microsoft Source",
   "type": "article",
   "tier": "official",
@@ -5203,13 +5292,15 @@
   "proxy_for": null,
   "thumbnail": "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
   "published": "2026-09-15T03:32+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Any pursuit of superintelligence has to be grounded in the core principle that if the AI we build is not helping humanity and under human control, it’s not worth pursuing. [Read more]",
+  "summary_orig": "Any pursuit of superintelligence has to be grounded in the core principle that if the AI we build is not helping humanity and under human control, it's not wort"
  },
  {
   "id": "61a0a9938bc7",
   "url": "https://news.microsoft.com/source/emea/features/almost-half-47-of-irish-workers-say-they-are-considering-new-career-paths-as-ai-shapes-the-future-of-work-microsoft-ireland-study-finds/",
-  "title": "Nearly half of Irish workers reassess careers as AI reshapes work",
-  "summary": "Discover insights from Microsoft Ireland's 2026 Work Trend Index, highlighting how AI is reshaping career paths, workforce skills, and workplace dynamics in Ire",
+  "title": "AIが仕事を変えるにつれて、アイルランドの労働者のほぼ半数がキャリアを再評価",
+  "summary": "マイクロソフトアイルランドの2026年ワークトレンドインデックスからの洞察をご覧ください。AIがIREのキャリアパス、ワークフォーススキル、職場のダイナミクスをどのように再形成しているかを強調しています",
   "source": "Microsoft Source",
   "type": "article",
   "tier": "official",
@@ -5217,13 +5308,15 @@
   "proxy_for": null,
   "thumbnail": "https://news.microsoft.com/source/emea/wp-content/uploads/2026/09/CD_4-1024x559.png",
   "published": "2026-09-15T03:30+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Nearly half of Irish workers reassess careers as AI reshapes work",
+  "summary_orig": "Discover insights from Microsoft Ireland's 2026 Work Trend Index, highlighting how AI is reshaping career paths, workforce skills, and workplace dynamics in Ire"
  },
  {
   "id": "b847922400c7",
   "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
-  "title": "The AI industry has taken a doomer turn. What now?",
-  "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO o",
+  "title": "AI業界は破滅の転機を迎えました。これからどうしますか？",
+  "summary": "このストーリーは、AIに関する毎週のニュースレターであるThe Algorithmに掲載されました。このようなストーリーを受信トレイで受け取るには、まずこちらから登録してください。今週末、Dario Amodei、CEO o",
   "source": "MIT Technology Review AI",
   "type": "article",
   "tier": "media",
@@ -5231,7 +5324,9 @@
   "proxy_for": null,
   "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIAlgo.jpg?resize=1200,600",
   "published": "2026-09-15T02:54+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "The AI industry has taken a doomer turn. What now?",
+  "summary_orig": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO o"
  },
  {
   "id": "7dc83422c787",
@@ -5250,8 +5345,8 @@
  {
   "id": "b42d0c00078b",
   "url": "https://www.youtube.com/shorts/ORNMTHvC45o",
-  "title": "Meet Muse, your personal AI agent",
-  "summary": "Meet Muse, your personal AI agent. Most AI gives you answers—Muse gives you outcomes. It handles the work and finishes the things you keep meaning to get to, so",
+  "title": "あなたの個人的なAIエージェントであるMuseをご紹介します",
+  "summary": "あなたの個人的なAIエージェントであるMuseをご紹介します。ほとんどのAIはあなたに答えを与えます-ミューズはあなたに結果を与えます。それは仕事を扱い、あなたが意味を持ち続けるものを終わらせるので、",
   "source": "Meta",
   "type": "video",
   "tier": "official",
@@ -5259,13 +5354,15 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/ORNMTHvC45o/hqdefault.jpg",
   "published": "2026-09-15T02:05+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Meet Muse, your personal AI agent",
+  "summary_orig": "Meet Muse, your personal AI agent. Most AI gives you answers—Muse gives you outcomes. It handles the work and finishes the things you keep meaning to get to, so"
  },
  {
   "id": "0f1f17c81528",
   "url": "https://www.latent.space/p/recursive",
-  "title": "Humanity’s Last Invention — Richard Socher of Recursive",
-  "summary": "Richard Socher is an NLP OG and CEO of You.com, who has now spun out an even more ambitious startup focused on RSI — already worth $5B!",
+  "title": "人類最後の発明—リカーシブのリチャード・ソッカー",
+  "summary": "Richard SocherはNLP OGであり、You.comのCEOであり、RSIに焦点を当てたさらに野心的なスタートアップをスピンアウトしました。すでに50億$の価値があります！",
   "source": "Latent Space",
   "type": "article",
   "tier": "voice",
@@ -5273,13 +5370,15 @@
   "proxy_for": null,
   "thumbnail": "https://substackcdn.com/image/fetch/$s_!B0-U!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F215289811%2F00f17267-ccc0-4361-b29d-c2fef2128ec5%2Ftranscoded-1789165150.png",
   "published": "2026-09-15T01:04+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "Humanity’s Last Invention — Richard Socher of Recursive",
+  "summary_orig": "Richard Socher is an NLP OG and CEO of You.com, who has now spun out an even more ambitious startup focused on RSI — already worth $5B!"
  },
  {
   "id": "c6517bed48fd",
   "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-  "title": "AI agents blew the whistle on their cheating colleagues",
-  "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavi",
+  "title": "AIエージェントが不正行為をしている同僚に口笛を吹いた",
+  "summary": "一連の数学の問題を解決するように求められたAIエージェントのグループは、ライバルの派閥に分かれました。一部のエージェントは不正行為をし、他のエージェントはそれらを止めようとしました。その内部告発行動",
   "source": "MIT Technology Review AI",
   "type": "article",
   "tier": "media",
@@ -5287,13 +5386,15 @@
   "proxy_for": null,
   "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260911_AIangentscheating.jpg?resize=1200,600",
   "published": "2026-09-15T01:00+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "AI agents blew the whistle on their cheating colleagues",
+  "summary_orig": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavi"
  },
  {
   "id": "078f0cd4555d",
   "url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
-  "title": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
-  "summary": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange (",
+  "title": "Ninth WaveがAmazon BedrockでAIを活用したオープンファイナンスのオンボーディングをどのように構築したか",
+  "summary": "Ninth WaveがAmazon Bedrock AgentCoreでマルチエージェントAIオンボーディングアシスタントであるCompassを構築し、Financial Data Exchange （",
   "source": "AWS Machine Learning Blog",
   "type": "article",
   "tier": "official",
@@ -5301,13 +5402,15 @@
   "proxy_for": null,
   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-21160-featured-image.png",
   "published": "2026-09-15T00:58+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+  "summary_orig": "Learn how Ninth Wave built Compass, a multi-agent AI onboarding assistant on Amazon Bedrock AgentCore that validates bank APIs against Financial Data Exchange ("
  },
  {
   "id": "b7a9db624c3c",
   "url": "https://www.youtube.com/watch?v=PSnJBfa183Y",
-  "title": "Detecting wildfires with ChatGPT",
-  "summary": "Most fifth-grade science projects end up in a closet. Ryan Honary’s became SensoRy AI—a wildfire detection system that identifies fires at ignition and alerts f",
+  "title": "ChatGPTで山火事を検知する",
+  "summary": "ほとんどの5年生の科学プロジェクトは、クローゼットに閉じ込められてしまいます。Ryan Honary'sはSensoRy AIとなりました。これは、点火時の火災を識別して警告する山火事検出システムです。",
   "source": "OpenAI",
   "type": "video",
   "tier": "official",
@@ -5315,13 +5418,15 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/PSnJBfa183Y/hqdefault.jpg",
   "published": "2026-09-15T00:57+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Detecting wildfires with ChatGPT",
+  "summary_orig": "Most fifth-grade science projects end up in a closet. Ryan Honary’s became SensoRy AI—a wildfire detection system that identifies fires at ignition and alerts f"
  },
  {
   "id": "4201afd95762",
   "url": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
-  "title": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
-  "summary": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-trai",
+  "title": "ジェネレーティブAIカスタマイズスペクトル： AWSのプロンプトエンジニアリングからカスタムモデルまで",
+  "summary": "プロンプトエンジニアリングやRAGから微調整までの8段階の意思決定フレームワークを使用して、AWSで適切なジェネレーティブAIカスタマイズアプローチを選択します。",
   "source": "AWS Machine Learning Blog",
   "type": "article",
   "tier": "official",
@@ -5329,13 +5434,15 @@
   "proxy_for": null,
   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/09/ML-21197-featured-image.png",
   "published": "2026-09-15T00:47+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+  "summary_orig": "Pick the right generative AI customization approach on AWS with an 8-step decision framework, from prompt engineering and RAG to fine-tuning, continued pre-trai"
  },
  {
   "id": "88bfedcc150b",
   "url": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
-  "title": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
-  "summary": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Da",
+  "title": "MMF、Databricks Genie、Amazon Quickで補充を自動化",
+  "summary": "基礎モデルは、カタログ全体の需要予測を容易にしました。難しい部分は現在、予測に作用しています。この投稿では、Da上に閉じた検出-決定-行為ループを構築します",
   "source": "AWS Machine Learning Blog",
   "type": "article",
   "tier": "official",
@@ -5343,13 +5450,15 @@
   "proxy_for": null,
   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/28/ML-21670-featured-image.png",
   "published": "2026-09-15T00:42+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+  "summary_orig": "Foundation models made catalog-wide demand forecasting easy; the hard part is now acting on the forecast. This post builds a closed detect-decide-act loop on Da"
  },
  {
   "id": "f447d8cbcd59",
   "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-  "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-  "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a l",
+  "title": "PerplexityポータブルコンピュータがNVIDIA RTX搭載のWindowsで利用可能になりました",
+  "summary": "ローカルモデルがより機能的になるにつれて、AIエージェントはデバイス上に機密情報を保持しながら、PC上でより多くの作業を直接処理することができます。ポータブルコンピュータは",
   "source": "NVIDIA Blog",
   "type": "article",
   "tier": "official",
@@ -5357,13 +5466,15 @@
   "proxy_for": null,
   "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Local-AI_Perplexity-on-Windows_Blog_Feature.jpg",
   "published": "2026-09-15T00:00+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+  "summary_orig": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a l"
  },
  {
   "id": "09740d212978",
   "url": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-  "title": "Quoting Laurie Voss",
-  "summary": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making softw",
+  "title": "Laurie Vossの引用",
+  "summary": "コードを書くコストは崩壊し、それを見直し、修正し、操作するコストは次のとおりであり、私はそれがそこに到達すると仮定しています。ソフトウエアを作るために残っていること",
   "source": "Simon Willison",
   "type": "article",
   "tier": "voice",
@@ -5372,13 +5483,15 @@
   "thumbnail": null,
   "published": "2026-09-14T23:34+09:00",
   "collected": "2026-09-16T17:32+09:00",
-  "_thumb_tries": 3
+  "_thumb_tries": 3,
+  "title_orig": "Quoting Laurie Voss",
+  "summary_orig": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making softw"
  },
  {
   "id": "a0ccf283dc85",
   "url": "https://www.jonloomer.com/qvt/text-customization-chatgpt-ads-ai-enhancement/",
-  "title": "Text Customization ChatGPT Ads AI Enhancement",
-  "summary": "AI is coming to ChatGPT ads… When creating a ChatGPT ads campaign, some advertisers are seeing this new toggle: Text Customization. Let’s take a closer look… Wh",
+  "title": "テキストカスタマイゼーションChatGPT広告AI機能強化",
+  "summary": "AIがChatGPT広告に登場… ChatGPT広告キャンペーンを作成すると、一部の広告主には「テキストのカスタマイズ」という新しいトグルが表示されます。詳しく見てみましょう…",
   "source": "Jon Loomer（Meta広告）",
   "type": "article",
   "tier": "voice",
@@ -5386,13 +5499,15 @@
   "proxy_for": null,
   "thumbnail": "https://www.jonloomer.com/wp-content/uploads/2026/09/text-customization-1.png",
   "published": "2026-09-14T22:30+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Text Customization ChatGPT Ads AI Enhancement",
+  "summary_orig": "AI is coming to ChatGPT ads… When creating a ChatGPT ads campaign, some advertisers are seeing this new toggle: Text Customization. Let’s take a closer look… Wh"
  },
  {
   "id": "5a883e7baeb6",
   "url": "https://blog.youtube/news-and-events/youtube-creators-venice-toronto-film-festivals/",
-  "title": "YouTube debuts new Creator Shows at the Venice and Toronto International Film Festivals",
-  "summary": "YouTube debuted five original creator shows and documentaries at the Venice and Toronto international film festivals, bringing independent digital projects to g",
+  "title": "YouTube、ヴェネツィア国際映画祭とトロント国際映画祭で新しいクリエイターショーを公開",
+  "summary": "YouTubeは、ヴェネツィアとトロントの国際映画祭で5つのオリジナルクリエイターショーとドキュメンタリーをデビューさせ、独立したデジタルプロジェクトを実現しました",
   "source": "YouTube公式ブログ",
   "type": "article",
   "tier": "official",
@@ -5400,7 +5515,9 @@
   "proxy_for": null,
   "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YTBoat_Party_3.max-1440x810.jpg",
   "published": "2026-09-14T22:00+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "YouTube debuts new Creator Shows at the Venice and Toronto International Film Festivals",
+  "summary_orig": "YouTube debuted five original creator shows and documentaries at the Venice and Toronto international film festivals, bringing independent digital projects to g"
  },
  {
   "id": "a1f9849d5774",
@@ -5420,8 +5537,8 @@
  {
   "id": "e1c567bd7de2",
   "url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
-  "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
-  "summary": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
+  "title": "フロンティアのペーシング、AIのデジタル限界、AIコミッシャー",
+  "summary": "Dario Amodeiはフロンティアのペースを上げたいと考えています。これは非現実的な提案であり、主にAIの政治的コントロールを目的としているようです。",
   "source": "Ben Thompson（Stratechery）",
   "type": "article",
   "tier": "voice",
@@ -5429,12 +5546,14 @@
   "proxy_for": null,
   "thumbnail": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
   "published": "2026-09-14T19:00+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
+  "summary_orig": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI."
  },
  {
   "id": "5706c8561704",
   "url": "https://www.youtube.com/watch?v=uA5PiAXKGis",
-  "title": "How Fyxer built an AI executive assistant people trust",
+  "title": "FyxerがAIエグゼクティブアシスタントの信頼を築いた方法",
   "summary": "See how Fyxer built an AI executive assistant that follows the thread across emails, meetings and everyday work. By combining OpenAI models with insights from m",
   "source": "OpenAI",
   "type": "video",
@@ -5443,7 +5562,8 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/uA5PiAXKGis/hqdefault.jpg",
   "published": "2026-09-14T18:00+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "How Fyxer built an AI executive assistant people trust"
  },
  {
   "id": "88a93c443ccd",
