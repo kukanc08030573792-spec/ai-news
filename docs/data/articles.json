@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-18T08:41+09:00",
+  "last_updated": "2026-09-18T09:46+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -44,6 +44,55 @@
   ]
  },
  "items": [
+  {
+   "id": "0e2847526113",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html",
+   "title": "自然言語や画像から3D CADモデルを生成、資金調達で開発と海外展開を加速",
+   "summary": "gRVGÍAEast VenturesÆÂlÆ2lðøóæÆµÄà ² BðÀ {µ½ B © R ¾ êâæ © çÒWÂ\\ È 3 D CADfðì ¬ Å «éAI 3 D CADuIgnite 0 vÍJ ­ Í § ð ­",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2609/18/cover_news015.jpg",
+   "published": "2026-09-18T09:00+09:00",
+   "collected": "2026-09-18T09:46+09:00",
+   "summary_orig": "gRVGÍAEast VenturesÆÂlÆ2lðøóæÆµÄà²BðÀ{µ½B©R¾êâæ©çÒWÂ\\È3D CADfðì¬Å«éAI 3D CADuIgnite0vÌJ­Ì§ð­"
+  },
+  {
+   "id": "170a7e1a5b50",
+   "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
+   "title": "注意：著名なラスチカンに対するターゲットを絞った攻撃",
+   "summary": "注意：有名なラスチカンへの標的型攻撃アダム・ハーヴェイと木箱セキュリティチームからの重要な警告：進行中のキャンペーンがあると考えています",
+   "source": "Simon Willison",
+   "type": "article",
+   "tier": "voice",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-18T08:59+09:00",
+   "collected": "2026-09-18T09:46+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Be alert: targeted attacks on prominent Rustaceans",
+   "summary_orig": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign"
+  },
+  {
+   "id": "5326b23f1259",
+   "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
+   "title": "LLMで書く方法",
+   "summary": "LLMで書く方法LLMをライティングアシスタントとしてではなく、コピーエディターとして使用することについてのThomas Ptacek ：ルールその1 ： LLMが提案する単語を1つも使用してはいけません",
+   "source": "Simon Willison",
+   "type": "article",
+   "tier": "voice",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-18T08:37+09:00",
+   "collected": "2026-09-18T09:46+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "How To Write With An LLM",
+   "summary_orig": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests t"
+  },
   {
    "id": "936c5f946a8f",
    "url": "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/",
@@ -162,7 +211,7 @@
    "thumbnail": null,
    "published": "2026-09-18T08:00+09:00",
    "collected": "2026-09-18T08:33+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "9189e7913500",
@@ -268,7 +317,7 @@
    "thumbnail": null,
    "published": "2026-09-18T07:03+09:00",
    "collected": "2026-09-18T08:33+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "a928513a6854",
@@ -283,7 +332,7 @@
    "thumbnail": null,
    "published": "2026-09-18T07:02+09:00",
    "collected": "2026-09-18T08:33+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "9987d6a5d18a",
@@ -298,7 +347,7 @@
    "thumbnail": null,
    "published": "2026-09-18T07:01+09:00",
    "collected": "2026-09-18T08:33+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7c1e58d6e47b",
@@ -415,7 +464,7 @@
    "thumbnail": null,
    "published": "2026-09-18T06:30+09:00",
    "collected": "2026-09-18T08:33+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "e5c37e0d8fd1",
@@ -430,7 +479,7 @@
    "thumbnail": null,
    "published": "2026-09-18T05:57+09:00",
    "collected": "2026-09-18T08:33+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Self-generated prompt injections in compaction summaries",
    "summary_orig": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerni"
   },
@@ -847,7 +896,7 @@
    "thumbnail": null,
    "published": "2026-09-18T00:45+09:00",
    "collected": "2026-09-18T08:33+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "e44e55d034b9",
@@ -1149,6 +1198,22 @@
    "collected": "2026-09-18T08:41+09:00",
    "title_orig": "Siddharth Taparia’s Strategy for Transforming Globally Fragmented JLL Into a Unified Marketing Force",
    "summary_orig": "Using measurement and AI to clarify the mission of a $17 billion real estate colossus."
+  },
+  {
+   "id": "964ae1dd0fac",
+   "url": "https://openai.com/index/cooley-gopublic/",
+   "title": "CooleyがChatGPTでIPO作業を加速する方法",
+   "summary": "Cooleyは、IPOプロセスにインテリジェンスをもたらすためにChatGPT Workを使用してGO Publicを構築し、弁護士が問題を早期に明らかにし、重要な点で判断に焦点を当てるのを支援しました",
+   "source": "OpenAI",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/H45HDlmSAsVbYRxjc085k/48418a191227d4aff0b01450714def3e/cooley-option-a-seo-og-16x9-equal-logo-size.png?w=1600&h=900&fit=fill",
+   "published": "2026-09-17T21:00+09:00",
+   "collected": "2026-09-18T09:46+09:00",
+   "title_orig": "How Cooley is accelerating IPO work with ChatGPT",
+   "summary_orig": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters mo"
   },
   {
    "id": "269be583526a",
@@ -1836,7 +1901,7 @@
    "id": "ec118696b07a",
    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html",
    "title": "「中国AIがClaudeやGPTから数十億トークン抽出」 米当局が暴いた「知識蒸留」の実態",
-   "summary": "ÄÄNSAACISAAFBIÍAAIÄªÄÄteBAf © çgDIÉum ¯ö ¯ vðsÁÄ ¢ éÆµÄ ¤ ¯ © ðöJµ½ BvLVoRÅ _@\\ ÈÇðoµÄ ¢",
+   "summary": "ÄÄNSAACISAAFBIÍAAIÄÄÄteBAf © çgDIÉum ¯ö ¯ vðsÁÄ ¢ éÆµÄ ¤ ¯ © ðöJµ½ BvLVoRÅ _@\\ ÈÇðoµÄ ¢",
    "source": "ITmedia AI+",
    "type": "article",
    "tier": "media",
@@ -1845,7 +1910,7 @@
    "thumbnail": "https://image.itmedia.co.jp/ait/articles/2609/17/cover_news038.jpg",
    "published": "2026-09-17T08:00+09:00",
    "collected": "2026-09-17T08:39+09:00",
-   "summary_orig": "ÄÄNSAACISAAFBIÍAAIÆªÄÄteBAf © çgDIÉum ¯ö ¯ vðsÁÄ ¢ éÆµÄ ¤ ¯ © ðöJµ½ BvLVoRÅ _@\\ ÈÇðoµÄ ¢"
+   "summary_orig": "ÄÄNSAACISAAFBIÍAAIÄªÄÄteBAf © çgDIÉum ¯ö ¯ vðsÁÄ ¢ éÆµÄ ¤ ¯ © ðöJµ½ BvLVoRÅ _@\\ ÈÇðoµÄ ¢"
   },
   {
    "id": "4b06366f3968",
@@ -3424,8 +3489,8 @@
   {
    "id": "6d76507cae73",
    "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
-   "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
-   "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, ",
+   "title": "LiteRTとGemmaを使用したRaspberry PiでのEdge AIの習得",
+   "summary": "Raspberry Piに安全でリアルタイムのEdge AIを展開することが、LiteRTと軽量のGemmaオープンモデルを使用して簡素化されました。LiteRTはCPUとGPUのパフォーマンスを最適化し、",
    "source": "Google Developers Blog",
    "type": "article",
    "tier": "official",
@@ -3433,13 +3498,15 @@
    "proxy_for": null,
    "thumbnail": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Banner.2e16d0ba.fill-1200x600.png",
    "published": "2026-09-16T17:32+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+   "summary_orig": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance,"
   },
   {
    "id": "18924b8995b4",
    "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
-   "title": "Agent Plugins package your skills, tools, and more",
-   "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers ",
+   "title": "エージェントプラグインは、あなたのスキル、ツールなどをパッケージ化します",
+   "summary": "エージェントプラグイン1.0.0は、エージェントスキルとMCPサーバーをパッケージ化するための、Google、Amazon、Microsoftなどがサポートする、ベンダーに依存しない新しいディレクトリ仕様です。",
    "source": "Google Developers Blog",
    "type": "article",
    "tier": "official",
@@ -3447,7 +3514,9 @@
    "proxy_for": null,
    "thumbnail": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/agent-plugins-meta-1234x802.2e16d0ba.fill-1200x600.jpg",
    "published": "2026-09-16T17:32+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Agent Plugins package your skills, tools, and more",
+   "summary_orig": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers"
   },
   {
    "id": "44eb7ac045fc",
@@ -3567,8 +3636,8 @@
   {
    "id": "20a874541160",
    "url": "https://www.adweek.com/creativity/bobbie-enlists-nara-smith-for-a-satirical-take-on-parenting-pressure/",
-   "title": "Bobbie Enlists Nara Smith for a Satirical Take on Parenting Pressure",
-   "summary": "Bobbie enlisted influencer Nara Smith to stress the point that some things, like baby formula, cannot be made from scratch.",
+   "title": "ボビー、子育てのプレッシャーを風刺するためにナラ・スミスを募集",
+   "summary": "ボビーはインフルエンサーのナラ・スミスに、ベビーフォーミュラのようなものはゼロから作ることができないという点を強調しました。",
    "source": "Adweek（ソーシャル）",
    "type": "article",
    "tier": "media",
@@ -3576,7 +3645,9 @@
    "proxy_for": null,
    "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/09/BobbieNaraSmith.png?w=600&h=315&crop=1",
    "published": "2026-09-16T15:00+09:00",
-   "collected": "2026-09-17T08:50+09:00"
+   "collected": "2026-09-17T08:50+09:00",
+   "title_orig": "Bobbie Enlists Nara Smith for a Satirical Take on Parenting Pressure",
+   "summary_orig": "Bobbie enlisted influencer Nara Smith to stress the point that some things, like baby formula, cannot be made from scratch."
   },
   {
    "id": "4bd9f8ab18ba",
@@ -3595,8 +3666,8 @@
   {
    "id": "fa1c7be3a7a0",
    "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
-   "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
-   "summary": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but compu",
+   "title": "マンチェスター大学がNVIDIA Earth -2を使用して英国全土の大気汚染を予測",
+   "summary": "大気汚染は深刻な公衆衛生上のリスクであり、昨年英国だけで推定3万人が死亡しました。データ駆動型のインサイトは役立ちますが、",
    "source": "NVIDIA Blog",
    "type": "article",
    "tier": "official",
@@ -3604,7 +3675,9 @@
    "proxy_for": null,
    "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Is-AI-Poll-01_1920x1080.jpg",
    "published": "2026-09-16T14:00+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+   "summary_orig": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but compu"
   },
   {
    "id": "4487ab76a2ee",
@@ -3778,7 +3851,7 @@
   {
    "id": "6e3ffe909ff4",
    "url": "https://www.youtube.com/watch?v=OujC4t5leqQ",
-   "title": "Riley's Rebuilds",
+   "title": "ライリーの再建",
    "summary": "",
    "source": "Meta",
    "type": "video",
@@ -3787,13 +3860,14 @@
    "proxy_for": null,
    "thumbnail": "https://i.ytimg.com/vi/OujC4t5leqQ/hqdefault.jpg",
    "published": "2026-09-16T10:15+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Riley's Rebuilds"
   },
   {
    "id": "b555b1617f73",
    "url": "https://about.fb.com/news/2026/09/threads-introduces-parental-supervision-for-teens-in-apac/",
-   "title": "Threads Introduces Parental Supervision for Teens in APAC",
-   "summary": "Teens in Asia Pacific APAC on Threads Get Added Protections with Parental Supervision The post Threads Introduces Parental Supervision for Teens in APAC appeare",
+   "title": "スレッドは、アジア太平洋地域のティーンエイジャーのための親の監督を導入します",
+   "summary": "アジア太平洋アジア太平洋地域のティーンエイジャーは、保護者の監督による保護を追加します。POSTスレッドは、アジア太平洋地域のティーンエイジャーのための保護者の監督を導入します",
    "source": "Meta Newsroom",
    "type": "article",
    "tier": "official",
@@ -3801,7 +3875,9 @@
    "proxy_for": null,
    "thumbnail": "https://about.fb.com/wp-content/uploads/2026/07/New-Parental-Supervision-Tools-Now-Available-on-Threads_Thumbnail.jpg?w=1200",
    "published": "2026-09-16T10:05+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Threads Introduces Parental Supervision for Teens in APAC",
+   "summary_orig": "Teens in Asia Pacific APAC on Threads Get Added Protections with Parental Supervision The post Threads Introduces Parental Supervision for Teens in APAC appeare"
   },
   {
    "id": "7ed3e7f6c53b",
@@ -3834,8 +3910,8 @@
   {
    "id": "d2de68ab7234",
    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-   "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-   "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+   "title": "AI規制は必要ありません。安全は私たちに任せてください、とNvidiaのJensen Huang氏は言います",
+   "summary": "Jensen Huang氏によると、AIは「エイリアンマインド」の新しい形ではないという。これは単なるハードウェアとソフトウェアなので、各AI製品メーカーが安全性を設計することができます。",
    "source": "TechCrunch AI",
    "type": "article",
    "tier": "media",
@@ -3843,7 +3919,9 @@
    "proxy_for": null,
    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
    "published": "2026-09-16T09:20+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+   "summary_orig": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
   },
   {
    "id": "3410a9cd3f2e",
@@ -3863,8 +3941,8 @@
   {
    "id": "63b9407a67d2",
    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-   "title": "AI and data centers are incredibly unpopular in every poll",
-   "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and d",
+   "title": "AIとデータセンターは、すべての世論調査で非常に人気がありません",
+   "summary": "ニューヨーク・タイムズとシエナ大学が火曜日に発表した世論調査データは、私たちがすでに見てきたもの、そして政治家が何に反応しているかを確認しています- AIとd",
    "source": "The Verge AI",
    "type": "article",
    "tier": "media",
@@ -3872,13 +3950,15 @@
    "proxy_for": null,
    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
    "published": "2026-09-16T08:34+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "AI and data centers are incredibly unpopular in every poll",
+   "summary_orig": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and d"
   },
   {
    "id": "bdf18ed4bda7",
    "url": "https://www.youtube.com/shorts/DhAsqpjliYw",
-   "title": "Stay on top of the pack with ChatGPT Work.",
-   "summary": "Included in ChatGPT Plus and Pro.",
+   "title": "ChatGPT Workで最新情報を把握しましょう。",
+   "summary": "ChatGPT PlusとProに含まれています。",
    "source": "OpenAI",
    "type": "video",
    "tier": "official",
@@ -3886,7 +3966,9 @@
    "proxy_for": null,
    "thumbnail": "https://i.ytimg.com/vi/DhAsqpjliYw/hqdefault.jpg",
    "published": "2026-09-16T08:31+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Stay on top of the pack with ChatGPT Work.",
+   "summary_orig": "Included in ChatGPT Plus and Pro."
   },
   {
    "id": "b26a2dea09cb",
@@ -3919,8 +4001,8 @@
   {
    "id": "c9a269061424",
    "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-   "title": "Gemini Live audio",
-   "summary": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenA",
+   "title": "ジェミニライブオーディオ",
+   "summary": "ツール： Gemini Live audio Googleは本日、Gemini 3.8 Liveと3.8 Live Extended Thinkingをリリースしました- OpenAに似た形状の2つの新しい音声対音声モデル",
    "source": "Simon Willison",
    "type": "article",
    "tier": "voice",
@@ -3928,13 +4010,15 @@
    "proxy_for": null,
    "thumbnail": "https://static.simonwillison.net/static/2026/gemini-live-tool.webp",
    "published": "2026-09-16T07:47+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Gemini Live audio",
+   "summary_orig": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenA"
   },
   {
    "id": "a96e34c67a54",
    "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
-   "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
-   "summary": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstag",
+   "title": "「今、私たちはすべてを知り、何でもすることができます」とジェンセンフアンはDreamforceで言います",
+   "summary": "すべてを知っています。何でもしてください。これは、NVIDIAの創設者兼CEOであるJensen Huang氏が火曜日にSalesforce Dreamforceにもたらしたメッセージであり、CEOのMarc Benioff氏と共に",
    "source": "NVIDIA Blog",
    "type": "article",
    "tier": "official",
@@ -3942,7 +4026,9 @@
    "proxy_for": null,
    "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/DF26-SF-260915-EL2_6006-1-scaled.jpg",
    "published": "2026-09-16T07:24+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+   "summary_orig": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstag"
   },
   {
    "id": "45c3569626a6",
@@ -3961,8 +4047,8 @@
   {
    "id": "0958b6795c9d",
    "url": "https://news.microsoft.com/source/2026/09/15/microsoft-announces-quarterly-dividend-increase-7/",
-   "title": "Microsoft announces quarterly dividend increase",
-   "summary": "The post Microsoft announces quarterly dividend increase appeared first on Source .",
+   "title": "マイクロソフト、四半期配当増額を発表",
+   "summary": "Microsoftが四半期配当増額を発表した記事は、Sourceに最初に掲載されました。",
    "source": "Microsoft Source",
    "type": "article",
    "tier": "official",
@@ -3971,7 +4057,9 @@
    "thumbnail": null,
    "published": "2026-09-16T07:06+09:00",
    "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 3
+   "_thumb_tries": 3,
+   "title_orig": "Microsoft announces quarterly dividend increase",
+   "summary_orig": "The post Microsoft announces quarterly dividend increase appeared first on Source ."
   },
   {
    "id": "04087acc3d64",
@@ -4021,7 +4109,7 @@
    "id": "e5c91dcfd7bf",
    "url": "https://www.itmedia.co.jp/business/articles/2609/16/news039.html",
    "title": "富士通、国産CPU「モナカ」販売 スパコン技術を結集した“小さなチップ”に託す「3兆円のAIビジネス」の行方",
-   "summary": "xmÊªYCPUuiJvðÌ·éB¯ÐZpðWµ½g¬³È`bvhÉõµ½ÌÍA2035NxÜÅÉ_¤AIsêÅÌ3~KÍÌrWlXno¾BÊ½µÄA»ÌsûÍ",
+   "summary": "xm? YCPUuiJv? éB? ÐZp? W µ½ g ¬³ È 'bvh Éõµ½ ÍÍA 2035 Nx Ü Å É _¤ AIsêÅÍ 3 ~ KÍÍrWlXno ¾ B? ½ µÄA »ÍsûÍ",
    "source": "ITmedia AI+",
    "type": "article",
    "tier": "media",
@@ -4029,7 +4117,8 @@
    "proxy_for": null,
    "thumbnail": "https://image.itmedia.co.jp/business/articles/2609/16/cover_news039.jpg",
    "published": "2026-09-16T07:00+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "summary_orig": "xmÊªYCPUuiJvðÌ·éB¯ÐZpðWµ½g¬³È`bvhÉõµ½ÌÍA2035NxÜÅÉ_¤AIsêÅÌ3~KÍÌrWlXno¾BÊ½µÄA»ÌsûÍ"
   },
   {
    "id": "37831d3bce43",
@@ -4049,8 +4138,8 @@
   {
    "id": "ac343a3cc32d",
    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-   "title": "The AI data center boom is colliding with cities scarred by big industry",
-   "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted ",
+   "title": "AIデータセンターのブームは、大企業によって傷ついた都市と衝突しています",
+   "summary": "データセンター建設に対する全国的な抗議がフィラデルフィアに広がり、当局はすでに影響を受けている地域での建設の可能性を示唆した",
    "source": "TechCrunch AI",
    "type": "article",
    "tier": "media",
@@ -4058,7 +4147,9 @@
    "proxy_for": null,
    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
    "published": "2026-09-16T06:47+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "The AI data center boom is colliding with cities scarred by big industry",
+   "summary_orig": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted"
   },
   {
    "id": "90f58e6b5c9a",
@@ -4078,8 +4169,8 @@
   {
    "id": "b7fa0b47c3d5",
    "url": "https://www.searchenginejournal.com/cloudflare-lets-sites-disallow-ai-training-without-blocking-googlebot/589559/",
-   "title": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern",
-   "summary": "Cloudflare's Disallow AI Training keeps mixed-use crawlers available for search. Google and Apple honor training opt-outs; Bing robots.txt support is pending. T",
+   "title": "Cloudflareは、@ sejournal、@ MattGSouthを介してGooglebotをブロックせずにサイトがAIトレーニングを許可しないようにします",
+   "summary": "CloudflareのDisallow AIトレーニングでは、さまざまな用途のクローラーを検索できるようにしています。GoogleとAppleはトレーニングのオプトアウトを尊重します。Bing robots.txtのサポートは保留中です。T",
    "source": "Search Engine Journal",
    "type": "article",
    "tier": "media",
@@ -4087,13 +4178,15 @@
    "proxy_for": null,
    "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/cloudflare-disallow-ai-training-featured.jpg",
    "published": "2026-09-16T06:29+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "Cloudflare Lets Sites Disallow AI Training Without Blocking Googlebot via @sejournal, @MattGSouthern",
+   "summary_orig": "Cloudflare's Disallow AI Training keeps mixed-use crawlers available for search. Google and Apple honor training opt-outs; Bing robots.txt support is pending. T"
   },
   {
    "id": "21600dd1b852",
    "url": "https://www.socialmediatoday.com/news/tiktok-announces-featured-creators-for-hispanic-heritage-month/830484/",
-   "title": "TikTok announces featured creators for Hispanic Heritage Month",
-   "summary": "The app will showcase journalist Fernando Hurtado, musician Jasmine Wesley and comedian Eric Sedeño as part of a larger community celebration.",
+   "title": "TikTokがヒスパニック系ヘリテージ月間の注目クリエイターを発表",
+   "summary": "このアプリは、より大きなコミュニティのお祝いの一環として、ジャーナリストのFernando Hurtado、ミュージシャンのJasmine Wesley、コメディアンのEric Sedeñoを紹介します。",
    "source": "Social Media Today",
    "type": "article",
    "tier": "media",
@@ -4101,13 +4194,15 @@
    "proxy_for": null,
    "thumbnail": "https://imgproxy.divecdn.com/7pCxQdow6ccQjdzOm1IEcNr0TS6nORtlJ0FEHdaTy2c/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfaGlzcGFuaWNfaGVyaXRhZ2VfbW9udGgucG5n.webp",
    "published": "2026-09-16T06:07+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "TikTok announces featured creators for Hispanic Heritage Month",
+   "summary_orig": "The app will showcase journalist Fernando Hurtado, musician Jasmine Wesley and comedian Eric Sedeño as part of a larger community celebration."
   },
   {
    "id": "a2ff22c763ee",
    "url": "https://www.socialmediatoday.com/news/snapchat-report-highlights-users-political-engagement/830483/",
-   "title": "Snapchat report highlights users’ political engagement",
-   "summary": "The platform study, released ahead of the U.S. midterms in November, found that nearly 80% of Snapchatters plan to vote.",
+   "title": "ユーザーの政治的関与を強調するSnapchatレポート",
+   "summary": "11月の米国の中間選挙に先立って発表されたプラットフォーム調査では、Snapchatの80 ％近くが投票を計画していることがわかりました。",
    "source": "Social Media Today",
    "type": "article",
    "tier": "media",
@@ -4115,13 +4210,15 @@
    "proxy_for": null,
    "thumbnail": "https://imgproxy.divecdn.com/CQutc65mz2PiIpw5-CPO7GjFrAp3SoDPTeGvmDCYry8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF92b3RpbmdfcmVzZWFyY2gyLnBuZw==.webp",
    "published": "2026-09-16T06:02+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "Snapchat report highlights users’ political engagement",
+   "summary_orig": "The platform study, released ahead of the U.S. midterms in November, found that nearly 80% of Snapchatters plan to vote."
   },
   {
    "id": "81a1258e2d97",
    "url": "https://www.socialmediatoday.com/news/meta-adds-more-creator-partnership-tools/830480/",
-   "title": "Meta adds more creator partnership tools",
-   "summary": "The company’s refreshed Creator Marketing hub will offer expanded access to additional discovery and outreach features to facilitate promotions.",
+   "title": "Metaは、より多くのクリエイターパートナーシップツールを追加します",
+   "summary": "同社の更新されたクリエイターマーケティングハブでは、プロモーションを促進するための追加の発見とアウトリーチ機能へのアクセスが拡大されます。",
    "source": "Social Media Today",
    "type": "article",
    "tier": "media",
@@ -4129,13 +4226,15 @@
    "proxy_for": null,
    "thumbnail": "https://imgproxy.divecdn.com/xBPpSYd6JJxQ23l5Qmu5a_5c7QIkXv1PPHi9a5bNqPk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2NyZWF0b3JfbWFya2V0aW5nX2h1Yi5wbmc=.webp",
    "published": "2026-09-16T05:48+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "Meta adds more creator partnership tools",
+   "summary_orig": "The company’s refreshed Creator Marketing hub will offer expanded access to additional discovery and outreach features to facilitate promotions."
   },
   {
    "id": "1ad152d23630",
    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-   "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-   "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, a",
+   "title": "Metaにより、AIエージェントはWhatsApp Businessセットアップの退屈な部分を処理できるようになりました",
+   "summary": "新しいWhatsApp Business MCPサーバーを使用すると、開発者はClaude、Cursor、Codex、ChatGPTなどのAIコーディングエージェントを使用して、セットアップ、メッセージングテンプレート、テスト、",
    "source": "TechCrunch AI",
    "type": "article",
    "tier": "media",
@@ -4143,13 +4242,15 @@
    "proxy_for": null,
    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
    "published": "2026-09-16T05:12+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+   "summary_orig": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, a"
   },
   {
    "id": "dfe4dbbe0065",
    "url": "https://www.latent.space/p/good-start-labs",
-   "title": "Can Skills Learned in Games Transfer to Real-World Work?",
-   "summary": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
+   "title": "ゲームで学んだスキルは現実世界の仕事に移行できますか？",
+   "summary": "Good Start Labsは鉄道ゲームでAIを訓練し、1つのバージョンは金融調査で改善されました。違いはトレーニングデザインでした。",
    "source": "Latent Space",
    "type": "article",
    "tier": "voice",
@@ -4157,7 +4258,9 @@
    "proxy_for": null,
    "thumbnail": "https://substackcdn.com/image/fetch/$s_!hNAj!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32a5826-6fd5-4608-bc04-4240a5e538df_2560x1440.png",
    "published": "2026-09-16T05:11+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Can Skills Learned in Games Transfer to Real-World Work?",
+   "summary_orig": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design."
   },
   {
    "id": "26b1adbd0418",
@@ -4204,8 +4307,8 @@
   {
    "id": "883ac55269fa",
    "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
-   "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-   "summary": "Algorithms & Theory",
+   "title": "推論のボトルネックを回避： Retrieve - for - Trainで複雑なAI検索を加速",
+   "summary": "アルゴリズムと理論",
    "source": "Google Research",
    "type": "article",
    "tier": "official",
@@ -4213,13 +4316,15 @@
    "proxy_for": null,
    "thumbnail": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
    "published": "2026-09-16T05:00+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+   "summary_orig": "Algorithms & Theory"
   },
   {
    "id": "eed34f1f0a1a",
    "url": "https://blogs.microsoft.com/on-the-issues/2026/09/15/2026-midterm-elections-helping-voters-navigate-election-information-in-the-age-of-ai/",
-   "title": "Helping voters navigate election information in the age of AI",
-   "summary": "Explore how Microsoft is helping voters navigate reliable election information and understand AI-generated content ahead of the 2026 U.S. midterm elections.",
+   "title": "AIの時代に有権者が選挙情報をナビゲートするのを支援する",
+   "summary": "2026年の米国中間選挙に先立ち、マイクロソフトが有権者が信頼できる選挙情報をナビゲートし、AIが生成したコンテンツを理解するのをどのように支援しているかをご覧ください。",
    "source": "Microsoft Source",
    "type": "article",
    "tier": "official",
@@ -4227,13 +4332,15 @@
    "proxy_for": null,
    "thumbnail": "https://blogs.microsoft.com/wp-content/uploads/sites/5/2026/09/AI-Elections_Blog_Header-1024x576.png",
    "published": "2026-09-16T04:23+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Helping voters navigate election information in the age of AI",
+   "summary_orig": "Explore how Microsoft is helping voters navigate reliable election information and understand AI-generated content ahead of the 2026 U.S. midterm elections."
   },
   {
    "id": "4e8fdb6bb606",
    "url": "https://www.searchenginejournal.com/brand-protection-in-ai-search-how-to-audit-and-defend-your-brands-identity/587581/",
-   "title": "Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity",
-   "summary": "Spot false claims and impersonators in AI search, then match each brand protection problem to the right correction, report, or preventive action. The post Brand",
+   "title": "AI検索におけるブランド保護：ブランドのアイデンティティを監査して守る方法",
+   "summary": "AI検索で虚偽の申し立てとなりすましを見つけ、各ブランド保護の問題を適切な修正、報告、または予防措置に一致させます。POSTブランド",
    "source": "Search Engine Journal",
    "type": "article",
    "tier": "media",
@@ -4241,13 +4348,15 @@
    "proxy_for": null,
    "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/08/protecting-brand-identity-503.png",
    "published": "2026-09-16T04:00+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "Brand Protection In AI Search: How To Audit And Defend Your Brand’s Identity",
+   "summary_orig": "Spot false claims and impersonators in AI search, then match each brand protection problem to the right correction, report, or preventive action. The post Brand"
   },
   {
    "id": "7376438c216d",
    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+   "title": "AIの墓場：成功しなかったプロジェクトやスタートアップのランニングリスト",
+   "summary": "Appleが繰り返しSiri AIを遅らせてきたことから、OpenAIの厄介な「スーパーアプリ」の立ち上げまで、ここでは、停止したり期待を裏切ったりしたAIプロジェクトを見てみましょう。",
    "source": "TechCrunch AI",
    "type": "article",
    "tier": "media",
@@ -4255,13 +4364,15 @@
    "proxy_for": null,
    "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
    "published": "2026-09-16T04:00+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "summary_orig": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
   },
   {
    "id": "5592958fbdf6",
    "url": "https://blog.hootsuite.com/social-media-data-collection/",
-   "title": "Social media data collection: A 2026 guide",
-   "summary": "Social media data collection is messy at scale. In this guide, get key metrics and methods to collect from analytics, to listening, and more. The post Social me",
+   "title": "ソーシャルメディアデータ収集： 2026年版ガイド",
+   "summary": "ソーシャルメディアデータの収集は、大規模に散らかっています。このガイドでは、分析からリスニングまで、収集するための主要な指標と方法をご紹介します。投稿Social me",
    "source": "Hootsuite",
    "type": "article",
    "tier": "media",
@@ -4269,13 +4380,15 @@
    "proxy_for": null,
    "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2024/09/social-media-data-collection.png",
    "published": "2026-09-16T03:58+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "Social media data collection: A 2026 guide",
+   "summary_orig": "Social media data collection is messy at scale. In this guide, get key metrics and methods to collect from analytics, to listening, and more. The post Social me"
   },
   {
    "id": "0285ce6207cf",
    "url": "https://blog.hootsuite.com/how-to-make-money-on-tiktok/",
-   "title": "How to make money on TikTok in 2026: 15 proven ways",
-   "summary": "Learn how to make money on TikTok with 15 proven methods, from Creator Rewards and gifts to TikTok Shop, affiliate links, and brand deals. The post How to make ",
+   "title": "2026年にTikTokで収入を得る方法：実証済みの15の方法",
+   "summary": "クリエイターリワードやギフトからTikTokショップ、アフィリエイトリンク、ブランドセールまで、15の実証済みの方法でTikTokで収益を上げる方法を学びましょう。投稿作り方",
    "source": "Hootsuite",
    "type": "article",
    "tier": "media",
@@ -4283,13 +4396,15 @@
    "proxy_for": null,
    "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2024/08/Tiktok-followers-main-image-1.png",
    "published": "2026-09-16T03:39+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "How to make money on TikTok in 2026: 15 proven ways",
+   "summary_orig": "Learn how to make money on TikTok with 15 proven methods, from Creator Rewards and gifts to TikTok Shop, affiliate links, and brand deals. The post How to make"
   },
   {
    "id": "6833c13830f0",
    "url": "https://blogs.windows.com/devices/2026/09/14/more-choice-and-possibility-with-windows-pcs-at-ifa/",
-   "title": "Microsoft’s partners debut new Windows PCs at IFA",
-   "summary": "This year at IFA, I saw the Windows ecosystem doing what it does best: bringing innovation to life through products and experiences for every person, purpose, a",
+   "title": "マイクロソフトのパートナーがIFAで新しいWindows PCを発表",
+   "summary": "今年のIFAでは、Windowsエコシステムが最善を尽くしているのを見ました。つまり、すべての人、目的、",
    "source": "Microsoft Source",
    "type": "article",
    "tier": "official",
@@ -4297,13 +4412,15 @@
    "proxy_for": null,
    "thumbnail": "https://winblogs.thesourcemediaassets.com/sites/43/2026/06/Light_16x9-scaled.png",
    "published": "2026-09-16T03:32+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Microsoft’s partners debut new Windows PCs at IFA",
+   "summary_orig": "This year at IFA, I saw the Windows ecosystem doing what it does best: bringing innovation to life through products and experiences for every person, purpose, a"
   },
   {
    "id": "1990f3ad93a1",
    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-   "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-   "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+   "title": "米国のデータセンターは、2035年までにドイツと日本を合わせたよりも多くの天然ガスを消費する可能性がある",
+   "summary": "AIの狂乱は、米国のデータセンターを世界最大の天然ガス消費国の1つにする可能性があります。",
    "source": "TechCrunch AI",
    "type": "article",
    "tier": "media",
@@ -4311,13 +4428,15 @@
    "proxy_for": null,
    "thumbnail": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
    "published": "2026-09-16T03:29+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+   "summary_orig": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
   },
   {
    "id": "51385449c8dc",
    "url": "https://news.microsoft.com/source/asia/2026/09/14/the-new-media-movement-how-the-copilot-creators-collective-is-shaping-the-future-of-creativity-and-ai-literacy/",
-   "title": "How the Copilot Creators Collective is shaping the future of creativity and AI literacy",
-   "summary": "Discover how Microsoft's Copilot Creators Collective is helping Filipino creators advance AI literacy, responsible AI use, and creative innovation.",
+   "title": "Copilot Creators Collectiveが創造性とAIリテラシーの未来をどのように形作っているか",
+   "summary": "マイクロソフトのCopilot Creators Collectiveが、フィリピンのクリエイターがAIリテラシー、責任あるAI使用、クリエイティブイノベーションを推進するのをどのように支援しているかをご覧ください。",
    "source": "Microsoft Source",
    "type": "article",
    "tier": "official",
@@ -4325,13 +4444,15 @@
    "proxy_for": null,
    "thumbnail": "https://news.microsoft.com/source/asia/wp-content/uploads/2026/08/Copilot-Creator-Launch.png",
    "published": "2026-09-16T03:28+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "How the Copilot Creators Collective is shaping the future of creativity and AI literacy",
+   "summary_orig": "Discover how Microsoft's Copilot Creators Collective is helping Filipino creators advance AI literacy, responsible AI use, and creative innovation."
   },
   {
    "id": "ab976ef2042d",
    "url": "https://blog.hootsuite.com/social-media-collaboration-tools/",
-   "title": "Best social media collaboration tools for 2026",
-   "summary": "Social media collaboration tools help teams plan, approve, and publish faster. Compare 10 options with pricing, pros/cons, and tips for 2026. The post Best soci",
+   "title": "2026年に最適なソーシャルメディアコラボレーションツール",
+   "summary": "SNSコラボレーションツールは、チームが計画、承認、公開をすばやく行うのに役立ちます。2026年の料金設定、メリット/デメリット、ヒントを含む10のオプションを比較しましょう。The post Best soci",
    "source": "Hootsuite",
    "type": "article",
    "tier": "media",
@@ -4339,13 +4460,15 @@
    "proxy_for": null,
    "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2024/03/social-collaboration-tools.png",
    "published": "2026-09-16T03:17+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "Best social media collaboration tools for 2026",
+   "summary_orig": "Social media collaboration tools help teams plan, approve, and publish faster. Compare 10 options with pricing, pros/cons, and tips for 2026. The post Best soci"
   },
   {
    "id": "bdda1fd4470f",
    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
-   "title": "Roundtables: Could AI really kill us all?",
-   "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are",
+   "title": "ラウンドテーブル： AIは本当に私たち全員を殺すことができますか？",
+   "summary": "以下のセッションまたは視聴世界をリードするAIラボの従業員は、高度なAIが人類を破壊する可能性があると言っています。",
    "source": "MIT Technology Review AI",
    "type": "article",
    "tier": "media",
@@ -4353,13 +4476,15 @@
    "proxy_for": null,
    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/September.26_Roundtables-Assets-2.png?resize=1200,600",
    "published": "2026-09-16T02:47+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "Roundtables: Could AI really kill us all?",
+   "summary_orig": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are"
   },
   {
    "id": "911b74d594a1",
    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-   "title": "AI agents now have a place to snitch",
-   "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+   "title": "AIエージェントに情報提供の場ができるようになりました",
+   "summary": "AIコンタクトホットラインは、不正行為を目撃したエージェントが当局に情報を漏らすことができる秘密の場所として設計されています。",
    "source": "TechCrunch AI",
    "type": "article",
    "tier": "media",
@@ -4367,13 +4492,15 @@
    "proxy_for": null,
    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
    "published": "2026-09-16T02:42+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "AI agents now have a place to snitch",
+   "summary_orig": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
   },
   {
    "id": "73c493e5b2ef",
    "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-   "title": "Meta expands subscription push with new AI-focused plans",
-   "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+   "title": "Meta、AIに焦点を当てた新しいプランでサブスクリプションプッシュを拡大",
+   "summary": "Meta Oneは、Facebook、Instagram、WhatsAppのプレミアム機能を備えた同社のAIツールへのアクセスを拡大しています。",
    "source": "TechCrunch AI",
    "type": "article",
    "tier": "media",
@@ -4381,13 +4508,15 @@
    "proxy_for": null,
    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
    "published": "2026-09-16T02:05+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "Meta expands subscription push with new AI-focused plans",
+   "summary_orig": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp."
   },
   {
    "id": "78ec933d8f3c",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation.",
+   "title": "Gemini 3.8 Liveと3.8 Live Extended Thinkingのご紹介",
+   "summary": "Gemini 3.8 LiveとGemini 3.8 Live Extended Thinkingは、自然な会話のために構築された、これまでで最も高度なライブダイアログモデルです。",
    "source": "Google DeepMind",
    "type": "article",
    "tier": "official",
@@ -4395,13 +4524,15 @@
    "proxy_for": null,
    "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog-social.width-1300.png",
    "published": "2026-09-16T02:05+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "summary_orig": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation."
   },
   {
    "id": "997c7e122b99",
    "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
-   "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
-   "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to a",
+   "title": "メガワットからトークンへ： NVIDIAがAIファクトリー生産を最大化する方法",
+   "summary": "シリコンバレーの暑い8月の夕方、太陽が降り、エアコンの負荷が急上昇するにつれて、シリコンバレーパワーはAI工場に信号を送りました",
    "source": "NVIDIA Blog",
    "type": "article",
    "tier": "official",
@@ -4409,13 +4540,15 @@
    "proxy_for": null,
    "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/3026/09/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273.jpg",
    "published": "2026-09-16T01:55+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+   "summary_orig": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to a"
   },
   {
    "id": "5f6e3cec4e19",
    "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
-   "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
-   "summary": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara ",
+   "title": "AIインフラサミット： NVIDIA Vera RubinとDSXプラットフォームの進歩は、AI工場のワット当たりのトークンを最適化するエネルギー効率を示しています",
+   "summary": "NVIDIAのハイパースケールおよびハイパフォーマンスコンピューティング担当バイスプレジデントであるIan Buck氏は、火曜日にサンタクララで開催されたAI Infra SummitでAIの工場効率について講演しました",
    "source": "NVIDIA Blog",
    "type": "article",
    "tier": "official",
@@ -4423,13 +4556,15 @@
    "proxy_for": null,
    "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gpu-social-vera-rubin-pod-1920x1080-4983951-1.jpg",
    "published": "2026-09-16T01:55+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+   "summary_orig": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara"
   },
   {
    "id": "671167f0e150",
    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
-   "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
-   "summary": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through ",
+   "title": "Amazon Bedrockプロンプトキャッシングによるコストとレイテンシの最適化",
+   "summary": "Amazon Bedrockでのプロンプトキャッシュは、同じコンテキストを基礎モデルに繰り返し送信すると、インプットトークンコストを最大90 ％削減できます。この投稿では、",
    "source": "AWS Machine Learning Blog",
    "type": "article",
    "tier": "official",
@@ -4437,13 +4572,15 @@
    "proxy_for": null,
    "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-20790-featured-image.png",
    "published": "2026-09-16T01:18+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+   "summary_orig": "Prompt caching in Amazon Bedrock can cut input token costs by up to 90% when you repeatedly send the same context to foundation models. This post walks through"
   },
   {
    "id": "c6794c0f7903",
    "url": "https://www.adweek.com/media/anthropics-dario-amodei-and-nvidias-jensen-huang-take-their-ai-safety-fight-to-dreamforce/",
-   "title": "Anthropic’s Dario Amodei and Nvidia’s Jensen Huang Take Their AI Safety Fight to Dreamforce",
-   "summary": "Two of AI's most influential executives are on opposite sides of a debate.",
+   "title": "AnthropicのDario AmodeiとNVIDIAのJensen HuangがDreamforceでAIの安全対策に取り組む",
+   "summary": "AIの最も影響力のある幹部の2人は、議論の反対側にいます。",
    "source": "Adweek（ソーシャル）",
    "type": "article",
    "tier": "media",
@@ -4451,13 +4588,15 @@
    "proxy_for": null,
    "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/09/Dreamforce.png?w=600&h=315&crop=1",
    "published": "2026-09-16T01:14+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "Anthropic’s Dario Amodei and Nvidia’s Jensen Huang Take Their AI Safety Fight to Dreamforce",
+   "summary_orig": "Two of AI's most influential executives are on opposite sides of a debate."
   },
   {
    "id": "47d648234ee6",
    "url": "https://blog.hootsuite.com/social-media-value/",
-   "title": "The real value of social media for your business (beyond ROI)",
-   "summary": "ROI is only half the story. Learn how to prove the real value of social media, and finally get leadership to listen. The post The real value of social media for",
+   "title": "あなたのビジネスのためのソーシャルメディアの真の価値（ ROIを超えて）",
+   "summary": "ROIはストーリーの半分に過ぎません。ソーシャルメディアの真の価値を証明し、最終的にリーダーシップを発揮して話を聞く方法を学びましょう。投稿ソーシャルメディアの本当の価値は",
    "source": "Hootsuite",
    "type": "article",
    "tier": "media",
@@ -4465,13 +4604,15 @@
    "proxy_for": null,
    "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/09/social-media-value.png",
    "published": "2026-09-16T01:12+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "The real value of social media for your business (beyond ROI)",
+   "summary_orig": "ROI is only half the story. Learn how to prove the real value of social media, and finally get leadership to listen. The post The real value of social media for"
   },
   {
    "id": "38ee17817bda",
    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-product-tagging-system-with-amazon-sagemaker-serverless-model-customization/",
-   "title": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
-   "summary": "Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning (SFT) and ",
+   "title": "Amazon SageMakerサーバーレスモデルのカスタマイズでAI搭載の製品タグシステムを構築する",
+   "summary": "何千ものカタログ製品に手動でタグを付けるのは遅く、一貫性がありません。このウォークスルーでは、教師付き微調整（ SFT ）を使用してQwen 3 -8 Bをカスタマイズし、",
    "source": "AWS Machine Learning Blog",
    "type": "article",
    "tier": "official",
@@ -4479,13 +4620,15 @@
    "proxy_for": null,
    "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-20331-featured-image.png",
    "published": "2026-09-16T01:11+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Build an AI-powered product tagging system with Amazon SageMaker serverless model customization",
+   "summary_orig": "Manually tagging thousands of catalog products is slow and inconsistent. This walkthrough shows how to customize Qwen3-8B with supervised fine-tuning (SFT) and"
   },
   {
    "id": "e1f774132303",
    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-instance-preference-lists-for-amazon-sagemaker-ai-training-jobs/",
-   "title": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
-   "summary": "Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker A",
+   "title": "Amazon SageMaker AIトレーニングジョブのインスタンス設定リストの発表",
+   "summary": "Amazon SageMaker AIは、トレーニングおよび処理ジョブのインスタンス設定リストを提供するようになりました。最大5つのインスタンスタイプの順序付きリストを指定し、SageMaker A",
    "source": "AWS Machine Learning Blog",
    "type": "article",
    "tier": "official",
@@ -4493,13 +4636,15 @@
    "proxy_for": null,
    "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/08/ML-21790-featured-image.png",
    "published": "2026-09-16T01:01+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Announcing instance preference lists for Amazon SageMaker AI training jobs",
+   "summary_orig": "Amazon SageMaker AI now offers instance preference lists for training and processing jobs. Specify an ordered list of up to five instance types, and SageMaker A"
   },
   {
    "id": "16a7b27ed0ae",
    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-   "title": "Your Agent Aced the Task. Will It Do It Again?",
-   "summary": "A Blog post by IBM Research on Hugging Face",
+   "title": "エージェントがタスクをエースしました。またやるのか？",
+   "summary": "顔を抱きしめることに関するIBM Researchのブログ記事",
    "source": "Hugging Face",
    "type": "article",
    "tier": "official",
@@ -4507,13 +4652,15 @@
    "proxy_for": null,
    "thumbnail": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/dI5J2sSc3TSprk9VB4EVJ.jpeg",
    "published": "2026-09-16T01:00+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Your Agent Aced the Task. Will It Do It Again?",
+   "summary_orig": "A Blog post by IBM Research on Hugging Face"
   },
   {
    "id": "564ec8477305",
    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-   "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-   "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+   "title": "OpenAI、Anthropic、Googleは、AIの安全性について何週間も話し合ってきました",
+   "summary": "OpenAIは、トランプ氏のチームが安全上の懸念を無視し、中国との足並みを揃えるよう努力しているため、AnthropicとGoogle DeepMindとの数週間にわたるAI安全協議を確認している。",
    "source": "TechCrunch AI",
    "type": "article",
    "tier": "media",
@@ -4521,12 +4668,14 @@
    "proxy_for": null,
    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/09/53203224992_ceaa387ca4_k-1.jpg?resize=1200,800",
    "published": "2026-09-16T00:47+09:00",
-   "collected": "2026-09-16T17:36+09:00"
+   "collected": "2026-09-16T17:36+09:00",
+   "title_orig": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+   "summary_orig": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China."
   },
   {
    "id": "7c4fa5165e59",
    "url": "https://www.youtube.com/shorts/Th5WmdddoJw",
-   "title": "Check out Meta One",
+   "title": "Meta Oneをチェック",
    "summary": "People use our apps in all kinds of ways, and they’re increasingly asking for tools built for more specific needs. That’s what Meta One is about—more ways to cr",
    "source": "Meta",
    "type": "video",
@@ -4535,7 +4684,8 @@
    "proxy_for": null,
    "thumbnail": "https://i.ytimg.com/vi/Th5WmdddoJw/hqdefault.jpg",
    "published": "2026-09-16T00:36+09:00",
-   "collected": "2026-09-16T17:32+09:00"
+   "collected": "2026-09-16T17:32+09:00",
+   "title_orig": "Check out Meta One"
   },
   {
    "id": "6808e2789408",
