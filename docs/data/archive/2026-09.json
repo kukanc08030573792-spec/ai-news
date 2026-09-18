@@ -1,5 +1,21 @@
 [
  {
+  "id": "6b49f5c4d6de",
+  "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+  "title": "他のスタートアップを構築するスタートアップが1億$を調達し、物理的なAIにすべてを注ぎ込んでいる",
+  "summary": "UP.Labsは、現在Vantoraという名前で事業を行っており、工業企業向けのスタートアップを構築しています。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
+  "published": "2026-09-19T08:25+09:00",
+  "collected": "2026-09-19T08:34+09:00",
+  "title_orig": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+  "summary_orig": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations."
+ },
+ {
   "id": "d6d9aec5a879",
   "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
   "title": "Anthropicは、生物学の実験を行う研究室を運営しています",
@@ -180,7 +196,7 @@
   "thumbnail": null,
   "published": "2026-09-19T04:21+09:00",
   "collected": "2026-09-19T08:19+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Note on 18th September 2026",
   "summary_orig": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesti"
  },
@@ -213,7 +229,7 @@
   "thumbnail": null,
   "published": "2026-09-19T04:09+09:00",
   "collected": "2026-09-19T08:19+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Quoting Thariq Shihipar",
   "summary_orig": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS"
  },
@@ -248,6 +264,22 @@
   "collected": "2026-09-19T08:19+09:00",
   "title_orig": "27 best Instagram tools for marketers in 2026",
   "summary_orig": "Discover 27 Instagram tools for scheduling, analytics, AI, content creation, ads, hashtags, bio links, and listening for marketers in 2026. The post 27 best Ins"
+ },
+ {
+  "id": "bb9a8ca02ea4",
+  "url": "https://www.adweek.com/brand-marketing/converse-roils-social-media-with-ads-that-evoke-a-lynching/",
+  "title": "コンバース、リンチを誘発する広告でソーシャルメディアを揺るがす",
+  "summary": "Converseは、一部のソーシャルメディアユーザーを、Klanの画像をリコールしたと言われる2つの広告で興奮させました。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/09/converse-chuck-70x-2026.jpg?w=600&h=315&crop=1",
+  "published": "2026-09-19T03:57+09:00",
+  "collected": "2026-09-19T08:34+09:00",
+  "title_orig": "Converse Roils Social Media With Ads That Evoke a Lynching",
+  "summary_orig": "Converse stirred up some social media users with a pair of ads they said recalled Klan imagery."
  },
  {
   "id": "cde89040db03",
@@ -328,6 +360,21 @@
   "collected": "2026-09-19T08:19+09:00",
   "title_orig": "MilleMiglia: A realistic instance generator for middle-mile logistics",
   "summary_orig": "Algorithms & Theory"
+ },
+ {
+  "id": "f7ada7eaf56d",
+  "url": "https://www.youtube.com/watch?v=oJ4H5WAkHYw",
+  "title": "ライリーの再建",
+  "summary": "",
+  "source": "Meta",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/oJ4H5WAkHYw/hqdefault.jpg",
+  "published": "2026-09-19T02:45+09:00",
+  "collected": "2026-09-19T08:34+09:00",
+  "title_orig": "Riley's Rebuilds"
  },
  {
   "id": "0c2082ebb705",
@@ -504,6 +551,22 @@
   "collected": "2026-09-19T08:19+09:00",
   "title_orig": "What Hollywood thinks about existential AI warnings",
   "summary_orig": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already ha"
+ },
+ {
+  "id": "426664318951",
+  "url": "https://www.youtube.com/shorts/bof56DxMcvo",
+  "title": "今週のリール| AR + VRストリートアート",
+  "summary": "マルガリータは受賞歴のあるビジュアルアーティストで、@ MetaQuestVRを主な芸術媒体として使用し、現実世界の背景を背景にバーチャルリアリティでライブペイントしています",
+  "source": "Meta",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/bof56DxMcvo/hqdefault.jpg",
+  "published": "2026-09-19T01:01+09:00",
+  "collected": "2026-09-19T08:34+09:00",
+  "title_orig": "Reel of the Week | AR + VR Street Art",
+  "summary_orig": "Margarita is an award-winning visual artist who uses @MetaQuestVR as her primary artistic medium, painting live in virtual reality against real-world backdrops"
  },
  {
   "id": "271cc6cc6ef3",
@@ -873,7 +936,7 @@
   "id": "f24c916df15c",
   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-inference-gateway/",
   "title": "Amazon SageMaker HyperPod推論ゲートウェイのご紹介",
-  "summary": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing add-on for Amazon EKS. It uses real-time GPU signals to send each inferenc",
+  "summary": "Amazon SageMaker HyperPod Inference Gatewayは、Amazon EKS用のKubernetesネイティブのGPU対応ルーティングアドオンです。各推論を送信するためにリアルタイムのGPU信号を使用します",
   "source": "AWS Machine Learning Blog",
   "type": "article",
   "tier": "official",
@@ -882,7 +945,8 @@
   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/16/ML-21822-featured-image-2.png",
   "published": "2026-09-18T22:08+09:00",
   "collected": "2026-09-19T08:19+09:00",
-  "title_orig": "Introducing Amazon SageMaker HyperPod Inference Gateway"
+  "title_orig": "Introducing Amazon SageMaker HyperPod Inference Gateway",
+  "summary_orig": "Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing add-on for Amazon EKS. It uses real-time GPU signals to send each inferenc"
  },
  {
   "id": "e143fd042c10",
@@ -901,8 +965,8 @@
  {
   "id": "343ea4633afc",
   "url": "https://www.searchenginejournal.com/googles-ai-payment-pilot-vs-cloudflare-and-microsoft-models/589636/",
-  "title": "Google’s AI Payment Pilot Vs. Cloudflare & Microsoft Models via @sejournal, @MattGSouthern",
-  "summary": "Google, Cloudflare, and Microsoft are testing different models for paying publishers when AI systems access or use their content. The post Google’s AI Payment P",
+  "title": "GoogleのAIペイメントパイロット対Cloudflare ＆ Microsoftモデル@ sejournal、@ MattGS",
+  "summary": "Google、Cloudflare、Microsoftは、AIシステムがコンテンツにアクセスまたは使用する際に、有料パブリッシャーのさまざまなモデルをテストしています。GoogleのAI Payment Pの投稿",
   "source": "Search Engine Journal",
   "type": "article",
   "tier": "media",
@@ -910,13 +974,15 @@
   "proxy_for": null,
   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/google-cloudflare-microsoft-ai-payment-models.jpg",
   "published": "2026-09-18T21:00+09:00",
-  "collected": "2026-09-19T08:19+09:00"
+  "collected": "2026-09-19T08:19+09:00",
+  "title_orig": "Google’s AI Payment Pilot Vs. Cloudflare & Microsoft Models via @sejournal, @MattGSouthern",
+  "summary_orig": "Google, Cloudflare, and Microsoft are testing different models for paying publishers when AI systems access or use their content. The post Google’s AI Payment P"
  },
  {
   "id": "f83fc48a3bb3",
   "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/",
-  "title": "Build campaigns that drive high-converting, sales-ready leads.",
-  "summary": "In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?",
+  "title": "コンバージョン率が高く、セールス対応のリードを促進するキャンペーンを構築します。",
+  "summary": "このAds Decodedエピソードでは、データの強度を分解します。それは何ですか？どのように構築できますか？そして、リードジェネレーションキャンペーンがそれを必要とするのはなぜですか？",
   "source": "Google 広告・コマース公式",
   "type": "article",
   "tier": "official",
@@ -924,13 +990,15 @@
   "proxy_for": null,
   "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-1440x810.png",
   "published": "2026-09-18T21:00+09:00",
-  "collected": "2026-09-19T08:19+09:00"
+  "collected": "2026-09-19T08:19+09:00",
+  "title_orig": "Build campaigns that drive high-converting, sales-ready leads.",
+  "summary_orig": "In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?"
  },
  {
   "id": "1355776f5b26",
   "url": "https://www.adweek.com/brand-marketing/why-ai-can-never-replace-great-agencies-ft-andy-lopez-cmo-of-behr-paint/",
-  "title": "Why AI Can Never Replace Great Agencies ft. Andy Lopez, CMO of Behr Paint",
-  "summary": "Plus, why consumer confidence matters as much as consumer inspiration.",
+  "title": "なぜAIは偉大なエージェンシーを置き換えることはできないのかft. Andy Lopez氏、Behr Paint、CMO",
+  "summary": "さらに、なぜ消費者の信頼が消費者のインスピレーションと同じくらい重要なのか。",
   "source": "Adweek（ソーシャル）",
   "type": "article",
   "tier": "media",
@@ -938,7 +1006,95 @@
   "proxy_for": null,
   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/09/marketing-vanguard-behr-andy-lopez.png?w=600&h=315&crop=1",
   "published": "2026-09-18T20:53+09:00",
-  "collected": "2026-09-19T08:19+09:00"
+  "collected": "2026-09-19T08:19+09:00",
+  "title_orig": "Why AI Can Never Replace Great Agencies ft. Andy Lopez, CMO of Behr Paint",
+  "summary_orig": "Plus, why consumer confidence matters as much as consumer inspiration."
+ },
+ {
+  "id": "84145fbe5ff7",
+  "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+  "title": "AIは本当に私たち全員を殺すことができますか？ご質問にお答えします。",
+  "summary": "水曜日、MITテクノロジーレビューは、購読者向けのライブラウンドテーブルイベントを開催し、誰もが今尋ねている質問をしました： AIは本当に私たちを殺すことができますか？",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
+  "published": "2026-09-18T20:29+09:00",
+  "collected": "2026-09-19T08:34+09:00",
+  "title_orig": "Could AI really kill us all? Your questions, answered.",
+  "summary_orig": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us"
+ },
+ {
+  "id": "4411231aa358",
+  "url": "https://ascii.jp/elem/000/004/435/4435938/?rss",
+  "title": "23.8型ディスプレーの一体型デスクトップPCが、Ryzen AI 5 340搭載で24万円台！",
+  "summary": "FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/04/24/4457952/xl/de9ac1662f82d96a.png?20200122",
+  "published": "2026-09-18T20:00+09:00",
+  "collected": "2026-09-19T08:34+09:00"
+ },
+ {
+  "id": "7d81f4cb543a",
+  "url": "https://www.advertimes.com/20260918/article558113/?utm_source=feed",
+  "title": "「好きにやっちゃって」から20年 木村拓哉×ギャツビーが再タッグ 変えた言葉、残した色 SNSで「お帰りなさい」",
+  "summary": "マンダムは8月24日、発売20周年を迎えた男性用ヘアワックス「ギャツビー ムービングラバー」をリニューアルした。 The post 「好きにやっちゃって」から20年 木村拓哉×ギャツビーが再タッグ 変えた言葉、残した色 SNSで「お帰りなさい」 first appeared on AdverTimes.（アドタイ） b",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/gatsby01.jpg",
+  "published": "2026-09-18T18:17+09:00",
+  "collected": "2026-09-19T08:34+09:00"
+ },
+ {
+  "id": "306ed008e61a",
+  "url": "https://www.advertimes.com/20260918/article557916/?utm_source=feed",
+  "title": "AI支出の8割、財務成果との関連示せず 高性能モデルの “使いすぎ” がコスト押し上げ",
+  "summary": "企業による生成AIの活用が広がる一方、AIの処理に必要な「トークン」への支出のうち、定量的な財務成果との関連を証明できている割合は2割未満にとどまることが、アクセンチュアの調査でわかった。AIへのリクエストの半数以上が、必要以上に高性能なモデルへ振り分けられているという。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/accenture-survey_token-consumption_ogp.jpg",
+  "published": "2026-09-18T18:04+09:00",
+  "collected": "2026-09-19T08:34+09:00"
+ },
+ {
+  "id": "96e19fb96058",
+  "url": "https://www.advertimes.com/20260918/article558098/?utm_source=feed",
+  "title": "嵐の結成日に「粋な新聞広告」 5人がそろった姿再び",
+  "summary": "2026年5月31日をもって活動終了した嵐のドキュメンタリーフィルムPrime Original『5 - 嵐という時間 -』の新聞広告が、9月15日の朝刊に掲載された。広告主はプライムビデオを運営するアマゾンジャパン。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/5_the-time-of-arashi_anniv_newspaper-ad_ogp.jpg",
+  "published": "2026-09-18T17:36+09:00",
+  "collected": "2026-09-19T08:34+09:00"
+ },
+ {
+  "id": "cc2d1f5cb4eb",
+  "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/",
+  "title": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
+  "summary": "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現地を実際に見てきたので、写真を交えて紹介する。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001633/10007025/2048",
+  "published": "2026-09-18T16:52+09:00",
+  "collected": "2026-09-19T08:34+09:00"
  },
  {
   "id": "04bcc6779db4",
@@ -953,6 +1109,34 @@
   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000043-zdn_n-000-1-view.jpg?exp=10800",
   "published": "2026-09-18T16:49+09:00",
   "collected": "2026-09-19T08:19+09:00"
+ },
+ {
+  "id": "6a1e03b314c8",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/",
+  "title": "Anthropic、AI開発の26％を「Claudeが主導」 「1％未満」から半年で急拡大",
+  "summary": "同社のAIモデルの研究開発全体を100とした時、AIが主導する仕事が全体の26％を占めた。人間が細かく指示しながらAIと進める仕事と合わせると90％を超えた。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/18/2000001634/10007022/2048",
+  "published": "2026-09-18T16:46+09:00",
+  "collected": "2026-09-19T08:34+09:00"
+ },
+ {
+  "id": "722f929de3ef",
+  "url": "https://www.advertimes.com/20260918/article558037/?utm_source=feed",
+  "title": "素材が「多い」or「少ない」どちらのジュースが売れる？",
+  "summary": "私は、元博報堂のブランドコンサルティング部門の部長で、今は法政大学経営学部の准教授としてマーケティングの教育と研究をしている岡田庄生といいます。このコラムは、私が日々読んでいる論文の中から「面白い！」「実務で使えそう！」と思ったものを紹介していきたいと思います。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/shoookada-column-ogpjpg.jpg",
+  "published": "2026-09-18T16:26+09:00",
+  "collected": "2026-09-19T08:34+09:00"
  },
  {
   "id": "98b69f2e6afe",
@@ -971,7 +1155,7 @@
  {
   "id": "405e090bb244",
   "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
-  "title": "[AINews] not much happened today",
+  "title": "[AINews]今日はあまり起こりませんでした",
   "summary": "",
   "source": "Latent Space",
   "type": "article",
@@ -980,7 +1164,8 @@
   "proxy_for": null,
   "thumbnail": "https://substackcdn.com/image/fetch/$s_!2Y6l!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fswyx.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-602510947%26version%3D9",
   "published": "2026-09-18T15:28+09:00",
-  "collected": "2026-09-19T08:19+09:00"
+  "collected": "2026-09-19T08:19+09:00",
+  "title_orig": "[AINews] not much happened today"
  },
  {
   "id": "d7c3bdabb7af",
@@ -1025,6 +1210,21 @@
   "collected": "2026-09-19T08:19+09:00"
  },
  {
+  "id": "524aa4672af2",
+  "url": "https://markezine.jp/article/detail/77655",
+  "title": "Salesforce、リアルタイムのAIインターフェース層「AIforce」を発表",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-18T13:00+09:00",
+  "collected": "2026-09-19T08:34+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "0ae528d2718e",
   "url": "https://ai.watch.impress.co.jp/docs/news/2142120.html",
   "title": "Anthropic、AI開発ペースを測る3指標を公開",
@@ -1037,6 +1237,35 @@
   "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2142/120/0200.jpg",
   "published": "2026-09-18T12:27+09:00",
   "collected": "2026-09-19T08:19+09:00"
+ },
+ {
+  "id": "a677e13023be",
+  "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/18/news025.html",
+  "title": "散在する“29万ファイル”をAmazon S3に集約、「AIに聞くだけ」で検索可能に――AWSはどう実現？",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/ait/articles/2609/18/cover_news025.jpg",
+  "published": "2026-09-18T11:00+09:00",
+  "collected": "2026-09-19T08:34+09:00"
+ },
+ {
+  "id": "e06da1b0d9db",
+  "url": "https://markezine.jp/article/detail/50407",
+  "title": "Metaアプリ広告の新常識。ROASが約12.7倍改善した「バリュー最適化（VO）」活用のポイント",
+  "summary": "成熟期を迎えたアプリマーケティング市場において、単なるインストール獲得だけでは事業成長を描けず、ユーザーのLTV最大化が広告主の最大の課題となっています。この壁を突破する強力な打ち手が、高LTVユーザーを狙うMeta広告の入札戦略「バリュー最適化（VO）」です。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-18T10:30+09:00",
+  "collected": "2026-09-19T08:34+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "478bd93bfeaa",
@@ -1065,7 +1294,7 @@
   "thumbnail": null,
   "published": "2026-09-18T10:00+09:00",
   "collected": "2026-09-18T10:16+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "80f4d5a35a9c",
@@ -1080,7 +1309,7 @@
   "thumbnail": null,
   "published": "2026-09-18T10:00+09:00",
   "collected": "2026-09-18T10:16+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "0e2847526113",
@@ -4179,8 +4408,8 @@
  {
   "id": "973a91148c50",
   "url": "https://openai.com/index/hex-gpt-6-astra/",
-  "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-  "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+  "title": "Hexは、GPT ‑ 6 Astraを使用して複雑な分析を視覚的なレポートに変換します",
+  "summary": "GPT -6 Astraは、Hexのデータエージェントが回答をインタラクティブな視覚化に変換し、従業員が誇りを持って共有できるよう支援します。",
   "source": "OpenAI",
   "type": "article",
   "tier": "official",
@@ -4188,7 +4417,9 @@
   "proxy_for": null,
   "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/PJWXosvXqEe1xKvyBoadV/77366666e0c991ffeae78ea394885c3b/og.png?w=1600&h=900&fit=fill",
   "published": "2026-09-16T21:00+09:00",
-  "collected": "2026-09-19T08:19+09:00"
+  "collected": "2026-09-19T08:19+09:00",
+  "title_orig": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+  "summary_orig": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share."
  },
  {
   "id": "faf605910198",
@@ -5915,7 +6146,7 @@
  {
   "id": "46db0c0e9e3d",
   "url": "https://www.searchenginejournal.com/anthropic-shares-power-prompts-that-improve-ai-results/589448/",
-  "title": "Anthropic Shares Power Prompts That Improve AI Results via @ sejournal、@ martinibuster",
+  "title": "Anthropicは@ sejournal @ martinibusterを介してAIの結果を改善するパワープロンプトを、共有します",
   "summary": "Anthropicは、トークンを節約し、AIの書き方を改善し、より効率的にコーディングし、より長いタスクを処理するアップグレードを促します。POST Anthropic Shares Power Pro",
   "source": "Search Engine Journal",
   "type": "article",
@@ -5925,7 +6156,7 @@
   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/anthropic-prompting-536.jpg",
   "published": "2026-09-15T19:14+09:00",
   "collected": "2026-09-17T08:50+09:00",
-  "title_orig": "Anthropic Shares Power Prompts That Improve AI Results via @sejournal, @martinibuster",
+  "title_orig": "Anthropic Shares Power Prompts That Improve AI Results via @ sejournal、@ martinibuster",
   "summary_orig": "Anthropic shares prompting upgrades that save tokens, improve how AI writes, code more efficiently, and handle longer tasks. The post Anthropic Shares Power Pro"
  },
  {
@@ -6635,7 +6866,7 @@
   "id": "5706c8561704",
   "url": "https://www.youtube.com/watch?v=uA5PiAXKGis",
   "title": "FyxerがAIエグゼクティブアシスタントの信頼を築いた方法",
-  "summary": "See how Fyxer built an AI executive assistant that follows the thread across emails, meetings and everyday work. By combining OpenAI models with insights from m",
+  "summary": "Fyxerが電子メール、会議、日常業務のスレッドをフォローするAIエグゼクティブアシスタントをどのように構築したかをご覧ください。OpenAIモデルとmからのインサイトを組み合わせることで",
   "source": "OpenAI",
   "type": "video",
   "tier": "official",
@@ -6644,7 +6875,8 @@
   "thumbnail": "https://i.ytimg.com/vi/uA5PiAXKGis/hqdefault.jpg",
   "published": "2026-09-14T18:00+09:00",
   "collected": "2026-09-16T17:36+09:00",
-  "title_orig": "How Fyxer built an AI executive assistant people trust"
+  "title_orig": "How Fyxer built an AI executive assistant people trust",
+  "summary_orig": "See how Fyxer built an AI executive assistant that follows the thread across emails, meetings and everyday work. By combining OpenAI models with insights from m"
  },
  {
   "id": "88a93c443ccd",
@@ -6691,8 +6923,8 @@
  {
   "id": "1c84b6d58d80",
   "url": "https://buffer.com/resources/best-time-to-post-on-tiktok/",
-  "title": "The Best Time to Post on TikTok in 2026: New Data from 7M Posts",
-  "summary": "We analyzed 7.1 million TikTok posts to find the best time to post on TikTok in 2026. Here's what the data says — plus how to find your own best times.",
+  "title": "2026年にTikTokに投稿するのに最適な時期： 700万件の投稿からの新しいデータ",
+  "summary": "2026年にTikTokに投稿するのに最適な時期を見つけるために、710万件のTikTok投稿を分析しました。データには次のように記載されています。また、最適な時期を見つける方法も記載されています。",
   "source": "Buffer",
   "type": "article",
   "tier": "media",
@@ -6700,7 +6932,9 @@
   "proxy_for": null,
   "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2026/02/best-time-to-post-tiktok.png",
   "published": "2026-09-14T15:00+09:00",
-  "collected": "2026-09-17T08:50+09:00"
+  "collected": "2026-09-17T08:50+09:00",
+  "title_orig": "The Best Time to Post on TikTok in 2026: New Data from 7M Posts",
+  "summary_orig": "We analyzed 7.1 million TikTok posts to find the best time to post on TikTok in 2026. Here's what the data says — plus how to find your own best times."
  },
  {
   "id": "7f3af1d9f75e",
@@ -6762,8 +6996,8 @@
  {
   "id": "3dab7f1784c1",
   "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-  "title": "commit-rewriter 0.1",
-  "summary": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commit",
+  "title": "commit - rewriter 0.1",
+  "summary": "Release: commit -rewriter 0.1先日、Datasetteセキュリティリリースのコミットメッセージを編集するためにこの小さなWebアプリを構築しました。最初のコミット",
   "source": "Simon Willison",
   "type": "article",
   "tier": "voice",
@@ -6771,13 +7005,15 @@
   "proxy_for": null,
   "thumbnail": "https://static.simonwillison/static/2026/commit-rewriter.webp",
   "published": "2026-09-14T09:28+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "commit-rewriter 0.1",
+  "summary_orig": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commit"
  },
  {
   "id": "12e9dd685180",
   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra/",
-  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-  "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+  "title": "PerplexityはGPT -6 Astraをエンドツーエンドシステムで信頼しています",
+  "summary": "Perplexityは、Astraを使用して通信を作成し、ソフトウェアを変更し、本番システムを監視し、以前のモデルよりもはるかに少ない頻度でチェックインします。",
   "source": "OpenAI",
   "type": "article",
   "tier": "official",
@@ -6785,7 +7021,9 @@
   "proxy_for": null,
   "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/2ONJEXhA8M9IGON14JgHTc/4450550ce2d8b38c7fe2e7825839c92a/og.png?w=1600&h=900&fit=fill",
   "published": "2026-09-14T09:00+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "summary_orig": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
  },
  {
   "id": "a4074eaadfc4",
@@ -6818,8 +7056,8 @@
  {
   "id": "0fb6fdee2c1a",
   "url": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
-  "title": "shot-scraper 1.12",
-  "summary": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: sh",
+  "title": "ショットスクレーパー1.12",
+  "summary": "リリース： shot - scraper 1.12私のshot - scraperスクリーンショットオートメーションツールにWebPサポートを追加しました。これで、次のようなWebページのWebPスクリーンショットを撮ることができます。sh",
   "source": "Simon Willison",
   "type": "article",
   "tier": "voice",
@@ -6828,7 +7066,9 @@
   "thumbnail": null,
   "published": "2026-09-14T08:58+09:00",
   "collected": "2026-09-16T17:32+09:00",
-  "_thumb_tries": 3
+  "_thumb_tries": 3,
+  "title_orig": "shot-scraper 1.12",
+  "summary_orig": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: sh"
  },
  {
   "id": "8a499e3c7f8c",
@@ -6876,8 +7116,8 @@
  {
   "id": "2981ecf752e1",
   "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-  "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-  "summary": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop fr",
+  "title": "GPT -6 AstraとChatGPT Workを使用して実行ルートを生成する",
+  "summary": "今朝、私はChatGPT Work with GPT -6 Astra （ Max ）にすばらしいことをしてもらいました。私はに住んでい<my address>ます。私からの5 Kと10 Kの実行ルートを把握するループfr",
   "source": "Simon Willison",
   "type": "article",
   "tier": "voice",
@@ -6885,13 +7125,15 @@
   "proxy_for": null,
   "thumbnail": "https://static.simonwillison.net/static/2026/5k-route.webp",
   "published": "2026-09-13T08:56+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+  "summary_orig": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop fr"
  },
  {
   "id": "dbc729f998e7",
   "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-  "title": "California Brown Pelican",
-  "summary": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the ",
+  "title": "カリフォルニアブラウンペリカン",
+  "summary": "カリフォルニア州カリフォルニア州サンマテオ郡のカリフォルニア・ブラウン・ペリカンパシフィカ桟橋は、コンクリート製の歩道に亀裂が発生したため、6月初旬に閉鎖されました。",
   "source": "Simon Willison",
   "type": "article",
   "tier": "voice",
@@ -6900,13 +7142,15 @@
   "thumbnail": null,
   "published": "2026-09-13T06:16+09:00",
   "collected": "2026-09-16T17:32+09:00",
-  "_thumb_tries": 3
+  "_thumb_tries": 3,
+  "title_orig": "California Brown Pelican",
+  "summary_orig": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the"
  },
  {
   "id": "ee6663ae007e",
   "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-  "title": "Quoting Paul Ford",
-  "summary": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slo",
+  "title": "ポール・フォードの名言",
+  "summary": "しばらくの間、私のようなソフトウェア開発者の役割は終わったように見えました。疲れを知らないロボットとどのように戦うことができますか？しかし、私たちの業界はスロです",
   "source": "Simon Willison",
   "type": "article",
   "tier": "voice",
@@ -6915,13 +7159,15 @@
   "thumbnail": null,
   "published": "2026-09-13T03:00+09:00",
   "collected": "2026-09-16T17:32+09:00",
-  "_thumb_tries": 3
+  "_thumb_tries": 3,
+  "title_orig": "Quoting Paul Ford",
+  "summary_orig": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slo"
  },
  {
   "id": "46af3aa4b297",
   "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
-  "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
-  "summary": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline — a pioneering program for Forward Deployed Engineers. He takes us thr",
+  "title": "フォワードデプロイされたエンジニアの台頭—そして正しい仕事をする方法",
+  "summary": "Keplerを共同設立する前は、Vinoo GaneshはPalantirでSparkを率い、フォワードデプロイされたエンジニアのための先駆的なプログラムであるProject Frontlineを構築しました。He takes us thr",
   "source": "Latent Space",
   "type": "article",
   "tier": "voice",
@@ -6929,12 +7175,14 @@
   "proxy_for": null,
   "thumbnail": "https://substackcdn.com/image/fetch/$s_!5LAd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ad2af0-b40a-433d-bd78-0514683c9eb4_2560x1440.png",
   "published": "2026-09-13T00:01+09:00",
-  "collected": "2026-09-16T17:32+09:00"
+  "collected": "2026-09-16T17:32+09:00",
+  "title_orig": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+  "summary_orig": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline — a pioneering program for Forward Deployed Engineers. He takes us thr"
  },
  {
   "id": "daaa7a0d942f",
   "url": "https://www.youtube.com/shorts/SiJGdlmdUms",
-  "title": "GPT-6 Astra needs less babysitting",
+  "title": "GPT -6 Astraに必要なベビーシッターの数を減らす",
   "summary": "",
   "source": "OpenAI",
   "type": "video",
@@ -6943,6 +7191,7 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/SiJGdlmdUms/hqdefault.jpg",
   "published": "2026-09-13T00:00+09:00",
-  "collected": "2026-09-16T17:36+09:00"
+  "collected": "2026-09-16T17:36+09:00",
+  "title_orig": "GPT-6 Astra needs less babysitting"
  }
 ]
