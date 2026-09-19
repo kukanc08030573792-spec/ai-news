@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-19T09:38+09:00",
+  "last_updated": "2026-09-19T10:09+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -45,6 +45,20 @@
  },
  "items": [
   {
+   "id": "6ac0dc941cfa",
+   "url": "https://www.advertimes.com/20260919/article557731/?utm_source=feed",
+   "title": "検索の代替？ 依存先？ 学生に“チャッピー”はどう活用されているのか 現役大学生がレポートするAI活用",
+   "summary": "令和の大学生にとって非常に身近な存在となった「ChatGPT」は、“チャッピー”と親しみを込めて呼ばれ、日常生活で活用されている。１９～２１歳の大学生（専門学生を含む）男女１０人を対象に、実際にAIがどのように利用され、大学生はAIに何を求めているのかを調査した。",
+   "source": "宣伝会議 AdverTimes",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/uni-ai-ogp.jpg",
+   "published": "2026-09-19T10:00+09:00",
+   "collected": "2026-09-19T10:09+09:00"
+  },
+  {
    "id": "93b15eb0cb1a",
    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
    "title": "ジェミニは、GoogleのAIによって最初に知られているブレイクアウトで3つの会社をハッキングしました",
@@ -57,7 +71,7 @@
    "thumbnail": null,
    "published": "2026-09-19T08:57+09:00",
    "collected": "2026-09-19T09:38+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
    "summary_orig": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday"
   },
@@ -1103,6 +1117,22 @@
    "collected": "2026-09-19T08:34+09:00"
   },
   {
+   "id": "e7f86315df66",
+   "url": "https://www.adweek.com/media/ai-agents-get-a-reality-check-att-and-crocs-want-automation-but-still-need-humans-in-the-loop/",
+   "title": "AIエージェントが現実をチェック： AT ＆ Tとクロックスは自動化を望んでいますが、まだループに人間が必要です",
+   "summary": "Dreamforceでは、ブランドは非現実的なエージェントAIの目標と、AIエージェントの未来がまだ多くの人間を必要とする理由を重視しています。",
+   "source": "Adweek（ソーシャル）",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/09/Dreamforce-NL.png?w=600&h=315&crop=1",
+   "published": "2026-09-18T18:40+09:00",
+   "collected": "2026-09-19T10:09+09:00",
+   "title_orig": "AI Agents Get a Reality Check: AT&T and Crocs Want Automation but Still Need Humans in the Loop",
+   "summary_orig": "At Dreamforce, brands dish on unrealistic agentic AI goals—and why the future of AI agents still needs plenty of humans."
+  },
+  {
    "id": "7d81f4cb543a",
    "url": "https://www.advertimes.com/20260918/article558113/?utm_source=feed",
    "title": "「好きにやっちゃって」から20年 木村拓哉×ギャツビーが再タッグ 変えた言葉、残した色 SNSで「お帰りなさい」",
@@ -1284,7 +1314,7 @@
    "thumbnail": null,
    "published": "2026-09-18T13:00+09:00",
    "collected": "2026-09-19T08:34+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "0ae528d2718e",
@@ -1327,7 +1357,7 @@
    "thumbnail": null,
    "published": "2026-09-18T10:30+09:00",
    "collected": "2026-09-19T08:34+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "478bd93bfeaa",
@@ -2695,7 +2725,7 @@
    "thumbnail": null,
    "published": "2026-09-17T18:00+09:00",
    "collected": "2026-09-19T09:38+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "ceb6d3216c26",
