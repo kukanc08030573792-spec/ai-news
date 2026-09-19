@@ -1,5 +1,22 @@
 [
  {
+  "id": "93b15eb0cb1a",
+  "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+  "title": "ジェミニは、GoogleのAIによって最初に知られているブレイクアウトで3つの会社をハッキングしました",
+  "summary": "Geminiは、GoogleのAI Geminiによる最初の既知のブレイクアウトで3つの会社をハッキングし、ついにFelony Benchに追いつきました！同社が金曜日に確認したハッキング",
+  "source": "Simon Willison",
+  "type": "article",
+  "tier": "voice",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-19T08:57+09:00",
+  "collected": "2026-09-19T09:38+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+  "summary_orig": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday"
+ },
+ {
   "id": "6b49f5c4d6de",
   "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
   "title": "他のスタートアップを構築するスタートアップが1億$を調達し、物理的なAIにすべてを注ぎ込んでいる",
@@ -196,7 +213,7 @@
   "thumbnail": null,
   "published": "2026-09-19T04:21+09:00",
   "collected": "2026-09-19T08:19+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Note on 18th September 2026",
   "summary_orig": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesti"
  },
@@ -229,7 +246,7 @@
   "thumbnail": null,
   "published": "2026-09-19T04:09+09:00",
   "collected": "2026-09-19T08:19+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting Thariq Shihipar",
   "summary_orig": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS"
  },
@@ -1222,7 +1239,7 @@
   "thumbnail": null,
   "published": "2026-09-18T13:00+09:00",
   "collected": "2026-09-19T08:34+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "0ae528d2718e",
@@ -1265,7 +1282,7 @@
   "thumbnail": null,
   "published": "2026-09-18T10:30+09:00",
   "collected": "2026-09-19T08:34+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "478bd93bfeaa",
@@ -2619,6 +2636,21 @@
   "collected": "2026-09-18T08:41+09:00",
   "title_orig": "Creating AI Image Libraries, Showing Up in AI Results, and Industry News",
   "summary_orig": "Friday is almost here! Before you unplug, here's one last round of insights and updates. Whether you read them now or save them for later, you won't want to mis"
+ },
+ {
+  "id": "5c1f710a6b79",
+  "url": "https://news.nicovideo.jp/watch/nw19784039?news_ref=60_60",
+  "title": "「AI博覧会 Fukuoka 2026」カンファレンス第3弾スピーカーを発表！",
+  "summary": "「AI博覧会 Fukuoka 2026」カンファレンス第3弾スピーカーを発表！",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-17T18:00+09:00",
+  "collected": "2026-09-19T09:38+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "ceb6d3216c26",
@@ -5130,21 +5162,6 @@
   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/16/2000001524/10006624/2048",
   "published": "2026-09-16T10:16+09:00",
   "collected": "2026-09-16T17:36+09:00"
- },
- {
-  "id": "6e3ffe909ff4",
-  "url": "https://www.youtube.com/watch?v=OujC4t5leqQ",
-  "title": "ライリーの再建",
-  "summary": "",
-  "source": "Meta",
-  "type": "video",
-  "tier": "official",
-  "topic": "sns",
-  "proxy_for": null,
-  "thumbnail": "https://i.ytimg.com/vi/OujC4t5leqQ/hqdefault.jpg",
-  "published": "2026-09-16T10:15+09:00",
-  "collected": "2026-09-16T17:32+09:00",
-  "title_orig": "Riley's Rebuilds"
  },
  {
   "id": "f8425b358242",
