@@ -1,5 +1,19 @@
 [
  {
+  "id": "61766bdc0547",
+  "url": "https://www.advertimes.com/20260920/article558214/?utm_source=feed",
+  "title": "“魔女狩り” に遭ったレベルファイブ、生成AIで “焼かれない” ためには AIならではの “魔法” を見せた、コロプラや東京シティ競馬の共通点",
+  "summary": "生成AIを使った広告やクリエイティブをめぐり、企業が批判を浴びるケースが相次いでいる。 The post “魔女狩り” に遭ったレベルファイブ、生成AIで “焼かれない” ためには AIならではの “魔法” を見せた、コロプラや東京シティ競馬の共通点 first appeared on AdverTimes.（アドタイ",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/level5_vision2026_aib_ogp.jpg",
+  "published": "2026-09-20T09:00+09:00",
+  "collected": "2026-09-20T09:23+09:00"
+ },
+ {
   "id": "8d047bc61f42",
   "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001626/",
   "title": "AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス",
@@ -114,7 +128,7 @@
   "thumbnail": null,
   "published": "2026-09-20T04:52+09:00",
   "collected": "2026-09-20T08:08+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "datasette-auth-github 1.0",
   "summary_orig": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasti"
  },
@@ -147,7 +161,7 @@
   "thumbnail": null,
   "published": "2026-09-20T02:10+09:00",
   "collected": "2026-09-20T08:08+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "California Sea Lion, Brandt's Cormorant",
   "summary_orig": "California Sea Lion, Brandt's Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking o"
  },
@@ -3365,6 +3379,20 @@
   "thumbnail": "https://japan.zdnet.com/storage/2026/09/17/2f0847268e67d876959fed82bd51eb91/GettyImages-2289791509_1280.jpg",
   "published": "2026-09-17T10:03+09:00",
   "collected": "2026-09-17T10:24+09:00"
+ },
+ {
+  "id": "325e82dcc032",
+  "url": "https://news.yahoo.co.jp/articles/f475c261d2ed105fb31a786fb1ac5e18561b2acb",
+  "title": "Anthropic、「Claude」のチャットと「Cowork」を統合（ZDNET Japan）",
+  "summary": "「Claude」で機能が制限された従来のチャットインターフェースを気に入っていた人に、Anthropicから残念なお知らせがある。チャットと「Claude Cowork」を1つにまとめ、すべてを担",
+  "source": "news.yahoo.co.jp",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-35252707-zdnet-000-1-view.jpg?exp=10800",
+  "published": "2026-09-17T10:03+09:00",
+  "collected": "2026-09-20T09:23+09:00"
  },
  {
   "id": "1abf7bc8fa9d",
