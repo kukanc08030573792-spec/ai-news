@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-20T09:23+09:00",
+  "last_updated": "2026-09-20T10:08+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -44,6 +44,20 @@
   ]
  },
  "items": [
+  {
+   "id": "8fd5b65399fd",
+   "url": "https://ascii.jp/elem/000/004/436/4436512/?rss",
+   "title": "グリー、Google Cloudの「AMD EPYC」搭載C4Dインスタンスを導入 既存開発フローを活用しコスパ25％以上向上",
+   "summary": "AMDは、株式会社グリーが運営するスマートフォン向けゲームアプリにおける「AMD EPYC™ プロセッサ」の導入事例を公表した。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/09/19/4528349/xl/da1c03a427a89770.jpg?20200122",
+   "published": "2026-09-20T10:00+09:00",
+   "collected": "2026-09-20T10:08+09:00"
+  },
   {
    "id": "61766bdc0547",
    "url": "https://www.advertimes.com/20260920/article558214/?utm_source=feed",
