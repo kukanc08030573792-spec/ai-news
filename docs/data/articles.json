@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-21T08:31+09:00",
+  "last_updated": "2026-09-21T09:29+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -85,7 +85,7 @@
    "thumbnail": null,
    "published": "2026-09-21T07:02+09:00",
    "collected": "2026-09-21T08:15+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5f70a0bf48f8",
@@ -198,7 +198,7 @@
    "thumbnail": null,
    "published": "2026-09-21T06:06+09:00",
    "collected": "2026-09-21T08:15+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting voxium",
    "summary_orig": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tic"
   },
@@ -353,7 +353,7 @@
    "thumbnail": null,
    "published": "2026-09-20T09:22+09:00",
    "collected": "2026-09-21T08:15+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "datasette - explain 0.2.2",
    "summary_orig": "Release: datasette-explain 0.2.2 Explain plans now work on read-only stored-query pages. I upgraded datasette.simonwillison.net to Datasette 1.0a40, which inspi"
   },
