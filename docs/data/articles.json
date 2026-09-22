@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-22T09:08+09:00",
+  "last_updated": "2026-09-22T10:09+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -44,6 +44,34 @@
   ]
  },
  "items": [
+  {
+   "id": "2575633b61bd",
+   "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/",
+   "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ",
+   "summary": "AmazonがMetaのAIエージェント「Muse」による自社サイトでの代理購入をブロックしたと報じられた。無断アクセスやセキュリティ上のリスクを理由としている。一方、MetaはShopify全ストアへの対応を発表するなど連携拡大を進める。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/22/2000001669/10007196/2048",
+   "published": "2026-09-22T09:43+09:00",
+   "collected": "2026-09-22T10:09+09:00"
+  },
+  {
+   "id": "ad7956e07894",
+   "url": "https://finance.biggo.jp/news/c1c6aa78-6db5-469a-8822-6934f6cf8b72",
+   "title": "AIスタートアップに自社モデル構築の波 OpenAIとAnthropicの収益モデルに圧力",
+   "summary": "AIモデルのコスト高騰を受け、Harvey、Abridge、Decagon、Rampなど複数のAIスタートアップがオープンウェイトモデルへの移行を進め、OpenAIとAnthropicへの依存…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://img.biggo.com/BPP8F91x4sk34M3p4bOjPeW3RmNJZJtwL0uIxdOiIDQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2MxYzZhYTc4LTZkYjUtNDY5YS04ODIyLTY5MzRmNmNmOGI3Ml8xNzkwMDM3MjA2X2RlZmF1bHQuanBn.jpg",
+   "published": "2026-09-22T09:28+09:00",
+   "collected": "2026-09-22T10:09+09:00"
+  },
   {
    "id": "268314f39a04",
    "url": "https://www.advertimes.com/20260922/article557973/?utm_source=feed",
@@ -115,7 +143,7 @@
    "thumbnail": null,
    "published": "2026-09-22T08:09+09:00",
    "collected": "2026-09-22T09:08+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Jev introduces a new shape of LLM - System One, aka Decision Models",
    "summary_orig": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think"
   },
@@ -174,7 +202,7 @@
    "thumbnail": null,
    "published": "2026-09-22T07:25+09:00",
    "collected": "2026-09-22T09:08+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Cloudflare Python Workers are now generally available",
    "summary_orig": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platfo"
   },
@@ -271,7 +299,7 @@
   {
    "id": "60d6567d7f21",
    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-   "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+   "title": "OpenAIは、AIが100以上の未解決の問題を解決するため、数学アドバイザリーグループを結成",
    "summary": "グループには、OpenAIの進行中の数学研究を遅らせたり、リダイレクトしたりする余裕はありません。",
    "source": "TechCrunch AI",
    "type": "article",
@@ -281,7 +309,8 @@
    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
    "published": "2026-09-22T05:15+09:00",
    "collected": "2026-09-22T09:08+09:00",
-   "summary_orig": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
+   "summary_orig": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+   "title_orig": "OpenAI forms math advisory group as its AI resolves more than 100 open problems"
   },
   {
    "id": "85b53edd1e90",
@@ -951,6 +980,22 @@
    "summary_orig": "The expanded form of a testimony I prepared for Congress."
   },
   {
+   "id": "8c544f799a23",
+   "url": "https://www.searchenginejournal.com/research-shows-google-ai-mode-sends-less-clicks-is-a-poor-user-experience/590221/",
+   "title": "Google AIモードのクリック数が少なく、@ sejournal、@ martinibusterを介したユーザーエクスペリエンスが低いことが調査で示されています",
+   "summary": "GoogleはAI検索について嘘をついているのか？新たな調査によると、AIモードはクリック数を減少させ、ユーザーエクスペリエンスを低下させる。記事「調査によると、GoogleのAIモードはクリック数を減少させ、ユーザーエクスペリエンスを低下させる」",
+   "source": "Search Engine Journal",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/google-ai-mode-179.jpg",
+   "published": "2026-09-21T20:47+09:00",
+   "collected": "2026-09-22T10:09+09:00",
+   "title_orig": "Research Shows Google AI Mode Sends Less Clicks & Is A Poor User Experience via @sejournal, @martinibuster",
+   "summary_orig": "Is Google lying about AI Search? New research shows AI Mode decreases clicks and it gives a poor user experience. The post Research Shows Google AI Mode Sends L"
+  },
+  {
    "id": "1864eb1ee378",
    "url": "https://www.gizmodo.jp/article/ai_safety_collaboration_antitrust/",
    "title": "競合のOpenAI、Anthropic、GoogleがAIの安全性を目的に協力⁉︎ しかし阻むのは…",
@@ -977,6 +1022,22 @@
    "thumbnail": "https://korben.info/openai-pirate-par-claude-lia-de-son-concurrent-anthropic/openai-pirate-par-claude-lia-de-son-concurrent-anthropic-1.png",
    "published": "2026-09-21T20:27+09:00",
    "collected": "2026-09-22T09:08+09:00"
+  },
+  {
+   "id": "94d0db2af44a",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+   "title": "国連は、AIセーフガードが確実性を待つことができないと述べています",
+   "summary": "国連の科学パネルは、AIエージェントの危険性が完全に理解される前に、各国政府はAIエージェントの能力向上を抑制する必要があると警告した。",
+   "source": "The Verge AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2234546269.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "published": "2026-09-21T19:18+09:00",
+   "collected": "2026-09-22T10:09+09:00",
+   "title_orig": "UN says AI safeguards can’t wait for certainty",
+   "summary_orig": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organ"
   },
   {
    "id": "1ca691988404",
@@ -1027,6 +1088,22 @@
    "summary_orig": "Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement"
   },
   {
+   "id": "fbef9683fbad",
+   "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+   "title": "AmazonがMetaのMuse AIエージェントをブロック",
+   "summary": "MetaのMuse AIエージェントは、ユーザーに代わってAmazonでのショッピングをブロックされたとGeekWireは報じている。Museユーザー向けのポップアップメッセージが日曜日に表示され始めました",
+   "source": "The Verge AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Amazon_Prime_Illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "published": "2026-09-21T18:21+09:00",
+   "collected": "2026-09-22T10:09+09:00",
+   "title_orig": "Amazon blocks Meta’s Muse AI agent",
+   "summary_orig": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users"
+  },
+  {
    "id": "a754bd940810",
    "url": "https://quasa.io/ja/media/claudegazi-she-aikai-fa-no26wozhu-dao-tadashice-ding-nimoclaudewoshi-yong",
    "title": "Claudeが自社AI開発の26％を主導、ただし測定にもClaudeを使用",
@@ -1041,10 +1118,24 @@
    "collected": "2026-09-22T09:08+09:00"
   },
   {
+   "id": "f9e6b779968e",
+   "url": "https://ascii.jp/elem/000/004/436/4436589/?rss",
+   "title": "「三井アウトレットパーク 札幌北広島」にAIでのパーソナルカラー診断やYOASOBIのドームツアー公演ロゴ入りフォトフレームでのフォト撮影など様々な体験が楽しめる「＋PLUS MIRROR」を設置",
+   "summary": "「三井アウトレットパーク 札幌北広島」にAIでのパーソナルカラー診断やYOASOBIのドームツアー公演ロゴ入りフォトフレームでのフォト撮影など様々な体験が楽しめる「＋PLUS MIRROR」を設置",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-09-21T16:40+09:00",
+   "collected": "2026-09-22T10:09+09:00"
+  },
+  {
    "id": "530db518a73a",
    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths/",
    "title": "新しい学習パスでOpenAIアカデミーを拡大",
-   "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+   "summary": "従業員、開発者、リーダー、教育者、学生向けの新しいOpenAIアカデミーの学習パスを探索して、実用的なAIスキルを構築し、実証します。",
    "source": "OpenAI",
    "type": "article",
    "tier": "official",
@@ -1053,13 +1144,42 @@
    "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/5SPnjyTz9kRLLejGLGKq3e/4d59d634845854176234cd0cdefcf3b4/expanding-openai-academy-with-new-learning-paths-seo.png?w=1600&h=900&fit=fill",
    "published": "2026-09-21T16:00+09:00",
    "collected": "2026-09-22T09:08+09:00",
-   "title_orig": "Expanding OpenAI Academy with new learning paths"
+   "title_orig": "Expanding OpenAI Academy with new learning paths",
+   "summary_orig": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+  },
+  {
+   "id": "83a03d5d3e3e",
+   "url": "https://www.advertimes.com/20260921/article557729/?utm_source=feed",
+   "title": "「今の時代に、どんな美を届けるか」 メッセージ刷新のマキアージュ 電通クリエイターが語る「利他的な美」",
+   "summary": "資生堂のメイクアップブランド「マキアージュ」が、若年層との距離を縮めるため、ブランドの発信を大きく刷新した。新たに掲げたメッセージは、「あなたには、世界を美しくする力がある。」。",
+   "source": "宣伝会議 AdverTimes",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/maquillage0916-ogp.jpg",
+   "published": "2026-09-21T11:00+09:00",
+   "collected": "2026-09-22T10:09+09:00"
+  },
+  {
+   "id": "92fd27b4ebe8",
+   "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
+   "title": "トランプ大統領、「AI Force」創設を表明 「AI脅威論はでっちあげだ」",
+   "summary": "トランプ大統領はSNSへの投稿で、AIを担当する新組織「AI Force」の創設と責任者“AI皇帝”の指名を表明した。AI脅威論を否定して業界の成長支援を掲げ、AIの新たな呼称案の投票も呼び掛けた。Anthropicなどの経営陣から開発のペース調整や安全性を求める声が相次ぐ中、規制に否定的な姿勢を鮮明にしている。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/21/2000001666/10007182/2048",
+   "published": "2026-09-21T09:45+09:00",
+   "collected": "2026-09-22T10:09+09:00"
   },
   {
    "id": "d1749ba76a98",
    "url": "https://openai.com/index/v7/",
-   "title": "How V7 gives AI agents institutional memory",
-   "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+   "title": "V 7がAIエージェントに機関メモリを提供する方法",
+   "summary": "GPT-5.6を使用すると、V 7は分散した会社のファイルをコンテキストエージェントに変換し、複雑でソースにリンクされた作業を完了できます。",
    "source": "OpenAI",
    "type": "article",
    "tier": "official",
@@ -1067,13 +1187,15 @@
    "proxy_for": null,
    "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/7GdeQ1K1dmN9lKhNw73MmP/e494c0e02e6370e338a3740aee65fbfd/V7-seo-16x9-option-a.png?w=1600&h=900&fit=fill",
    "published": "2026-09-21T09:00+09:00",
-   "collected": "2026-09-22T09:08+09:00"
+   "collected": "2026-09-22T09:08+09:00",
+   "title_orig": "How V7 gives AI agents institutional memory",
+   "summary_orig": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
   },
   {
    "id": "eb792e0fc342",
    "url": "https://huggingface.co/blog/tokenizers-v1",
-   "title": "tokenizers v1: encode, decode and scaling, measured",
-   "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "title": "トークナイザーv 1 ：エンコード、デコード、スケーリング、測定",
+   "summary": "私たちは、オープンソースとオープンサイエンスを通じて人工知能を進歩させ、民主化する旅に出ています。",
    "source": "Hugging Face",
    "type": "article",
    "tier": "official",
@@ -1081,7 +1203,9 @@
    "proxy_for": null,
    "thumbnail": "https://huggingface.co/blog/assets/tokenizers-v1/thumbnail.png",
    "published": "2026-09-21T09:00+09:00",
-   "collected": "2026-09-22T09:08+09:00"
+   "collected": "2026-09-22T09:08+09:00",
+   "title_orig": "tokenizers v1: encode, decode and scaling, measured",
+   "summary_orig": "We’re on a journey to advance and democratize artificial intelligence through open source and open science."
   },
   {
    "id": "e4677a45f127",
@@ -1211,6 +1335,22 @@
    "collected": "2026-09-21T08:15+09:00"
   },
   {
+   "id": "c6503525b5ff",
+   "url": "https://www.socialmediatoday.com/news/linkedin-tests-network-tab-to-encourage-engagement-among-connections/830853/",
+   "title": "LinkedInは、コネクション間のエンゲージメントを促進するために[ネットワーク]タブをテストし",
+   "summary": "最新のエンゲージメントトライアルは、ユーザーに完全に直接フォローと接続で構成された代替フィードを提供します。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/px5dYsYSkRqZWkSt51yiQk9hHrZzTBJ8mWAQ-uEOTT0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saW5rZWRpbl9uZXR3b3JrX2ZlZWQucG5n.webp",
+   "published": "2026-09-21T06:58+09:00",
+   "collected": "2026-09-22T10:09+09:00",
+   "title_orig": "LinkedIn tests Network tab to encourage engagement among connections",
+   "summary_orig": "The latest engagement trial offers users an alternative feed made up entirely of direct follows and connections."
+  },
+  {
    "id": "70a78e466195",
    "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001665/",
    "title": "Googleの「Gemini」も能力テスト中に実在企業3社に侵入──WSJ報道",
@@ -1223,6 +1363,38 @@
    "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/21/2000001665/10007178/2048",
    "published": "2026-09-21T06:50+09:00",
    "collected": "2026-09-21T08:15+09:00"
+  },
+  {
+   "id": "b52980d1cb55",
+   "url": "https://www.socialmediatoday.com/news/linkedin-ditches-post-enhancement-launches-post-proofreader/830851/",
+   "title": "LinkedInが投稿強化機能を廃止し、投稿校正機能をリリース",
+   "summary": "この動きは、プラットフォームの進化する人工知能ツールへのアプローチを示し、AI SLOPに対するコミュニティの反発が高まっていることを反映しています。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/xGcte1bVNuj51RzfjKmlpubxAzOeCAHKjY5LzFALLDw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saW5rZWRpbl9sb2dvMi5qcGc=.webp",
+   "published": "2026-09-21T06:34+09:00",
+   "collected": "2026-09-22T10:09+09:00",
+   "title_orig": "LinkedIn ditches post enhancement, launches Post Proofreader",
+   "summary_orig": "The move signals the platform’s evolving approach to artificial intelligence tools and reflects a growing community backlash against AI slop."
+  },
+  {
+   "id": "76da5c58c332",
+   "url": "https://www.socialmediatoday.com/news/youtube-executives-share-strategies-on-channel-pivoting/830850/",
+   "title": "YouTube幹部がチャンネルの方向転換に関する戦略を共有",
+   "summary": "クリエイターのリエゾン・レネ・リッチーとグローバルコンテンツ戦略責任者のカイル・モナハンが、オーディエンスを維持しながらクリエイターとブランドが焦点を移す方法についてヒントを提供します。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/9iuD7JMuAt00vKfzQp6yaC604ZNk5SI3AOV4pAI1XbQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS95b3V0dWJlX2xvZ29fVUJycmx4UC5wbmc=.webp",
+   "published": "2026-09-21T06:15+09:00",
+   "collected": "2026-09-22T10:09+09:00",
+   "title_orig": "YouTube executives share strategies on channel pivoting",
+   "summary_orig": "Creator Liaison Rene Ritchie and Global Content Strategy Lead Kyle Monahan offer tips on how creators and brands can shift focus while retaining audiences."
   },
   {
    "id": "bd7e7d7318c9",
@@ -1258,8 +1430,8 @@
   {
    "id": "f6e31ebaae97",
    "url": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-   "title": "MCP was always a bad idea?",
-   "summary": "My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs",
+   "title": "MCPは常に悪い考えでしたか？",
+   "summary": "MCPに関する私のコメントは最初から悪い考えだったのか？ — Hacker News。この記事は、今日のMCPがもたらす価値を全く理解していない。確かに、MCPを使う理由はほとんどない。",
    "source": "Simon Willison",
    "type": "article",
    "tier": "voice",
@@ -1268,7 +1440,9 @@
    "thumbnail": null,
    "published": "2026-09-21T05:24+09:00",
    "collected": "2026-09-22T09:08+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2,
+   "title_orig": "MCP was always a bad idea?",
+   "summary_orig": "My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs"
   },
   {
    "id": "6aa47ed911e4",
@@ -1776,6 +1950,20 @@
    "collected": "2026-09-20T08:08+09:00",
    "title_orig": "[AINews] Here are 6 Clones of Jev in 2 days",
    "summary_orig": "Imitation is the sincerest form of Flattery"
+  },
+  {
+   "id": "736a4128140d",
+   "url": "https://gihyo.jp/article/2026/09/claude-code-support-agents-md",
+   "title": "Claude Code、AGENTS.mdに対応 ——/configで指示ファイルの読み込みを設定",
+   "summary": "AnthropicでClaude Codeの開発に携わるThariq Shihipar氏は9月18日、AIコーディングツールClaude Codeがバージョン2.1.277からAGENTS.mdに対応したとXで案内した。",
+   "source": "gihyo.jp",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://gihyo.jp/assets/images/article/2026/09/claude-code-support-agents-md/01.png",
+   "published": "2026-09-19T12:45+09:00",
+   "collected": "2026-09-22T10:09+09:00"
   },
   {
    "id": "f1ff083f8222",
@@ -9089,37 +9277,6 @@
    "_thumb_tries": 3,
    "title_orig": "Quoting Paul Ford",
    "summary_orig": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slo"
-  },
-  {
-   "id": "46af3aa4b297",
-   "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
-   "title": "フォワードデプロイされたエンジニアの台頭—そして正しい仕事をする方法",
-   "summary": "Keplerを共同設立する前は、Vinoo GaneshはPalantirでSparkを率い、フォワードデプロイされたエンジニアのための先駆的なプログラムであるProject Frontlineを構築しました。He takes us thr",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!5LAd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ad2af0-b40a-433d-bd78-0514683c9eb4_2560x1440.png",
-   "published": "2026-09-13T00:01+09:00",
-   "collected": "2026-09-16T17:32+09:00",
-   "title_orig": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
-   "summary_orig": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline — a pioneering program for Forward Deployed Engineers. He takes us thr"
-  },
-  {
-   "id": "daaa7a0d942f",
-   "url": "https://www.youtube.com/shorts/SiJGdlmdUms",
-   "title": "GPT -6 Astraに必要なベビーシッターの数を減らす",
-   "summary": "",
-   "source": "OpenAI",
-   "type": "video",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://i.ytimg.com/vi/SiJGdlmdUms/hqdefault.jpg",
-   "published": "2026-09-13T00:00+09:00",
-   "collected": "2026-09-16T17:36+09:00",
-   "title_orig": "GPT-6 Astra needs less babysitting"
   }
  ]
 }
