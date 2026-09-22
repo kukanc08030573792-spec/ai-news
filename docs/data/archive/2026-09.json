@@ -98,9 +98,25 @@
   "thumbnail": null,
   "published": "2026-09-22T08:09+09:00",
   "collected": "2026-09-22T09:08+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Jev introduces a new shape of LLM - System One, aka Decision Models",
   "summary_orig": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think"
+ },
+ {
+  "id": "d522c5708f82",
+  "url": "https://www.socialmediatoday.com/news/snapchat-report-examines-the-rise-of-microdramas/830970/",
+  "title": "Snapchatレポートがマイクロドラマの台頭を検証",
+  "summary": "アプリユーザーは、短編ビデオシリーズのコンテンツにますます反応しており、ブランドはこれらのコミュニティエンゲージメントの傾向を活用することができます。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/fhZ-vO_EASyPM2NHNIyDWc19CC60JeK0bAsoM3fGXmk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF9zaG9ydF9kcmFtYXNfMS5wbmc=.webp",
+  "published": "2026-09-22T08:09+09:00",
+  "collected": "2026-09-22T10:36+09:00",
+  "title_orig": "Snapchat report examines the rise of microdramas",
+  "summary_orig": "App users are increasingly responding to short-form video series content and brands can tap into these community engagement trends."
  },
  {
   "id": "90cb6eb91e65",
@@ -157,7 +173,7 @@
   "thumbnail": null,
   "published": "2026-09-22T07:25+09:00",
   "collected": "2026-09-22T09:08+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Cloudflare Python Workers are now generally available",
   "summary_orig": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platfo"
  },
@@ -236,6 +252,22 @@
   "collected": "2026-09-22T09:08+09:00"
  },
  {
+  "id": "9874bd7326de",
+  "url": "https://www.socialmediatoday.com/news/threads-advertisers-will-no-longer-need-an-instagram-account/830967/",
+  "title": "スレッド広告主はInstagramアカウントを必要としなくなります",
+  "summary": "プラットフォーム所有者のMetaは、2つのアプリを徐々に分離しており、プロモーションを実行するために、両方のプラットフォームで同じユーザー名を持つ必要がなくなります",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/fFVZc0oZ61t5nbVW-N7iDlJ4jJIzzaM3NILxfNhgO6E/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHJlYWRzX2xvZ28yLnBuZw==.webp",
+  "published": "2026-09-22T06:41+09:00",
+  "collected": "2026-09-22T10:36+09:00",
+  "title_orig": "Threads advertisers will no longer need an Instagram account",
+  "summary_orig": "Platform owner Meta is gradually separating the two apps and will stop requiring businesses to have identical usernames on both platforms in order to run promot"
+ },
+ {
   "id": "c4d22e79dcde",
   "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
   "title": "カリフォルニア州、AIデータセンターのエネルギーと水の使用に関する規制を強化",
@@ -266,6 +298,21 @@
   "collected": "2026-09-22T09:08+09:00",
   "summary_orig": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
   "title_orig": "OpenAI forms math advisory group as its AI resolves more than 100 open problems"
+ },
+ {
+  "id": "a0c8732e86c6",
+  "url": "https://www.socialmediatoday.com/news/snapchat-adds-new-ai-features-including-chat-to-song/830966/",
+  "title": "Snapchat adds new AI features including chat-to-song",
+  "summary": "同社の有料Lens +サブスクライバーは、メッセージを簡単に曲に変換し、共有する前に画像を編集することができます。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/Rks4gMEPV7ki7enTpdGqocC3XXc9OkvnaU9TAXu_2m0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF91cGRhdGVfMS5wbmc=.webp",
+  "published": "2026-09-22T04:51+09:00",
+  "collected": "2026-09-22T10:36+09:00",
+  "summary_orig": "The company’s paying Lens+ subscribers will be able to easily convert their messages into songs and edit images ahead of sharing."
  },
  {
   "id": "85b53edd1e90",
@@ -1395,7 +1442,7 @@
   "thumbnail": null,
   "published": "2026-09-21T05:24+09:00",
   "collected": "2026-09-22T09:08+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "MCP was always a bad idea?",
   "summary_orig": "My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs"
  },

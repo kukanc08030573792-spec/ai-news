@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-22T10:09+09:00",
+  "last_updated": "2026-09-22T10:36+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -131,6 +131,22 @@
    "summary_orig": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
   },
   {
+   "id": "d522c5708f82",
+   "url": "https://www.socialmediatoday.com/news/snapchat-report-examines-the-rise-of-microdramas/830970/",
+   "title": "Snapchatレポートがマイクロドラマの台頭を検証",
+   "summary": "アプリユーザーは、短編ビデオシリーズのコンテンツにますます反応しており、ブランドはこれらのコミュニティエンゲージメントの傾向を活用することができます。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/fhZ-vO_EASyPM2NHNIyDWc19CC60JeK0bAsoM3fGXmk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF9zaG9ydF9kcmFtYXNfMS5wbmc=.webp",
+   "published": "2026-09-22T08:09+09:00",
+   "collected": "2026-09-22T10:36+09:00",
+   "title_orig": "Snapchat report examines the rise of microdramas",
+   "summary_orig": "App users are increasingly responding to short-form video series content and brands can tap into these community engagement trends."
+  },
+  {
    "id": "82b7c1ad7628",
    "url": "https://simonwillison.net/2026/Sep/21/jev/",
    "title": "JEVは、LLMの新しい形であるシステムワン、別名意思決定モデルを導入します",
@@ -143,7 +159,7 @@
    "thumbnail": null,
    "published": "2026-09-22T08:09+09:00",
    "collected": "2026-09-22T09:08+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Jev introduces a new shape of LLM - System One, aka Decision Models",
    "summary_orig": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think"
   },
@@ -202,7 +218,7 @@
    "thumbnail": null,
    "published": "2026-09-22T07:25+09:00",
    "collected": "2026-09-22T09:08+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Cloudflare Python Workers are now generally available",
    "summary_orig": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platfo"
   },
@@ -281,6 +297,22 @@
    "collected": "2026-09-22T09:08+09:00"
   },
   {
+   "id": "9874bd7326de",
+   "url": "https://www.socialmediatoday.com/news/threads-advertisers-will-no-longer-need-an-instagram-account/830967/",
+   "title": "スレッド広告主はInstagramアカウントを必要としなくなります",
+   "summary": "プラットフォーム所有者のMetaは、2つのアプリを徐々に分離しており、プロモーションを実行するために、両方のプラットフォームで同じユーザー名を持つ必要がなくなります",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/fFVZc0oZ61t5nbVW-N7iDlJ4jJIzzaM3NILxfNhgO6E/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHJlYWRzX2xvZ28yLnBuZw==.webp",
+   "published": "2026-09-22T06:41+09:00",
+   "collected": "2026-09-22T10:36+09:00",
+   "title_orig": "Threads advertisers will no longer need an Instagram account",
+   "summary_orig": "Platform owner Meta is gradually separating the two apps and will stop requiring businesses to have identical usernames on both platforms in order to run promot"
+  },
+  {
    "id": "c4d22e79dcde",
    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
    "title": "カリフォルニア州、AIデータセンターのエネルギーと水の使用に関する規制を強化",
@@ -311,6 +343,21 @@
    "collected": "2026-09-22T09:08+09:00",
    "summary_orig": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
    "title_orig": "OpenAI forms math advisory group as its AI resolves more than 100 open problems"
+  },
+  {
+   "id": "a0c8732e86c6",
+   "url": "https://www.socialmediatoday.com/news/snapchat-adds-new-ai-features-including-chat-to-song/830966/",
+   "title": "Snapchat adds new AI features including chat-to-song",
+   "summary": "同社の有料Lens +サブスクライバーは、メッセージを簡単に曲に変換し、共有する前に画像を編集することができます。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/Rks4gMEPV7ki7enTpdGqocC3XXc9OkvnaU9TAXu_2m0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF91cGRhdGVfMS5wbmc=.webp",
+   "published": "2026-09-22T04:51+09:00",
+   "collected": "2026-09-22T10:36+09:00",
+   "summary_orig": "The company’s paying Lens+ subscribers will be able to easily convert their messages into songs and edit images ahead of sharing."
   },
   {
    "id": "85b53edd1e90",
@@ -1440,7 +1487,7 @@
    "thumbnail": null,
    "published": "2026-09-21T05:24+09:00",
    "collected": "2026-09-22T09:08+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "MCP was always a bad idea?",
    "summary_orig": "My comment on MCP was always a bad idea? — Hacker News. This article entirely misses the value that MCP brings today. Sure, there's almost no reason to use MCPs"
   },
@@ -9227,56 +9274,6 @@
    "published": "2026-09-13T11:00+09:00",
    "collected": "2026-09-16T17:36+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "2981ecf752e1",
-   "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-   "title": "GPT -6 AstraとChatGPT Workを使用して実行ルートを生成する",
-   "summary": "今朝、私はChatGPT Work with GPT -6 Astra （ Max ）にすばらしいことをしてもらいました。私はに住んでい<my address>ます。私からの5 Kと10 Kの実行ルートを把握するループfr",
-   "source": "Simon Willison",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://static.simonwillison.net/static/2026/5k-route.webp",
-   "published": "2026-09-13T08:56+09:00",
-   "collected": "2026-09-16T17:32+09:00",
-   "title_orig": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-   "summary_orig": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop fr"
-  },
-  {
-   "id": "dbc729f998e7",
-   "url": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
-   "title": "カリフォルニアブラウンペリカン",
-   "summary": "カリフォルニア州カリフォルニア州サンマテオ郡のカリフォルニア・ブラウン・ペリカンパシフィカ桟橋は、コンクリート製の歩道に亀裂が発生したため、6月初旬に閉鎖されました。",
-   "source": "Simon Willison",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-09-13T06:16+09:00",
-   "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 3,
-   "title_orig": "California Brown Pelican",
-   "summary_orig": "California Brown Pelican, in San Mateo County, CA, US The Pacifica Pier shut down at the start of June after a crack in the concrete walkway made access to the"
-  },
-  {
-   "id": "ee6663ae007e",
-   "url": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-   "title": "ポール・フォードの名言",
-   "summary": "しばらくの間、私のようなソフトウェア開発者の役割は終わったように見えました。疲れを知らないロボットとどのように戦うことができますか？しかし、私たちの業界はスロです",
-   "source": "Simon Willison",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-09-13T03:00+09:00",
-   "collected": "2026-09-16T17:32+09:00",
-   "_thumb_tries": 3,
-   "title_orig": "Quoting Paul Ford",
-   "summary_orig": "For a while, I must admit, it looked as if software developer roles like mine were done for. How could we fight against tireless robots? But our industry is slo"
   }
  ]
 }
