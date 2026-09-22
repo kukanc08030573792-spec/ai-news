@@ -265,7 +265,7 @@
   "thumbnail": null,
   "published": "2026-09-23T05:36+09:00",
   "collected": "2026-09-23T08:36+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "5efaf2863a6b",
@@ -452,7 +452,7 @@
   "thumbnail": null,
   "published": "2026-09-23T03:03+09:00",
   "collected": "2026-09-23T08:36+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Quoting @therealcornpop",
   "summary_orig": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's n"
  },
@@ -609,7 +609,7 @@
   "thumbnail": null,
   "published": "2026-09-23T02:00+09:00",
   "collected": "2026-09-23T08:36+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "97f4d9447dab",
@@ -704,7 +704,7 @@
   "thumbnail": null,
   "published": "2026-09-23T00:54+09:00",
   "collected": "2026-09-23T08:36+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "llm-typesafe 0.1a0",
   "summary_orig": "Release: llm-typesafe 0.1a0 I built this new plugin for LLM to add support for TypeSafe AI's new Jev model . Install it like this: llm install llm-typesafe Then"
  },
@@ -980,6 +980,22 @@
   "summary_orig": "Compare Meta One Business plans across Essential, Advanced, Expert, and Max, including pricing, features, limits, and overall value. The post Meta One Business"
  },
  {
+  "id": "4c16a55043f0",
+  "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+  "title": "AIの誇大宣伝のこの夏に騙されないでください",
+  "summary": "AIの誇大宣伝のために忙しい数ヶ月でした。4月末、Anthropicは、そのモデルClaude Mythosがソフトウェアの脆弱性を見つけるのに優れていると主張しました。",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg?resize=1200,600",
+  "published": "2026-09-22T20:04+09:00",
+  "collected": "2026-09-23T08:49+09:00",
+  "title_orig": "Don’t be fooled by this summer of AI hype",
+  "summary_orig": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than"
+ },
+ {
   "id": "f5d7b1722931",
   "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
   "title": "Amazon Blocks Muse、AmazonのMoat、アグリゲーターvアグリゲーター",
@@ -996,6 +1012,38 @@
   "summary_orig": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat."
  },
  {
+  "id": "606201685d6d",
+  "url": "https://www.socialmediaexaminer.com/how-to-create-pro-quality-ai-videos-with-gemini-omni/",
+  "title": "Gemini Omniでプロ品質のAIビデオを作成する方法",
+  "summary": "自分で撮影したり、制作スタッフを雇ったりせずに、プロフェッショナルなビデオコンテンツを作成したいですか？ AIが生成したビデオフックを使用して",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://www.socialmediaexaminer.com/wp-content/uploads/2026/09/AIP124_PRIMARY.jpg",
+  "published": "2026-09-22T19:00+09:00",
+  "collected": "2026-09-23T08:49+09:00",
+  "title_orig": "How to Create Pro-Quality AI Videos With Gemini Omni",
+  "summary_orig": "Want to create professional-looking video content without filming yourself or hiring a production crew? Wondering how to use AI-generated video hooks to stop th"
+ },
+ {
+  "id": "0962e1d74f88",
+  "url": "https://www.socialmediaexaminer.com/youtube-performance-analysis-facebook-ads-changes-and-industry-news/",
+  "title": "YouTubeのパフォーマンス分析、Facebook広告の変更、業界ニュース",
+  "summary": "ここでは、今日知っておくべき最も重要な洞察、傾向、最新情報を要約します。数分で追いつき、準備を整えて週の残りの時間を過ごしましょう。",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://www.socialmediaexaminer.com/wp-content/uploads/2018/11/NewBack.png",
+  "published": "2026-09-22T18:30+09:00",
+  "collected": "2026-09-23T08:49+09:00",
+  "title_orig": "YouTube Performance Analysis, Facebook Ads Changes, and Industry News",
+  "summary_orig": "Here's a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
+ },
+ {
   "id": "20af5c3822b9",
   "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
   "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1 T - A 42 B ： $ 3 M用にトレーニングされた新しいトップオープンウェイトモデル",
@@ -1010,6 +1058,50 @@
   "collected": "2026-09-23T08:36+09:00",
   "title_orig": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
   "summary_orig": "crowning a new Chinese frontier lab"
+ },
+ {
+  "id": "7b1b7c01fc40",
+  "url": "https://www.adweek.com/dealroom/martin-sorrells-venture-fund-backs-ai-video-startup-higgsfield/",
+  "title": "Martin SorrellのベンチャーファンドがAIビデオスタートアップHiggsfieldを支援",
+  "summary": "S 4 S Venturesは、Higgsfieldの4億$シリーズBの最新の投資家であり、同社はAIビデオスタートアップを54億$で評価している。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/01/HIGGSFIELD-x-Observer.png?w=600&h=315&crop=1",
+  "published": "2026-09-22T14:50+09:00",
+  "collected": "2026-09-23T08:49+09:00",
+  "title_orig": "Martin Sorrell’s Venture Fund Backs AI Video Startup Higgsfield",
+  "summary_orig": "S4S Ventures is the latest investor in Higgsfield's $400 million Series B, which values the AI video startup at $5.4 billion."
+ },
+ {
+  "id": "8cb603cffdc3",
+  "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
+  "title": "OpenAI、数学者の独立諮問グループと連携 内部モデルは「100件超の未解決問題を解決」",
+  "summary": "OpenAIは、数学者が設立した独立組織「AGMAI」と連携し、AIによる数学的成果の評価や公表方法について助言を受けると発表した。社内モデルによる100件以上の未解決問題解決を受けた動きで、急速な成果発表や帰属問題を巡る数学界からの批判に対応する。組織は独立して運営され、他社への助言も行う方針だ。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/22/2000001671/10007203/2048",
+  "published": "2026-09-22T11:49+09:00",
+  "collected": "2026-09-23T08:49+09:00"
+ },
+ {
+  "id": "36f8b9b04b16",
+  "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+  "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言 「RSIはまだ起きていない」",
+  "summary": "た。各国のAI安全性研究所の連携などを提案し、制御不能な自律的進化を防ぐ枠組みを求める。アルトマンCEOは国連安保理の公開会合でも発言する予定だ。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/22/2000001670/10007199/2048",
+  "published": "2026-09-22T10:51+09:00",
+  "collected": "2026-09-23T08:49+09:00"
  },
  {
   "id": "2575633b61bd",
@@ -1071,7 +1163,7 @@
   "id": "b4fb82cc1313",
   "url": "https://openai.com/index/priorities-principles-third-party-assessments/",
   "title": "効果的な第三者評価の優先順位と原則",
-  "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+  "summary": "OpenAIは、フロンティアモデルとセーフガードの厳格で安全で独立したサードパーティのAI安全性評価の優先順位と原則を概説しています。",
   "source": "OpenAI",
   "type": "article",
   "tier": "official",
@@ -1080,13 +1172,14 @@
   "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/6gxDxFoqp9XAfelckRh7eX/e6a570fc70dc10f05000e4010c2b9694/priorities-and-principles-for-effective-third-party-assessments-seo.png?w=1600&h=900&fit=fill",
   "published": "2026-09-22T09:00+09:00",
   "collected": "2026-09-23T08:36+09:00",
-  "title_orig": "Priorities and principles for effective third party assessments"
+  "title_orig": "Priorities and principles for effective third party assessments",
+  "summary_orig": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
  },
  {
   "id": "2960c64a019e",
   "url": "https://huggingface.co/blog/evaleval-aisi",
-  "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-  "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+  "title": "UK AISIとEvalEvalがベンチマーク結果を再現可能にする方法",
+  "summary": "私たちは、オープンソースとオープンサイエンスを通じて人工知能を進歩させ、民主化する旅に出ています。",
   "source": "Hugging Face",
   "type": "article",
   "tier": "official",
@@ -1094,13 +1187,15 @@
   "proxy_for": null,
   "thumbnail": "https://huggingface.co/blog/assets/evaleval-aisi/thumbnail.png",
   "published": "2026-09-22T09:00+09:00",
-  "collected": "2026-09-23T08:36+09:00"
+  "collected": "2026-09-23T08:36+09:00",
+  "title_orig": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+  "summary_orig": "We’re on a journey to advance and democratize artificial intelligence through open source and open science."
  },
  {
   "id": "98acfe91fd30",
   "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-  "title": "Transformers now runs llama.cpp quants",
-  "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+  "title": "トランスフォーマーがllama.cpp quantsを実行するようになりました",
+  "summary": "私たちは、オープンソースとオープンサイエンスを通じて人工知能を進歩させ、民主化する旅に出ています。",
   "source": "Hugging Face",
   "type": "article",
   "tier": "official",
@@ -1108,13 +1203,15 @@
   "proxy_for": null,
   "thumbnail": "https://huggingface.co/blog/assets/transformers_llama_cpp_quants/thumbnail.png",
   "published": "2026-09-22T09:00+09:00",
-  "collected": "2026-09-23T08:36+09:00"
+  "collected": "2026-09-23T08:36+09:00",
+  "title_orig": "Transformers now runs llama.cpp quants",
+  "summary_orig": "We’re on a journey to advance and democratize artificial intelligence through open source and open science."
  },
  {
   "id": "fb8ad85c459c",
   "url": "https://huggingface.co/blog/omlx",
-  "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-  "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+  "title": "OMLXのクリエイター兼メンテナーであるJun KimがHugging Faceに参加し、MLXコミュニティをサポート",
+  "summary": "私たちは、オープンソースとオープンサイエンスを通じて人工知能を進歩させ、民主化する旅に出ています。",
   "source": "Hugging Face",
   "type": "article",
   "tier": "official",
@@ -1122,7 +1219,9 @@
   "proxy_for": null,
   "thumbnail": "https://huggingface.co/blog/assets/omlx/omlx-hf.jpg",
   "published": "2026-09-22T09:00+09:00",
-  "collected": "2026-09-23T08:36+09:00"
+  "collected": "2026-09-23T08:36+09:00",
+  "title_orig": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+  "summary_orig": "We’re on a journey to advance and democratize artificial intelligence through open source and open science."
  },
  {
   "id": "67903f8ac2cf",
@@ -1371,7 +1470,7 @@
  {
   "id": "a0c8732e86c6",
   "url": "https://www.socialmediatoday.com/news/snapchat-adds-new-ai-features-including-chat-to-song/830966/",
-  "title": "Snapchat adds new AI features including chat-to-song",
+  "title": "Snapchatがチャットを含む新しいAI機能を追加",
   "summary": "同社の有料Lens +サブスクライバーは、メッセージを簡単に曲に変換し、共有する前に画像を編集することができます。",
   "source": "Social Media Today",
   "type": "article",
@@ -1381,7 +1480,8 @@
   "thumbnail": "https://imgproxy.divecdn.com/Rks4gMEPV7ki7enTpdGqocC3XXc9OkvnaU9TAXu_2m0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zbmFwY2hhdF91cGRhdGVfMS5wbmc=.webp",
   "published": "2026-09-22T04:51+09:00",
   "collected": "2026-09-22T10:36+09:00",
-  "summary_orig": "The company’s paying Lens+ subscribers will be able to easily convert their messages into songs and edit images ahead of sharing."
+  "summary_orig": "The company’s paying Lens+ subscribers will be able to easily convert their messages into songs and edit images ahead of sharing.",
+  "title_orig": "Snapchat adds new AI features including chat-to-song"
  },
  {
   "id": "85b53edd1e90",
