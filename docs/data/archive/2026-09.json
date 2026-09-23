@@ -1,5 +1,35 @@
 [
  {
+  "id": "75db61704099",
+  "url": "https://about.fb.com/news/2026/09/meta-spf-scam-efforts/",
+  "title": "Meta、シンガポール警察と提携して370万件のアカウント、ページ、コンテンツに対処",
+  "summary": "メッセージから始まります。あまりにも良い、本当の在庫のヒント。先週存在しなかったページから大幅な割引を提供する高級スキンケアブランド。メッセージング",
+  "source": "Meta Newsroom",
+  "type": "article",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://about.fb.com/wp-content/uploads/2026/03/Global-Law-Enforcement-Agencies-With-Support-From-Meta-Disrupt-Major-Criminal-Scam-Networks-Based-in-Thailand_Header.jpg?w=1200",
+  "published": "2026-09-23T10:01+09:00",
+  "collected": "2026-09-23T10:30+09:00",
+  "title_orig": "Meta Takes Action on 3.7 Million Accounts, Pages and Content In Partnership With Singapore Police Force",
+  "summary_orig": "It starts with a message. A too-good-to-be-true stock tip. A luxury skincare brand offering deep discounts from a page that didn’t exist last week. A messaging"
+ },
+ {
+  "id": "3aebbefe1af8",
+  "url": "https://news.yahoo.co.jp/articles/08486d6428eecc864dd7f26465cc05a0b596ebfb",
+  "title": "米Anthropicが新AIモデルClaude Opus 5.5を発表、一部GPT-6 Astra越えの性能（ビジネス＋IT）",
+  "summary": "米Anthropicは2026年9月22日、新型AIモデルClaude Opus 5.5を発表した。従来モデルに比べ運用コストを約40%削減しつつ、処理速度を30%以上向上させている。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00187055-biz_plus-000-1-view.jpg?exp=10800",
+  "published": "2026-09-23T09:50+09:00",
+  "collected": "2026-09-23T10:30+09:00"
+ },
+ {
   "id": "de21ddf1df4a",
   "url": "https://www.sbbit.jp/article/cont1/187055",
   "title": "米Anthropicが新AIモデルClaude Opus 5.5を発表、一部GPT-6 Astra越えの性能",
@@ -510,7 +540,7 @@
   "thumbnail": null,
   "published": "2026-09-23T03:48+09:00",
   "collected": "2026-09-23T09:55+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "summary_orig": "Release: llm 0.36 New OpenAI models: gpt-6-sol for GPT-6 Sol and gpt-6-luna for GPT-6 Luna . #1702 Model plugins can now declare supports_conversation = False f"
  },
  {
@@ -701,7 +731,7 @@
   "thumbnail": null,
   "published": "2026-09-23T02:14+09:00",
   "collected": "2026-09-23T09:55+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "llm-anthropic 0.29",
   "summary_orig": "Release: llm-anthropic 0.29 Adds support for Claude Opus 5.5 : llm -m claude-opus-5.5 \"prompt goes here\" Tags: llm , anthropic"
  },
