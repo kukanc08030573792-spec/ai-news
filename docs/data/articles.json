@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-24T09:52+09:00",
+  "last_updated": "2026-09-24T10:23+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -44,6 +44,51 @@
   ]
  },
  "items": [
+  {
+   "id": "795ccd23b3e3",
+   "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+   "title": "MetaのAIエージェントMuseに新登場",
+   "summary": "CEOのマーク・ザッカーバーグは、水曜日にメンローパークで開催された同社の年次Connectイベントの基調講演で、1つのことを明確にしました。",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+   "published": "2026-09-24T10:13+09:00",
+   "collected": "2026-09-24T10:23+09:00",
+   "title_orig": "Everything new coming to Meta’s AI agent Muse",
+   "summary_orig": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on M"
+  },
+  {
+   "id": "d87368fa8e99",
+   "url": "https://markezine.jp/article/detail/77400",
+   "title": "バンダイナムコネットワークサービスと不動産テックのカナリーがAI活用×内製化のリアルを語る",
+   "summary": "モバイルアプリの計測・分析ツールを提供するAdjustは、アプリマーケティング業界のリーダーを集めたカンファレンス「Adjust Ignite Tokyo 2026」を開催した。「生成AI時代のマーケティング自動化・内製化のリアル」と題されたセッションには、バンダイナムコネットワークサービスとカナリーの2社が登壇。",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-24T10:00+09:00",
+   "collected": "2026-09-24T10:23+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "c2458a4e3650",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
+   "title": "Google AIサブスクに「Colab」有料特典をバンドル 「高性能GPU」にアクセス可能に",
+   "summary": "Googleは「Google AI」の各プランに、「Google Colab」の有料特典を組み込むと発表した。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/24/2000001685/10007259/2048",
+   "published": "2026-09-24T09:47+09:00",
+   "collected": "2026-09-24T10:23+09:00"
+  },
   {
    "id": "3be0b47dbce7",
    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
@@ -1517,7 +1562,7 @@
    "thumbnail": null,
    "published": "2026-09-23T16:39+09:00",
    "collected": "2026-09-24T09:52+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "62f29a5a4546",
@@ -9256,54 +9301,6 @@
    "collected": "2026-09-17T08:39+09:00",
    "title_orig": "Helping older adults use AI in everyday life",
    "summary_orig": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
-  },
-  {
-   "id": "d8eb794307cf",
-   "url": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/",
-   "title": "このホリデーシーズンに売り上げを伸ばすための戦略を再考してください。",
-   "summary": "このAds Decodedエピソードでは、ホリデーシーズン中に売り上げを伸ばし、顧客にアプローチするために今できるステップを紹介します。",
-   "source": "Google 広告・コマース公式",
-   "type": "article",
-   "tier": "official",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E3_thumbnail.max-1440x810.png",
-   "published": "2026-09-17T01:00+09:00",
-   "collected": "2026-09-17T08:39+09:00",
-   "title_orig": "Rethink your strategy to drive sales this holiday season.",
-   "summary_orig": "In this Ads Decoded episode, we share steps you can take now to drive sales and reach customers during the holiday season."
-  },
-  {
-   "id": "bde89121cd18",
-   "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
-   "title": "Amazon Bedrock AgentCoreでエージェントシステムプロンプトを最適化",
-   "summary": "AgentCore最適化は、本番トレースを提案された構成変更に変換し、昇格前に検証します。発売時のこのテクニカルコンパニオンは",
-   "source": "AWS Machine Learning Blog",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/09/ML-21426-featured-image.png",
-   "published": "2026-09-17T00:47+09:00",
-   "collected": "2026-09-17T08:39+09:00",
-   "title_orig": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
-   "summary_orig": "AgentCore optimization turns production traces into proposed configuration changes, then validates them before promotion. This technical companion to the launch"
-  },
-  {
-   "id": "d1d3b81b1f7c",
-   "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
-   "title": "Amazon Bedrock Data Automationを使用してサーバーレスPII編集パイプラインを構築する",
-   "summary": "カスタムブループリントであるAWS Sを使用したAmazon Bedrock Data Automationを使用して、スキャンされたドキュメントからエンドツーエンドのPII検出と編集を大規模に自動化する方法を学びます",
-   "source": "AWS Machine Learning Blog",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/11/ML-20554-featured-image.png",
-   "published": "2026-09-17T00:17+09:00",
-   "collected": "2026-09-17T08:39+09:00",
-   "title_orig": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
-   "summary_orig": "Learn how to automate end-to-end PII detection and redaction from scanned documents at scale using Amazon Bedrock Data Automation with a custom blueprint, AWS S"
   }
  ]
 }
