@@ -1,5 +1,79 @@
 [
  {
+  "id": "3be0b47dbce7",
+  "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+  "title": "MetaはMuse AIエージェントのためにTamagotchiのようなウェアラブルを作った",
+  "summary": "この小さなハードウェアデバイスは、AIエージェントMuseのための別のモバイルホームを作成します。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
+  "published": "2026-09-24T09:46+09:00",
+  "collected": "2026-09-24T09:52+09:00",
+  "title_orig": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+  "summary_orig": "The tiny hardware device creates another mobile home for its AI agent Muse."
+ },
+ {
+  "id": "6330e9855670",
+  "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+  "title": "MetaはスタンドアロンのMuse AIガジェットを作成しています",
+  "summary": "Metaは、新しいMuse AIエージェント用の専用ハードウェアデバイスを構築しています。Muse Charmと呼ばれるこの製品は、MetaのCEOであるMark Zuckerberg氏が",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-09-24T09:15+09:00",
+  "collected": "2026-09-24T09:52+09:00",
+  "title_orig": "Meta is making a standalone Muse AI gadget",
+  "summary_orig": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the"
+ },
+ {
+  "id": "01a9754c0a09",
+  "url": "https://ascii.jp/elem/000/004/436/4436689/?rss",
+  "title": "スマホの主役はAIエージェントへ。クアルコムが放つ超絶スペック「Snapdragon 8 Elite Extreme Gen 6」の衝撃",
+  "summary": "クアルコムが「Snapdragon 8 Elite Extreme Gen 6」と「Elite Gen 6」の2つの最上位チップを発表しました。初の2nmプロセスで製造され、5GHz到達のCPUやAI専用コア内蔵GPUなどAI処理に特化。Xiaomi 18 Proやモトローラの新機種への採用も明かされました。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/09/23/4529138/xl/850dc1ea5e2aaa17.jpg?20200122",
+  "published": "2026-09-24T09:00+09:00",
+  "collected": "2026-09-24T09:52+09:00"
+ },
+ {
+  "id": "f32e7d5f7506",
+  "url": "https://ascii.jp/elem/000/004/431/4431898/?rss",
+  "title": "乱立する文書管理をBoxに統合へ、オークネットは基盤整備で「AIをビジネスの武器にする」",
+  "summary": "中古車、花き、ブランド品など、幅広い事業者間マッチング／オークションを手がけ、「循環型マーケットデザインの先駆者」として挑戦を続けるオークネット。これまでバラバラだった国内外の拠点／子会社におけるコンテンツ管理／共有環境を、「Box」に統合していくことに決めた。その背景をDX部門や法務部門の担当者にうかがった。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/09/03/4521191/xl/3a760572e3287dd7.jpg?20200122",
+  "published": "2026-09-24T09:00+09:00",
+  "collected": "2026-09-24T09:52+09:00"
+ },
+ {
+  "id": "9b73c9c32693",
+  "url": "https://note.com/kajiken0630/n/n56339c4189cf",
+  "title": "企業をAIネイティブに変革するための教科書 ― 5つのステージと、その登り方",
+  "summary": "AIモデルの性能（厳密にはAIが自律してこなせるタスクの長さ）は、直近「4ヶ月ごとに2倍」のペースで伸び続けている。  これは「半年ごとに2倍」と硬く見積もっても、向こう5年でAIの能力が約1000倍になる計算だ。",
+  "source": "梶谷健人",
+  "type": "article",
+  "tier": "voice",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://assets.st-note.com/production/uploads/images/316907786/rectangle_large_type_2_a819012896be70bb22ee4a422b696ca9.png?fit=bounds&quality=85&width=1280",
+  "published": "2026-09-24T08:45+09:00",
+  "collected": "2026-09-24T09:52+09:00"
+ },
+ {
   "id": "582860178b2b",
   "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
   "title": "Antigravity SDKでのローカルAIモデルのサポートの紹介",
@@ -44,7 +118,23 @@
   "thumbnail": null,
   "published": "2026-09-24T08:30+09:00",
   "collected": "2026-09-24T08:43+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
+ },
+ {
+  "id": "861078b4c952",
+  "url": "https://www.socialmediatoday.com/news/us-opposes-australias-proposed-social-media-restrictions/831217/",
+  "title": "米国は、オーストラリアが提案しているソーシャルメディア制限に反対している",
+  "summary": "BBCによると、米国大使館職員は、潜在的な検閲と米国の利益に対する管理に関連する懸念を概説した反対書簡を提出した。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/6JfDJ73mfV2owdq8yhMnrfITu3xWGej0UbMKnsdjTnI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hdXN0cmFsaWFuX2ZsYWcucG5n.webp",
+  "published": "2026-09-24T08:22+09:00",
+  "collected": "2026-09-24T09:52+09:00",
+  "title_orig": "US opposes Australia’s proposed social media restrictions",
+  "summary_orig": "U.S. embassy officials submitted an objection letter outlining concerns related to potential censorship and control over U.S. interests, per the BBC."
  },
  {
   "id": "395f29300605",
@@ -61,6 +151,22 @@
   "collected": "2026-09-24T08:43+09:00",
   "title_orig": "Meta is making Muse more powerful and will let you video chat with it, too",
   "summary_orig": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. M"
+ },
+ {
+  "id": "d44203ca2bc4",
+  "url": "https://www.socialmediatoday.com/news/youtube-presents-new-ai-and-engagement-features-at-made-on-2026/831216/",
+  "title": "2026年メイドでYouTubeが新しいAIとエンゲージメント機能を発表",
+  "summary": "同社はカスタムフィード機能を拡張し、マイクロドラマのトレンドに合わせてクリエイターがショートパンツをシリーズに分類できるようにしています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/xIVmJsLbJnZ67pYP_lIpfDubWseoGSovfRb02xOPFpg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tYWRlX29uX1lvdVR1YmVfMjAyNi5wbmc=.webp",
+  "published": "2026-09-24T08:14+09:00",
+  "collected": "2026-09-24T09:52+09:00",
+  "title_orig": "YouTube presents new AI and engagement features at Made on 2026",
+  "summary_orig": "The company is expanding its custom feed feature and enabling creators to group their shorts into series in order to align with microdrama trends."
  },
  {
   "id": "5bd3cefe70c4",
@@ -81,7 +187,7 @@
   "id": "80d657592dc3",
   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/24/news019.html",
   "title": "「汎用AIにデータを渡すだけ」では専門業務をこなせない？ トムソン・ロイターが独自LLM「Thomson」を構築した理由",
-  "summary": "C ^[ ðPºÉÂThomson ReutersÍA © ÐJ µ½ åKÍ ¾ êfuThomsonvð ­\\µ½ B_RXgð} ¦ àA ¢ êå «Æ ® SÈf [^§ äðÀ »µ ½ Æ ¢",
+  "summary": "C ^[ ðPºÉÂThomson ReutersÍA © ÐJ µ½ åKÍ ¾ êfuThomsonvð ­\\µ½ B_RXgð} ¦ àA ¢ êå «Æ ® SÈf [^§ äðÀ» µ½ Æ ¢",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -90,7 +196,7 @@
   "thumbnail": "https://image.itmedia.co.jp/ait/articles/2609/24/cover_news019.jpg",
   "published": "2026-09-24T08:00+09:00",
   "collected": "2026-09-24T08:43+09:00",
-  "summary_orig": "C ^[ðPºÉÂThomson ReutersÍA © ÐJ µ½ åKÍ ¾ êfuThomsonvð ­\\µ½ B_RXgð} ¦ÂàA ¢ êå «Æ ® SÈf [^§ äðÀ »µ½ Æ ¢"
+  "summary_orig": "C ^[ ðPºÉÂThomson ReutersÍA © ÐJ µ½ åKÍ ¾ êfuThomsonvð ­\\µ½ B_RXgð} ¦ àA ¢ êå «Æ ® SÈf [^§ äðÀ »µ ½ Æ ¢"
  },
  {
   "id": "c03a3f11dca1",
@@ -645,7 +751,7 @@
   "thumbnail": null,
   "published": "2026-09-24T01:37+09:00",
   "collected": "2026-09-24T08:43+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Shadow roots, explained with live examples",
   "summary_orig": "Learn about shadow DOM through interactive examples that demonstrate style encapsulation, inheritance, slots, parts, and JavaScript access. Explore how shadow r"
  },
@@ -1354,6 +1460,21 @@
   "summary_orig": "When is the best time to post on Instagram? We analyzed 9.6 million posts to find the best days and times for Instagram engagement in 2026."
  },
  {
+  "id": "7e8b282d7cf9",
+  "url": "https://media.unisba.ac.id/7f38d010/9bfb5193D1E9DT5vOCUAGAk",
+  "title": "【公式発表】アルゴリズム変更、新機能登場などインスタの最新アップデートについて徹底解説します Susan Boyle (Qyvt927AOx)",
+  "summary": "【公式発表】アルゴリズム変更、新機能登場などインスタの最新アップデートについて徹底解説します Susan Boyle (Qyvt927AOx)",
+  "source": "media.unisba.ac.id",
+  "type": "article",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": "Instagram",
+  "thumbnail": null,
+  "published": "2026-09-23T16:39+09:00",
+  "collected": "2026-09-24T09:52+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "62f29a5a4546",
   "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
   "title": "[AINews] AINewsの新しいデフォルトモデルであるClaude Opus 5.5 —そして誰もが価格を40〜50 ％引き下げる",
@@ -1412,9 +1533,23 @@
   "thumbnail": null,
   "published": "2026-09-23T11:53+09:00",
   "collected": "2026-09-24T08:43+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
   "summary_orig": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October"
+ },
+ {
+  "id": "068374d48237",
+  "url": "https://news.yahoo.co.jp/articles/695a4642f4b8895d3006d6ee22df1da53eec8bcc",
+  "title": "Anthropic、「Claude Opus 5.5」を発表 ～「Fable 5.1」並みの性能、コストは「Opus 5」比4割減（窓の杜）",
+  "summary": "米Anthropicは9月22日（現地時間）、「Claude Opus 5.5」を発表した。「Claude 5.5」ファミリー初のモデルで、大半の作業で「Fable 5.1」と同等の性能を発揮しつ",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000002-impwfw-000-1-view.jpg?exp=10800",
+  "published": "2026-09-23T11:39+09:00",
+  "collected": "2026-09-24T09:52+09:00"
  },
  {
   "id": "4d5959d698eb",
