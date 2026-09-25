@@ -1,5 +1,20 @@
 [
  {
+  "id": "64ab80e63c50",
+  "url": "https://webtan.impress.co.jp/q/2026/09/53329",
+  "title": "Claude超入門『世界一やさしいClaude』を3名様にプレゼント",
+  "summary": "Claude超入門『世界一やさしいClaude』を3名様にプレゼント 読者プレゼント webtan 2026年9月25日 【申込は10/2まで】書籍『世界一やさしいClaude』を3名様にプレゼントします。",
+  "source": "Web担当者フォーラム",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-25T10:00+09:00",
+  "collected": "2026-09-25T10:29+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "e369ca61d361",
   "url": "https://ascii.jp/elem/000/004/437/4437092/?rss",
   "title": "RPGは4K、FPSは288Hz！ MSIのゲーミングモニター「MAG 321UPD E14」が10月1日発売",
@@ -56,7 +71,7 @@
   "thumbnail": null,
   "published": "2026-09-25T09:00+09:00",
   "collected": "2026-09-25T09:49+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "4939a12e3f08",
@@ -1033,7 +1048,7 @@
   "thumbnail": null,
   "published": "2026-09-24T22:00+09:00",
   "collected": "2026-09-25T09:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "7d739e4083a7",
@@ -1218,7 +1233,7 @@
   "thumbnail": null,
   "published": "2026-09-24T17:00+09:00",
   "collected": "2026-09-25T09:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "b922ea29dce6",
@@ -1319,7 +1334,7 @@
   "thumbnail": null,
   "published": "2026-09-24T15:15+09:00",
   "collected": "2026-09-25T09:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "08c89345d687",
@@ -1348,6 +1363,20 @@
   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/converse-ogp.jpg",
   "published": "2026-09-24T14:23+09:00",
   "collected": "2026-09-25T09:00+09:00"
+ },
+ {
+  "id": "89181daf4c77",
+  "url": "https://ai.watch.impress.co.jp/docs/news/2142847.html",
+  "title": "Anthropic、Fable 5.1並み「Claude Opus 5.5」をリリース 利用料はOpus 5より40％安価に",
+  "summary": "Anthropicは、新モデル「Claude Opus 5.5」を発表した。Claude Opus 5.5は、最も優れた性能を発揮する主力モデルとなっており、同時に、高性能なモデル向けに開発された安全対策も搭載されている。",
+  "source": "株式会社インプレス",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2142/847/0200.jpg",
+  "published": "2026-09-24T12:59+09:00",
+  "collected": "2026-09-25T10:29+09:00"
  },
  {
   "id": "715f4463847b",
@@ -1464,7 +1493,7 @@
   "thumbnail": null,
   "published": "2026-09-24T11:00+09:00",
   "collected": "2026-09-25T09:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "795ccd23b3e3",

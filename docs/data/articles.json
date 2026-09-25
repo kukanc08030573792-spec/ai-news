@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-25T09:49+09:00",
+  "last_updated": "2026-09-25T10:29+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -44,6 +44,21 @@
   ]
  },
  "items": [
+  {
+   "id": "64ab80e63c50",
+   "url": "https://webtan.impress.co.jp/q/2026/09/53329",
+   "title": "Claude超入門『世界一やさしいClaude』を3名様にプレゼント",
+   "summary": "Claude超入門『世界一やさしいClaude』を3名様にプレゼント 読者プレゼント webtan 2026年9月25日 【申込は10/2まで】書籍『世界一やさしいClaude』を3名様にプレゼントします。",
+   "source": "Web担当者フォーラム",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-25T10:00+09:00",
+   "collected": "2026-09-25T10:29+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "e369ca61d361",
    "url": "https://ascii.jp/elem/000/004/437/4437092/?rss",
@@ -101,7 +116,7 @@
    "thumbnail": null,
    "published": "2026-09-25T09:00+09:00",
    "collected": "2026-09-25T09:49+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "4939a12e3f08",
@@ -1062,7 +1077,7 @@
    "thumbnail": null,
    "published": "2026-09-24T22:00+09:00",
    "collected": "2026-09-25T09:00+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "224d91d20912",
@@ -1263,7 +1278,7 @@
    "thumbnail": null,
    "published": "2026-09-24T17:00+09:00",
    "collected": "2026-09-25T09:00+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "b922ea29dce6",
@@ -1364,7 +1379,7 @@
    "thumbnail": null,
    "published": "2026-09-24T15:15+09:00",
    "collected": "2026-09-25T09:00+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "08c89345d687",
@@ -1393,6 +1408,20 @@
    "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/converse-ogp.jpg",
    "published": "2026-09-24T14:23+09:00",
    "collected": "2026-09-25T09:00+09:00"
+  },
+  {
+   "id": "89181daf4c77",
+   "url": "https://ai.watch.impress.co.jp/docs/news/2142847.html",
+   "title": "Anthropic、Fable 5.1並み「Claude Opus 5.5」をリリース 利用料はOpus 5より40％安価に",
+   "summary": "Anthropicは、新モデル「Claude Opus 5.5」を発表した。Claude Opus 5.5は、最も優れた性能を発揮する主力モデルとなっており、同時に、高性能なモデル向けに開発された安全対策も搭載されている。",
+   "source": "株式会社インプレス",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2142/847/0200.jpg",
+   "published": "2026-09-24T12:59+09:00",
+   "collected": "2026-09-25T10:29+09:00"
   },
   {
    "id": "715f4463847b",
@@ -1509,7 +1538,7 @@
    "thumbnail": null,
    "published": "2026-09-24T11:00+09:00",
    "collected": "2026-09-25T09:00+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "795ccd23b3e3",
@@ -9286,36 +9315,6 @@
    "collected": "2026-09-18T09:46+09:00",
    "title_orig": "How Cooley is accelerating IPO work with ChatGPT",
    "summary_orig": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters mo"
-  },
-  {
-   "id": "269be583526a",
-   "url": "https://news.yahoo.co.jp/articles/bf2305233bd6dc24c6f325211953edefec01bea9",
-   "title": "米AnthropicがClaudeのチャットとCoworkを統合、スライドを生成できる機能も（ビジネス＋IT）",
-   "summary": "米Anthropicは2026年9月16日、AIアシスタントClaudeの対話機能と自律型エージェント機能Coworkを統合したと発表した。今後は用途に応じてAIが自動的に処理手法を選択する。",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00187004-biz_plus-000-1-view.jpg?exp=10800",
-   "published": "2026-09-17T20:35+09:00",
-   "collected": "2026-09-18T08:41+09:00"
-  },
-  {
-   "id": "41b021268bbc",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-   "title": "突然爆発的なAIセーフティの世界の中で",
-   "summary": "カリフォルニア州バークレーの晴れた7月のある日、国内トップクラスのAI安全研究者が目印のない建物の目印のない床に集まりました。彼らはトゲスに来ていた",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268747_AI_safety_RJIANG3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "published": "2026-09-17T20:30+09:00",
-   "collected": "2026-09-18T08:41+09:00",
-   "title_orig": "Inside the suddenly explosive world of AI safety",
-   "summary_orig": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come togeth"
   }
  ]
 }
