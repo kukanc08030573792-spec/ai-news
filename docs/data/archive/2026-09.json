@@ -1,5 +1,64 @@
 [
  {
+  "id": "e369ca61d361",
+  "url": "https://ascii.jp/elem/000/004/437/4437092/?rss",
+  "title": "RPGは4K、FPSは288Hz！ MSIのゲーミングモニター「MAG 321UPD E14」が10月1日発売",
+  "summary": "MSIが4K/144HzとフルHD/288Hzを切り替えられるデュアルモード搭載ゲーミングモニター「MAG 321UPD E14」を10月1日に発売。IPSパネルやHDR、AIビジョン、FreeSync Premiumなどの機能も備える。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/09/25/4529911/xl/3ff84b05a0eb5f35.png?20200122",
+  "published": "2026-09-25T09:30+09:00",
+  "collected": "2026-09-25T09:49+09:00"
+ },
+ {
+  "id": "ab5e4d82e9c7",
+  "url": "https://www.youtube.com/watch?v=rOJgyaH23OE",
+  "title": "Meta Connect基調講演2026 | ASL",
+  "summary": "私たちは未来がすべての人のものであると信じているので、私たちはスーパーインテリジェンスをすべての人の手に委ねています。AI、AIメガネ、",
+  "source": "Meta",
+  "type": "video",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/rOJgyaH23OE/hqdefault.jpg",
+  "published": "2026-09-25T09:15+09:00",
+  "collected": "2026-09-25T09:49+09:00",
+  "title_orig": "Meta Connect Keynote 2026 | ASL",
+  "summary_orig": "We believe the future is for everyone, so we're putting superintelligence in everyone's hands. Check out our latest breakthrough technologies in AI, AI glasses,"
+ },
+ {
+  "id": "3b81f1684f28",
+  "url": "https://www.itmedia.co.jp/news/article/2609/25/2000001730/",
+  "title": "Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始 画像1枚で独自アバターも",
+  "summary": "Googleは、リアルタイム音声対話と動画生成アバターを組み合わせた「Gemini 3.8 Live with Live Avatar」をGemini Enterpriseで提供を開始した。写真1枚から自然に応答するアバターを生成し、多言語や非同期ツール実行に対応。顧客対応や店頭端末などの商用展開を見込む。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/25/2000001730/10007425/2048",
+  "published": "2026-09-25T09:10+09:00",
+  "collected": "2026-09-25T09:49+09:00"
+ },
+ {
+  "id": "adc2340ff787",
+  "url": "https://markezine.jp/article/detail/77419",
+  "title": "AI時代の「見えない顧客」をどう捉えるか。パナソニック コネクトとTORiXに聞く、企画部門の役割",
+  "summary": "生成AIの普及により、顧客の購買プロセスはより複雑化・不可視化している。伝統的なアプローチが通用しづらくなった今、マーケティングと営業はいかに連携すべきか。また、そのために企画部門はどう進化すべきなのか。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-25T09:00+09:00",
+  "collected": "2026-09-25T09:49+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "4939a12e3f08",
   "url": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
   "title": "Google Cloud API GatewayでREST APIをMCPツールに変換",
@@ -74,7 +133,7 @@
   "thumbnail": null,
   "published": "2026-09-25T08:30+09:00",
   "collected": "2026-09-25T08:53+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "7ec94e51762f",
@@ -163,7 +222,7 @@
   "thumbnail": null,
   "published": "2026-09-25T07:02+09:00",
   "collected": "2026-09-25T08:53+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3908e15a9577",
@@ -192,7 +251,7 @@
   "thumbnail": null,
   "published": "2026-09-25T07:01+09:00",
   "collected": "2026-09-25T08:53+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "639f20c5240f",
@@ -249,7 +308,7 @@
   "thumbnail": null,
   "published": "2026-09-25T07:00+09:00",
   "collected": "2026-09-25T08:53+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "8afb8f4ef5ee",
@@ -264,7 +323,7 @@
   "thumbnail": null,
   "published": "2026-09-25T07:00+09:00",
   "collected": "2026-09-25T08:53+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "c4a00177b348",
@@ -308,7 +367,7 @@
   "thumbnail": null,
   "published": "2026-09-25T06:30+09:00",
   "collected": "2026-09-25T08:53+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "0c514bb6dd8b",
@@ -339,7 +398,7 @@
   "thumbnail": null,
   "published": "2026-09-25T06:15+09:00",
   "collected": "2026-09-25T08:53+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "9c727c62480d",
@@ -354,7 +413,7 @@
   "thumbnail": null,
   "published": "2026-09-25T06:13+09:00",
   "collected": "2026-09-25T08:53+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "9f2565a99871",
@@ -384,7 +443,7 @@
   "thumbnail": null,
   "published": "2026-09-25T05:06+09:00",
   "collected": "2026-09-25T08:53+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "commit-rewriter 0.2",
   "summary_orig": "Release: commit-rewriter 0.2 Support for branches other than the default branch. Use uvx commit-rewriter --branch other to run against another branch. #3 Tags:"
  },
@@ -448,7 +507,7 @@
   "thumbnail": null,
   "published": "2026-09-25T04:15+09:00",
   "collected": "2026-09-25T08:53+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "summary_orig": "Release: datasette 1.0a41 Alec Garcia added support for OpenTelemetry to Datasette in this release. I've also refactored all of Datasette's modal dialogs to a s"
  },
  {
@@ -974,7 +1033,7 @@
   "thumbnail": null,
   "published": "2026-09-24T22:00+09:00",
   "collected": "2026-09-25T09:00+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "7d739e4083a7",
@@ -1159,7 +1218,7 @@
   "thumbnail": null,
   "published": "2026-09-24T17:00+09:00",
   "collected": "2026-09-25T09:00+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "b922ea29dce6",
@@ -1260,7 +1319,7 @@
   "thumbnail": null,
   "published": "2026-09-24T15:15+09:00",
   "collected": "2026-09-25T09:00+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "08c89345d687",
@@ -1405,7 +1464,7 @@
   "thumbnail": null,
   "published": "2026-09-24T11:00+09:00",
   "collected": "2026-09-25T09:00+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "795ccd23b3e3",
