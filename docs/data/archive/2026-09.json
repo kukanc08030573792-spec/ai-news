@@ -421,7 +421,7 @@
   "thumbnail": null,
   "published": "2026-09-26T02:22+09:00",
   "collected": "2026-09-26T08:57+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting John Gruber",
   "summary_orig": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running"
  },
@@ -1048,7 +1048,7 @@
   "thumbnail": null,
   "published": "2026-09-25T14:15+09:00",
   "collected": "2026-09-26T09:09+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "b392dff1a8ab",
@@ -1081,6 +1081,20 @@
   "collected": "2026-09-26T09:09+09:00"
  },
  {
+  "id": "be23dae1a086",
+  "url": "https://pc.watch.impress.co.jp/docs/news/2143165.html",
+  "title": "「Claude Code」クラウド実行が正式版、最大250ドル分クレジット配布",
+  "summary": "PCを閉じても、AIがコーディングを続けてくれる機能が正式版になった。Anthropicは9月23日(米国時間)、「Claude Code」をクラウド上で実行する「クラウドセッション」の一般提供を開始した。",
+  "source": "PC Watch",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2143/165/1.jpg",
+  "published": "2026-09-25T11:40+09:00",
+  "collected": "2026-09-26T09:52+09:00"
+ },
+ {
   "id": "a58162400433",
   "url": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
   "title": "ノーザンガネット、グレートブルーヘロン、カリフォルニアブラウンペリカン",
@@ -1093,7 +1107,7 @@
   "thumbnail": null,
   "published": "2026-09-25T11:07+09:00",
   "collected": "2026-09-26T08:57+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Northern Gannet, Great Blue Heron, California Brown Pelican",
   "summary_orig": "Northern Gannet, Great Blue Heron, California Brown Pelican, in Monterey Bay National Marine Sanctuary, CA, US, CA New 200-800mm Canon EF lens got me my best ph"
  },
@@ -1138,7 +1152,7 @@
   "thumbnail": null,
   "published": "2026-09-25T10:35+09:00",
   "collected": "2026-09-26T09:09+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "6c1df0eaaeb4",
@@ -1169,7 +1183,7 @@
   "thumbnail": null,
   "published": "2026-09-25T10:15+09:00",
   "collected": "2026-09-26T09:09+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "47df2385cf59",
@@ -1350,7 +1364,7 @@
   "thumbnail": null,
   "published": "2026-09-25T08:31+09:00",
   "collected": "2026-09-26T08:57+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Note on 24th September 2026",
   "summary_orig": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder. We can do amazing things with them, b"
  },
