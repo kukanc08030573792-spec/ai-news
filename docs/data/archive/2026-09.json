@@ -1,5 +1,21 @@
 [
  {
+  "id": "f7b953735bb6",
+  "url": "https://www.youtube.com/watch?v=LOjyRUspEDk",
+  "title": "YouTube 2026で10分で制作-公式要約",
+  "summary": "# MadeOnYouTubeは、クリエイターと視聴者のための多くの新機能を発表しました。こちらは10分以内です",
+  "source": "Creator Insider（YouTube公式）",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/LOjyRUspEDk/hqdefault.jpg",
+  "published": "2026-09-26T10:29+09:00",
+  "collected": "2026-09-26T10:33+09:00",
+  "title_orig": "Made On YouTube 2026 in 10 minutes - Official Recap",
+  "summary_orig": "#MadeOnYouTube announced a ton of new features for creators and viewers, and here they are in under 10 minutes"
+ },
+ {
   "id": "30b26e078647",
   "url": "https://www.latent.space/p/openrouter",
   "title": "OpenRouter ：シードからストライプまで— OpenRouterのAlex AtallahとAMPのAnjney Midha",
@@ -1048,7 +1064,7 @@
   "thumbnail": null,
   "published": "2026-09-25T14:15+09:00",
   "collected": "2026-09-26T09:09+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "b392dff1a8ab",
@@ -1152,7 +1168,7 @@
   "thumbnail": null,
   "published": "2026-09-25T10:35+09:00",
   "collected": "2026-09-26T09:09+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "6c1df0eaaeb4",
@@ -1183,7 +1199,7 @@
   "thumbnail": null,
   "published": "2026-09-25T10:15+09:00",
   "collected": "2026-09-26T09:09+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "47df2385cf59",
