@@ -1,5 +1,20 @@
 [
  {
+  "id": "633946563354",
+  "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+  "title": "Kākāpō Party",
+  "summary": "ツール：昨日、私が行ったKākāpō Partyは、WeAreDevelopers World Congress North Americaの閉会の基調講演を行いました。星の瞬間として、私は参照で織ることにしました",
+  "source": "Simon Willison",
+  "type": "article",
+  "tier": "voice",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static.simonwillison.net/static/2026/kakapo-party-first-frame.webp",
+  "published": "2026-09-27T08:39+09:00",
+  "collected": "2026-09-27T09:51+09:00",
+  "summary_orig": "Tool: Kākāpō Party I gave presented a closing keynote for the WeAreDevelopers World Congress North America yesterday. As a STAR moment I decided to weave in ref"
+ },
+ {
   "id": "657ee933478e",
   "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
   "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
