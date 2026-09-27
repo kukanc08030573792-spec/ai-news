@@ -162,7 +162,7 @@
   "thumbnail": null,
   "published": "2026-09-28T07:09+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "d086cfa14c5c",
@@ -177,7 +177,7 @@
   "thumbnail": null,
   "published": "2026-09-28T07:05+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "b443ed568719",
@@ -192,7 +192,7 @@
   "thumbnail": null,
   "published": "2026-09-28T07:01+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "ce7a8731f068",
@@ -212,7 +212,7 @@
   "id": "19520869fa85",
   "url": "https://www.itmedia.co.jp/business/articles/2609/28/news053.html",
   "title": "「アサヒ・ニチレイの惨劇」はどう防げた？ 米HP幹部が語る“ネット遮断AI”と日本攻略",
-  "summary": "ATqr [âj 'CAAXNÈÇAú {éÆð_¤ TCo [Uª¢ Å ¢ éBÄHPÍ} CPE {CSVPÉAú {sêé ¨ ¯ éV ½ ÈZLeBíªð ·¢ ½ BÐ",
+  "summary": "ATqr [âj 'CAAXNÈÇAú {éÆð_¤ TCo [Uª ¢ Å ¢ éBÄHPÍ} CPE {CSVPÉAú {sêé ¨ ¯ éV ½ ÈZLeBíªð · ¢ ½ BÐ",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -221,7 +221,7 @@
   "thumbnail": "https://image.itmedia.co.jp/business/articles/2609/28/cover_news053.jpg",
   "published": "2026-09-28T07:00+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "summary_orig": "ATqr[âj`CAAXNÈÇAú{éÆð_¤TCo[Uª¢Å¢éBÄHPÌ}CPE{CSVPÉAú{sêÉ¨¯éV½ÈZLeBíªð·¢½BÐ"
+  "summary_orig": "ATqr [âj 'CAAXNÈÇAú {éÆð_¤ TCo [Uª¢ Å ¢ éBÄHPÍ} CPE {CSVPÉAú {sêé ¨ ¯ éV ½ ÈZLeBíªð ·¢ ½ BÐ"
  },
  {
   "id": "e937f14f0e06",
@@ -340,7 +340,7 @@
   "id": "b90ca0ca1838",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2609/28/news038.html",
   "title": "ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに",
-  "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B",
+  "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -349,7 +349,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2609/28/l_mn0928_fanuc_003_w290.jpg",
   "published": "2026-09-28T06:15+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "summary_orig": "t@ibNÍu2026ÛEGfBOV[vÉ¨¢ÄAiÌ}ÊðÇÝæè{bgªA[NnÚðs¤AInÚG[WFgÌfXg[VÈÇðâIµ½B"
+  "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B"
  },
  {
   "id": "b96e89874722",
@@ -378,7 +378,7 @@
   "thumbnail": null,
   "published": "2026-09-28T06:00+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "9c14e3f08427",
