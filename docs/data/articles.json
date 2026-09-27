@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-27T09:51+09:00",
+  "last_updated": "2026-09-27T10:26+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -3281,6 +3281,20 @@
    "published": "2026-09-24T10:00+09:00",
    "collected": "2026-09-24T10:23+09:00",
    "_thumb_tries": 3
+  },
+  {
+   "id": "975682d7fdd6",
+   "url": "https://ledge.ai/articles/anthropic_claude_opus_5_5",
+   "title": "Anthropic、Claude Opus 5.5を発表 Fable 5.1並みの性能、Opus 5比で実行コスト40％減",
+   "summary": "AI・人工知能関連のニュースやトレンドを高頻度で配信！最新ニュースやインタビュー、イベントレポートなどAIに関するさまざまな情報を独自の切り口で掲載",
+   "source": "Ledge.ai",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/claudeopus5_5_82676911f7/claudeopus5_5_82676911f7.jpg",
+   "published": "2026-09-24T09:57+09:00",
+   "collected": "2026-09-27T10:26+09:00"
   },
   {
    "id": "c2458a4e3650",
@@ -9316,22 +9330,6 @@
    "collected": "2026-09-19T08:19+09:00",
    "title_orig": "Researchers used Claude to hack OpenAI",
    "summary_orig": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data."
-  },
-  {
-   "id": "de16d3666458",
-   "url": "https://www.youtube.com/watch?v=bbNTY8O0GTY",
-   "title": "ChatGPT Workを使用して、セマンティックレイヤーの分析をグラウンドします",
-   "summary": "データエージェントは、ビジネスが指標をどのように定義しているかを理解する必要があります。このクリップでは、OpenAIのデータチームが、セマンティックレイヤーがどのようにキーを結合するかを説明します。",
-   "source": "OpenAI",
-   "type": "video",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://i.ytimg.com/vi/bbNTY8O0GTY/hqdefault.jpg",
-   "published": "2026-09-18T22:28+09:00",
-   "collected": "2026-09-19T08:19+09:00",
-   "title_orig": "Use ChatGPT Work to ground analysis in your semantic layer",
-   "summary_orig": "Your data agent needs to understand how your business defines its metrics. In this clip, OpenAI’s data team explains how a semantic layer brings together key en"
   }
  ]
 }

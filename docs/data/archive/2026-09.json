@@ -3238,6 +3238,20 @@
   "_thumb_tries": 3
  },
  {
+  "id": "975682d7fdd6",
+  "url": "https://ledge.ai/articles/anthropic_claude_opus_5_5",
+  "title": "Anthropic、Claude Opus 5.5を発表 Fable 5.1並みの性能、Opus 5比で実行コスト40％減",
+  "summary": "AI・人工知能関連のニュースやトレンドを高頻度で配信！最新ニュースやインタビュー、イベントレポートなどAIに関するさまざまな情報を独自の切り口で掲載",
+  "source": "Ledge.ai",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/claudeopus5_5_82676911f7/claudeopus5_5_82676911f7.jpg",
+  "published": "2026-09-24T09:57+09:00",
+  "collected": "2026-09-27T10:26+09:00"
+ },
+ {
   "id": "c2458a4e3650",
   "url": "https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/",
   "title": "Google AIサブスクに「Colab」有料特典をバンドル 「高性能GPU」にアクセス可能に",
