@@ -1,5 +1,78 @@
 [
  {
+  "id": "1a2733a37b4a",
+  "url": "https://prtimes.jp/main/html/rd/p/000005788.000054842.html",
+  "title": "『中堅製造業の業務自動化、なぜ汎用AIでは進まない？』というテーマのウェビナーを開催",
+  "summary": "『中堅製造業の業務自動化、なぜ汎用AIでは進まない？』というテーマのウェビナーを開催",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/54842/5788/54842-5788-af5077bdbda1eb824b035ae923cc5f20-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-09-28T09:00+09:00",
+  "collected": "2026-09-28T10:10+09:00"
+ },
+ {
+  "id": "7341c5433bfe",
+  "url": "https://ascii.jp/elem/000/004/437/4437491/?rss",
+  "title": "膨らむAIへの投資、帳尻は合う？／脳容積の半分がヒト細胞になったマウス",
+  "summary": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/09/27/4530569/xl/96df09ce9c753d46.jpg?20200122",
+  "published": "2026-09-28T09:00+09:00",
+  "collected": "2026-09-28T10:10+09:00"
+ },
+ {
+  "id": "5f09b7d6aaa3",
+  "url": "https://markezine.jp/article/detail/77521",
+  "title": "課題解決型営業のありたい姿とAI・システム",
+  "summary": "AIを導入したのに、営業の提案が「顧客自身も知っている公開情報のまとめ」で終わっていませんか？課題解決型営業で成果を出すには、AIの分析結果をそのまま使うのではなく、営業担当者が顧客から引き出した「定性的な情報」を掛け合わせ、仮説の精度を対話的に高めていく思考プロセスが欠かせません。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-28T09:00+09:00",
+  "collected": "2026-09-28T10:10+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "193eb09a66e5",
+  "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+  "title": "LLMの2026 （これまで）",
+  "summary": "金曜日、サンノゼで開催されたWeAreDevelopers World Congress North Americaで閉会の基調講演を行いました。過去1年間の主なトレンドをまとめて",
+  "source": "Simon Willison",
+  "type": "article",
+  "tier": "voice",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static.simonwillison.net/static/2026/2026-in-llms/simon-willison-2026-in-llms-png.001.webp",
+  "published": "2026-09-28T08:54+09:00",
+  "collected": "2026-09-28T10:10+09:00",
+  "title_orig": "2026 in LLMs (so far)",
+  "summary_orig": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a c"
+ },
+ {
+  "id": "8aaf6a14e282",
+  "url": "https://prtimes.jp/main/html/rd/p/000000014.000068645.html",
+  "title": "デジタル庁OSS「源内」を活用した生成AIサービスを自治体で初めてLGWAN環境から利用可能に",
+  "summary": "デジタル庁OSS「源内」を活用した生成AIサービスを自治体で初めてLGWAN環境から利用可能に",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/68645/14/68645-14-e2f4b9af773a56ae615bb52353ce7fbc-1254x1254.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-09-28T08:30+09:00",
+  "collected": "2026-09-28T10:10+09:00"
+ },
+ {
   "id": "8ebd2302fc0a",
   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html",
   "title": "「AIがSaaSを消す」は根本的な誤解 IDCが示す“本当に起こる変化”とは",
@@ -162,7 +235,7 @@
   "thumbnail": null,
   "published": "2026-09-28T07:09+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d086cfa14c5c",
@@ -177,7 +250,7 @@
   "thumbnail": null,
   "published": "2026-09-28T07:05+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "b443ed568719",
@@ -192,7 +265,7 @@
   "thumbnail": null,
   "published": "2026-09-28T07:01+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "ce7a8731f068",
@@ -340,7 +413,7 @@
   "id": "b90ca0ca1838",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2609/28/news038.html",
   "title": "ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに",
-  "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B",
+  "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -349,7 +422,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2609/28/l_mn0928_fanuc_003_w290.jpg",
   "published": "2026-09-28T06:15+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B"
+  "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B"
  },
  {
   "id": "b96e89874722",
@@ -378,7 +451,7 @@
   "thumbnail": null,
   "published": "2026-09-28T06:00+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "9c14e3f08427",
@@ -3522,6 +3595,20 @@
   "thumbnail": "https://kn.itmedia.co.jp/kn/article/ogp/2609/24/2000001698/10007316/2048",
   "published": "2026-09-24T16:22+09:00",
   "collected": "2026-09-25T09:00+09:00"
+ },
+ {
+  "id": "31b819fbd681",
+  "url": "https://ai-market.jp/technology/claude/",
+  "title": "Claudeとは？機能・料金プラン・モデル一覧・ChatGPTやGeminiとの違いを徹底解説！2026年9月最新版",
+  "summary": "Anthropic社のLLM「Claude」の特徴、活用事例、ChatGPT・Geminiとの違い、料金プラン、導入時の注意点を徹底解説。企業の業務効率化、顧客対応高度化に貢献するClaudeの可能性を探ります。",
+  "source": "ai-market.jp",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://ai-market.jp/wp-content/uploads/2025/05/article-eyecatch-77.png",
+  "published": "2026-09-24T16:00+09:00",
+  "collected": "2026-09-28T10:10+09:00"
  },
  {
   "id": "9271106f07ed",
