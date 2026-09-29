@@ -1,5 +1,36 @@
 [
  {
+  "id": "c72c096f52f1",
+  "url": "https://www.latent.space/p/thariq",
+  "title": "クロード・コードの次の時代— Thariq Shihipar、Anthropic",
+  "summary": "フロンティアをペーシングしながらOpus/Sonnet 5.5、Mod、プラグイン、プロジェクト、タグを出荷",
+  "source": "Latent Space",
+  "type": "article",
+  "tier": "voice",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://substackcdn.com/image/fetch/$s_!A4NZ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F217893105%2Fc63d4f50-ca5f-459a-b368-281f73e3765e%2Ftranscoded-1790641303.png",
+  "published": "2026-09-29T10:48+09:00",
+  "collected": "2026-09-29T11:17+09:00",
+  "title_orig": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+  "summary_orig": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier"
+ },
+ {
+  "id": "34614e3652da",
+  "url": "https://markezine.jp/article/detail/77361",
+  "title": "NVIDIAら先進企業に学ぶこれからの競争力と、次世代AIエージェントの変革で現実となる世界観とは",
+  "summary": "2026年4月に米国で行われた「Adobe Summit」に続き、8月に日本で開催された「Adobe Summit Tokyo」。アドビのクライアント企業を参加対象とした同イベントについて、本記事では基調講演の内容を中心にその様子をレポートする。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-29T10:30+09:00",
+  "collected": "2026-09-29T11:17+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "1889e9088160",
   "url": "https://www.searchenginejournal.com/google-ai-mode-info-monitoring-global-rollout/591312/",
   "title": "Google、@ sejournal、@ MattGSouthを介して世界中のすべてのユーザーにAIモード情報モニタリングを展開",
@@ -42,7 +73,23 @@
   "thumbnail": null,
   "published": "2026-09-29T10:00+09:00",
   "collected": "2026-09-29T10:16+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
+ },
+ {
+  "id": "cfe8e900401f",
+  "url": "https://openai.com/index/how-we-will-do-better-for-australia/",
+  "title": "オーストラリアのためにどのように改善していくか",
+  "summary": "OpenAIは、オーストラリア政府のウェブサイトに関わるインシデントについて謝罪し、オーストラリアのサイバー防御を強化するためのより強力なセーフガードとサポートの概要を説明します。",
+  "source": "OpenAI",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/27qbrKJfTn2i8yoYkoNM3M/976d3d86067d405f4b43d93cb6dc632e/how_we_will_do_better_for_australia.png?w=1600&h=900&fit=fill",
+  "published": "2026-09-29T10:00+09:00",
+  "collected": "2026-09-29T11:17+09:00",
+  "title_orig": "How we will do better for Australia",
+  "summary_orig": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences."
  },
  {
   "id": "1a18393abe90",
@@ -99,7 +146,7 @@
   "thumbnail": null,
   "published": "2026-09-29T09:00+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "cfee8b825fe3",
@@ -114,7 +161,7 @@
   "thumbnail": null,
   "published": "2026-09-29T09:00+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "53d764f512ae",
@@ -190,6 +237,20 @@
   "summary_orig": "AChGWjAOÍA\\¢ðÍ\\tguADVENTURECluster2026vð2026N101úÉ[X·éB©R¾êÉæéw¦ÅðÍðÌÝè©çÀsAÊmFÜÅð©®"
  },
  {
+  "id": "71a986067b3d",
+  "url": "https://news.livedoor.com/pr_topics/detail/32437106/",
+  "title": "エクサベース AI、 Anthropic最新モデル「Claude Opus 5.5」を提供開始 (2026年9月29日掲載)",
+  "summary": "法人向け生成AIサービス「エクサベース AI」が最新AIモデルの提供を始めた。「Claude Opus 5.5」は上位モデルに匹敵する性能をより低コストで使えるという。",
+  "source": "ライブドアニュース",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://image.news.livedoor.com/newsimage/stf/1/9/19ab5_1863_3e0f5f05_0a2128b2.png",
+  "published": "2026-09-29T08:30+09:00",
+  "collected": "2026-09-29T11:17+09:00"
+ },
+ {
   "id": "726949b8e70b",
   "url": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news009.html",
   "title": "最も人気のAIユースケース、投資成果では“いまいち”だった Gartner調査",
@@ -230,7 +291,7 @@
   "thumbnail": null,
   "published": "2026-09-29T08:00+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "20f5f939bce8",
@@ -305,7 +366,7 @@
   "thumbnail": null,
   "published": "2026-09-29T07:05+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "e489b9072607",
@@ -320,7 +381,7 @@
   "thumbnail": null,
   "published": "2026-09-29T07:04+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "b2c01b7fb486",
@@ -349,7 +410,7 @@
   "thumbnail": null,
   "published": "2026-09-29T07:02+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "89c936aa61fd",
@@ -463,7 +524,7 @@
   "thumbnail": null,
   "published": "2026-09-29T07:00+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "4b4bb463397d",
@@ -769,7 +830,7 @@
   "thumbnail": null,
   "published": "2026-09-29T04:11+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting @joedaroo",
   "summary_orig": "To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything"
  },
@@ -1170,7 +1231,7 @@
   "thumbnail": null,
   "published": "2026-09-28T23:30+09:00",
   "collected": "2026-09-29T10:16+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "c115a177c788",
@@ -1325,7 +1386,7 @@
   "thumbnail": null,
   "published": "2026-09-28T20:30+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "1fe888cb26e8",
@@ -1404,7 +1465,7 @@
   "thumbnail": null,
   "published": "2026-09-28T17:45+09:00",
   "collected": "2026-09-29T10:16+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "7361429108c2",
@@ -1483,7 +1544,7 @@
   "thumbnail": null,
   "published": "2026-09-28T15:07+09:00",
   "collected": "2026-09-29T10:16+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "e171ca943272",
@@ -1540,7 +1601,7 @@
   "thumbnail": null,
   "published": "2026-09-28T13:01+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting Muse AI Agent",
   "summary_orig": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at"
  },
@@ -1587,7 +1648,7 @@
   "thumbnail": null,
   "published": "2026-09-28T11:00+09:00",
   "collected": "2026-09-29T10:16+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "1a2733a37b4a",
@@ -1707,7 +1768,7 @@
   "thumbnail": null,
   "published": "2026-09-28T08:09+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "S3 Is the Future, S3 Is the Past",
   "summary_orig": "My comment on S3 Is the Future, S3 Is the Past — Hacker News. One thing I find notable about S3 today is that, while it used to drop in price reasonably often,"
  },
@@ -2052,7 +2113,7 @@
   "id": "b90ca0ca1838",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2609/28/news038.html",
   "title": "ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに",
-  "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B",
+  "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -2061,7 +2122,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2609/28/l_mn0928_fanuc_003_w290.jpg",
   "published": "2026-09-28T06:15+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B"
+  "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B"
  },
  {
   "id": "b96e89874722",
@@ -2153,7 +2214,7 @@
   "thumbnail": null,
   "published": "2026-09-28T03:41+09:00",
   "collected": "2026-09-29T10:00+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Bluesky reply bot checker",
   "summary_orig": "Tool: Bluesky reply bot checker Automated reply bots on Twitter are a scourge - as someone with a decent number of followers I attract a swarm of these, such th"
  },
