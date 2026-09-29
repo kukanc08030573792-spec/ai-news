@@ -28,7 +28,7 @@
   "thumbnail": null,
   "published": "2026-09-29T10:30+09:00",
   "collected": "2026-09-29T11:17+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "1889e9088160",
@@ -73,7 +73,7 @@
   "thumbnail": null,
   "published": "2026-09-29T10:00+09:00",
   "collected": "2026-09-29T10:16+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "cfe8e900401f",
@@ -1231,7 +1231,7 @@
   "thumbnail": null,
   "published": "2026-09-28T23:30+09:00",
   "collected": "2026-09-29T10:16+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "c115a177c788",
@@ -1465,7 +1465,7 @@
   "thumbnail": null,
   "published": "2026-09-28T17:45+09:00",
   "collected": "2026-09-29T10:16+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "7361429108c2",
@@ -1544,7 +1544,7 @@
   "thumbnail": null,
   "published": "2026-09-28T15:07+09:00",
   "collected": "2026-09-29T10:16+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "e171ca943272",
@@ -1648,7 +1648,7 @@
   "thumbnail": null,
   "published": "2026-09-28T11:00+09:00",
   "collected": "2026-09-29T10:16+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "1a2733a37b4a",
@@ -2113,7 +2113,7 @@
   "id": "b90ca0ca1838",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2609/28/news038.html",
   "title": "ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに",
-  "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B",
+  "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ ½ B",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -2122,7 +2122,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2609/28/l_mn0928_fanuc_003_w290.jpg",
   "published": "2026-09-28T06:15+09:00",
   "collected": "2026-09-28T08:48+09:00",
-  "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B"
+  "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B"
  },
  {
   "id": "b96e89874722",
