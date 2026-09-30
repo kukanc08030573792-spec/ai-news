@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-30T09:45+09:00",
+  "last_updated": "2026-09-30T10:33+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -44,6 +44,67 @@
   ]
  },
  "items": [
+  {
+   "id": "2aca3122e589",
+   "url": "https://www.advertimes.com/20260930/article559126/?utm_source=feed",
+   "title": "「熊殺すな！」「AI使うな!!」―猛襲する“カスハラー”に企業も反撃 対策義務化で“迎撃装備”続々",
+   "summary": "駅員の胸にはウェアラブルカメラ、コールセンターでは顧客の怒鳴り声をAIで「穏やかな声色」に変換――。従業員をカスタマーハラスメント（カスハラ）から守る企業の対策が進化している。",
+   "source": "宣伝会議 AdverTimes",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/kashara-ogp.jpg",
+   "published": "2026-09-30T10:22+09:00",
+   "collected": "2026-09-30T10:33+09:00"
+  },
+  {
+   "id": "17f76098dbb1",
+   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
+   "title": "Amazon Bedrockがクロードモデルの利用可能性をインドの国内推論に拡大",
+   "summary": "AnthropicのClaude Opus 5、Claude Sonnet 5、およびClaude Haiku 4.5が、Amazon Bedrock地理的クロスリージョン推論を通じてインドで利用可能になりました。",
+   "source": "AWS Machine Learning Blog",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-21953-featured-image-1.png",
+   "published": "2026-09-30T10:13+09:00",
+   "collected": "2026-09-30T10:33+09:00",
+   "title_orig": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
+   "summary_orig": "Anthropic's Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 are now available in India through Amazon Bedrock geographic cross-Region inference. You can ac"
+  },
+  {
+   "id": "e0d0bc875e2a",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-anthropic-models-on-amazon-bedrock-for-in-region-inference-in-seoul-and-singapore/",
+   "title": "ソウルとシンガポールでの地域内推論のためのAmazon BedrockでのAnthropicモデルの導入",
+   "summary": "Amazon Bedrockは現在、ソウルではAnthropicのClaude Opus 5とClaude Sonnet 5を地域内推論で、シンガポールではClaude Sonnet 5をサポートしています。地元の人がいる場合",
+   "source": "AWS Machine Learning Blog",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-22088-featured-image.png",
+   "published": "2026-09-30T10:13+09:00",
+   "collected": "2026-09-30T10:33+09:00",
+   "title_orig": "Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore",
+   "summary_orig": "Amazon Bedrock now supports Anthropic's Claude Opus 5 and Claude Sonnet 5 with in-region inference in Seoul, and Claude Sonnet 5 in Singapore. If you have local"
+  },
+  {
+   "id": "d8f6e2996877",
+   "url": "https://markezine.jp/article/detail/77302",
+   "title": "その会話、AIの資産になっていますか？ 顧客接点データを収益に変える「貯める設計」と「使う設計」",
+   "summary": "2026年7月22日・23日の2日間、東京・四谷のコモレ四谷 タワーコンファレンスにて、「BtoB Synergy FORUM powered by MarkeZine & SalesZine」が開催された。",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-30T09:45+09:00",
+   "collected": "2026-09-30T10:33+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "0f9f9f14e1ff",
    "url": "https://www.advertimes.com/20260930/article557710/?utm_source=feed",
@@ -101,7 +162,21 @@
    "thumbnail": null,
    "published": "2026-09-30T08:30+09:00",
    "collected": "2026-09-30T09:29+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
+  },
+  {
+   "id": "8ec86dc40586",
+   "url": "https://www.watch.impress.co.jp/docs/news/2144203.html",
+   "title": "グーグル、観光や行政支援など 全国9自治体の生成AI事例を公開",
+   "summary": "グーグルは29日、全国の自治体と進めてきた生成AI活用のプロトタイプや実装事例をまとめたWebサイトを公開した。現在進行中のプロジェクトを含む9自治体の事例に加え、自治体職員を主な対象とした無償のデジタルスキルトレーニングの受講方法などを紹介する。",
+   "source": "Impress Watch",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.watch.impress.co.jp/img/ipw/list/2144/203/1.jpg",
+   "published": "2026-09-30T08:00+09:00",
+   "collected": "2026-09-30T10:33+09:00"
   },
   {
    "id": "2879a482099f",
@@ -130,7 +205,21 @@
    "thumbnail": null,
    "published": "2026-09-30T08:00+09:00",
    "collected": "2026-09-30T09:29+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
+  },
+  {
+   "id": "8361ded56795",
+   "url": "https://ascii.jp/elem/000/004/438/4438367/?rss",
+   "title": "AIへの入力で止まるときも、作成だけが進むときも。仕事の「完了条件」を考える図解実践ガイドを無料公開",
+   "summary": "AIへの入力で止まるときも、作成だけが進むときも。仕事の「完了条件」を考える図解実践ガイドを無料公開",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-09-30T07:59+09:00",
+   "collected": "2026-09-30T10:33+09:00"
   },
   {
    "id": "8e39bbec54ff",
@@ -159,7 +248,21 @@
    "thumbnail": null,
    "published": "2026-09-30T07:30+09:00",
    "collected": "2026-09-30T09:29+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
+  },
+  {
+   "id": "0d6c688769a9",
+   "url": "https://ascii.jp/elem/000/004/438/4438369/?rss",
+   "title": "AIが購買の「予選」を担う時代へ。ベネクロ代表 内村裕香がKNBCセミナーに登壇",
+   "summary": "AIが購買の「予選」を担う時代へ。ベネクロ代表 内村裕香がKNBCセミナーに登壇",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-09-30T07:26+09:00",
+   "collected": "2026-09-30T10:33+09:00"
   },
   {
    "id": "719d3195b24b",
@@ -176,6 +279,20 @@
    "collected": "2026-09-30T09:29+09:00",
    "title_orig": "Trump orders US government to call AI ‘Super Intelligence’",
    "summary_orig": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and pr"
+  },
+  {
+   "id": "3ade9c1ab8d9",
+   "url": "https://ascii.jp/elem/000/004/438/4438370/?rss",
+   "title": "MEO対策AI「口コミロボ(TM)」、Googleマップの無料店舗診断を開始 店名を入れるだけで順位と口コミを登録不要でチェック",
+   "summary": "MEO対策AI「口コミロボ(TM)」、Googleマップの無料店舗診断を開始 店名を入れるだけで順位と口コミを登録不要でチェック",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-09-30T07:20+09:00",
+   "collected": "2026-09-30T10:33+09:00"
   },
   {
    "id": "8000c8f00f46",
@@ -206,7 +323,7 @@
    "thumbnail": null,
    "published": "2026-09-30T07:20+09:00",
    "collected": "2026-09-30T09:29+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting Anthropic Frontier Red Team",
    "summary_orig": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow"
   },
@@ -223,7 +340,7 @@
    "thumbnail": null,
    "published": "2026-09-30T07:05+09:00",
    "collected": "2026-09-30T09:29+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "560dbe98c6fe",
@@ -238,7 +355,7 @@
    "thumbnail": null,
    "published": "2026-09-30T07:05+09:00",
    "collected": "2026-09-30T09:29+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "89b6dceb3a25",
@@ -297,6 +414,20 @@
    "thumbnail": "https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/news2026/0930_wix01.png?itok=z0KdAAm2",
    "published": "2026-09-30T07:01+09:00",
    "collected": "2026-09-30T09:29+09:00"
+  },
+  {
+   "id": "3863186828e5",
+   "url": "https://ascii.jp/elem/000/004/438/4438371/?rss",
+   "title": "SEOと生成AI検索（LLMO／GEO）の両方に対応した記事をキーワードから自動生成するAIライティングサービス「AI Writer Beans」を正式リリース",
+   "summary": "SEOと生成AI検索（LLMO／GEO）の両方に対応した記事をキーワードから自動生成するAIライティングサービス「AI Writer Beans」を正式リリース",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-09-30T07:00+09:00",
+   "collected": "2026-09-30T10:33+09:00"
   },
   {
    "id": "16d77ced0b28",
@@ -597,7 +728,7 @@
    "thumbnail": null,
    "published": "2026-09-30T03:47+09:00",
    "collected": "2026-09-30T09:29+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "413f6ea012c9",
@@ -690,7 +821,7 @@
    "thumbnail": null,
    "published": "2026-09-30T03:27+09:00",
    "collected": "2026-09-30T09:29+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
    "summary_orig": "My comment on GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price — Hacker News. I'm a bit late with the pelicans because I was live-blogging the keyn"
   },
@@ -1373,7 +1504,7 @@
    "thumbnail": null,
    "published": "2026-09-29T19:51+09:00",
    "collected": "2026-09-30T09:45+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "93ea3aafd35e",
@@ -1708,7 +1839,7 @@
    "thumbnail": null,
    "published": "2026-09-29T16:27+09:00",
    "collected": "2026-09-30T09:29+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "summary_orig": "LinkedIn | Die Sichtbarkeit von Beiträgen bricht ein – doch viele Unternehmen produzieren planlos und verzweifelt weiter wie bisher    Xpert.Digital - Konrad Wo"
   },
   {
@@ -1825,7 +1956,7 @@
    "thumbnail": null,
    "published": "2026-09-29T11:30+09:00",
    "collected": "2026-09-30T09:45+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "90b65fec7c0d",
@@ -4001,7 +4132,7 @@
    "id": "b90ca0ca1838",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/28/news038.html",
    "title": "ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに",
-   "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèèèèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B",
+   "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèèèèèèèèèèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÇðâIµ½ B",
    "source": "ITmedia AI+",
    "type": "article",
    "tier": "media",
@@ -4010,7 +4141,7 @@
    "thumbnail": "https://image.itmedia.co.jp/mn/articles/2609/28/l_mn0928_fanuc_003_w290.jpg",
    "published": "2026-09-28T06:15+09:00",
    "collected": "2026-09-28T08:48+09:00",
-   "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B"
+   "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèèèèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B"
   },
   {
    "id": "b96e89874722",
@@ -9132,141 +9263,6 @@
    "collected": "2026-09-24T08:57+09:00",
    "title_orig": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
    "summary_orig": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no governme"
-  },
-  {
-   "id": "50fdf1ad73b0",
-   "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-   "title": "サンフランシスコ10月14日：エージェントエンジニアリングに関するBirds of a Featherセッション",
-   "summary": "サンフランシスコ10月14日：エージェントエンジニアリングに関するBirds of a Featherセッション10月14日水曜日にサンフランシスコでJesse Vincentとのイブニングイベントを開催します",
-   "source": "Simon Willison",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-09-23T11:53+09:00",
-   "collected": "2026-09-24T08:43+09:00",
-   "_thumb_tries": 3,
-   "title_orig": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-   "summary_orig": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October"
-  },
-  {
-   "id": "068374d48237",
-   "url": "https://news.yahoo.co.jp/articles/695a4642f4b8895d3006d6ee22df1da53eec8bcc",
-   "title": "Anthropic、「Claude Opus 5.5」を発表 ～「Fable 5.1」並みの性能、コストは「Opus 5」比4割減（窓の杜）",
-   "summary": "米Anthropicは9月22日（現地時間）、「Claude Opus 5.5」を発表した。「Claude 5.5」ファミリー初のモデルで、大半の作業で「Fable 5.1」と同等の性能を発揮しつ",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000002-impwfw-000-1-view.jpg?exp=10800",
-   "published": "2026-09-23T11:39+09:00",
-   "collected": "2026-09-24T09:52+09:00"
-  },
-  {
-   "id": "4d5959d698eb",
-   "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
-   "title": "AIデー・シンガポールで、NVIDIAとパートナーが東南アジア全域でAIの進歩を披露",
-   "summary": "9月22〜23日にラッフルズシティコンベンションセンターで開催されるNVIDIA AI Day Singaporeでは、参加者に実践的なトレーニングを体験する機会を提供しています",
-   "source": "NVIDIA Blog",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/ai-day-singapore-key-visul-1920x1080-1.jpg",
-   "published": "2026-09-23T11:30+09:00",
-   "collected": "2026-09-24T08:43+09:00",
-   "title_orig": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
-   "summary_orig": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on traini"
-  },
-  {
-   "id": "1dd9ce125c6e",
-   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan/",
-   "title": "ChatGPT Ads、東南アジアと台湾に拡大",
-   "summary": "ChatGPT Adsは東南アジアと台湾に拡大しており、対象となるビジネスに60か国以上の人々にアプローチする新しい方法を提供しています。",
-   "source": "OpenAI",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/7FJ6xwUhzfqnyoSn9ciPcS/2f477db82efadb6e10ace70da6498bb3/chatgpt-ads-expands-to-southeast-asia-and-taiwan-seo.png?w=1600&h=900&fit=fill",
-   "published": "2026-09-23T11:00+09:00",
-   "collected": "2026-09-25T08:53+09:00",
-   "title_orig": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-   "summary_orig": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries."
-  },
-  {
-   "id": "e38f378cd58c",
-   "url": "https://www.nikkei.com/article/DGXZQOGM230CK0T20C26A9000000/",
-   "title": "中国当局がKimiやDeepSeek調査 AnthropicのAIに機密情報転送疑い",
-   "summary": "【広州=藤野逸郎】中国の国家インターネット情報弁公室が同国の人工知能（AI）新興、月之暗面（ムーンショットAI）やDeepSeek（ディープシーク）を、機密情報の漏洩の疑いで調査を始めたと米メディア、ジ・インフォメーションが22日伝えた。米アンソロピックが10日付で発表した報告書で指摘していた。",
-   "source": "日本経済新聞",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3627683023092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=9a3292678aafb66fa337a9c1d41f7de1",
-   "published": "2026-09-23T10:55+09:00",
-   "collected": "2026-09-27T08:38+09:00"
-  },
-  {
-   "id": "c53cfda9cad3",
-   "url": "https://news.yahoo.co.jp/articles/024b3d255ed2dc14afe67ce9f1a287bdcfaca371",
-   "title": "「Claude Opus 5.5」登場、Fable 5.1並みで運用コスト40%減。リセット権も配布（PC Watch）",
-   "summary": "Anthropicは9月23日(日本時間)、AIモデル「Claude Opus 5.5」を発表し、同日提供を開始した。多くの作業で上位の「Claude Fable 5.1」と同水準の性能を、「Cl",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260923-00000001-imppcw-000-3-view.jpg?exp=10800",
-   "published": "2026-09-23T10:44+09:00",
-   "collected": "2026-09-24T08:43+09:00"
-  },
-  {
-   "id": "1f40677cc794",
-   "url": "https://gihyo.jp/article/2026/09/claude-opus-5.5",
-   "title": "Anthropic、「Claude Opus 5.5」を発表 ——性能と出力速度を向上、APIの入出力単価をOpus 5比で20％引き下げ",
-   "summary": "Anthropic、「Claude Opus 5.5」を発表 ——性能と出力速度を向上、APIの入出力単価をOpus 5比で20％引き下げ",
-   "source": "gihyo.jp",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://gihyo.jp/assets/images/ICON/2026/3068_claude-opus-5.5.jpg",
-   "published": "2026-09-23T10:39+09:00",
-   "collected": "2026-09-24T08:43+09:00"
-  },
-  {
-   "id": "1ad6a502f2bb",
-   "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
-   "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
-   "summary": "トランプ米大統領は国連総会の一般討論演説で、AIの呼称を「Super Intelligence（SI）」に変更すると表明した。米国の全公文書で採用し、他国にも同調を促す。国際的なAI管理の枠組みを拒否し、地球温暖化論争になぞらえて脅威論を一蹴した上で、成長を支援して開発競争をリードする姿勢を強調した。",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/23/2000001676/10007230/2048",
-   "published": "2026-09-23T10:36+09:00",
-   "collected": "2026-09-24T08:57+09:00"
-  },
-  {
-   "id": "75db61704099",
-   "url": "https://about.fb.com/news/2026/09/meta-spf-scam-efforts/",
-   "title": "Meta、シンガポール警察と提携して370万件のアカウント、ページ、コンテンツに対処",
-   "summary": "メッセージから始まります。あまりにも良い、本当の在庫のヒント。先週存在しなかったページから大幅な割引を提供する高級スキンケアブランド。メッセージング",
-   "source": "Meta Newsroom",
-   "type": "article",
-   "tier": "official",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://about.fb.com/wp-content/uploads/2026/03/Global-Law-Enforcement-Agencies-With-Support-From-Meta-Disrupt-Major-Criminal-Scam-Networks-Based-in-Thailand_Header.jpg?w=1200",
-   "published": "2026-09-23T10:01+09:00",
-   "collected": "2026-09-23T10:30+09:00",
-   "title_orig": "Meta Takes Action on 3.7 Million Accounts, Pages and Content In Partnership With Singapore Police Force",
-   "summary_orig": "It starts with a message. A too-good-to-be-true stock tip. A luxury skincare brand offering deep discounts from a page that didn’t exist last week. A messaging"
   }
  ]
 }
