@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-30T10:33+09:00",
+  "last_updated": "2026-09-30T11:07+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-09"
@@ -44,6 +44,35 @@
   ]
  },
  "items": [
+  {
+   "id": "350719c0a8d7",
+   "url": "https://ascii.jp/elem/000/004/438/4438379/?rss",
+   "title": "ChatGPTが「業務委託先」に？ 仕事を丸投げできるAIが続々登場",
+   "summary": "OpenAIが9月29日、AIエージェント「dots」を発表した。ユーザーに代わって継続的に仕事を進めるツールで、GPT-6 Astraを基盤とする。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/09/30/4531995/xl/c58c76961c4fb0a0.png?20200122",
+   "published": "2026-09-30T10:45+09:00",
+   "collected": "2026-09-30T11:07+09:00"
+  },
+  {
+   "id": "1564d06f6963",
+   "url": "https://markezine.jp/article/detail/77627",
+   "title": "AI経由リードの商談化率3倍！HubSpotが実践したAEOの4ステップ",
+   "summary": "生成AIの普及によって、顧客の購買行動は静かに、しかし確実に変わりつつある。検索エンジンではなく生成AIに情報を尋ね、比較検討まで済ませたうえで売り手に接触する買い手が増えている。",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-30T10:30+09:00",
+   "collected": "2026-09-30T11:07+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "2aca3122e589",
    "url": "https://www.advertimes.com/20260930/article559126/?utm_source=feed",
@@ -91,6 +120,20 @@
    "summary_orig": "Amazon Bedrock now supports Anthropic's Claude Opus 5 and Claude Sonnet 5 with in-region inference in Seoul, and Claude Sonnet 5 in Singapore. If you have local"
   },
   {
+   "id": "fe2b62c2ae4d",
+   "url": "https://news.infoseek.co.jp/article/prtimes_000000108_000165098/",
+   "title": "MEO対策AI「口コミロボ(TM)」、最新AI「Claude Sonnet 5.5」を公開の翌日に搭載 より人間らしい口コミの下書きを、さらに速く",
+   "summary": "MEO対策AI「口コミロボ(TM)」、最新AI「Claude Sonnet 5.5」を公開の翌日に搭載 より人間らしい口コミの下書きを、さらに速く",
+   "source": "Infoseek",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+   "published": "2026-09-30T10:10+09:00",
+   "collected": "2026-09-30T11:07+09:00"
+  },
+  {
    "id": "d8f6e2996877",
    "url": "https://markezine.jp/article/detail/77302",
    "title": "その会話、AIの資産になっていますか？ 顧客接点データを収益に変える「貯める設計」と「使う設計」",
@@ -103,7 +146,7 @@
    "thumbnail": null,
    "published": "2026-09-30T09:45+09:00",
    "collected": "2026-09-30T10:33+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "0f9f9f14e1ff",
@@ -134,6 +177,48 @@
    "collected": "2026-09-30T09:29+09:00",
    "title_orig": "Sam Altman says OpenAI won’t go public until its models are safe",
    "summary_orig": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety,"
+  },
+  {
+   "id": "8fd4462e91fd",
+   "url": "https://ascii.jp/elem/000/004/438/4438385/?rss",
+   "title": "メーカー・卸売業向けAIのIntentia、日本政策金融公庫から総額1,000万円の融資が決定。営業支援と受発注の2つのAIエージェントを提供開始",
+   "summary": "メーカー・卸売業向けAIのIntentia、日本政策金融公庫から総額1,000万円の融資が決定。営業支援と受発注の2つのAIエージェントを提供開始",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-09-30T09:10+09:00",
+   "collected": "2026-09-30T11:07+09:00"
+  },
+  {
+   "id": "80b6cc8b8716",
+   "url": "https://ascii.jp/elem/000/004/438/4438401/?rss",
+   "title": "【スマホの思い出が“立体”でよみがえる】AI裸眼3Dフォトフレーム「AI Box」、9月30日よりMakuakeで先行販売開始",
+   "summary": "【スマホの思い出が“立体”でよみがえる】AI裸眼3Dフォトフレーム「AI Box」、9月30日よりMakuakeで先行販売開始",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-09-30T09:00+09:00",
+   "collected": "2026-09-30T11:07+09:00"
+  },
+  {
+   "id": "c1e18028fc07",
+   "url": "https://ascii.jp/elem/000/004/438/4438400/?rss",
+   "title": "ITLINE、Webサイトの「引き継ぎ窓口」を開設保守会社の乗り換え・担当者不在・更新停止のホームページを、AI現状調査0円で運用再開へ",
+   "summary": "ITLINE、Webサイトの「引き継ぎ窓口」を開設保守会社の乗り換え・担当者不在・更新停止のホームページを、AI現状調査0円で運用再開へ",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-09-30T09:00+09:00",
+   "collected": "2026-09-30T11:07+09:00"
   },
   {
    "id": "0459c7e57100",
@@ -1504,7 +1589,7 @@
    "thumbnail": null,
    "published": "2026-09-29T19:51+09:00",
    "collected": "2026-09-30T09:45+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "93ea3aafd35e",
@@ -1885,6 +1970,20 @@
    "collected": "2026-09-30T09:45+09:00"
   },
   {
+   "id": "4cee3a442429",
+   "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/",
+   "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
+   "summary": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開しました。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2609/29/2000001837/10007842/2048",
+   "published": "2026-09-29T14:56+09:00",
+   "collected": "2026-09-30T11:07+09:00"
+  },
+  {
    "id": "2dddce2c771a",
    "url": "https://news.yahoo.co.jp/articles/067e0d5c887f257f67a14cfe68cd2f20021d859e",
    "title": "Anthropic「Claude Sonnet 5.5」発表、一部でOpenAI「GPT-6 Astra」上回る（アスキー）",
@@ -1956,7 +2055,7 @@
    "thumbnail": null,
    "published": "2026-09-29T11:30+09:00",
    "collected": "2026-09-30T09:45+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "90b65fec7c0d",
@@ -4132,7 +4231,7 @@
    "id": "b90ca0ca1838",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/28/news038.html",
    "title": "ファナックがAI溶接エージェント実演 ロボット制御装置が安全PLCに",
-   "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèèèèèèèèèèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÇðâIµ½ B",
+   "summary": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèèèèèèèèèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÇðâIµ½ B",
    "source": "ITmedia AI+",
    "type": "article",
    "tier": "media",
@@ -4141,7 +4240,7 @@
    "thumbnail": "https://image.itmedia.co.jp/mn/articles/2609/28/l_mn0928_fanuc_003_w290.jpg",
    "published": "2026-09-28T06:15+09:00",
    "collected": "2026-09-28T08:48+09:00",
-   "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèèèèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÈÇðâIµ½ B"
+   "summary_orig": "t @ ibNÍu 2026 ”EGfBOV” [vÉ ¨ ¢ ÄAiÍ} ðÇ ”æèèèèèèèèèèèèèèèèèèèèèèèèèèè {bg ª A [NnÚðs ¤ AInÚG [WFgÍfXg [VÇðâIµ½ B"
   },
   {
    "id": "b96e89874722",
@@ -9156,113 +9255,6 @@
    "collected": "2026-09-24T08:57+09:00",
    "title_orig": "The AI Hype Index: AI loves cheating",
    "summary_orig": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they"
-  },
-  {
-   "id": "007ebac07c4c",
-   "url": "https://blog.google/products/ads-commerce/ai-max-language-reporting-features/",
-   "title": "AI Briefをより多くの言語に導入し、新しいAI Maxレポート機能を追加します。",
-   "summary": "新しいレポート機能を追加し、AI Briefをより多くの言語に導入することで、優れたAI Maxキャンペーンを簡単に作成できるようになりました。",
-   "source": "Google 広告・コマース公式",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMax_morelanguages_social.max-1440x810.png",
-   "published": "2026-09-23T17:30+09:00",
-   "collected": "2026-09-24T08:43+09:00",
-   "title_orig": "We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.",
-   "summary_orig": "We’re making it easier to create great AI Max campaigns by adding a new reporting feature and bringing AI Brief to more languages."
-  },
-  {
-   "id": "3257dde26dbc",
-   "url": "https://buffer.com/resources/when-is-the-best-time-to-post-on-instagram/",
-   "title": "2026年のInstagramへの投稿に最適な時期： 960万件の投稿データ",
-   "summary": "Instagramに投稿するのに最適な時期はいつですか？ 2026年のInstagramのエンゲージメントに最適な日時を見つけるために、960万件の投稿を分析しました。",
-   "source": "Buffer",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2026/01/best-time-to-post-on-instagram-2026.png",
-   "published": "2026-09-23T17:00+09:00",
-   "collected": "2026-09-24T08:57+09:00",
-   "title_orig": "Best Time to Post on Instagram in 2026: Data from 9.6 Million Posts",
-   "summary_orig": "When is the best time to post on Instagram? We analyzed 9.6 million posts to find the best days and times for Instagram engagement in 2026."
-  },
-  {
-   "id": "7e8b282d7cf9",
-   "url": "https://media.unisba.ac.id/7f38d010/9bfb5193D1E9DT5vOCUAGAk",
-   "title": "【公式発表】アルゴリズム変更、新機能登場などインスタの最新アップデートについて徹底解説します Susan Boyle (Qyvt927AOx)",
-   "summary": "【公式発表】アルゴリズム変更、新機能登場などインスタの最新アップデートについて徹底解説します Susan Boyle (Qyvt927AOx)",
-   "source": "media.unisba.ac.id",
-   "type": "article",
-   "tier": "official",
-   "topic": "sns",
-   "proxy_for": "Instagram",
-   "thumbnail": null,
-   "published": "2026-09-23T16:39+09:00",
-   "collected": "2026-09-24T09:52+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "62f29a5a4546",
-   "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-   "title": "[AINews] AINewsの新しいデフォルトモデルであるClaude Opus 5.5 —そして誰もが価格を40〜50 ％引き下げる",
-   "summary": "openAIのより効率的なGPT 6モデルを覆い隠す",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!tLrK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2102432417352929280.jpg",
-   "published": "2026-09-23T15:41+09:00",
-   "collected": "2026-09-24T08:43+09:00",
-   "title_orig": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-   "summary_orig": "overshadowing more efficient GPT6 models from OpenAI"
-  },
-  {
-   "id": "ef6c3b10b7ba",
-   "url": "https://gigazine.net/news/20260923-claude-opus-5-5/",
-   "title": "AnthropicがAIモデル「Claude Opus 5.5」を発表、Opus 5よりコスト40％減・30％以上高速化しコーディング性能も向上",
-   "summary": "AI企業のAnthropicが、新しいAIモデル「Claude Opus 5.5」を発表しました。Claude 5.5ファミリーで最初のモデルで、従来のClaude Opus 5から性能や効率、安全性を改善し、一般的な処理ではOpus 5より40％低いコストで利用できるとしています。",
-   "source": "GIGAZINE",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://i.gzn.jp/img/2026/09/23/claude-opus-5-5/00.png",
-   "published": "2026-09-23T14:30+09:00",
-   "collected": "2026-09-24T08:43+09:00"
-  },
-  {
-   "id": "9eca7fb25fe2",
-   "url": "https://ledge.ai/articles/anthropic_rnd_automation_index",
-   "title": "Anthropic、AI研究開発の26％を「Claudeが主導」 1％未満から半年で急拡大、人間は監督役に",
-   "summary": "AI・人工知能関連のニュースやトレンドを高頻度で配信！最新ニュースやインタビュー、イベントレポートなどAIに関するさまざまな情報を独自の切り口で掲載",
-   "source": "Ledge.ai",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/31704b297a9350f392f143ea078561f36cd14908_1920x1230_d7aac24691/31704b297a9350f392f143ea078561f36cd14908_1920x1230_d7aac24691.webp",
-   "published": "2026-09-23T14:08+09:00",
-   "collected": "2026-09-25T08:53+09:00"
-  },
-  {
-   "id": "cb46fb2f83bf",
-   "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-   "title": "「私たちはすでに昨日の戦いと戦っています」：ギリシャの首相はAIについて率直になります",
-   "summary": "貿易使節団のほとんどの指導者はピッチに固執していますが、今週私がギリシャのキリアコス・ミツォタキス首相にインタビューしたとき、彼はまた、",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/Mitsotakis_c8978d.jpg?resize=1200,800",
-   "published": "2026-09-23T13:59+09:00",
-   "collected": "2026-09-24T08:57+09:00",
-   "title_orig": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-   "summary_orig": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no governme"
   }
  ]
 }
