@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-01T10:33+09:00",
+  "last_updated": "2026-10-01T11:09+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -46,6 +46,20 @@
  },
  "items": [
   {
+   "id": "a06cb3fe5d5f",
+   "url": "https://ascii.jp/elem/000/004/437/4437494/?rss",
+   "title": "「今日、スマホ何回出した？」 HTCのAIグラス「VIVE Eagle」で激変した目線を下げない1日",
+   "summary": "HTCのAIグラス「VIVE Eagle」を1日装着した体験レビューです。ディスプレーはなく音声とカメラで操作し、音楽視聴や写真撮影、会議の要約、リアルタイム翻訳が可能。スマホを取り出す回数が激減し、歩みを止めず相手から目を離さない、シームレスで快適な日常を実感した様子をお届けします。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/09/27/4530594/xl/bbd8b6a3462b1df2.jpg?20200122",
+   "published": "2026-10-01T11:00+09:00",
+   "collected": "2026-10-01T11:09+09:00"
+  },
+  {
    "id": "ef2f0a81a174",
    "url": "https://ascii.jp/elem/000/004/438/4438881/?rss",
    "title": "グーグル、AI合成たんぱく質にも「透かし」 アミノ酸配列に“目印”埋め込む",
@@ -72,7 +86,7 @@
    "thumbnail": null,
    "published": "2026-10-01T10:00+09:00",
    "collected": "2026-10-01T10:33+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "8b85268bfa56",
@@ -1344,7 +1358,7 @@
    "thumbnail": null,
    "published": "2026-09-30T18:00+09:00",
    "collected": "2026-10-01T09:50+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "2a79a3e2523d",
@@ -1576,7 +1590,7 @@
    "thumbnail": null,
    "published": "2026-09-30T12:00+09:00",
    "collected": "2026-10-01T09:50+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "57bd0a4edfbe",
@@ -1591,7 +1605,7 @@
    "thumbnail": null,
    "published": "2026-09-30T11:30+09:00",
    "collected": "2026-10-01T09:50+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "34633ebd2781",
@@ -1634,7 +1648,7 @@
    "thumbnail": null,
    "published": "2026-09-30T11:00+09:00",
    "collected": "2026-10-01T09:50+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "350719c0a8d7",
@@ -5485,7 +5499,7 @@
    "thumbnail": null,
    "published": "2026-09-28T13:00+09:00",
    "collected": "2026-10-01T09:50+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "64ae3cd3c754",
@@ -9225,20 +9239,6 @@
    "proxy_for": null,
    "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/24/2000001701/10007327/2048",
    "published": "2026-09-24T16:31+09:00",
-   "collected": "2026-09-25T09:00+09:00"
-  },
-  {
-   "id": "9c94ff401374",
-   "url": "https://kn.itmedia.co.jp/kn/article/2609/24/2000001698/",
-   "title": "自治体、企業で進む「Google回帰」 事例で分かる「Gemini Notebook」の活用アイデア",
-   "summary": "生成AIを業務に取り入れる企業や自治体が増えるなか、重要になるのが、実際の仕事でどう使うかという視点だ。既存のシステムや業務との兼ね合いに加え、セキュリティや運用面での検討も欠かせない。",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://kn.itmedia.co.jp/kn/article/ogp/2609/24/2000001698/10007316/2048",
-   "published": "2026-09-24T16:22+09:00",
    "collected": "2026-09-25T09:00+09:00"
   }
  ]
