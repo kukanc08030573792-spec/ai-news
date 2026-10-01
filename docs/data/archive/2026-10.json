@@ -1,5 +1,48 @@
 [
  {
+  "id": "ef2f0a81a174",
+  "url": "https://ascii.jp/elem/000/004/438/4438881/?rss",
+  "title": "グーグル、AI合成たんぱく質にも「透かし」 アミノ酸配列に“目印”埋め込む",
+  "summary": "Google DeepMindは9月30日、AIが設計したタンパク質などに識別可能なウォーターマークを埋め込む「SynthID Bio」を発表した。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/01/4532493/xl/ae1e80d3224924ad.png?20200122",
+  "published": "2026-10-01T10:10+09:00",
+  "collected": "2026-10-01T10:33+09:00"
+ },
+ {
+  "id": "cbca676ee22a",
+  "url": "https://markezine.jp/article/detail/77733",
+  "title": "顧客は黙り、従業員は去る──マッチングアプリ「with」が挑むカスハラ問題 鍵はAIエージェント",
+  "summary": "2026年10月1日より、カスタマーハラスメント（以下、カスハラ）対策が義務化される。人材確保が年々難しくなる中、多くの企業にとって“守り”の体制づくりは最優先事項ともいえるだろう。そこで、期待が寄せられているのがAIである。一部の顧客対応をAIが担うことでカスハラの抑止力に。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-01T10:00+09:00",
+  "collected": "2026-10-01T10:33+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "8b85268bfa56",
+  "url": "https://cloud.watch.impress.co.jp/docs/news/2144153.html",
+  "title": "WAP、「HUE Ariel BP」にAIエージェント機能を搭載し業務自動化やナレッジ蓄積を支援",
+  "summary": "株式会社ワークスアプリケーションズ（以下、WAP）は9月29日、大手企業向けローコード開発・業務基盤「HUE ArielAirOne Business Platform」（以下、HUE Ariel BP）を、自社開発のAIエージェント「AquaAgent」を中核としてAIエージェント統合基盤へと強化し、本格展開すると発",
+  "source": "クラウド Watch",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cloud.watch.impress.co.jp/img/clw/list/2144/153/04.jpg",
+  "published": "2026-10-01T10:00+09:00",
+  "collected": "2026-10-01T10:33+09:00"
+ },
+ {
   "id": "bf4a35cdeb11",
   "url": "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
   "title": "TPU上のビデオ拡散に対する時空的注意の加速",
@@ -72,13 +115,13 @@
   "thumbnail": null,
   "published": "2026-10-01T09:00+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "2897e731dbe3",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news015.html",
   "title": "Autodesk、FusionなどのAI機能を発表 設計作業の自動化や設計資産の再利用を支援",
-  "summary": "AutodeskÍuAutodesk University 2026 iAU 2026 jvÉ ¨ ¢ ÄAuFusionvuInventorvuVaultv ¨ æÑPLMÉÖ · éV ½ ÈAI @\\ âæèg 'ð ­\\µ ½ BiìWâg ”§",
+  "summary": "AutodeskÍuAutodesk University 2026 iAU 2026 jvÉ ¨ ¢ ÄAuFusionvuInventorvuVaultv ¨ æÑPLMÉÖ · éV ½ ÈAI @\\ âæèg 'ð ­\\µ ½ BiìWâg \"§",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -87,7 +130,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/01/cover_news015.jpg",
   "published": "2026-10-01T09:00+09:00",
   "collected": "2026-10-01T09:50+09:00",
-  "summary_orig": "AutodeskÍuAutodesk University 2026iAU 2026jvÉ¨¢ÄAuFusionvuInventorvuVaultv¨æÑPLMÉÖ·éV½ÈAI@\\âæègÝð­\\µ½BiÌÒWâgÝ§"
+  "summary_orig": "AutodeskÍuAutodesk University 2026 iAU 2026 jvÉ ¨ ¢ ÄAuFusionvuInventorvuVaultv ¨ æÑPLMÉÖ · éV ½ ÈAI @\\ âæèg 'ð ­\\µ ½ BiìWâg ”§"
  },
  {
   "id": "5c1f615d64d2",
@@ -162,7 +205,7 @@
   "thumbnail": null,
   "published": "2026-10-01T08:00+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "ead334410a4d",
@@ -177,7 +220,7 @@
   "thumbnail": null,
   "published": "2026-10-01T07:45+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "8247ec0c4975",
@@ -266,7 +309,23 @@
   "thumbnail": null,
   "published": "2026-10-01T07:05+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
+ },
+ {
+  "id": "98f0b2565f40",
+  "url": "https://www.socialmediatoday.com/news/instagram-adds-option-to-boost-livestreams/831842/",
+  "title": "Instagramがライブストリーミングを促進するオプションを追加",
+  "summary": "アプリはすでに投稿、ストーリー、リールのプロモーションブーストを可能にしており、クリエイターはアプリ内機能を使用してライブビデオのエンゲージメントを高めることができるようになりました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/QJxUTJVUqdA1thzGnMU6UlqwhD40tPhtD7csMiqTvys/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19sb2dvMi5wbmc=.webp",
+  "published": "2026-10-01T07:05+09:00",
+  "collected": "2026-10-01T10:33+09:00",
+  "title_orig": "Instagram adds option to boost livestreams",
+  "summary_orig": "The app already allows promotional boosts of posts, Stories and Reels, and now creators can use an in-app feature to increase engagement of their live videos."
  },
  {
   "id": "db5c9178c093",
@@ -365,7 +424,7 @@
   "thumbnail": null,
   "published": "2026-10-01T06:54+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "He Built This City",
   "summary_orig": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27 feet model of the city built over a 21 yea"
  },
@@ -382,7 +441,39 @@
   "thumbnail": null,
   "published": "2026-10-01T06:51+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
+ },
+ {
+  "id": "9e99d2ef8fe1",
+  "url": "https://www.socialmediatoday.com/news/tiktok-hosts-launch-of-david-geffen-galleries/831839/",
+  "title": "TikTokがDavid Geffenギャラリーの立ち上げを主催",
+  "summary": "このアプリは、ロサンゼルス郡美術館と提携して博物館のエジプトコレクションを展示することで、Museums Aliveシリーズを拡大しました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/bTwUgNW7bDpBsG-qm9WlineqKcBxf29l57csY5UUH44/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfbXVzZXVtc19jb21lX2FsaXZlLnBuZw==.webp",
+  "published": "2026-10-01T06:39+09:00",
+  "collected": "2026-10-01T10:33+09:00",
+  "title_orig": "TikTok hosts launch of David Geffen Galleries",
+  "summary_orig": "The app expanded its Museums Alive series by partnering with the Los Angeles County Museum of Art to showcase the museum’s Egyptian collection."
+ },
+ {
+  "id": "f13ace13eb9f",
+  "url": "https://www.socialmediatoday.com/news/linkedin-updates-its-ai-powered-hiring-bot/831837/",
+  "title": "LinkedInがAI搭載の採用ボットをアップデート",
+  "summary": "このプラットフォームは、パーソナライゼーションと候補者マッチングの能力を向上させたHiring Assistant 2の立ち上げを発表しました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/SrKvQrzo_RTMtAAzhDVsiTdMgNsX6bo97AlQzzvkGaE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saW5rZWRJbl9oaXJpbmdfYXNzaXN0YW50XzIucG5n.webp",
+  "published": "2026-10-01T06:21+09:00",
+  "collected": "2026-10-01T10:33+09:00",
+  "title_orig": "LinkedIn updates its AI-powered hiring bot",
+  "summary_orig": "The platform announced the launch of Hiring Assistant 2, which has improved capacity for personalization and candidate matchmaking."
  },
  {
   "id": "b4341699df22",
@@ -477,6 +568,22 @@
   "collected": "2026-10-01T09:34+09:00",
   "title_orig": "Gemini 4 Argon: our next era of frontier intelligence",
   "summary_orig": "Announcing Gemini 4 Argon, our frontier model for real-world coding, enterprise knowledge work, and cyber defense, rolling out soon."
+ },
+ {
+  "id": "43575e93c8f1",
+  "url": "https://www.socialmediatoday.com/news/meta-adds-ai-assistant-to-edits/831834/",
+  "title": "Metaが編集にAIアシスタントを追加",
+  "summary": "同社は、人工知能を搭載した「クリエイティブパートナー」が、ユーザーが動画編集アプリでパターンを発見し、コンテンツを作成するのに役立つと述べた。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/KiL5SS3RsHM61y7mfiZqQpH94jEWGoTDEXvJgLEGu4Y/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lZGl0c19haV9hc3Npc3RhbnQucG5n.webp",
+  "published": "2026-10-01T04:48+09:00",
+  "collected": "2026-10-01T10:33+09:00",
+  "title_orig": "Meta adds AI assistant to Edits",
+  "summary_orig": "The company said its artificial intelligence-powered “creative partner” will help users discover patterns and create content in the video editing app."
  },
  {
   "id": "e93aea6b3aca",

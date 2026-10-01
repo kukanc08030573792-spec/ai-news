@@ -314,7 +314,7 @@
   "thumbnail": null,
   "published": "2026-09-30T18:00+09:00",
   "collected": "2026-10-01T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "2a79a3e2523d",
@@ -546,7 +546,7 @@
   "thumbnail": null,
   "published": "2026-09-30T12:00+09:00",
   "collected": "2026-10-01T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "57bd0a4edfbe",
@@ -561,7 +561,7 @@
   "thumbnail": null,
   "published": "2026-09-30T11:30+09:00",
   "collected": "2026-10-01T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "34633ebd2781",
@@ -604,7 +604,7 @@
   "thumbnail": null,
   "published": "2026-09-30T11:00+09:00",
   "collected": "2026-10-01T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "350719c0a8d7",
@@ -1877,7 +1877,7 @@
   "thumbnail": null,
   "published": "2026-09-30T01:45+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Photo Scrubber — local face blur & metadata removal",
   "summary_orig": "Tool: Photo Scrubber — local face blur & metadata removal I took a photograph of some protesters, then thought about how I don't like sharing photographs of str"
  },
@@ -4455,7 +4455,7 @@
   "thumbnail": null,
   "published": "2026-09-28T13:00+09:00",
   "collected": "2026-10-01T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "64ae3cd3c754",
