@@ -16,6 +16,22 @@
   "summary_orig": "To address the quadratic latency bottleneck of self-attention in high-resolution video diffusion models, developers implemented Sparse VideoGen (SVG) to dynamic"
  },
  {
+  "id": "5afad699a57c",
+  "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+  "title": "イーロン・マスクのGrokipediaは「新しくリフレッシュされた」デザインです",
+  "summary": "SpaceXAIのAIを搭載したウィキペディアのライバルであるGrokipediaは、最近再び編集を組み込み始め、今日、v0.3アップの一環としていくつかのデザインの調整を受けました",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-30-at-5.16.09-PM.png?quality=90&strip=all&crop=0%2C16.442283719771%2C100%2C67.115432560459&w=1200",
+  "published": "2026-10-01T09:23+09:00",
+  "collected": "2026-10-01T09:50+09:00",
+  "title_orig": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+  "summary_orig": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 up"
+ },
+ {
   "id": "c8800180bf1e",
   "url": "https://note.com/kajiken0630/n/n86c3f3763503",
   "title": "HTMLスライドで「発表者ツール」を使えるようにするシステムを作ったので配布します！",
@@ -56,7 +72,22 @@
   "thumbnail": null,
   "published": "2026-10-01T09:00+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
+ },
+ {
+  "id": "2897e731dbe3",
+  "url": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news015.html",
+  "title": "Autodesk、FusionなどのAI機能を発表 設計作業の自動化や設計資産の再利用を支援",
+  "summary": "AutodeskÍuAutodesk University 2026 iAU 2026 jvÉ ¨ ¢ ÄAuFusionvuInventorvuVaultv ¨ æÑPLMÉÖ · éV ½ ÈAI @\\ âæèg 'ð ­\\µ ½ BiìWâg ”§",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/01/cover_news015.jpg",
+  "published": "2026-10-01T09:00+09:00",
+  "collected": "2026-10-01T09:50+09:00",
+  "summary_orig": "AutodeskÍuAutodesk University 2026iAU 2026jvÉ¨¢ÄAuFusionvuInventorvuVaultv¨æÑPLMÉÖ·éV½ÈAI@\\âæègÝð­\\µ½BiÌÒWâgÝ§"
  },
  {
   "id": "5c1f615d64d2",
@@ -73,6 +104,20 @@
   "collected": "2026-10-01T09:34+09:00",
   "title_orig": "Google releases Gemini 4 Argon, called its most powerful model yet",
   "summary_orig": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+ },
+ {
+  "id": "cc87b2aa8b1d",
+  "url": "https://prtimes.jp/main/html/rd/p/000000224.000056138.html",
+  "title": "【Claude Sonnet 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月30日に追加！",
+  "summary": "【Claude Sonnet 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月30日に追加！",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/56138/224/56138-224-3ab6d742823c3ba187c90857092040b6-1100x620.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-01T08:30+09:00",
+  "collected": "2026-10-01T09:50+09:00"
  },
  {
   "id": "932286402e02",
@@ -117,7 +162,7 @@
   "thumbnail": null,
   "published": "2026-10-01T08:00+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "ead334410a4d",
@@ -132,7 +177,7 @@
   "thumbnail": null,
   "published": "2026-10-01T07:45+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "8247ec0c4975",
@@ -221,7 +266,7 @@
   "thumbnail": null,
   "published": "2026-10-01T07:05+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "db5c9178c093",
@@ -320,7 +365,7 @@
   "thumbnail": null,
   "published": "2026-10-01T06:54+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "He Built This City",
   "summary_orig": "I visited the Museum of the City of New York today and got to see He Built This City: Joe Macken’s Model , the 50 x27 feet model of the city built over a 21 yea"
  },
@@ -337,7 +382,7 @@
   "thumbnail": null,
   "published": "2026-10-01T06:51+09:00",
   "collected": "2026-10-01T09:34+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "b4341699df22",
