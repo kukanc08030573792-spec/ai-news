@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-02T10:04+09:00",
+  "last_updated": "2026-10-02T10:48+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -46,6 +46,48 @@
  },
  "items": [
   {
+   "id": "51e5ef08acfb",
+   "url": "https://ascii.jp/elem/000/004/439/4439451/?rss",
+   "title": "今だけ99円！急げ！！AI暴走時代の必読書『超知能AIをつくれば人類は滅亡する』限定値引き",
+   "summary": "早川書房は2026年10月2日から4日まで、エリーザー・ユドコウスキー氏とネイト・ソアレス氏の著書『超知能AIをつくれば人類は絶滅する』の電子書籍版を期間限定で特価販売している。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/02/4532916/xl/dac655728b73b850.png?20200122",
+   "published": "2026-10-02T10:30+09:00",
+   "collected": "2026-10-02T10:48+09:00"
+  },
+  {
+   "id": "fa00964bf651",
+   "url": "https://topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020261002015",
+   "title": "テリロジーHD---テリロジーサービスウェアが業務自動化AIエージェント「palton AI」の提供を開始",
+   "summary": "テリロジーHD---テリロジーサービスウェアが業務自動化AIエージェント「palton AI」の提供を開始",
+   "source": "ｄメニューニュース",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png",
+   "published": "2026-10-02T10:24+09:00",
+   "collected": "2026-10-02T10:48+09:00"
+  },
+  {
+   "id": "960d3f3f976d",
+   "url": "https://ascii.jp/elem/000/004/438/4438701/?rss",
+   "title": "IBM iユーザー向けAIサービスに「CData Connect AI」が採用 350以上のデータソースとセキュアに接続",
+   "summary": "CData Software Japanは、ベル・データが提供する「IBM i」ユーザー向けのAIサービス「生成AI連携サービス for i」の大型アップデートにおいて、同社のマネージドMCPプラットフォーム「CData Connect AI」が採用されたことを発表した。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/09/30/4532299/xl/15cafa441f6c9bfd.jpg",
+   "published": "2026-10-02T10:00+09:00",
+   "collected": "2026-10-02T10:48+09:00"
+  },
+  {
    "id": "e7852270057c",
    "url": "https://webtan.impress.co.jp/q/2026/10/53374",
    "title": "自分専用LLMを作ろう『ブラウザで動かすLLM実装入門 Google Colaboratoryで実践するLLM・RAG・ファインチューニング』を3名様にプレゼント",
@@ -58,7 +100,7 @@
    "thumbnail": null,
    "published": "2026-10-02T10:00+09:00",
    "collected": "2026-10-02T10:04+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "5d525dd5422a",
@@ -119,7 +161,7 @@
    "thumbnail": null,
    "published": "2026-10-02T09:00+09:00",
    "collected": "2026-10-02T09:49+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "b80fc835b713",
@@ -193,7 +235,7 @@
    "thumbnail": null,
    "published": "2026-10-02T08:00+09:00",
    "collected": "2026-10-02T09:49+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "81266762ce42",
@@ -270,7 +312,7 @@
    "thumbnail": null,
    "published": "2026-10-02T07:05+09:00",
    "collected": "2026-10-02T09:49+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "881c7942e9ac",
@@ -285,7 +327,7 @@
    "thumbnail": null,
    "published": "2026-10-02T07:05+09:00",
    "collected": "2026-10-02T09:49+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "aa954036b39e",
@@ -564,7 +606,7 @@
    "thumbnail": null,
    "published": "2026-10-02T03:15+09:00",
    "collected": "2026-10-02T09:49+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "3f1d1537d7c4",
@@ -1294,7 +1336,7 @@
    "thumbnail": null,
    "published": "2026-10-01T17:27+09:00",
    "collected": "2026-10-02T10:04+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "21ec717bdb81",
@@ -1325,7 +1367,7 @@
    "thumbnail": null,
    "published": "2026-10-01T17:00+09:00",
    "collected": "2026-10-02T10:04+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "0fee835b022d",
@@ -1372,7 +1414,7 @@
    "thumbnail": null,
    "published": "2026-10-01T15:29+09:00",
    "collected": "2026-10-02T09:49+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting Matthew Green",
    "summary_orig": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next ag"
   },
@@ -1494,7 +1536,7 @@
    "id": "4293385ca075",
    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news029.html",
    "title": "「システムプロンプト陳腐化」をどう防ぐか AWSの試行錯誤に見る「自社AIエージェント」運用のポイント",
-   "summary": "AWSÍAAIR [fBOG [WFguKirovÍVXevvgðp ± IÉ] ¿· édg · ðöJµ ½ BÐàÀÀpf [^ ðLLMÉÍ _³ ¹ AVXevvg",
+   "summary": "AWSÍAAIR [fBOG [WFguKirovÍVXevvgðp ± IÉ] ¿· édg · ðöJµ½ BÐàÀpf [^ ðLMÉÍ _³ ¹ AVXevvg",
    "source": "ITmedia AI+",
    "type": "article",
    "tier": "media",
@@ -1503,7 +1545,7 @@
    "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/01/cover_news029.jpg",
    "published": "2026-10-01T11:00+09:00",
    "collected": "2026-10-02T10:04+09:00",
-   "summary_orig": "AWSÍAAIR[fBOG[WFguKirovÌVXevvgðp±IÉ]¿·édgÝðöJµ½BÐàÌÀpf[^ðLLMÉÌ_³¹AVXevvgÏXÌøÊ"
+   "summary_orig": "AWSÍAAIR [fBOG [WFguKirovÍVXevvgðp ± IÉ] ¿· édg · ðöJµ ½ BÐàÀÀpf [^ ðLLMÉÍ _³ ¹ AVXevvg"
   },
   {
    "id": "cfabeb6b489d",
@@ -2260,7 +2302,7 @@
    "thumbnail": null,
    "published": "2026-10-01T03:33+09:00",
    "collected": "2026-10-02T09:49+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "bc19c566808a",
@@ -3988,7 +4030,7 @@
    "thumbnail": null,
    "published": "2026-09-30T05:30+09:00",
    "collected": "2026-10-02T10:04+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "d219cdb2cc72",
@@ -9207,50 +9249,6 @@
    "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/spicebox_survey_sns-n-short-form-video-usage_japan_ogp.jpg",
    "published": "2026-09-25T16:47+09:00",
    "collected": "2026-09-26T09:09+09:00"
-  },
-  {
-   "id": "a28413dc9a19",
-   "url": "https://voix.jp/business-cards/automation-challenges-for-medium-businesses/",
-   "title": "中堅製造業が抱える業務自動化の壁とAIエージェント活用法についてのセミナー開催",
-   "summary": "中堅製造業向けの業務自動化無料ウェビナーを開催 株式会社エージェンテックは、中堅規模の製造・建設・不動産業を対象とした無料オンラインセミナーを2026年10月15日に開催する。",
-   "source": "ニュースメディアVOIX",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://voix.jp/wp-content/uploads/2026/09/102832-63-e0af5e0e252cfcd82fb682cfd3f100e2-2400x1520-1.jpg",
-   "published": "2026-09-25T16:13+09:00",
-   "collected": "2026-09-26T09:09+09:00"
-  },
-  {
-   "id": "9a7c93d982a4",
-   "url": "https://www.advertimes.com/20260925/article558526/?utm_source=feed",
-   "title": "雑草ボーボー、泡盛は後継者難…宿題山積の沖縄、古謝新県政に「大きくガラッと変わるかは分からない」の声 観光の現場で見えた“知られざる実情”",
-   "summary": "沖縄県は、新たな県政の発足を控えている。9月13日の県知事選で初当選した前那覇市副市長の古謝玄太氏は、選挙戦で「観光消費を2倍に増やす」と掲げ、県の観光収入を1兆747億円から2兆円へ引き上げる目標を示した。",
-   "source": "宣伝会議 AdverTimes",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/09/okinawa01.jpg",
-   "published": "2026-09-25T15:29+09:00",
-   "collected": "2026-09-26T09:09+09:00"
-  },
-  {
-   "id": "658e36b5c11a",
-   "url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
-   "title": "[AINews]潜在空間の未来",
-   "summary": "静かな日には、舞台裏での作業について話し合うことができます。営業を開始しました！",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!Ndvv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eb94ca5-a315-4307-9f69-724a59c08af1_2132x1120.png",
-   "published": "2026-09-25T14:37+09:00",
-   "collected": "2026-09-26T08:57+09:00",
-   "title_orig": "[AINews] The Future of Latent Space",
-   "summary_orig": "A quiet day lets us discuss the work behind the scenes - now open for business!"
   }
  ]
 }
