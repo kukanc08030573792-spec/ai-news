@@ -403,6 +403,20 @@
   "collected": "2026-10-01T09:50+09:00"
  },
  {
+  "id": "d412bb69ee8d",
+  "url": "https://www.digital.go.jp/policies/genai",
+  "title": "ガバメントAI「源内」",
+  "summary": "デジタル庁は、デジタル社会形成の司令塔として、未来志向のDX（デジタル・トランスフォーメーション）を大胆に推進し、デジタル時代の官民のインフラを一気呵成に作り上げることを目指します。",
+  "source": "デジタル庁",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.digital.go.jp/assets/contents/node/basic_page/field_thumbnail_image/cef0122b-0598-47f8-8a48-dc2c57d407c1/d8639adc/kv_gennai_260216.png",
+  "published": "2026-09-30T16:00+09:00",
+  "collected": "2026-10-02T10:04+09:00"
+ },
+ {
   "id": "ae55df87b8f9",
   "url": "https://www.advertimes.com/20260930/article559169/?utm_source=feed",
   "title": "生成AI時代も購買の鍵は口コミ 約半数がAIの提案を検索やSNSで「裏取り」",
@@ -1379,6 +1393,21 @@
   "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/xl/ed8de61ce6796246.png?20200122",
   "published": "2026-09-30T05:39+09:00",
   "collected": "2026-09-30T09:29+09:00"
+ },
+ {
+  "id": "c053dfa963cd",
+  "url": "https://news.nicovideo.jp/watch/nw19821408?news_ref=tag",
+  "title": "生成AIを「使う」から「任せる」へ―ChatGPT・Gemini・Claude・Copilot対応の「生成AI研修」を",
+  "summary": "生成AIを「使う」から「任せる」へ―ChatGPT・Gemini・Claude・Copilot対応の「生成AI研修」を",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-30T05:30+09:00",
+  "collected": "2026-10-02T10:04+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "d219cdb2cc72",
@@ -2789,6 +2818,20 @@
   "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/29/https___gigazine_net_news_20260929-claude-sonnet-5-5__w560.webp",
   "published": "2026-09-29T11:11+09:00",
   "collected": "2026-09-30T09:29+09:00"
+ },
+ {
+  "id": "fc6eebfa540f",
+  "url": "https://prtimes.jp/main/html/rd/p/000000849.000053344.html",
+  "title": "アイスマイリー、「Claude対応 生成AI研修・リスキリングサービス比較ガイド」を公開！自社に合う研修タイプの選び方と主要6サービスを整理",
+  "summary": "アイスマイリー、「Claude対応 生成AI研修・リスキリングサービス比較ガイド」を公開！自社に合う研修タイプの選び方と主要6サービスを整理",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/53344/849/53344-849-a55edf144ed7b4d87ecba8acb647283c-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-09-29T11:00+09:00",
+  "collected": "2026-10-02T10:04+09:00"
  },
  {
   "id": "c72c096f52f1",
