@@ -1,5 +1,62 @@
 [
  {
+  "id": "a4b926455041",
+  "url": "https://ascii.jp/elem/000/004/439/4439428/?rss",
+  "title": "「PC調達はもはや経営層が考えるべき課題」 “侵入前提”時代に問われるエンドポイントの真価",
+  "summary": "AI時代に推論処理という新たな役割を担い始めた一方で、激化するサイバー攻撃の標的として、多様な脅威にさらされているのがエンドポイントだ。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/02/4532862/xl/440d7791f2d9dd48.jpg?20200122",
+  "published": "2026-10-02T11:00+09:00",
+  "collected": "2026-10-02T11:15+09:00"
+ },
+ {
+  "id": "0fd51266d119",
+  "url": "https://markezine.jp/article/detail/77763",
+  "title": "メイキップ、着用サイズ感を1cm単位で再現するAI画像生成「FitModel.AI」を提供開始",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-02T11:00+09:00",
+  "collected": "2026-10-02T11:15+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "9813f9e9a42e",
+  "url": "https://ascii.jp/elem/000/004/439/4439453/?rss",
+  "title": "AIと1分間ビデオ通話、48％が「人間」と判断 米AI企業が“人間らしい対話”目指す新モデル",
+  "summary": "1分間話した参加者のほぼ半数が人間だと思った話し相手はAIだった──。米Tavus社は10月1日、音声と映像を同時に理解して応答する対話モデル「Griffin」を発表した。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/02/4532923/xl/8ff191a3a029db73.png?20200122",
+  "published": "2026-10-02T10:50+09:00",
+  "collected": "2026-10-02T11:15+09:00"
+ },
+ {
+  "id": "b5336a8b59f8",
+  "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001950/",
+  "title": "Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も",
+  "summary": "Microsoft AIは、ストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」と音声合成モデル群を発表した。低遅延な逐次認識や声のトーンを保った多言語合成に対応し、音声エージェント構築を想定する。Microsoft Foundryでプレビュー提供を始め、複合デモも公開した。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/02/2000001950/10008228/2048",
+  "published": "2026-10-02T10:47+09:00",
+  "collected": "2026-10-02T11:15+09:00"
+ },
+ {
   "id": "51e5ef08acfb",
   "url": "https://ascii.jp/elem/000/004/439/4439451/?rss",
   "title": "今だけ99円！急げ！！AI暴走時代の必読書『超知能AIをつくれば人類は滅亡する』限定値引き",
@@ -40,7 +97,7 @@
   "thumbnail": null,
   "published": "2026-10-02T10:00+09:00",
   "collected": "2026-10-02T10:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "960d3f3f976d",
@@ -55,6 +112,20 @@
   "thumbnail": "https://ascii.jp/img/2026/09/30/4532299/xl/15cafa441f6c9bfd.jpg",
   "published": "2026-10-02T10:00+09:00",
   "collected": "2026-10-02T10:48+09:00"
+ },
+ {
+  "id": "eb2a3f59b365",
+  "url": "https://ascii.jp/elem/000/004/439/4439454/?rss",
+  "title": "アカツキAIテクノロジーズ、「大洗海上花火大会2026」でロボティクス体験を実施",
+  "summary": "アカツキAIテクノロジーズ、「大洗海上花火大会2026」でロボティクス体験を実施",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-02T10:00+09:00",
+  "collected": "2026-10-02T11:15+09:00"
  },
  {
   "id": "5d525dd5422a",
@@ -1217,6 +1288,20 @@
   "summary_orig": "Want to use AI to create LinkedIn content without getting flagged or losing credibility? Wondering how to integrate AI tools into a LinkedIn workflow that still"
  },
  {
+  "id": "f6a0e8ef7d58",
+  "url": "https://www.businessinsider.jp/article/2610-hacktron-ai-cybersecurity-startup-hack-openai-using-claude/",
+  "title": "名もないサイバーセキュリティ・ベンチャーがClaudeを使ってOpenAIをハッキングし、100万円の報奨金を獲得した",
+  "summary": "創業して間もないサイバーセキュリティ・ベンチャーが、Claudeを駆使してOpenAIのシステムに侵入し、脆弱性を発見したことで、OpenAIから約100万円の報奨金を獲得しました。",
+  "source": "Business Insider Japan",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://media.loom-app.com/loom/2026/09/18/d474be93-2f50-45cf-aace-3b8d1ad1fe7e/original.jpg?w=1200&h=630",
+  "published": "2026-10-01T19:00+09:00",
+  "collected": "2026-10-02T11:15+09:00"
+ },
+ {
   "id": "adfeeb3e42f5",
   "url": "https://www.socialmediaexaminer.com/ai-print-design-ai-video-production-and-industry-news/",
   "title": "AIプリントデザイン、AIビデオ制作、業界ニュース",
@@ -1290,7 +1375,7 @@
   "thumbnail": null,
   "published": "2026-10-01T17:27+09:00",
   "collected": "2026-10-02T10:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "21ec717bdb81",
@@ -1321,7 +1406,7 @@
   "thumbnail": null,
   "published": "2026-10-01T17:00+09:00",
   "collected": "2026-10-02T10:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "0fee835b022d",
