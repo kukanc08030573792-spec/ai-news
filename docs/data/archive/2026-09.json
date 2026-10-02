@@ -3219,6 +3219,20 @@
   "collected": "2026-09-30T09:29+09:00"
  },
  {
+  "id": "043d3ecd2789",
+  "url": "https://www.techno-edge.net/article/2026/09/29/5535.html",
+  "title": "Claude Sonnet 5.5提供開始 Opusに迫る性能で先代比最大3割安・3割高速、GPT Solに知識労働で大差",
+  "summary": "Anthropicは米国時間9月28日、AIモデル「Claude Sonnet 5.5」の提供を開始しました。9月22日に登場したOpus 5.5に続く「Claude 5.5」ファミリーの2番目のモデルで、Claudeの各アプリとAPIのほか、Amazon Web Services、Google Cloud、Micro",
+  "source": "テクノエッジ TechnoEdge",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://www.techno-edge.net/imgs/ogp_f/34512.jpg",
+  "published": "2026-09-29T07:03+09:00",
+  "collected": "2026-10-02T09:49+09:00"
+ },
+ {
   "id": "28f38f45cbd8",
   "url": "https://www.kknews.co.jp/news/20260929o03",
   "title": "Googleが高等教育DXフォーラム「生成AIとAIエージェントが拓く高等教育機関の未来」を10/30に開催",
@@ -3734,6 +3748,20 @@
   "collected": "2026-09-29T10:16+09:00",
   "title_orig": "OpenAI’s AI agents need to catch up",
   "summary_orig": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: co"
+ },
+ {
+  "id": "7af34551e4d7",
+  "url": "https://xenospectrum.com/claude-sonnet-performance-cost-comparison/",
+  "title": "Claude Sonnet 5.5登場、Opus級に迫る性能を低価格で、GPT-6 Solとの比較結果は？",
+  "summary": "",
+  "source": "XenoSpectrum",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://media.xenospectrum.com/large_claude_sonnet_workspace_688fe49c26.webp",
+  "published": "2026-09-29T03:42+09:00",
+  "collected": "2026-10-02T09:49+09:00"
  },
  {
   "id": "46fca61f4990",
