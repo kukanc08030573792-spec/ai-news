@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-03T09:44+09:00",
+  "last_updated": "2026-10-03T10:26+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,20 @@
   ]
  },
  "items": [
+  {
+   "id": "690f3b7b0a3c",
+   "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
+   "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
+   "summary": "Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/03/2000001983/10008341/2048",
+   "published": "2026-10-03T09:38+09:00",
+   "collected": "2026-10-03T10:26+09:00"
+  },
   {
    "id": "14995e0894d1",
    "url": "https://www.vietnam.vn/ja/quan-doi-my-tich-hop-ai-claude-va-grok-vao-he-thong-chi-huy-tac-chien-tai-chien-truong-iran",
@@ -116,7 +130,7 @@
    "thumbnail": null,
    "published": "2026-10-03T06:45+09:00",
    "collected": "2026-10-03T09:31+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5113cb653680",
@@ -701,6 +715,20 @@
    "collected": "2026-10-03T09:44+09:00"
   },
   {
+   "id": "14e6b12b8be5",
+   "url": "https://ascii.jp/elem/000/004/439/4439779/?rss",
+   "title": "【限定30名・オンライン】生成AIアニメ『花魁転生』の制作舞台裏を全公開。企画から完パケまで15工程を解説する有料セミナーを10月16日に開催",
+   "summary": "【限定30名・オンライン】生成AIアニメ『花魁転生』の制作舞台裏を全公開。企画から完パケまで15工程を解説する有料セミナーを10月16日に開催",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-02T19:07+09:00",
+   "collected": "2026-10-03T10:26+09:00"
+  },
+  {
    "id": "b7dd82503263",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
    "title": "AIミュージックメーカーのSunoが音声を生成するようになりました",
@@ -815,7 +843,7 @@
    "thumbnail": null,
    "published": "2026-10-02T15:00+09:00",
    "collected": "2026-10-03T09:31+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "f8fb70358916",
@@ -902,7 +930,7 @@
    "thumbnail": null,
    "published": "2026-10-02T12:15+09:00",
    "collected": "2026-10-03T09:44+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "a4b926455041",
@@ -1332,6 +1360,20 @@
    "collected": "2026-10-02T09:49+09:00",
    "title_orig": "IKEA and XBOX collab on a new collection made for home gaming",
    "summary_orig": "IKEA and XBOX have teamed up to launch a gaming-inspired furniture collection, YXSTABY. See what's included inside."
+  },
+  {
+   "id": "ede0d10d9387",
+   "url": "https://news.yahoo.co.jp/expert/articles/2cabc34caf1b2fba860853eafac12aaa964363a1",
+   "title": "「Claude Codeがすごい」と言う人が見分けていないもの（尾藤克之） - エキスパート",
+   "summary": "Claude Codeがブームである。SNSを開けば「Claude Codeで人生が変わった」「非エンジニアこそ今すぐ触るべきだ」という言説があふれ、数万円から数十万円の高額セミナーや情報商材が乱立し",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/10037664/02733137/title-1790858831422.jpeg?exp=10800",
+   "published": "2026-10-02T06:40+09:00",
+   "collected": "2026-10-03T10:26+09:00"
   },
   {
    "id": "4c36a3c89919",
@@ -9161,54 +9203,6 @@
    "collected": "2026-09-27T08:38+09:00",
    "title_orig": "First 1000 Subs - Made On YouTube After Show",
    "summary_orig": "@paddygalloway8780 chats with @ColinandSamir about how to get to your first 1000 subs, following #MadeOnYouTube"
-  },
-  {
-   "id": "84ffb00f5990",
-   "url": "https://www.youtube.com/shorts/83I8zccLJ7A",
-   "title": "ウイルスビデオの進化-ショー後にYouTubeで制作",
-   "summary": "# MadeOnYouTubeに続いて、@ ColinandSamirは@ MrBeastからChuckyにYouTubeのバイラリティの進化する性質について話します",
-   "source": "Creator Insider（YouTube公式）",
-   "type": "video",
-   "tier": "official",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://i.ytimg.com/vi/83I8zccLJ7A/hqdefault.jpg",
-   "published": "2026-09-26T10:36+09:00",
-   "collected": "2026-09-27T08:38+09:00",
-   "title_orig": "Evolution of Viral Videos - Made On YouTube After Show",
-   "summary_orig": "Following #MadeOnYouTube, @ColinandSamir talk to Chucky from @MrBeast about the evolving nature of virality on YouTube"
-  },
-  {
-   "id": "60f3ff8e3d13",
-   "url": "https://www.youtube.com/shorts/Hqxw28i2p9k",
-   "title": "A/Bビデオテストの使用-ショー後にYouTubeで制作",
-   "summary": "@ MadeOnYouTubeをフォローして、@ ColinandSamirは@ MrBeastの@ mkbhdとChuckyと、今後のA/Bビデオテスト機能の使い方についてチャットしました",
-   "source": "Creator Insider（YouTube公式）",
-   "type": "video",
-   "tier": "official",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://i.ytimg.com/vi/Hqxw28i2p9k/hqdefault.jpg",
-   "published": "2026-09-26T10:35+09:00",
-   "collected": "2026-09-27T08:38+09:00",
-   "title_orig": "Using A/B Video Testing - Made On YouTube After Show",
-   "summary_orig": "Following @MadeOnYouTube, @ColinandSamir chat with @mkbhd and Chucky from @MrBeast on how they'd use the upcoming A/B video testing feature"
-  },
-  {
-   "id": "548996fde570",
-   "url": "https://www.youtube.com/shorts/uEbfycGELGs",
-   "title": "ダイナミックサムネイルの使用-ショー後にYouTubeで作成",
-   "summary": "@ MrBeastのChuckyさんと@ recesstherapyのJulian Shapiro Barnumさんが@ ColinandSamirさんと# MadeOnYouTubeの新しいダイナミックサムネイル機能について話します",
-   "source": "Creator Insider（YouTube公式）",
-   "type": "video",
-   "tier": "official",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://i.ytimg.com/vi/uEbfycGELGs/hqdefault.jpg",
-   "published": "2026-09-26T10:35+09:00",
-   "collected": "2026-09-27T08:38+09:00",
-   "title_orig": "Using Dynamic Thumbnails - Made On YouTube After Show",
-   "summary_orig": "Chucky from @MrBeast and Julian Shapiro Barnum from @recesstherapy talk to @ColinandSamir about #MadeOnYouTube 's new dynamic thumbnail feature"
   }
  ]
 }

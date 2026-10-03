@@ -1,5 +1,19 @@
 [
  {
+  "id": "690f3b7b0a3c",
+  "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
+  "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」",
+  "summary": "Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/03/2000001983/10008341/2048",
+  "published": "2026-10-03T09:38+09:00",
+  "collected": "2026-10-03T10:26+09:00"
+ },
+ {
   "id": "14995e0894d1",
   "url": "https://www.vietnam.vn/ja/quan-doi-my-tich-hop-ai-claude-va-grok-vao-he-thong-chi-huy-tac-chien-tai-chien-truong-iran",
   "title": "米軍は、イラン戦線における戦闘指揮システムに、AIのクロードとグロックを統合している。",
@@ -70,7 +84,7 @@
   "thumbnail": null,
   "published": "2026-10-03T06:45+09:00",
   "collected": "2026-10-03T09:31+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "5113cb653680",
@@ -655,6 +669,20 @@
   "collected": "2026-10-03T09:44+09:00"
  },
  {
+  "id": "14e6b12b8be5",
+  "url": "https://ascii.jp/elem/000/004/439/4439779/?rss",
+  "title": "【限定30名・オンライン】生成AIアニメ『花魁転生』の制作舞台裏を全公開。企画から完パケまで15工程を解説する有料セミナーを10月16日に開催",
+  "summary": "【限定30名・オンライン】生成AIアニメ『花魁転生』の制作舞台裏を全公開。企画から完パケまで15工程を解説する有料セミナーを10月16日に開催",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-02T19:07+09:00",
+  "collected": "2026-10-03T10:26+09:00"
+ },
+ {
   "id": "b7dd82503263",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
   "title": "AIミュージックメーカーのSunoが音声を生成するようになりました",
@@ -769,7 +797,7 @@
   "thumbnail": null,
   "published": "2026-10-02T15:00+09:00",
   "collected": "2026-10-03T09:31+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f8fb70358916",
@@ -856,7 +884,7 @@
   "thumbnail": null,
   "published": "2026-10-02T12:15+09:00",
   "collected": "2026-10-03T09:44+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "a4b926455041",
@@ -1300,6 +1328,20 @@
   "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/xl/ed8de61ce6796246.png?20200122",
   "published": "2026-10-02T06:40+09:00",
   "collected": "2026-10-02T09:49+09:00"
+ },
+ {
+  "id": "ede0d10d9387",
+  "url": "https://news.yahoo.co.jp/expert/articles/2cabc34caf1b2fba860853eafac12aaa964363a1",
+  "title": "「Claude Codeがすごい」と言う人が見分けていないもの（尾藤克之） - エキスパート",
+  "summary": "Claude Codeがブームである。SNSを開けば「Claude Codeで人生が変わった」「非エンジニアこそ今すぐ触るべきだ」という言説があふれ、数万円から数十万円の高額セミナーや情報商材が乱立し",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/10037664/02733137/title-1790858831422.jpeg?exp=10800",
+  "published": "2026-10-02T06:40+09:00",
+  "collected": "2026-10-03T10:26+09:00"
  },
  {
   "id": "20495b19102d",
