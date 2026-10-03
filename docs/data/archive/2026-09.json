@@ -534,6 +534,20 @@
   "collected": "2026-10-01T09:50+09:00"
  },
  {
+  "id": "9edf0ebf350d",
+  "url": "https://news.yahoo.co.jp/articles/cce41825b6112983e300ab88b921d4e3ae699389",
+  "title": "「人類存続に関わるリスク」AI開発企業Anthropicが自ら“警鐘” OpenAIは新モデル「GPT6.1アストラ」の公開中止【news23】",
+  "summary": "「AIが『人類の存続に関わるリスク』をもたらす可能性」…開発企業のアンソロピックが自ら警鐘を鳴らしました。さらに、オープンAIも、安全面の問題から新たなモデルの公開を中止。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-22976087-jnn-000-1-thumb.jpg?exp=10800",
+  "published": "2026-09-30T12:25+09:00",
+  "collected": "2026-10-03T09:31+09:00"
+ },
+ {
   "id": "db6d41e5391e",
   "url": "https://www.itmedia.co.jp/enterprise/articles/2609/29/news097.html",
   "title": "大企業に勤める回答者の過半数が「非エンジニアによる開発を実施」 全社に行き渡ったコード、検証できているのか？【調査】",
@@ -2053,6 +2067,20 @@
   "collected": "2026-09-30T09:29+09:00",
   "title_orig": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
   "summary_orig": "A Blog post by NVIDIA on Hugging Face"
+ },
+ {
+  "id": "6ee0618d752a",
+  "url": "https://www.nikkei.com/article/DGXZQOFD29BCM0Z20C26A9000000/",
+  "title": "アンソロピック、生成AI「Claude」で一時障害",
+  "summary": "【ニューヨーク=石坪真衣】米アンソロピックは29日、生成AI（人工知能）「Claude（クロード）」で障害が発生したと明らかにした。対話型AIサービスに加え、開発者向けの「Claude API」などでもエラーが発生した。",
+  "source": "日本経済新聞",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3656930029092026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=1b4432c27a145f5ec9e7569f61c9f8a6",
+  "published": "2026-09-30T00:15+09:00",
+  "collected": "2026-10-03T09:31+09:00"
  },
  {
   "id": "eeff35a810db",
