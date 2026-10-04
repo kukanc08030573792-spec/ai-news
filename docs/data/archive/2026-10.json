@@ -12,7 +12,7 @@
   "thumbnail": null,
   "published": "2026-10-04T08:34+09:00",
   "collected": "2026-10-04T08:47+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "We're going to need default hard budget caps on pretty much everything",
   "summary_orig": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the"
  },
@@ -59,7 +59,7 @@
   "thumbnail": null,
   "published": "2026-10-04T07:00+09:00",
   "collected": "2026-10-04T08:47+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "September sponsors-only newsletter",
   "summary_orig": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month"
  },
@@ -149,10 +149,9 @@
   "tier": "official",
   "topic": "ai",
   "proxy_for": "Anthropic",
-  "thumbnail": null,
+  "thumbnail": "https://www.zaikei.co.jp/files/general/202610032347253of0big.jpg",
   "published": "2026-10-03T23:46+09:00",
-  "collected": "2026-10-04T08:47+09:00",
-  "_thumb_tries": 1
+  "collected": "2026-10-04T08:47+09:00"
  },
  {
   "id": "91c2390ce603",
@@ -189,7 +188,7 @@
  {
   "id": "3d79eb44aa60",
   "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
-  "title": "Google Wants AI Content Fact - Checked、Gemini UTM Tags – SEO Pulse via @ sejournal、@ MattGS",
+  "title": "Google Wants AI Content Fact - Checked、 Gemini UTM Tags – SEO Pulse via @ sejournal、 @ MattGS",
   "summary": "GoogleはAIコンテンツガイダンスに事実確認を追加し、GeminiのリンクにはUTMタグが表示され、デスクトップのCTRは第2四半期に低下し、裁判官は2つのAI訴訟を却下した。Google Waの投稿",
   "source": "Search Engine Journal",
   "type": "article",
@@ -199,7 +198,7 @@
   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/seo-pulse-october-1-2026.jpg",
   "published": "2026-10-03T21:00+09:00",
   "collected": "2026-10-04T08:47+09:00",
-  "title_orig": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse via @sejournal, @MattGSouthern",
+  "title_orig": "Google Wants AI Content Fact - Checked、Gemini UTM Tags – SEO Pulse via @ sejournal、@ MattGS",
   "summary_orig": "Google adds fact-checking to its AI content guidance, Gemini links show UTM tags, desktop CTR fell in Q2, and a judge dismisses two AI suits. The post Google Wa"
  },
  {
@@ -272,7 +271,7 @@
   "thumbnail": null,
   "published": "2026-10-03T14:21+09:00",
   "collected": "2026-10-04T08:47+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "00d51da92d51",
@@ -373,7 +372,7 @@
   "thumbnail": null,
   "published": "2026-10-03T07:57+09:00",
   "collected": "2026-10-04T08:47+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Rex's Dino Store",
   "summary_orig": "Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former n"
  },
@@ -1899,7 +1898,7 @@
   "thumbnail": null,
   "published": "2026-10-02T02:56+09:00",
   "collected": "2026-10-04T08:47+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "eddd6741471d",
