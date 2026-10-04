@@ -592,6 +592,21 @@
   "_thumb_tries": 3
  },
  {
+  "id": "5dfb96495958",
+  "url": "https://www.microsoft.com/ja-jp/customers/story/27153-jr-east-information-systems-company-github-copilot",
+  "title": "AI を活用し「社員の働き方」をモダナイズ、ＪＲ東日本情報システムが GitHub Copilot で挑む「生成 AI を活用した新たな開発スタイル」の確立",
+  "summary": "AI を活用した新たな開発スタイルの確立に向け、GitHub Copilot を活用したシステムのモダナイズ検証を実施。設計書生成、.NET コンバージョン、単体試験コード生成などの観点から生成 AI の有効性を検証し、生産性向上だけでなく、社員が対応できる領域の拡張や開発スタイルの変革に貢献。",
+  "source": "Microsoft",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-09-30T11:01+09:00",
+  "collected": "2026-10-04T10:59+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "34633ebd2781",
   "url": "https://prtimes.jp/main/html/rd/p/000000046.000020284.html",
   "title": "【出展レポート】ファクトリーイノベーション Week [秋] 2026「生成AI World」",

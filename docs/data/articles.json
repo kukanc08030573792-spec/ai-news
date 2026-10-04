@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-04T09:02+09:00",
+  "last_updated": "2026-10-04T10:59+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -58,7 +58,7 @@
    "thumbnail": null,
    "published": "2026-10-04T08:34+09:00",
    "collected": "2026-10-04T08:47+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "We're going to need default hard budget caps on pretty much everything",
    "summary_orig": "Here's a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I'm talking about the"
   },
@@ -105,7 +105,7 @@
    "thumbnail": null,
    "published": "2026-10-04T07:00+09:00",
    "collected": "2026-10-04T08:47+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "September sponsors-only newsletter",
    "summary_orig": "I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month"
   },
@@ -317,7 +317,7 @@
    "thumbnail": null,
    "published": "2026-10-03T14:21+09:00",
    "collected": "2026-10-04T08:47+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "00d51da92d51",
@@ -418,7 +418,7 @@
    "thumbnail": null,
    "published": "2026-10-03T07:57+09:00",
    "collected": "2026-10-04T08:47+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Rex's Dino Store",
    "summary_orig": "Museum: Rex's Dino Store Located just before the turnstiles in the Grand Army Plaza subway station at the north end of Brooklyn's Prospect Park is this former n"
   },
@@ -1944,7 +1944,7 @@
    "thumbnail": null,
    "published": "2026-10-02T02:56+09:00",
    "collected": "2026-10-04T08:47+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "eddd6741471d",
@@ -4563,6 +4563,21 @@
    "published": "2026-09-30T11:30+09:00",
    "collected": "2026-10-01T09:50+09:00",
    "_thumb_tries": 3
+  },
+  {
+   "id": "5dfb96495958",
+   "url": "https://www.microsoft.com/ja-jp/customers/story/27153-jr-east-information-systems-company-github-copilot",
+   "title": "AI を活用し「社員の働き方」をモダナイズ、ＪＲ東日本情報システムが GitHub Copilot で挑む「生成 AI を活用した新たな開発スタイル」の確立",
+   "summary": "AI を活用した新たな開発スタイルの確立に向け、GitHub Copilot を活用したシステムのモダナイズ検証を実施。設計書生成、.NET コンバージョン、単体試験コード生成などの観点から生成 AI の有効性を検証し、生産性向上だけでなく、社員が対応できる領域の拡張や開発スタイルの変革に貢献。",
+   "source": "Microsoft",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-09-30T11:01+09:00",
+   "collected": "2026-10-04T10:59+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "34633ebd2781",
@@ -9189,20 +9204,6 @@
    "collected": "2026-09-28T08:48+09:00",
    "title_orig": "#MetaConnect 2026 in 60 Seconds | Muse, Meta VR Glasses, Ray-Ban Meta Audio & More 🥽",
    "summary_orig": "Muse. Meta VR Glasses. Ray-Ban Meta Audio. Every release from #MetaConnect 2026 — plus the product experiences, style pavilion, main stage, and the people who b"
-  },
-  {
-   "id": "b3a3598699c4",
-   "url": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/09/15/00473/",
-   "title": "【10月29日】オンプレミス生成AI活用最前線、朝日新聞社の導入事例と次世代映像監視ソリューションが示す新たな可能性",
-   "summary": "企業における生成AI活用が本格化する一方、機密性の高い社内データをいかに活用するかが重要な課題となっています。その実現にあたっては、利用量や処理負荷の増加に伴うSaaSコストに加え、データの安全性やデータ主権（データソブリンティ）への配慮も求められます。",
-   "source": "日経クロステック Active",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://active.nikkeibp.co.jp/atcl/ev/seminar/26/09/15/00473/topm.jpg",
-   "published": "2026-09-28T00:00+09:00",
-   "collected": "2026-09-29T10:16+09:00"
   }
  ]
 }
