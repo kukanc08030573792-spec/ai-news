@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-04T10:59+09:00",
+  "last_updated": "2026-10-04T11:38+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -4577,7 +4577,7 @@
    "thumbnail": null,
    "published": "2026-09-30T11:01+09:00",
    "collected": "2026-10-04T10:59+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "34633ebd2781",
