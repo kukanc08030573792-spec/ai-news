@@ -12,7 +12,7 @@
   "thumbnail": null,
   "published": "2026-10-05T08:30+09:00",
   "collected": "2026-10-05T08:57+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "588ba839d5c3",
@@ -83,7 +83,7 @@
   "thumbnail": null,
   "published": "2026-10-05T07:05+09:00",
   "collected": "2026-10-05T08:57+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "2087e96cd087",
@@ -126,7 +126,7 @@
   "thumbnail": null,
   "published": "2026-10-05T05:38+09:00",
   "collected": "2026-10-05T08:57+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "71b92d7d1248",
@@ -218,10 +218,9 @@
   "tier": "official",
   "topic": "ai",
   "proxy_for": "Anthropic",
-  "thumbnail": null,
+  "thumbnail": "https://img.biggo.com/45B8OVbiC70CwhFecf9FBPVzx2wqiFc0yI8sMNfn-3w/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzg5MjNiMTdmLTQxYjItNGJmMi1hMGE4LThmMmE5MDE0ZGE1N18xNzkxMTE1ODIxX2RlZmF1bHQuanBn.jpg",
   "published": "2026-10-04T21:05+09:00",
-  "collected": "2026-10-05T08:57+09:00",
-  "_thumb_tries": 1
+  "collected": "2026-10-05T08:57+09:00"
  },
  {
   "id": "13ea62185f2e",
