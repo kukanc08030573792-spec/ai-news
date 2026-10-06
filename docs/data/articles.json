@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-06T10:54+09:00",
+  "last_updated": "2026-10-06T11:30+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,48 @@
   ]
  },
  "items": [
+  {
+   "id": "286d832e0f6f",
+   "url": "https://www.advertimes.com/20261006/article559830/?utm_source=feed",
+   "title": "プラップジャパンと世界最大のPR会社・米エデルマンが資本業務提携 日本企業のグローバル展開など支援",
+   "summary": "プラップジャパンは10月1日、アメリカの独立系PR会社・エデルマンと資本業務提携契約を締結したと発表した。日本企業のグローバル展開や、日本市場における外資系・グローバル企業のステークホルダーエンゲージメント構築を包括的に支援する体制を整えることが狙い。",
+   "source": "宣伝会議 AdverTimes",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2025/10/OG1280x720_MARKETING.jpg",
+   "published": "2026-10-06T11:19+09:00",
+   "collected": "2026-10-06T11:30+09:00"
+  },
+  {
+   "id": "d01099a92f80",
+   "url": "https://ascii.jp/elem/000/004/440/4440168/?rss",
+   "title": "ソニーストア、出荷日変更メールを誤配信 届いた人は注文情報の確認を",
+   "summary": "ソニーマーケティングは10月5日、ソニーストアで一部の商品を注文したユーザーに対し、「出荷日目安変更」の案内メールを誤って送信していたと発表した。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/06/4534694/xl/aeed88386daaf26a.png?20200122",
+   "published": "2026-10-06T11:00+09:00",
+   "collected": "2026-10-06T11:30+09:00"
+  },
+  {
+   "id": "cee2fb65f139",
+   "url": "https://ascii.jp/elem/000/004/439/4439813/?rss",
+   "title": "Teams会議で決まった“宿題（To Do）”をAIで抽出、タスクに自動登録するフローを作ろう",
+   "summary": "今回は、AI Builderを使ってTeams会議のトランスクリプトから“次回までにやるべき宿題（To Do）”を抽出し、それをMicrosoft Plannerのタスクに自動登録するフローを作ってみましょう。前回（第65回）作成したフローを少し修正するだけで作れます。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/05/4534596/xl/7bac90c8da61e28e.png?20200122",
+   "published": "2026-10-06T11:00+09:00",
+   "collected": "2026-10-06T11:30+09:00"
+  },
   {
    "id": "d0722cc022bc",
    "url": "https://www.itmedia.co.jp/business/articles/2610/06/news034.html",
@@ -102,7 +144,7 @@
    "thumbnail": null,
    "published": "2026-10-06T10:00+09:00",
    "collected": "2026-10-06T10:46+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "af1c0d7beb5b",
@@ -174,7 +216,7 @@
    "thumbnail": null,
    "published": "2026-10-06T08:56+09:00",
    "collected": "2026-10-06T10:46+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting Felix Rieseberg",
    "summary_orig": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for"
   },
@@ -205,7 +247,7 @@
    "thumbnail": null,
    "published": "2026-10-06T08:30+09:00",
    "collected": "2026-10-06T10:46+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "6596bcd1df8c",
@@ -310,7 +352,7 @@
    "thumbnail": null,
    "published": "2026-10-06T07:04+09:00",
    "collected": "2026-10-06T10:46+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "ce90c711bce5",
@@ -721,7 +763,7 @@
    "thumbnail": null,
    "published": "2026-10-06T01:57+09:00",
    "collected": "2026-10-06T10:46+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "cf94a559a112",
@@ -926,7 +968,7 @@
    "thumbnail": null,
    "published": "2026-10-06T00:11+09:00",
    "collected": "2026-10-06T10:46+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "33d81eb1e819",
@@ -1119,6 +1161,22 @@
    "summary_orig": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please sub"
   },
   {
+   "id": "f7277400781c",
+   "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+   "title": "OpenAIは、DoubleVerifyとIASを使用してブランド適合性制御を試験的に実施しています",
+   "summary": "同社はまた、より大規模な画像主導の広告フォーマットをテストし、測定パートナーを拡大しています。",
+   "source": "Adweek（ソーシャル）",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=600&h=315&crop=1",
+   "published": "2026-10-05T21:06+09:00",
+   "collected": "2026-10-06T11:30+09:00",
+   "title_orig": "OpenAI Is Piloting Brand Suitability Controls With DoubleVerify and IAS",
+   "summary_orig": "The company is also testing a larger, image-led ad format and expanding its measurement partners."
+  },
+  {
    "id": "ac61e8436124",
    "url": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/",
    "title": "複合コンテンツ配信システムの構築方法",
@@ -1133,6 +1191,38 @@
    "collected": "2026-10-06T10:54+09:00",
    "title_orig": "How To Build A Content Distribution System That Compounds",
    "summary_orig": "Keep content working long after launch with a distribution owner, a repeatable checklist, and a 90-day plan to earn backlinks and AI citations. The post How To"
+  },
+  {
+   "id": "d39addcf273c",
+   "url": "https://www.adweek.com/media/tiktok-expands-its-off-platform-ad-network-to-us-advertisers/",
+   "title": "TikTok、オフプラットフォーム広告ネットワークを米国の広告主に拡大",
+   "summary": "ブランド変更されたPangleは、約40万のアプリに広がり、ゲームに多大な負担をかけています。TikTokはまた、広告主がClaudeやPerpleなどのAIツールからキャンペーンを実行できるようにしています",
+   "source": "Adweek（ソーシャル）",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/tiktok-ai-ads-tiktok-world-2026.webp?w=600&h=315&crop=1",
+   "published": "2026-10-05T20:34+09:00",
+   "collected": "2026-10-06T11:30+09:00",
+   "title_orig": "TikTok Expands Its Off-Platform Ad Network to US Advertisers",
+   "summary_orig": "The rebranded Pangle spans nearly 400,000 apps and is heavy on gaming. TikTok is also allowing advertisers to run campaigns from AI tools like Claude and Perple"
+  },
+  {
+   "id": "2a223187feb0",
+   "url": "https://www.adweek.com/commerce/tiktok-adds-an-ai-shopping-assistant-and-lets-users-buy-direct-from-brands/",
+   "title": "TikTokがAIショッピングアシスタントを追加し、ユーザーがブランドから直接購入できるようにする",
+   "summary": "TikTokは、買い物客がTikTok Shopとは別にアプリ内のブランドから直接購入できる新しいチェックアウト機能と、AIショッピングアシスタントを追加しました。",
+   "source": "Adweek（ソーシャル）",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/TikTok-Shopping.jpg?w=600&h=315&crop=1",
+   "published": "2026-10-05T19:41+09:00",
+   "collected": "2026-10-06T11:30+09:00",
+   "title_orig": "TikTok Adds an AI Shopping Assistant and Lets Users Buy Direct From Brands",
+   "summary_orig": "TikTok is adding a new checkout feature where shoppers can buy directly from brands in its app—separately from TikTok Shop—as well as an AI shopping assistant t"
   },
   {
    "id": "67a698f8f3c8",
@@ -1163,6 +1253,22 @@
    "thumbnail": "https://img.youtube.com/vi/7lJDb5VKUE8/sddefault.jpg",
    "published": "2026-10-05T19:30+09:00",
    "collected": "2026-10-06T10:46+09:00"
+  },
+  {
+   "id": "2ce007e5ce3b",
+   "url": "https://www.adweek.com/media/piers-morgans-uncensored-paid-subscriptions/",
+   "title": "ピアーズ・モーガンの無検閲版は、YouTubeを超えて視聴者を所有するために有料ティアを開始します",
+   "summary": "同社は、460万人のYouTube加入者の2 ％から4 ％が、広告なしの早期限定コンテンツに月額$ 4.99を支払うことを期待している。",
+   "source": "Adweek（ソーシャル）",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/unnamed.jpg?w=600&h=315&crop=1",
+   "published": "2026-10-05T19:00+09:00",
+   "collected": "2026-10-06T11:30+09:00",
+   "title_orig": "Piers Morgan’s Uncensored Launches Paid Tier to Own Its Audience Beyond YouTube",
+   "summary_orig": "The company is hoping 2% to 4% of its 4.6 million YouTube subscribers will pay $4.99 a month for early, ad-free, exclusive content."
   },
   {
    "id": "3cbec84de8bf",
@@ -1292,7 +1398,7 @@
    "id": "c2f252b7c13b",
    "url": "https://www.itmedia.co.jp/business/articles/2610/05/news068.html",
    "title": "なぜ今？ 東芝が「HDD」生産能力を強化 AI時代に狙う「データインフラ需要」の在りか",
-   "summary": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ ½ Æ ­\\µ ½ BAIãÉÈºHDDÈÍ © B ¯ Ðª_¤ ù",
+   "summary": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ½ Æ ­\\µ ½ BAIãÉÈºHDDEÍ © B ¯ Ðª_¤ ù",
    "source": "ITmedia AI+",
    "type": "article",
    "tier": "media",
@@ -1301,7 +1407,7 @@
    "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/05/cover_news068.jpg",
    "published": "2026-10-05T16:45+09:00",
    "collected": "2026-10-06T10:54+09:00",
-   "summary_orig": "ÅO[vÅHDDÌ»¢ðS¤ÅfoCXXg[WªAåeÊXg[WujACHDDvÌ¶YCð­µ½Æ­\\µ½BAIãÉÈºHDDÈÌ©B¯Ðª_¤ù"
+   "summary_orig": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ ½ Æ ­\\µ ½ BAIãÉÈºHDDÈÍ © B ¯ Ðª_¤ ù"
   },
   {
    "id": "e33096701fbc",
@@ -1316,7 +1422,7 @@
    "thumbnail": null,
    "published": "2026-10-05T16:40+09:00",
    "collected": "2026-10-06T10:46+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "fbc7104dc4ca",
@@ -1331,7 +1437,7 @@
    "thumbnail": null,
    "published": "2026-10-05T16:10+09:00",
    "collected": "2026-10-06T10:54+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "9ed4d15f107c",
@@ -1360,7 +1466,7 @@
    "thumbnail": null,
    "published": "2026-10-05T16:00+09:00",
    "collected": "2026-10-06T10:54+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "3da8230065b9",
@@ -1459,7 +1565,7 @@
    "thumbnail": null,
    "published": "2026-10-05T13:00+09:00",
    "collected": "2026-10-06T10:54+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "EmTech Future 2026: When AI Meets Everything",
    "summary_orig": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its"
   },
@@ -1491,7 +1597,7 @@
    "thumbnail": null,
    "published": "2026-10-05T11:32+09:00",
    "collected": "2026-10-06T10:54+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "87e3896e9ae0",
@@ -9077,109 +9183,6 @@
    "published": "2026-09-29T08:30+09:00",
    "collected": "2026-09-29T10:00+09:00",
    "summary_orig": "AChGWjAOÍA\\¢ðÍ\\tguADVENTURECluster2026vð2026N101úÉ[X·éB©R¾êÉæéw¦ÅðÍðÌÝè©çÀsAÊmFÜÅð©®"
-  },
-  {
-   "id": "726949b8e70b",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2609/19/news009.html",
-   "title": "最も人気のAIユースケース、投資成果では“いまいち”だった Gartner調査",
-   "summary": "",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2609/19/cover_news009.jpg",
-   "published": "2026-09-29T08:00+09:00",
-   "collected": "2026-09-29T10:00+09:00"
-  },
-  {
-   "id": "1592a3546d12",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news014.html",
-   "title": "「デジタルの言葉が聞こえない」と言われた電源開発が、DX開始4年でフィジカルAIに挑むまで",
-   "summary": "",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2609/25/cover_news014.jpg",
-   "published": "2026-09-29T08:00+09:00",
-   "collected": "2026-09-29T10:00+09:00"
-  },
-  {
-   "id": "6ace73382b30",
-   "url": "https://markezine.jp/article/detail/77623",
-   "title": "ゲームは現実と地続きになった。37億人の「新しい日常」とブランドの向き合い方",
-   "summary": "画面の向こう側で費やした情熱が、現実のキャリアや資産に変わる――？ 国内でも“兆し”があるマーケティングの新たな潮流に、業界で先進するブランドはどう向き合っているのだろうか？ 本連載では、世界で100ヵ国以上にオフィスを展開する広告代理店Havasで日本のエグゼクティブ・ディレクターを担う北市卓史氏が、同社が持つ専門研",
-   "source": "MarkeZine",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-09-29T08:00+09:00",
-   "collected": "2026-09-29T10:00+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "20f5f939bce8",
-   "url": "https://hashout.jp/ai/11562/",
-   "title": "格下のはずが本家超え——Claude Sonnet 5.5、コーディングでOpus 5.5を上回った中身",
-   "summary": "Terminal-Bench 4.0という、AIエージェントが実際の端末を操作してタスクをこなす力を測るベンチマークがあります。 ここでClaude Sonnet 5.5が記録したスコアは70.6%。",
-   "source": "shiritomo",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://hashout.jp/wp-content/uploads/2026/09/2104637525058875901-img-1200x675.png",
-   "published": "2026-09-29T07:22+09:00",
-   "collected": "2026-09-29T10:16+09:00"
-  },
-  {
-   "id": "96eb78113b18",
-   "url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
-   "title": "Grok 4.7がAmazon Bedrockで利用可能になりました",
-   "summary": "xAIのGrok 4.7がAmazon Bedrockで利用可能になりました。これは、コーディング、長期的なエージェント、およびナレッジワークのためのフロンティアモデルです。500 Kトークンのコンテキストウィンドウを提供します。",
-   "source": "AWS Machine Learning Blog",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/28/ML-21934-featured-image.png",
-   "published": "2026-09-29T07:13+09:00",
-   "collected": "2026-09-29T10:00+09:00",
-   "title_orig": "Grok 4.7 is now available on Amazon Bedrock",
-   "summary_orig": "xAI's Grok 4.7 is now available on Amazon Bedrock: a frontier model for coding, long-running agents, and knowledge work. It offers a 500K token context window a"
-  },
-  {
-   "id": "12d1ff862c61",
-   "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-   "title": "クロードのソネット5.5",
-   "summary": "今日、AnthropicのClaude Sonnet 5.5新しいソネットモデル。「30 ％以上速く実行され、ほとんどの作業で最大30 ％のコスト削減」と言われています。Sonnetと同じ価格です",
-   "source": "Simon Willison",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://static.simonwillison.net/static/2026/claude-sonnet-5.5-pelican-xhigh.webp",
-   "published": "2026-09-29T07:07+09:00",
-   "collected": "2026-09-29T10:00+09:00",
-   "title_orig": "Claude Sonnet 5.5",
-   "summary_orig": "Claude Sonnet 5.5 New Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for most work\" - it's priced the same as Sonnet"
-  },
-  {
-   "id": "3ca1454b26d5",
-   "url": "https://forest.watch.impress.co.jp/docs/news/2143923.html",
-   "title": "Anthropic、「Claude Sonnet 5.5」を発表 ～30％以上高速に、コストは最大30％減",
-   "summary": "米Anthropicは9月28日（現地時間、以下同）、「Claude Sonnet 5.5」を発表した。「Opus 5.5」に続く「Claude 5.5」ファミリーの第2弾で、先代の「Sonnet 5」からは30％以上も高速化。多くの作業でコストは最大30％安くなるという。",
-   "source": "窓の杜",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://forest.watch.impress.co.jp/img/wf/list/2143/923/claude.jpg",
-   "published": "2026-09-29T07:05+09:00",
-   "collected": "2026-09-29T10:00+09:00"
   }
  ]
 }

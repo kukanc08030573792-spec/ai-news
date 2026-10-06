@@ -1,5 +1,47 @@
 [
  {
+  "id": "286d832e0f6f",
+  "url": "https://www.advertimes.com/20261006/article559830/?utm_source=feed",
+  "title": "プラップジャパンと世界最大のPR会社・米エデルマンが資本業務提携 日本企業のグローバル展開など支援",
+  "summary": "プラップジャパンは10月1日、アメリカの独立系PR会社・エデルマンと資本業務提携契約を締結したと発表した。日本企業のグローバル展開や、日本市場における外資系・グローバル企業のステークホルダーエンゲージメント構築を包括的に支援する体制を整えることが狙い。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2025/10/OG1280x720_MARKETING.jpg",
+  "published": "2026-10-06T11:19+09:00",
+  "collected": "2026-10-06T11:30+09:00"
+ },
+ {
+  "id": "d01099a92f80",
+  "url": "https://ascii.jp/elem/000/004/440/4440168/?rss",
+  "title": "ソニーストア、出荷日変更メールを誤配信 届いた人は注文情報の確認を",
+  "summary": "ソニーマーケティングは10月5日、ソニーストアで一部の商品を注文したユーザーに対し、「出荷日目安変更」の案内メールを誤って送信していたと発表した。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/06/4534694/xl/aeed88386daaf26a.png?20200122",
+  "published": "2026-10-06T11:00+09:00",
+  "collected": "2026-10-06T11:30+09:00"
+ },
+ {
+  "id": "cee2fb65f139",
+  "url": "https://ascii.jp/elem/000/004/439/4439813/?rss",
+  "title": "Teams会議で決まった“宿題（To Do）”をAIで抽出、タスクに自動登録するフローを作ろう",
+  "summary": "今回は、AI Builderを使ってTeams会議のトランスクリプトから“次回までにやるべき宿題（To Do）”を抽出し、それをMicrosoft Plannerのタスクに自動登録するフローを作ってみましょう。前回（第65回）作成したフローを少し修正するだけで作れます。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/05/4534596/xl/7bac90c8da61e28e.png?20200122",
+  "published": "2026-10-06T11:00+09:00",
+  "collected": "2026-10-06T11:30+09:00"
+ },
+ {
   "id": "d0722cc022bc",
   "url": "https://www.itmedia.co.jp/business/articles/2610/06/news034.html",
   "title": "「クレームこそ最大の商機」 合成紙大手ユポが半世紀貫く“コト売り”と、AIによる暗黙知継承",
@@ -56,7 +98,7 @@
   "thumbnail": null,
   "published": "2026-10-06T10:00+09:00",
   "collected": "2026-10-06T10:46+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "af1c0d7beb5b",
@@ -128,7 +170,7 @@
   "thumbnail": null,
   "published": "2026-10-06T08:56+09:00",
   "collected": "2026-10-06T10:46+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting Felix Rieseberg",
   "summary_orig": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for"
  },
@@ -159,7 +201,7 @@
   "thumbnail": null,
   "published": "2026-10-06T08:30+09:00",
   "collected": "2026-10-06T10:46+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "6596bcd1df8c",
@@ -264,7 +306,7 @@
   "thumbnail": null,
   "published": "2026-10-06T07:04+09:00",
   "collected": "2026-10-06T10:46+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "ce90c711bce5",
@@ -675,7 +717,7 @@
   "thumbnail": null,
   "published": "2026-10-06T01:57+09:00",
   "collected": "2026-10-06T10:46+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "cf94a559a112",
@@ -880,7 +922,7 @@
   "thumbnail": null,
   "published": "2026-10-06T00:11+09:00",
   "collected": "2026-10-06T10:46+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "78ad53815846",
@@ -1073,6 +1115,22 @@
   "summary_orig": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please sub"
  },
  {
+  "id": "f7277400781c",
+  "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+  "title": "OpenAIは、DoubleVerifyとIASを使用してブランド適合性制御を試験的に実施しています",
+  "summary": "同社はまた、より大規模な画像主導の広告フォーマットをテストし、測定パートナーを拡大しています。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=600&h=315&crop=1",
+  "published": "2026-10-05T21:06+09:00",
+  "collected": "2026-10-06T11:30+09:00",
+  "title_orig": "OpenAI Is Piloting Brand Suitability Controls With DoubleVerify and IAS",
+  "summary_orig": "The company is also testing a larger, image-led ad format and expanding its measurement partners."
+ },
+ {
   "id": "ac61e8436124",
   "url": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/",
   "title": "複合コンテンツ配信システムの構築方法",
@@ -1087,6 +1145,38 @@
   "collected": "2026-10-06T10:54+09:00",
   "title_orig": "How To Build A Content Distribution System That Compounds",
   "summary_orig": "Keep content working long after launch with a distribution owner, a repeatable checklist, and a 90-day plan to earn backlinks and AI citations. The post How To"
+ },
+ {
+  "id": "d39addcf273c",
+  "url": "https://www.adweek.com/media/tiktok-expands-its-off-platform-ad-network-to-us-advertisers/",
+  "title": "TikTok、オフプラットフォーム広告ネットワークを米国の広告主に拡大",
+  "summary": "ブランド変更されたPangleは、約40万のアプリに広がり、ゲームに多大な負担をかけています。TikTokはまた、広告主がClaudeやPerpleなどのAIツールからキャンペーンを実行できるようにしています",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/tiktok-ai-ads-tiktok-world-2026.webp?w=600&h=315&crop=1",
+  "published": "2026-10-05T20:34+09:00",
+  "collected": "2026-10-06T11:30+09:00",
+  "title_orig": "TikTok Expands Its Off-Platform Ad Network to US Advertisers",
+  "summary_orig": "The rebranded Pangle spans nearly 400,000 apps and is heavy on gaming. TikTok is also allowing advertisers to run campaigns from AI tools like Claude and Perple"
+ },
+ {
+  "id": "2a223187feb0",
+  "url": "https://www.adweek.com/commerce/tiktok-adds-an-ai-shopping-assistant-and-lets-users-buy-direct-from-brands/",
+  "title": "TikTokがAIショッピングアシスタントを追加し、ユーザーがブランドから直接購入できるようにする",
+  "summary": "TikTokは、買い物客がTikTok Shopとは別にアプリ内のブランドから直接購入できる新しいチェックアウト機能と、AIショッピングアシスタントを追加しました。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/TikTok-Shopping.jpg?w=600&h=315&crop=1",
+  "published": "2026-10-05T19:41+09:00",
+  "collected": "2026-10-06T11:30+09:00",
+  "title_orig": "TikTok Adds an AI Shopping Assistant and Lets Users Buy Direct From Brands",
+  "summary_orig": "TikTok is adding a new checkout feature where shoppers can buy directly from brands in its app—separately from TikTok Shop—as well as an AI shopping assistant t"
  },
  {
   "id": "67a698f8f3c8",
@@ -1149,6 +1239,22 @@
   "collected": "2026-10-06T10:46+09:00",
   "title_orig": "Apple and a Hacker’s Future",
   "summary_orig": "I was happy for years in Apple's walled garden; with AI, however, their protections feel like limitations."
+ },
+ {
+  "id": "2ce007e5ce3b",
+  "url": "https://www.adweek.com/media/piers-morgans-uncensored-paid-subscriptions/",
+  "title": "ピアーズ・モーガンの無検閲版は、YouTubeを超えて視聴者を所有するために有料ティアを開始します",
+  "summary": "同社は、460万人のYouTube加入者の2 ％から4 ％が、広告なしの早期限定コンテンツに月額$ 4.99を支払うことを期待している。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/unnamed.jpg?w=600&h=315&crop=1",
+  "published": "2026-10-05T19:00+09:00",
+  "collected": "2026-10-06T11:30+09:00",
+  "title_orig": "Piers Morgan’s Uncensored Launches Paid Tier to Own Its Audience Beyond YouTube",
+  "summary_orig": "The company is hoping 2% to 4% of its 4.6 million YouTube subscribers will pay $4.99 a month for early, ad-free, exclusive content."
  },
  {
   "id": "93954cf2160a",
@@ -1246,7 +1352,7 @@
   "id": "c2f252b7c13b",
   "url": "https://www.itmedia.co.jp/business/articles/2610/05/news068.html",
   "title": "なぜ今？ 東芝が「HDD」生産能力を強化 AI時代に狙う「データインフラ需要」の在りか",
-  "summary": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ ½ Æ ­\\µ ½ BAIãÉÈºHDDÈÍ © B ¯ Ðª_¤ ù",
+  "summary": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ½ Æ ­\\µ ½ BAIãÉÈºHDDEÍ © B ¯ Ðª_¤ ù",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -1255,7 +1361,7 @@
   "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/05/cover_news068.jpg",
   "published": "2026-10-05T16:45+09:00",
   "collected": "2026-10-06T10:54+09:00",
-  "summary_orig": "ÅO[vÅHDDÌ»¢ðS¤ÅfoCXXg[WªAåeÊXg[WujACHDDvÌ¶YCð­µ½Æ­\\µ½BAIãÉÈºHDDÈÌ©B¯Ðª_¤ù"
+  "summary_orig": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ ½ Æ ­\\µ ½ BAIãÉÈºHDDÈÍ © B ¯ Ðª_¤ ù"
  },
  {
   "id": "e33096701fbc",
@@ -1270,7 +1376,7 @@
   "thumbnail": null,
   "published": "2026-10-05T16:40+09:00",
   "collected": "2026-10-06T10:46+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "fbc7104dc4ca",
@@ -1285,7 +1391,7 @@
   "thumbnail": null,
   "published": "2026-10-05T16:10+09:00",
   "collected": "2026-10-06T10:54+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "9ed4d15f107c",
@@ -1314,7 +1420,7 @@
   "thumbnail": null,
   "published": "2026-10-05T16:00+09:00",
   "collected": "2026-10-06T10:54+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "3da8230065b9",
@@ -1413,7 +1519,7 @@
   "thumbnail": null,
   "published": "2026-10-05T13:00+09:00",
   "collected": "2026-10-06T10:54+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "EmTech Future 2026: When AI Meets Everything",
   "summary_orig": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its"
  },
@@ -1445,7 +1551,7 @@
   "thumbnail": null,
   "published": "2026-10-05T11:32+09:00",
   "collected": "2026-10-06T10:54+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "87e3896e9ae0",
