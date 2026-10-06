@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-06T11:30+09:00",
+  "last_updated": "2026-10-06T11:58+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -118,6 +118,20 @@
    "summary_orig": "OpenAI will add an invisible watermark to ChatGPT and Codex text in the EU. Its tests show editing can weaken it. The post OpenAI To Watermark ChatGPT Text In T"
   },
   {
+   "id": "beaff2ed6be3",
+   "url": "https://ascii.jp/elem/000/004/440/4440263/?rss",
+   "title": "Veeva 、すべての報告チャネルからのエージェント型トリアージを実現する Veeva Falcon Router を発表",
+   "summary": "Veeva 、すべての報告チャネルからのエージェント型トリアージを実現する Veeva Falcon Router を発表",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+   "published": "2026-10-06T10:00+09:00",
+   "collected": "2026-10-06T11:58+09:00"
+  },
+  {
    "id": "17982b546083",
    "url": "https://www.itmedia.co.jp/news/article/2610/06/2000002013/",
    "title": "不正アクセスなぜ急増 原因はAIか、それとも…… 専門家の見解は",
@@ -145,6 +159,20 @@
    "published": "2026-10-06T10:00+09:00",
    "collected": "2026-10-06T10:46+09:00",
    "_thumb_tries": 3
+  },
+  {
+   "id": "75f76294a75c",
+   "url": "https://news.yahoo.co.jp/articles/1dd5671cb15d3daac749702abc636b69da162b2d",
+   "title": "NHNテコラス、生成AI「Claude」の導入から活用までを一気通貫で支援する「Claude 総合支援サービス」（クラウド Watch）",
+   "summary": "NHN テコラス株式会社は5日、クラウド総合支援ブランド「Cloud Chorus（クラウドコーラス）」（旧称：C-Chorus）において、米Anthropicの生成AIモデル「Claude」の導入",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
+   "published": "2026-10-06T09:30+09:00",
+   "collected": "2026-10-06T11:58+09:00"
   },
   {
    "id": "af1c0d7beb5b",
@@ -1398,7 +1426,7 @@
    "id": "c2f252b7c13b",
    "url": "https://www.itmedia.co.jp/business/articles/2610/05/news068.html",
    "title": "なぜ今？ 東芝が「HDD」生産能力を強化 AI時代に狙う「データインフラ需要」の在りか",
-   "summary": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ½ Æ ­\\µ ½ BAIãÉÈºHDDEÍ © B ¯ Ðª_¤ ù",
+   "summary": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­ µ ½ Æ ­\\ µ ½ BAIãÉÈº HDDEÍ © B ¯ Ðª_¤ ù",
    "source": "ITmedia AI+",
    "type": "article",
    "tier": "media",
@@ -1407,7 +1435,7 @@
    "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/05/cover_news068.jpg",
    "published": "2026-10-05T16:45+09:00",
    "collected": "2026-10-06T10:54+09:00",
-   "summary_orig": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ ½ Æ ­\\µ ½ BAIãÉÈºHDDÈÍ © B ¯ Ðª_¤ ù"
+   "summary_orig": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ½ Æ ­\\µ ½ BAIãÉÈºHDDEÍ © B ¯ Ðª_¤ ù"
   },
   {
    "id": "e33096701fbc",
@@ -1437,7 +1465,7 @@
    "thumbnail": null,
    "published": "2026-10-05T16:10+09:00",
    "collected": "2026-10-06T10:54+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "9ed4d15f107c",
@@ -1466,7 +1494,7 @@
    "thumbnail": null,
    "published": "2026-10-05T16:00+09:00",
    "collected": "2026-10-06T10:54+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "3da8230065b9",
@@ -1565,7 +1593,7 @@
    "thumbnail": null,
    "published": "2026-10-05T13:00+09:00",
    "collected": "2026-10-06T10:54+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "EmTech Future 2026: When AI Meets Everything",
    "summary_orig": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its"
   },
@@ -1597,7 +1625,7 @@
    "thumbnail": null,
    "published": "2026-10-05T11:32+09:00",
    "collected": "2026-10-06T10:54+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "87e3896e9ae0",
@@ -9154,35 +9182,6 @@
    "thumbnail": "https://image.news.livedoor.com/newsimage/stf/1/9/19ab5_1863_3e0f5f05_0a2128b2.png",
    "published": "2026-09-29T08:30+09:00",
    "collected": "2026-09-29T11:17+09:00"
-  },
-  {
-   "id": "d22e0e774ec7",
-   "url": "https://prtimes.jp/main/html/rd/p/000000496.000030192.html",
-   "title": "エクサベース AI、 Anthropic最新モデル「Claude Opus 5.5」を提供開始",
-   "summary": "エクサベース AI、 Anthropic最新モデル「Claude Opus 5.5」を提供開始",
-   "source": "PR TIMES",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/30192/496/30192-496-52b821c6ae020b830ed068080c5f2b9d-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-09-29T08:30+09:00",
-   "collected": "2026-09-29T10:00+09:00"
-  },
-  {
-   "id": "2c6940f17a3f",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2609/29/news022.html",
-   "title": "「最大応力はどこ？」とAIに質問、解析結果を確認できるCAEソフト新版",
-   "summary": "AChGWjAOÍA\\ ¢ ðÍ\\ tguADVENTURECluster 2026 vð 2026 N 101 ú É [X · éB © R ¾ ê Éæéw ¦ ÅðÍððððð别名© çÀsAÅmFÜÅð © ®",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2609/29/cover_news022.jpg",
-   "published": "2026-09-29T08:30+09:00",
-   "collected": "2026-09-29T10:00+09:00",
-   "summary_orig": "AChGWjAOÍA\\¢ðÍ\\tguADVENTURECluster2026vð2026N101úÉ[X·éB©R¾êÉæéw¦ÅðÍðÌÝè©çÀsAÊmFÜÅð©®"
   }
  ]
 }

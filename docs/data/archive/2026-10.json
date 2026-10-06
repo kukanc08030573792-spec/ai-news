@@ -101,6 +101,34 @@
   "_thumb_tries": 3
  },
  {
+  "id": "beaff2ed6be3",
+  "url": "https://ascii.jp/elem/000/004/440/4440263/?rss",
+  "title": "Veeva 、すべての報告チャネルからのエージェント型トリアージを実現する Veeva Falcon Router を発表",
+  "summary": "Veeva 、すべての報告チャネルからのエージェント型トリアージを実現する Veeva Falcon Router を発表",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+  "published": "2026-10-06T10:00+09:00",
+  "collected": "2026-10-06T11:58+09:00"
+ },
+ {
+  "id": "75f76294a75c",
+  "url": "https://news.yahoo.co.jp/articles/1dd5671cb15d3daac749702abc636b69da162b2d",
+  "title": "NHNテコラス、生成AI「Claude」の導入から活用までを一気通貫で支援する「Claude 総合支援サービス」（クラウド Watch）",
+  "summary": "NHN テコラス株式会社は5日、クラウド総合支援ブランド「Cloud Chorus（クラウドコーラス）」（旧称：C-Chorus）において、米Anthropicの生成AIモデル「Claude」の導入",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
+  "published": "2026-10-06T09:30+09:00",
+  "collected": "2026-10-06T11:58+09:00"
+ },
+ {
   "id": "af1c0d7beb5b",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/06/news005.html",
   "title": "サロゲートAIの予測を金型設計に活用、国産3D CAD／CAM／CAEの最新版",
@@ -1352,7 +1380,7 @@
   "id": "c2f252b7c13b",
   "url": "https://www.itmedia.co.jp/business/articles/2610/05/news068.html",
   "title": "なぜ今？ 東芝が「HDD」生産能力を強化 AI時代に狙う「データインフラ需要」の在りか",
-  "summary": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ½ Æ ­\\µ ½ BAIãÉÈºHDDEÍ © B ¯ Ðª_¤ ù",
+  "summary": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­ µ ½ Æ ­\\ µ ½ BAIãÉÈº HDDEÍ © B ¯ Ðª_¤ ù",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -1361,7 +1389,7 @@
   "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/05/cover_news068.jpg",
   "published": "2026-10-05T16:45+09:00",
   "collected": "2026-10-06T10:54+09:00",
-  "summary_orig": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ ½ Æ ­\\µ ½ BAIãÉÈºHDDÈÍ © B ¯ Ðª_¤ ù"
+  "summary_orig": "ÅO [vÅHDDÍ »¢ ðS ¤ ÅfoCXXg [WªAåeðXg [WujACHDDvÍ ¶ YCð ­µ½ Æ ­\\µ ½ BAIãÉÈºHDDEÍ © B ¯ Ðª_¤ ù"
  },
  {
   "id": "e33096701fbc",
@@ -1391,7 +1419,7 @@
   "thumbnail": null,
   "published": "2026-10-05T16:10+09:00",
   "collected": "2026-10-06T10:54+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "9ed4d15f107c",
@@ -1420,7 +1448,7 @@
   "thumbnail": null,
   "published": "2026-10-05T16:00+09:00",
   "collected": "2026-10-06T10:54+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3da8230065b9",
@@ -1519,7 +1547,7 @@
   "thumbnail": null,
   "published": "2026-10-05T13:00+09:00",
   "collected": "2026-10-06T10:54+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "EmTech Future 2026: When AI Meets Everything",
   "summary_orig": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its"
  },
@@ -1551,7 +1579,7 @@
   "thumbnail": null,
   "published": "2026-10-05T11:32+09:00",
   "collected": "2026-10-06T10:54+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "87e3896e9ae0",
