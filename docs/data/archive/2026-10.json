@@ -1,5 +1,33 @@
 [
  {
+  "id": "46fb302bd637",
+  "url": "https://ascii.jp/elem/000/004/440/4440589/?rss",
+  "title": "ChatGPTのWorkspaceエージェント機能で障害発生 応答が表示されず",
+  "summary": "OpenAIの「ChatGPT」で10月7日7時52分頃から障害が発生。Workspaceエージェントの応答が表示されないケースが発生している。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/07/4535391/xl/2817ca2a21b843e4.png?20200122",
+  "published": "2026-10-07T10:50+09:00",
+  "collected": "2026-10-07T11:22+09:00"
+ },
+ {
+  "id": "0f3711478e63",
+  "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002075/",
+  "title": "Mistral、1兆パラメータの「Mistral Large 4」（通称「Le Chonk」）発表 10月末にオープンウェイトで公開へ",
+  "summary": "Mistral AIは、最大モデル「Mistral Large 4」のプレビュー版を公開した。総パラメータ1兆500億のMoE型で、画像認識や推論・指示応答の切り替えに対応。特にサイバーセキュリティやコーディングで高い性能を示し、脆弱性再現テストでは全モデル中最高を記録。モデルの重みは月末に公開予定だ。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/07/2000002075/10008650/2048",
+  "published": "2026-10-07T10:43+09:00",
+  "collected": "2026-10-07T11:22+09:00"
+ },
+ {
   "id": "2119d2ef3cc5",
   "url": "https://prtimes.jp/main/html/rd/p/000000028.000139254.html",
   "title": "AIの使い方は「プロンプト」から「スキル」へ──OpenAI・Anthropic・Microsoftが相次ぎ対応する“AIスキル”を、ブラウザに貼るだけで試せる「スブリ」無料公開",
@@ -41,6 +69,20 @@
   "thumbnail": "https://news.mynavi.jp/techplus/kikaku/20261007-5077368/index_images/index.png",
   "published": "2026-10-07T10:00+09:00",
   "collected": "2026-10-07T10:48+09:00"
+ },
+ {
+  "id": "90edb10b1697",
+  "url": "https://ascii.jp/elem/000/004/440/4440595/?rss",
+  "title": "Kong、11月19日開催「API+AI Summit Japan 2026」のプログラムを公開",
+  "summary": "Kong、11月19日開催「API+AI Summit Japan 2026」のプログラムを公開",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-07T10:00+09:00",
+  "collected": "2026-10-07T11:22+09:00"
  },
  {
   "id": "af88c6f57809",
@@ -1326,7 +1368,7 @@
   "thumbnail": null,
   "published": "2026-10-06T22:21+09:00",
   "collected": "2026-10-07T10:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "c481fc93e0dd",
@@ -1651,7 +1693,7 @@
   "thumbnail": null,
   "published": "2026-10-06T15:00+09:00",
   "collected": "2026-10-07T10:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "8f9c9d75ce7f",
@@ -1666,7 +1708,7 @@
   "thumbnail": null,
   "published": "2026-10-06T14:00+09:00",
   "collected": "2026-10-07T10:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3f8a304cb7ff",
