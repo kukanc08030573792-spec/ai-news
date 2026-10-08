@@ -1,5 +1,61 @@
 [
  {
+  "id": "322b47d89ad1",
+  "url": "https://ascii.jp/elem/000/004/440/4440937/?rss",
+  "title": "Surface Laptop Ultra予約開始、最大1ペタフロップスのAI性能を持つ新ノート",
+  "summary": "ソフマップが「Surface Laptop Ultra」の予約受付を開始。NVIDIA RTX Spark N1Xを搭載し、最大1ペタフロップスのAI演算性能を実現。最大2000nitsの15型タッチ画面を備え、重量は2kg以下。10月16日21時発売予定。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/08/4535865/xl/7c62ddbafe9bb292.jpg",
+  "published": "2026-10-08T11:00+09:00",
+  "collected": "2026-10-08T11:15+09:00"
+ },
+ {
+  "id": "745b8cc13bc5",
+  "url": "https://ascii.jp/elem/000/004/440/4440926/?rss",
+  "title": "通訳機の世界企業Timekettleが無料でAI議事録や専門翻訳ができるAI通訳イヤホン「W4 Plus」を発表＝今日からMakuakeでお得に購入可能",
+  "summary": "対面での双方向通訳や電話・Web会議の通訳、音声・動画翻訳が可能なAI通訳イヤホンです",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/07/4535756/xl/71496ec27efce1dd.png?20200122",
+  "published": "2026-10-08T11:00+09:00",
+  "collected": "2026-10-08T11:15+09:00"
+ },
+ {
+  "id": "da13cfb588bb",
+  "url": "https://ascii.jp/elem/000/004/440/4440869/?rss",
+  "title": "「AIを使う」から「成果を出す」へ―日本HP、最新AI戦略と新製品「HP EliteBook 8 G2iW 14」を披露",
+  "summary": "日本HPは10月7日、AI戦略および新ソリューションを発表するカンファレンス「HP Future of Work AI Conference 2026」を開催した。基調講演や新製品などが発表された。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/07/4535686/xl/982e2213197915fe.png",
+  "published": "2026-10-08T11:00+09:00",
+  "collected": "2026-10-08T11:15+09:00"
+ },
+ {
+  "id": "b4b0ed28ab53",
+  "url": "https://article.auone.jp/eafddb18-4c6e-4962-9bc9-2706d01dd2e8",
+  "title": "「Claude Haiku 5.5」が登場、GPT-6 Lunaより高性能で前モデルより9割引きの安価なモデル",
+  "summary": "AnthropicがAIモデル「Claude Haiku 5.5」を現地時間の2026年10月7日にリリースしました。前世代モデルのClaude Haiku 4.5と比べて性能が飛躍的に向上しています",
+  "source": "au Webポータル",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/08/https___gigazine_net_news_20261008-claude-haiku-5-5__w560.webp",
+  "published": "2026-10-08T10:44+09:00",
+  "collected": "2026-10-08T11:15+09:00"
+ },
+ {
   "id": "8271d2b6ba76",
   "url": "https://note.com/kajiken0630/n/nead5f76c58b8",
   "title": "SuperFlowの各プランの動画処理上限数を2~3倍にしました！",
@@ -143,7 +199,7 @@
   "thumbnail": null,
   "published": "2026-10-08T08:30+09:00",
   "collected": "2026-10-08T10:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "cfad6e64ed4c",
@@ -188,7 +244,7 @@
   "thumbnail": null,
   "published": "2026-10-08T08:14+09:00",
   "collected": "2026-10-08T10:01+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting Ben Affleck",
   "summary_orig": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspe"
  },
@@ -276,7 +332,7 @@
   "thumbnail": null,
   "published": "2026-10-08T08:00+09:00",
   "collected": "2026-10-08T10:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d348f5d0bcf0",
@@ -291,7 +347,7 @@
   "thumbnail": null,
   "published": "2026-10-08T07:38+09:00",
   "collected": "2026-10-08T10:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "132dc2ca2690",
@@ -366,7 +422,7 @@
   "thumbnail": null,
   "published": "2026-10-08T07:05+09:00",
   "collected": "2026-10-08T10:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d050c7f2c047",
@@ -381,7 +437,7 @@
   "thumbnail": null,
   "published": "2026-10-08T07:05+09:00",
   "collected": "2026-10-08T10:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "21bbd2928bca",
@@ -767,7 +823,7 @@
   "thumbnail": null,
   "published": "2026-10-08T05:17+09:00",
   "collected": "2026-10-08T10:01+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Microsoft announces quarterly earnings release date",
   "summary_orig": "The post Microsoft announces quarterly earnings release date appeared first on Source ."
  },
@@ -1240,7 +1296,7 @@
   "thumbnail": null,
   "published": "2026-10-07T23:53+09:00",
   "collected": "2026-10-08T10:01+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Anti-Patterns in Software Blogging",
   "summary_orig": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existin"
  },
@@ -1531,6 +1587,21 @@
   "summary_orig": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup"
  },
  {
+  "id": "c38441010256",
+  "url": "https://media.unisba.ac.id/d763ce0c/839718ec-UsNS1xwTh8",
+  "title": "世界で低評価続出。Instagramが禁断のアップデートへ...今後どうなる？ All Nbc Shows Cancelled (HWLZtJV9Z5)",
+  "summary": "世界で低評価続出。Instagramが禁断のアップデートへ...今後どうなる？ All Nbc Shows Cancelled (HWLZtJV9Z5)    Unisba Media",
+  "source": "Unisba Media",
+  "type": "article",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": "Instagram",
+  "thumbnail": null,
+  "published": "2026-10-07T20:04+09:00",
+  "collected": "2026-10-08T11:15+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "3ce36c96c352",
   "url": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
   "title": "WordPressが@ sejournal、@ martinibuster経由でCanonical MCP Adapterプラグインをリリース",
@@ -1603,7 +1674,7 @@
   "thumbnail": null,
   "published": "2026-10-07T18:07+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f81ac359aaf4",
@@ -1648,7 +1719,7 @@
   "thumbnail": null,
   "published": "2026-10-07T17:30+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "a2c9b7579342",
@@ -1677,7 +1748,7 @@
   "thumbnail": null,
   "published": "2026-10-07T17:10+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "690845a7e10b",
@@ -1706,7 +1777,7 @@
   "thumbnail": null,
   "published": "2026-10-07T17:00+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f32b6f1f7116",
@@ -1765,7 +1836,7 @@
   "thumbnail": null,
   "published": "2026-10-07T14:30+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "ad87805b0366",
@@ -1796,7 +1867,7 @@
   "thumbnail": null,
   "published": "2026-10-07T13:47+09:00",
   "collected": "2026-10-08T10:01+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting Jake Boggan",
   "summary_orig": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjectu"
  },
@@ -1827,7 +1898,7 @@
   "thumbnail": null,
   "published": "2026-10-07T12:00+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "8609d1d18944",

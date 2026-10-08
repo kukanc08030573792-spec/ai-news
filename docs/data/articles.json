@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-08T10:19+09:00",
+  "last_updated": "2026-10-08T11:15+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,62 @@
   ]
  },
  "items": [
+  {
+   "id": "322b47d89ad1",
+   "url": "https://ascii.jp/elem/000/004/440/4440937/?rss",
+   "title": "Surface Laptop Ultra予約開始、最大1ペタフロップスのAI性能を持つ新ノート",
+   "summary": "ソフマップが「Surface Laptop Ultra」の予約受付を開始。NVIDIA RTX Spark N1Xを搭載し、最大1ペタフロップスのAI演算性能を実現。最大2000nitsの15型タッチ画面を備え、重量は2kg以下。10月16日21時発売予定。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/08/4535865/xl/7c62ddbafe9bb292.jpg",
+   "published": "2026-10-08T11:00+09:00",
+   "collected": "2026-10-08T11:15+09:00"
+  },
+  {
+   "id": "745b8cc13bc5",
+   "url": "https://ascii.jp/elem/000/004/440/4440926/?rss",
+   "title": "通訳機の世界企業Timekettleが無料でAI議事録や専門翻訳ができるAI通訳イヤホン「W4 Plus」を発表＝今日からMakuakeでお得に購入可能",
+   "summary": "対面での双方向通訳や電話・Web会議の通訳、音声・動画翻訳が可能なAI通訳イヤホンです",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/07/4535756/xl/71496ec27efce1dd.png?20200122",
+   "published": "2026-10-08T11:00+09:00",
+   "collected": "2026-10-08T11:15+09:00"
+  },
+  {
+   "id": "da13cfb588bb",
+   "url": "https://ascii.jp/elem/000/004/440/4440869/?rss",
+   "title": "「AIを使う」から「成果を出す」へ―日本HP、最新AI戦略と新製品「HP EliteBook 8 G2iW 14」を披露",
+   "summary": "日本HPは10月7日、AI戦略および新ソリューションを発表するカンファレンス「HP Future of Work AI Conference 2026」を開催した。基調講演や新製品などが発表された。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/07/4535686/xl/982e2213197915fe.png",
+   "published": "2026-10-08T11:00+09:00",
+   "collected": "2026-10-08T11:15+09:00"
+  },
+  {
+   "id": "b4b0ed28ab53",
+   "url": "https://article.auone.jp/eafddb18-4c6e-4962-9bc9-2706d01dd2e8",
+   "title": "「Claude Haiku 5.5」が登場、GPT-6 Lunaより高性能で前モデルより9割引きの安価なモデル",
+   "summary": "AnthropicがAIモデル「Claude Haiku 5.5」を現地時間の2026年10月7日にリリースしました。前世代モデルのClaude Haiku 4.5と比べて性能が飛躍的に向上しています",
+   "source": "au Webポータル",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/08/https___gigazine_net_news_20261008-claude-haiku-5-5__w560.webp",
+   "published": "2026-10-08T10:44+09:00",
+   "collected": "2026-10-08T11:15+09:00"
+  },
   {
    "id": "8271d2b6ba76",
    "url": "https://note.com/kajiken0630/n/nead5f76c58b8",
@@ -189,7 +245,7 @@
    "thumbnail": null,
    "published": "2026-10-08T08:30+09:00",
    "collected": "2026-10-08T10:01+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "cfad6e64ed4c",
@@ -234,7 +290,7 @@
    "thumbnail": null,
    "published": "2026-10-08T08:14+09:00",
    "collected": "2026-10-08T10:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting Ben Affleck",
    "summary_orig": "I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspe"
   },
@@ -322,7 +378,7 @@
    "thumbnail": null,
    "published": "2026-10-08T08:00+09:00",
    "collected": "2026-10-08T10:01+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d348f5d0bcf0",
@@ -337,7 +393,7 @@
    "thumbnail": null,
    "published": "2026-10-08T07:38+09:00",
    "collected": "2026-10-08T10:01+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "132dc2ca2690",
@@ -412,7 +468,7 @@
    "thumbnail": null,
    "published": "2026-10-08T07:05+09:00",
    "collected": "2026-10-08T10:01+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d050c7f2c047",
@@ -427,7 +483,7 @@
    "thumbnail": null,
    "published": "2026-10-08T07:05+09:00",
    "collected": "2026-10-08T10:01+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "21bbd2928bca",
@@ -813,7 +869,7 @@
    "thumbnail": null,
    "published": "2026-10-08T05:17+09:00",
    "collected": "2026-10-08T10:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Microsoft announces quarterly earnings release date",
    "summary_orig": "The post Microsoft announces quarterly earnings release date appeared first on Source ."
   },
@@ -1286,7 +1342,7 @@
    "thumbnail": null,
    "published": "2026-10-07T23:53+09:00",
    "collected": "2026-10-08T10:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Anti-Patterns in Software Blogging",
    "summary_orig": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existin"
   },
@@ -1577,6 +1633,21 @@
    "summary_orig": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
   },
   {
+   "id": "c38441010256",
+   "url": "https://media.unisba.ac.id/d763ce0c/839718ec-UsNS1xwTh8",
+   "title": "世界で低評価続出。Instagramが禁断のアップデートへ...今後どうなる？ All Nbc Shows Cancelled (HWLZtJV9Z5)",
+   "summary": "世界で低評価続出。Instagramが禁断のアップデートへ...今後どうなる？ All Nbc Shows Cancelled (HWLZtJV9Z5)    Unisba Media",
+   "source": "Unisba Media",
+   "type": "article",
+   "tier": "official",
+   "topic": "sns",
+   "proxy_for": "Instagram",
+   "thumbnail": null,
+   "published": "2026-10-07T20:04+09:00",
+   "collected": "2026-10-08T11:15+09:00",
+   "_thumb_tries": 1
+  },
+  {
    "id": "3ce36c96c352",
    "url": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
    "title": "WordPressが@ sejournal、@ martinibuster経由でCanonical MCP Adapterプラグインをリリース",
@@ -1649,7 +1720,7 @@
    "thumbnail": null,
    "published": "2026-10-07T18:07+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "f81ac359aaf4",
@@ -1694,7 +1765,7 @@
    "thumbnail": null,
    "published": "2026-10-07T17:30+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "a2c9b7579342",
@@ -1723,7 +1794,7 @@
    "thumbnail": null,
    "published": "2026-10-07T17:10+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "690845a7e10b",
@@ -1752,7 +1823,7 @@
    "thumbnail": null,
    "published": "2026-10-07T17:00+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "f32b6f1f7116",
@@ -1811,7 +1882,7 @@
    "thumbnail": null,
    "published": "2026-10-07T14:30+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "ad87805b0366",
@@ -1842,7 +1913,7 @@
    "thumbnail": null,
    "published": "2026-10-07T13:47+09:00",
    "collected": "2026-10-08T10:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting Jake Boggan",
    "summary_orig": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjectu"
   },
@@ -1873,7 +1944,7 @@
    "thumbnail": null,
    "published": "2026-10-07T12:00+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "8609d1d18944",
@@ -9118,80 +9189,6 @@
    "collected": "2026-10-02T09:49+09:00",
    "title_orig": "Accelerating human capacity across healthcare with AI",
    "summary_orig": "Explore how trusted AI is helping healthcare and life sciences organizations improve patient care, accelerate discovery, and drive innovation."
-  },
-  {
-   "id": "ead334410a4d",
-   "url": "https://news.nicovideo.jp/watch/nw19827430?news_ref=top_newComments",
-   "title": "【リアル開催】Work AI プラットフォーム『Glean』実践活用セミナー",
-   "summary": "【リアル開催】Work AI プラットフォーム『Glean』実践活用セミナー",
-   "source": "ニコニコニュース",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-01T07:45+09:00",
-   "collected": "2026-10-01T09:34+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "8247ec0c4975",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/01/news031.html",
-   "title": "日立とファナックがフィジカルAI協業 日立エッジAI×ファナックロボ有効性も検証",
-   "summary": "ú § »ìÆt @ ibNÍtBWJAIilHm\\ jÀÀ ¤ ¯ Æ» Éü ¯ ½ íªIp [gi [Vbvð ÷ µ ½ Bú § ÍAIZpÆt @ ibNÍYÆp {bgðg ”¹ ½",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/01/mn1001_fanuc_hitachi_w490.jpg",
-   "published": "2026-10-01T07:30+09:00",
-   "collected": "2026-10-01T09:34+09:00",
-   "summary_orig": "ú§»ìÆt@ibNÍtBWJAIilHm\\jÀÌ¤¯Æ»Éü¯½íªIp[gi[Vbvð÷µ½Bú§ÌAIZpÆt@ibNÌYÆp{bgðgÝí¹½"
-  },
-  {
-   "id": "da087e5a302d",
-   "url": "https://ascii.jp/elem/000/004/438/4438868/?rss",
-   "title": "すべての企業の“セキュリティ疲れ”解消を 「Symantec CBX」TD SYNNEXが提供開始",
-   "summary": "ITディストリビューターのTD SYNNEX日本法人が、企業の“セキュリティ疲れ”を解消するXDRソリューション「Symantec CBX」の国内提供を開始した。SymantecとCarbon Blackが提供してきた各種セキュリティ機能をプラットフォーム統合し、脅威判断やインシデント調査をAIが支援する。",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2026/10/01/4532420/xl/87ea073f6cbcf9fa.jpg?20200122",
-   "published": "2026-10-01T07:30+09:00",
-   "collected": "2026-10-01T09:34+09:00"
-  },
-  {
-   "id": "1a601b09c690",
-   "url": "https://www.latent.space/p/devday-2026",
-   "title": "Dwarkeshがコンピュータの使用について間違っている理由+ OpenAIが1週間でJEVの競合他社を出荷した方法",
-   "summary": "当社のDevDayカバレッジ（ DevDayラインナップの最初のポッド）は、OpenAIのCUAチームとAPIプラットフォームのリーダーと共に説明します。",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!6k0o!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F218243619%2Fbf1dd45c-cca3-4c2c-8bd6-b825ecb451ab%2Ftranscoded-1790802162.png",
-   "published": "2026-10-01T07:23+09:00",
-   "collected": "2026-10-01T09:34+09:00",
-   "title_orig": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
-   "summary_orig": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI’s CUA team and API platform."
-  },
-  {
-   "id": "b3473702db57",
-   "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/",
-   "title": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Agron」発表 まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
-   "summary": "Googleは、次世代フロンティアモデル「Gemini 4 Argon」を発表した。最大出力100万トークンに対応し、長時間に及ぶ業務処理や自律的なサイバー脆弱性修正に強みを持つ。安全対策を強化した上で、まずは信頼できるサイバー防御組織に先行提供し、有料APIなどで順次拡大する。",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/01/2000001912/10008093/2048",
-   "published": "2026-10-01T07:16+09:00",
-   "collected": "2026-10-01T09:34+09:00"
   }
  ]
 }
