@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-08T11:15+09:00",
+  "last_updated": "2026-10-08T11:41+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,62 @@
   ]
  },
  "items": [
+  {
+   "id": "29ff52732bc5",
+   "url": "https://ascii.jp/elem/000/004/440/4440964/?rss",
+   "title": "ローカルAIエージェント構築を実機で学ぶ GIGABYTEが10月23日に東京で無料ワークショップ",
+   "summary": "GIGABYTEは10月23日、東京・大井町で無料ワークショップ「ACE Tokyo 2026」を開催。ローカルAIエージェント構築や「AI TOP ATOM」の活用を、導入事例と実機ハンズオンで学べる。先着120名、Peatixで事前申込が必要。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/08/4535979/xl/d1ca4b77ed84af52.jpg",
+   "published": "2026-10-08T11:30+09:00",
+   "collected": "2026-10-08T11:41+09:00"
+  },
+  {
+   "id": "a3a7b5e8532d",
+   "url": "https://voix.jp/business-cards/asuene-aip-ax-consulting-launch/",
+   "title": "アスエネの自律型AIエージェントプラットフォーム「ASUENE AIP」と新しいAXコンサルティングの提供開始",
+   "summary": "アスエネ、AIエージェントプラットフォーム「ASUENE AIP」を新たに提供開始 アスエネ株式会社は、自律型AIエージェントプラットフォーム「ASUENE AIP」と「AXコンサルティング」の新サービスを開始した。",
+   "source": "ニュースメディアVOIX",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://voix.jp/wp-content/uploads/2026/10/58538-767-b29a3f7dd530230dbd4cd4bc150f3586-1200x640-1.jpg",
+   "published": "2026-10-08T11:20+09:00",
+   "collected": "2026-10-08T11:41+09:00"
+  },
+  {
+   "id": "8e2a53d90211",
+   "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002119/",
+   "title": "ChatGPT、無料版を含む全ユーザーに「GPT-6」 回答内に“操作できる画面”を生成する「Intelligent UI」搭載",
+   "summary": "OpenAIは、ChatGPTに新モデル「GPT-6」を搭載し順次提供を開始した。テキストに加え図や操作可能なボタン、フォームなどを回答として生成する「Intelligent UI」を導入。思考しながら回答を出力する機能も備える。有料プランから順次提供を始め、無料プランやGoプランにも翌日から展開する。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/08/2000002119/10008812/2048",
+   "published": "2026-10-08T11:09+09:00",
+   "collected": "2026-10-08T11:41+09:00"
+  },
+  {
+   "id": "6b2a86e1e107",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news022.html",
+   "title": "富士通では「Copilot」10万ライセンスの利用率が“9割超え” 「導入したけど使われない」をどう防いだ？",
+   "summary": "",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/08/cover_news022.jpg",
+   "published": "2026-10-08T11:00+09:00",
+   "collected": "2026-10-08T11:41+09:00"
+  },
   {
    "id": "322b47d89ad1",
    "url": "https://ascii.jp/elem/000/004/440/4440937/?rss",
@@ -650,6 +706,22 @@
    "collected": "2026-10-08T10:19+09:00",
    "title_orig": "Pinterest expands creator content promotions",
    "summary_orig": "Brands will be able to sponsor creator Pins, boosting exposure and providing more promotional opportunities."
+  },
+  {
+   "id": "9f32045fa5f4",
+   "url": "https://www.adweek.com/media/ai-advertising-physical-world/",
+   "title": "AIが広告を物理的な世界に押し戻している",
+   "summary": "AIがオンラインでの信頼とトラフィックを侵食するにつれて、消費者がそれを避ける方法が少なくなっているにもかかわらず、マーケティング担当者はアウトオブホーム広告の価値を再発見しています。",
+   "source": "Adweek（ソーシャル）",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/GettyImages-2292486613.jpg?w=600&h=315&crop=1",
+   "published": "2026-10-08T06:15+09:00",
+   "collected": "2026-10-08T11:41+09:00",
+   "title_orig": "AI Is Pushing Advertising Back Into the Physical World",
+   "summary_orig": "As AI erodes trust and traffic online, marketers are rediscovering the value of out-of-home advertising—even as consumers have fewer ways to escape it."
   },
   {
    "id": "71148dfed4f0",
@@ -1645,7 +1717,7 @@
    "thumbnail": null,
    "published": "2026-10-07T20:04+09:00",
    "collected": "2026-10-08T11:15+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "3ce36c96c352",
@@ -1720,7 +1792,7 @@
    "thumbnail": null,
    "published": "2026-10-07T18:07+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "f81ac359aaf4",
@@ -1765,7 +1837,7 @@
    "thumbnail": null,
    "published": "2026-10-07T17:30+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "a2c9b7579342",
@@ -1794,7 +1866,7 @@
    "thumbnail": null,
    "published": "2026-10-07T17:10+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "690845a7e10b",
@@ -1823,7 +1895,7 @@
    "thumbnail": null,
    "published": "2026-10-07T17:00+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "f32b6f1f7116",
@@ -1882,7 +1954,7 @@
    "thumbnail": null,
    "published": "2026-10-07T14:30+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "ad87805b0366",
@@ -1944,7 +2016,7 @@
    "thumbnail": null,
    "published": "2026-10-07T12:00+09:00",
    "collected": "2026-10-08T10:19+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "8609d1d18944",
@@ -9114,81 +9186,6 @@
    "collected": "2026-10-01T09:34+09:00",
    "title_orig": "Google releases Gemini 4 Argon, called its most powerful model yet",
    "summary_orig": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
-  },
-  {
-   "id": "cc87b2aa8b1d",
-   "url": "https://prtimes.jp/main/html/rd/p/000000224.000056138.html",
-   "title": "【Claude Sonnet 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月30日に追加！",
-   "summary": "【Claude Sonnet 5.5】自治体AI zevoに新たなClaude系LLMが2026年9月30日に追加！",
-   "source": "PR TIMES",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/56138/224/56138-224-3ab6d742823c3ba187c90857092040b6-1100x620.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-10-01T08:30+09:00",
-   "collected": "2026-10-01T09:50+09:00"
-  },
-  {
-   "id": "932286402e02",
-   "url": "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
-   "title": "Meta、東南アジア事業をリードするDhruv Vohra氏を任命",
-   "summary": "Metaは、Dhruv Vohraが東南アジアのグローバルビジネスグループのマネージングディレクターに就任することを発表しました。ポストメタがDhruv Vohraをリードするよう命名",
-   "source": "Meta Newsroom",
-   "type": "article",
-   "tier": "official",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://about.fb.com/wp-content/uploads/2026/10/Dhruv-Vohra_2026-1.jpeg?w=1200",
-   "published": "2026-10-01T08:15+09:00",
-   "collected": "2026-10-01T09:34+09:00",
-   "title_orig": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
-   "summary_orig": "Meta has announced that Dhruv Vohra will take on a new role as Managing Director, Global Business Group, Southeast Asia. The post Meta Names Dhruv Vohra to Lead"
-  },
-  {
-   "id": "682a18bb1ffb",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001909/",
-   "title": "AI主権はなぜ「切実な経営課題」になったのか モデル“禁輸”問題が示した「選択肢を持つこと」の重要性",
-   "summary": "AIの活用が進むほど、企業は外部のサービスやインフラへの依存を深める。データやモデルへのコントロールを保ち、自らの意思で選択できる状態を守る「AI主権」はなぜ経営課題になったのか、4つの観点から解説する。",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/01/2000001909/10008071/2048",
-   "published": "2026-10-01T08:00+09:00",
-   "collected": "2026-10-01T09:34+09:00"
-  },
-  {
-   "id": "7ed4273345ff",
-   "url": "https://markezine.jp/article/detail/77744",
-   "title": "日本直販、ByteDanceとグローバルパートナー契約 TikTokやAI CMで連携を検討",
-   "summary": "",
-   "source": "MarkeZine",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-01T08:00+09:00",
-   "collected": "2026-10-01T09:34+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "372dc30cd982",
-   "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/30/accelerating-human-capacity-across-healthcare-with-ai/",
-   "title": "AIで医療全体の人的能力を加速",
-   "summary": "信頼できるAIが、ヘルスケアとライフサイエンスの組織が患者ケアを改善し、発見を加速し、イノベーションを推進するのにどのように役立っているかをご覧ください。",
-   "source": "Microsoft Source",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/09/Healthcare-with-AI-5.jpg",
-   "published": "2026-10-01T07:55+09:00",
-   "collected": "2026-10-02T09:49+09:00",
-   "title_orig": "Accelerating human capacity across healthcare with AI",
-   "summary_orig": "Explore how trusted AI is helping healthcare and life sciences organizations improve patient care, accelerate discovery, and drive innovation."
   }
  ]
 }

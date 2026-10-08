@@ -1,5 +1,47 @@
 [
  {
+  "id": "29ff52732bc5",
+  "url": "https://ascii.jp/elem/000/004/440/4440964/?rss",
+  "title": "ローカルAIエージェント構築を実機で学ぶ GIGABYTEが10月23日に東京で無料ワークショップ",
+  "summary": "GIGABYTEは10月23日、東京・大井町で無料ワークショップ「ACE Tokyo 2026」を開催。ローカルAIエージェント構築や「AI TOP ATOM」の活用を、導入事例と実機ハンズオンで学べる。先着120名、Peatixで事前申込が必要。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/08/4535979/xl/d1ca4b77ed84af52.jpg",
+  "published": "2026-10-08T11:30+09:00",
+  "collected": "2026-10-08T11:41+09:00"
+ },
+ {
+  "id": "a3a7b5e8532d",
+  "url": "https://voix.jp/business-cards/asuene-aip-ax-consulting-launch/",
+  "title": "アスエネの自律型AIエージェントプラットフォーム「ASUENE AIP」と新しいAXコンサルティングの提供開始",
+  "summary": "アスエネ、AIエージェントプラットフォーム「ASUENE AIP」を新たに提供開始 アスエネ株式会社は、自律型AIエージェントプラットフォーム「ASUENE AIP」と「AXコンサルティング」の新サービスを開始した。",
+  "source": "ニュースメディアVOIX",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://voix.jp/wp-content/uploads/2026/10/58538-767-b29a3f7dd530230dbd4cd4bc150f3586-1200x640-1.jpg",
+  "published": "2026-10-08T11:20+09:00",
+  "collected": "2026-10-08T11:41+09:00"
+ },
+ {
+  "id": "8e2a53d90211",
+  "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002119/",
+  "title": "ChatGPT、無料版を含む全ユーザーに「GPT-6」 回答内に“操作できる画面”を生成する「Intelligent UI」搭載",
+  "summary": "OpenAIは、ChatGPTに新モデル「GPT-6」を搭載し順次提供を開始した。テキストに加え図や操作可能なボタン、フォームなどを回答として生成する「Intelligent UI」を導入。思考しながら回答を出力する機能も備える。有料プランから順次提供を始め、無料プランやGoプランにも翌日から展開する。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/08/2000002119/10008812/2048",
+  "published": "2026-10-08T11:09+09:00",
+  "collected": "2026-10-08T11:41+09:00"
+ },
+ {
   "id": "322b47d89ad1",
   "url": "https://ascii.jp/elem/000/004/440/4440937/?rss",
   "title": "Surface Laptop Ultra予約開始、最大1ペタフロップスのAI性能を持つ新ノート",
@@ -40,6 +82,20 @@
   "thumbnail": "https://ascii.jp/img/2026/10/07/4535686/xl/982e2213197915fe.png",
   "published": "2026-10-08T11:00+09:00",
   "collected": "2026-10-08T11:15+09:00"
+ },
+ {
+  "id": "6b2a86e1e107",
+  "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/08/news022.html",
+  "title": "富士通では「Copilot」10万ライセンスの利用率が“9割超え” 「導入したけど使われない」をどう防いだ？",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/08/cover_news022.jpg",
+  "published": "2026-10-08T11:00+09:00",
+  "collected": "2026-10-08T11:41+09:00"
  },
  {
   "id": "b4b0ed28ab53",
@@ -604,6 +660,22 @@
   "collected": "2026-10-08T10:19+09:00",
   "title_orig": "Pinterest expands creator content promotions",
   "summary_orig": "Brands will be able to sponsor creator Pins, boosting exposure and providing more promotional opportunities."
+ },
+ {
+  "id": "9f32045fa5f4",
+  "url": "https://www.adweek.com/media/ai-advertising-physical-world/",
+  "title": "AIが広告を物理的な世界に押し戻している",
+  "summary": "AIがオンラインでの信頼とトラフィックを侵食するにつれて、消費者がそれを避ける方法が少なくなっているにもかかわらず、マーケティング担当者はアウトオブホーム広告の価値を再発見しています。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/GettyImages-2292486613.jpg?w=600&h=315&crop=1",
+  "published": "2026-10-08T06:15+09:00",
+  "collected": "2026-10-08T11:41+09:00",
+  "title_orig": "AI Is Pushing Advertising Back Into the Physical World",
+  "summary_orig": "As AI erodes trust and traffic online, marketers are rediscovering the value of out-of-home advertising—even as consumers have fewer ways to escape it."
  },
  {
   "id": "71148dfed4f0",
@@ -1599,7 +1671,7 @@
   "thumbnail": null,
   "published": "2026-10-07T20:04+09:00",
   "collected": "2026-10-08T11:15+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "3ce36c96c352",
@@ -1674,7 +1746,7 @@
   "thumbnail": null,
   "published": "2026-10-07T18:07+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f81ac359aaf4",
@@ -1719,7 +1791,7 @@
   "thumbnail": null,
   "published": "2026-10-07T17:30+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "a2c9b7579342",
@@ -1748,7 +1820,7 @@
   "thumbnail": null,
   "published": "2026-10-07T17:10+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "690845a7e10b",
@@ -1777,7 +1849,7 @@
   "thumbnail": null,
   "published": "2026-10-07T17:00+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f32b6f1f7116",
@@ -1836,7 +1908,7 @@
   "thumbnail": null,
   "published": "2026-10-07T14:30+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "ad87805b0366",
@@ -1898,7 +1970,7 @@
   "thumbnail": null,
   "published": "2026-10-07T12:00+09:00",
   "collected": "2026-10-08T10:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "8609d1d18944",
