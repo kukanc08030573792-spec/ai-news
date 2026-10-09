@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-09T11:33+09:00",
+  "last_updated": "2026-10-09T11:56+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -46,6 +46,20 @@
  },
  "items": [
   {
+   "id": "9a40f764d1df",
+   "url": "https://gigazine.net/news/20261009-anthropic-policy-update/",
+   "title": "Anthropicが「Claudeに対する持続的かつ不必要な虐待・残酷な行為禁止」などを利用規約に追加",
+   "summary": "Anthropicはモデルの進化やユーザーからのフィードバックを受けて、必要に応じて細かく利用規約の更新を行っています。現地時間2026年10月8日付けで発表されたアップデートは「ほとんどは既存のルールの明確化」を目的としたものですが、新たに、Claudeに対する虐待行為に対処する項目が加わりました。",
+   "source": "GIGAZINE",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://i.gzn.jp/img/2026/10/09/anthropic-policy-update/00_m.jpg",
+   "published": "2026-10-09T11:38+09:00",
+   "collected": "2026-10-09T11:56+09:00"
+  },
+  {
    "id": "d79391fc6e81",
    "url": "https://ascii.jp/elem/000/004/441/4441388/?rss",
    "title": "日本HP、ローカルAIとハイブリッドAIの活用を紹介 新AI PCも披露",
@@ -86,6 +100,20 @@
    "thumbnail": "https://japan.cnet.com/storage/2025/11/25/f3fe0e3733d40e99eaadca187e77f6e9/claude-3_1280x960.jpg",
    "published": "2026-10-09T11:10+09:00",
    "collected": "2026-10-09T11:33+09:00"
+  },
+  {
+   "id": "c3512ccee509",
+   "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002157/",
+   "title": "トランプ米大統領、「AI」という言葉を使う者は「敵」 政府サイト「AI.gov」は「SI GOV」表記に",
+   "summary": "トランプ大統領は「Artificial Intelligence」（AI）という言葉を使う者を敵と見なすと投稿した。政府は代替呼称「Super Intelligence」（SI）への移行を進めており、政策サイト「AI.gov」のロゴ刷新や大統領令への署名、新組織「SIF」の創設など、公式文書での呼称変更を加速させている",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002157/10008939/2048",
+   "published": "2026-10-09T10:59+09:00",
+   "collected": "2026-10-09T11:56+09:00"
   },
   {
    "id": "29bc2367f603",
@@ -349,7 +377,7 @@
    "thumbnail": null,
    "published": "2026-10-09T08:34+09:00",
    "collected": "2026-10-09T10:27+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "summary_orig": "Release: ttok 0.4 ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken library. It hasn't been in updated in a couple of years, but I fi"
   },
   {
@@ -1317,7 +1345,7 @@
    "thumbnail": null,
    "published": "2026-10-08T19:00+09:00",
    "collected": "2026-10-09T10:27+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "YouTube Retention Strategy: How to Hook, Hold, and Convert Viewers",
    "summary_orig": "Want to stop losing YouTube viewers in the first few seconds of every video? Wondering how to structure long-form content that keeps people watching, builds tru"
   },
@@ -1350,7 +1378,7 @@
    "thumbnail": null,
    "published": "2026-10-08T18:30+09:00",
    "collected": "2026-10-09T10:27+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Layout Design With AI, Custom AI Apps, and Industry News",
    "summary_orig": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to mis"
   },
@@ -1459,7 +1487,7 @@
    "thumbnail": null,
    "published": "2026-10-08T16:00+09:00",
    "collected": "2026-10-09T10:27+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "2d89239370ba",
@@ -1488,7 +1516,7 @@
    "thumbnail": null,
    "published": "2026-10-08T15:00+09:00",
    "collected": "2026-10-09T10:27+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "def08189a227",
@@ -9140,34 +9168,6 @@
    "proxy_for": null,
    "thumbnail": "https://img.topics.smt.news.goo.ne.jp/-/20260916102946/img/dmenu_service-brand-logo_200x200.png",
    "published": "2026-10-02T10:24+09:00",
-   "collected": "2026-10-02T10:48+09:00"
-  },
-  {
-   "id": "eb2a3f59b365",
-   "url": "https://ascii.jp/elem/000/004/439/4439454/?rss",
-   "title": "アカツキAIテクノロジーズ、「大洗海上花火大会2026」でロボティクス体験を実施",
-   "summary": "アカツキAIテクノロジーズ、「大洗海上花火大会2026」でロボティクス体験を実施",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
-   "published": "2026-10-02T10:00+09:00",
-   "collected": "2026-10-02T11:15+09:00"
-  },
-  {
-   "id": "960d3f3f976d",
-   "url": "https://ascii.jp/elem/000/004/438/4438701/?rss",
-   "title": "IBM iユーザー向けAIサービスに「CData Connect AI」が採用 350以上のデータソースとセキュアに接続",
-   "summary": "CData Software Japanは、ベル・データが提供する「IBM i」ユーザー向けのAIサービス「生成AI連携サービス for i」の大型アップデートにおいて、同社のマネージドMCPプラットフォーム「CData Connect AI」が採用されたことを発表した。",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2026/09/30/4532299/xl/15cafa441f6c9bfd.jpg",
-   "published": "2026-10-02T10:00+09:00",
    "collected": "2026-10-02T10:48+09:00"
   }
  ]
