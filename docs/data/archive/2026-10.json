@@ -58,7 +58,7 @@
   "thumbnail": null,
   "published": "2026-10-10T07:48+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Deno is joining Cloudflare",
   "summary_orig": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern fr"
  },
@@ -303,6 +303,38 @@
   "summary_orig": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired t"
  },
  {
+  "id": "7ac570512ee2",
+  "url": "https://www.adweek.com/brand-marketing/building-the-right-team-is-more-important-than-ever-for-marketers/",
+  "title": "適切なチームを構築することは、マーケティング担当者にとってこれまで以上に重要です",
+  "summary": "この投稿はWeber Shandwickと提携して作成されました。AIがワークフローを合理化し、マーケティング予算を厳しくするにつれて、人間のコラボレーションとパートナーシップが維持されます",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/AWH_AQ_100526_WeberShandwick_group.jpeg?w=600&h=315&crop=1",
+  "published": "2026-10-10T01:37+09:00",
+  "collected": "2026-10-10T10:54+09:00",
+  "title_orig": "Building the Right Team Is More Important Than Ever for Marketers",
+  "summary_orig": "This post was created in partnership with Weber Shandwick As AI streamlines workflows and marketing budgets tighten, human collaboration and partnership remain"
+ },
+ {
+  "id": "25a77ecfe97e",
+  "url": "https://www.adweek.com/agencies/award-winning-agencies-talk-tiktok/",
+  "title": "受賞歴のあるエージェンシーがTikTokについて語る",
+  "summary": "この投稿は、TikTok for Businessと提携して作成されました。メディアの購入は、広告を掲載するだけではなく、ブランドがオーディエンスとつながるのに役立つはずです。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/AWH_AQ_100526_TikTok_group.jpg?w=600&h=315&crop=1",
+  "published": "2026-10-10T01:37+09:00",
+  "collected": "2026-10-10T10:54+09:00",
+  "title_orig": "Award-Winning Agencies Talk TikTok",
+  "summary_orig": "This post was created in partnership with TikTok for Business Media buying should be more than placing ads—it should help brands connect with audiences, navigat"
+ },
+ {
   "id": "e5bad84548ea",
   "url": "https://developer.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
   "title": "AIコーディングエージェントをテクノロジーの使用でより良くする方法",
@@ -395,7 +427,7 @@
   "thumbnail": null,
   "published": "2026-10-10T00:02+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting Matthew Green",
   "summary_orig": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in"
  },
@@ -628,7 +660,7 @@
   "thumbnail": null,
   "published": "2026-10-09T18:15+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "7771bfdab537",
@@ -659,7 +691,22 @@
   "thumbnail": null,
   "published": "2026-10-09T18:00+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
+ },
+ {
+  "id": "e94ba206cb09",
+  "url": "https://news.nicovideo.jp/watch/nw19864364?news_ref=watch_20_nw19784422",
+  "title": "【2026年10月21日（水）～10月23日（金）＠幕張メッセ】生成AI時代に求められるのは「使える人材」ではなく「成",
+  "summary": "【2026年10月21日（水）～10月23日（金）＠幕張メッセ】生成AI時代に求められるのは「使える人材」ではなく「成",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-09T18:00+09:00",
+  "collected": "2026-10-10T10:54+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "620751f65362",
@@ -674,7 +721,7 @@
   "thumbnail": null,
   "published": "2026-10-09T17:45+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "86cd61695620",
@@ -811,7 +858,7 @@
   "thumbnail": null,
   "published": "2026-10-09T15:30+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "66eeb5a13b90",
@@ -896,7 +943,7 @@
   "thumbnail": null,
   "published": "2026-10-09T12:45+09:00",
   "collected": "2026-10-10T10:15+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "2b1c340df9f3",
@@ -1168,7 +1215,7 @@
   "thumbnail": null,
   "published": "2026-10-09T09:34+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "summary_orig": "Release: ttok 1.0 I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokeniz"
  },
  {
@@ -1494,6 +1541,22 @@
   "collected": "2026-10-09T10:14+09:00",
   "title_orig": "Threads recognizes top posts with Gems",
   "summary_orig": "The in-app rewards system will automatically select original posts and replies that bring value and spark discussion, per the company."
+ },
+ {
+  "id": "9c42184f2a11",
+  "url": "https://www.socialmediatoday.com/news/threads-recognizes-top-posts-with-in-app-gems-program/832577/",
+  "title": "スレッドは、アプリ内Gemsプログラムでトップ投稿を認識します",
+  "summary": "Gemsは、企業ごとに、価値をもたらし、ディスカッションを刺激するオリジナルの投稿と返信を自動的に選択します。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/MuU3QJ5GggjT22HdgNuKptzglpGHt21w2MLX7skS3AQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHJlYWRzX2dlbXMyLnBuZw==.webp",
+  "published": "2026-10-09T06:58+09:00",
+  "collected": "2026-10-10T10:54+09:00",
+  "title_orig": "Threads recognizes top posts with in-app Gems program",
+  "summary_orig": "Gems automatically selects original posts and replies that bring value and spark discussion, per the company."
  },
  {
   "id": "df7e5433800b",
@@ -4725,6 +4788,20 @@
   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/cio_conversation_ai-avatar_shi_ec_ogp.jpg",
   "published": "2026-10-07T13:26+09:00",
   "collected": "2026-10-08T10:19+09:00"
+ },
+ {
+  "id": "07685bd0bfc0",
+  "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002084/",
+  "title": "Anthropic、セキュリティ専門家向け「Cyber Verification Program」を拡充 「Claude Mythos 5.1」も対象に",
+  "summary": "Anthropicは、セキュリティ専門家向け「Cyber Verification Program」（CVP）を拡充し、防御・レッドチーム・重要インフラ向けの3段階アクセス枠を新設した。脆弱性発見で実績を上げた「Project Glasswing」と統合する。",
+  "source": "ITmedia",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/07/2000002084/10008680/2048",
+  "published": "2026-10-07T12:52+09:00",
+  "collected": "2026-10-10T10:54+09:00"
  },
  {
   "id": "13ef9353a097",

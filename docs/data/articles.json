@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-10T10:15+09:00",
+  "last_updated": "2026-10-10T10:54+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -104,7 +104,7 @@
    "thumbnail": null,
    "published": "2026-10-10T07:48+09:00",
    "collected": "2026-10-10T09:54+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Deno is joining Cloudflare",
    "summary_orig": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern fr"
   },
@@ -349,6 +349,38 @@
    "summary_orig": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired t"
   },
   {
+   "id": "7ac570512ee2",
+   "url": "https://www.adweek.com/brand-marketing/building-the-right-team-is-more-important-than-ever-for-marketers/",
+   "title": "適切なチームを構築することは、マーケティング担当者にとってこれまで以上に重要です",
+   "summary": "この投稿はWeber Shandwickと提携して作成されました。AIがワークフローを合理化し、マーケティング予算を厳しくするにつれて、人間のコラボレーションとパートナーシップが維持されます",
+   "source": "Adweek（ソーシャル）",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/AWH_AQ_100526_WeberShandwick_group.jpeg?w=600&h=315&crop=1",
+   "published": "2026-10-10T01:37+09:00",
+   "collected": "2026-10-10T10:54+09:00",
+   "title_orig": "Building the Right Team Is More Important Than Ever for Marketers",
+   "summary_orig": "This post was created in partnership with Weber Shandwick As AI streamlines workflows and marketing budgets tighten, human collaboration and partnership remain"
+  },
+  {
+   "id": "25a77ecfe97e",
+   "url": "https://www.adweek.com/agencies/award-winning-agencies-talk-tiktok/",
+   "title": "受賞歴のあるエージェンシーがTikTokについて語る",
+   "summary": "この投稿は、TikTok for Businessと提携して作成されました。メディアの購入は、広告を掲載するだけではなく、ブランドがオーディエンスとつながるのに役立つはずです。",
+   "source": "Adweek（ソーシャル）",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/AWH_AQ_100526_TikTok_group.jpg?w=600&h=315&crop=1",
+   "published": "2026-10-10T01:37+09:00",
+   "collected": "2026-10-10T10:54+09:00",
+   "title_orig": "Award-Winning Agencies Talk TikTok",
+   "summary_orig": "This post was created in partnership with TikTok for Business Media buying should be more than placing ads—it should help brands connect with audiences, navigat"
+  },
+  {
    "id": "e5bad84548ea",
    "url": "https://developer.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
    "title": "AIコーディングエージェントをテクノロジーの使用でより良くする方法",
@@ -441,7 +473,7 @@
    "thumbnail": null,
    "published": "2026-10-10T00:02+09:00",
    "collected": "2026-10-10T09:54+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting Matthew Green",
    "summary_orig": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in"
   },
@@ -674,7 +706,22 @@
    "thumbnail": null,
    "published": "2026-10-09T18:15+09:00",
    "collected": "2026-10-10T09:54+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
+  },
+  {
+   "id": "e94ba206cb09",
+   "url": "https://news.nicovideo.jp/watch/nw19864364?news_ref=watch_20_nw19784422",
+   "title": "【2026年10月21日（水）～10月23日（金）＠幕張メッセ】生成AI時代に求められるのは「使える人材」ではなく「成",
+   "summary": "【2026年10月21日（水）～10月23日（金）＠幕張メッセ】生成AI時代に求められるのは「使える人材」ではなく「成",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-09T18:00+09:00",
+   "collected": "2026-10-10T10:54+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "7771bfdab537",
@@ -705,7 +752,7 @@
    "thumbnail": null,
    "published": "2026-10-09T18:00+09:00",
    "collected": "2026-10-10T09:54+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "620751f65362",
@@ -720,7 +767,7 @@
    "thumbnail": null,
    "published": "2026-10-09T17:45+09:00",
    "collected": "2026-10-10T09:54+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "86cd61695620",
@@ -857,7 +904,7 @@
    "thumbnail": null,
    "published": "2026-10-09T15:30+09:00",
    "collected": "2026-10-10T09:54+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "66eeb5a13b90",
@@ -942,7 +989,7 @@
    "thumbnail": null,
    "published": "2026-10-09T12:45+09:00",
    "collected": "2026-10-10T10:15+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "2b1c340df9f3",
@@ -1214,7 +1261,7 @@
    "thumbnail": null,
    "published": "2026-10-09T09:34+09:00",
    "collected": "2026-10-10T09:54+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "summary_orig": "Release: ttok 1.0 I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokeniz"
   },
   {
@@ -1524,6 +1571,22 @@
    "thumbnail": "https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/news2026/1009_note.jpg?itok=NR8GmCFO",
    "published": "2026-10-09T07:00+09:00",
    "collected": "2026-10-09T10:14+09:00"
+  },
+  {
+   "id": "9c42184f2a11",
+   "url": "https://www.socialmediatoday.com/news/threads-recognizes-top-posts-with-in-app-gems-program/832577/",
+   "title": "スレッドは、アプリ内Gemsプログラムでトップ投稿を認識します",
+   "summary": "Gemsは、企業ごとに、価値をもたらし、ディスカッションを刺激するオリジナルの投稿と返信を自動的に選択します。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/MuU3QJ5GggjT22HdgNuKptzglpGHt21w2MLX7skS3AQ/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHJlYWRzX2dlbXMyLnBuZw==.webp",
+   "published": "2026-10-09T06:58+09:00",
+   "collected": "2026-10-10T10:54+09:00",
+   "title_orig": "Threads recognizes top posts with in-app Gems program",
+   "summary_orig": "Gems automatically selects original posts and replies that bring value and spark discussion, per the company."
   },
   {
    "id": "1b8c7afb1556",
@@ -4771,6 +4834,20 @@
    "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/cio_conversation_ai-avatar_shi_ec_ogp.jpg",
    "published": "2026-10-07T13:26+09:00",
    "collected": "2026-10-08T10:19+09:00"
+  },
+  {
+   "id": "07685bd0bfc0",
+   "url": "https://www.itmedia.co.jp/news/article/2610/07/2000002084/",
+   "title": "Anthropic、セキュリティ専門家向け「Cyber Verification Program」を拡充 「Claude Mythos 5.1」も対象に",
+   "summary": "Anthropicは、セキュリティ専門家向け「Cyber Verification Program」（CVP）を拡充し、防御・レッドチーム・重要インフラ向けの3段階アクセス枠を新設した。脆弱性発見で実績を上げた「Project Glasswing」と統合する。",
+   "source": "ITmedia",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/07/2000002084/10008680/2048",
+   "published": "2026-10-07T12:52+09:00",
+   "collected": "2026-10-10T10:54+09:00"
   },
   {
    "id": "13ef9353a097",
@@ -9109,77 +9186,6 @@
    "proxy_for": null,
    "thumbnail": "https://ascii.jp/img/2026/10/02/4533318/xl/d63ce6e39e824f71.jpg?20200122",
    "published": "2026-10-03T18:00+09:00",
-   "collected": "2026-10-04T08:47+09:00"
-  },
-  {
-   "id": "4defb0111df9",
-   "url": "https://ascii.jp/elem/000/004/437/4437863/?rss",
-   "title": "【決定版・大和統治の軌跡ベスト5】豊臣秀長が大和に残した国づくり施策！ 「秀長の国」「和を以て、大和をなす」の感動を聖地で追体験する",
-   "summary": "政治、経済、インフラ、そして現代のSNS映えが交差する「メタ観光」の視点で、秀長の行政的施策が生んだ大和のスポットベスト5をお届けする。",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2026/09/28/4531150/xl/0843089b92b91f3c.png?20200122",
-   "published": "2026-10-03T17:00+09:00",
-   "collected": "2026-10-04T08:47+09:00"
-  },
-  {
-   "id": "85da2135820f",
-   "url": "https://ascii.jp/elem/000/004/439/4439805/?rss",
-   "title": "MEO対策AI「口コミロボ(TM)」、スマホ修理店に続きパソコン修理（PC修理）店向けの口コミ質問を10月3日から提供 Google広告が出しにくい修理店のMEO対策を支援",
-   "summary": "MEO対策AI「口コミロボ(TM)」、スマホ修理店に続きパソコン修理（PC修理）店向けの口コミ質問を10月3日から提供 Google広告が出しにくい修理店のMEO対策を支援",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
-   "published": "2026-10-03T15:28+09:00",
-   "collected": "2026-10-04T08:47+09:00"
-  },
-  {
-   "id": "cdde01e2149e",
-   "url": "https://news.nicovideo.jp/watch/nw19840668?news_ref=watch_60_nw19142680",
-   "title": "Polimill、大阪府河内長野市と「生成AIの利活用等に係る連携協定」を締結",
-   "summary": "Polimill、大阪府河内長野市と「生成AIの利活用等に係る連携協定」を締結",
-   "source": "ニコニコニュース",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-03T14:21+09:00",
-   "collected": "2026-10-04T08:47+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "00d51da92d51",
-   "url": "https://news.mynavi.jp/techplus/article/20261003-5062939/",
-   "title": "Anthropic、IPO資料の約80ページをAIリスクに割く - 「人類存亡のリスク」にも言及",
-   "summary": "Anthropicが新規株式公開（IPO）に向けて作成した資料で、高度なAIシステムが人類に「壊滅的、あるいは存亡に関わるリスク」をもたらす可能性があると投資家に警告していることがわかった。Reutersが資料を確認して報じた。",
-   "source": "マイナビニュース",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://news.mynavi.jp/techplus/article/20261003-5062939/ogp_images/ogp.jpg",
-   "published": "2026-10-03T14:20+09:00",
-   "collected": "2026-10-04T08:47+09:00"
-  },
-  {
-   "id": "33c9bdd9c2c7",
-   "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
-   "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応",
-   "summary": "Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/03/2000001984/10008346/2048",
-   "published": "2026-10-03T10:41+09:00",
    "collected": "2026-10-04T08:47+09:00"
   }
  ]
