@@ -58,7 +58,7 @@
   "thumbnail": null,
   "published": "2026-10-10T07:48+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Deno is joining Cloudflare",
   "summary_orig": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern fr"
  },
@@ -395,7 +395,7 @@
   "thumbnail": null,
   "published": "2026-10-10T00:02+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Quoting Matthew Green",
   "summary_orig": "Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in"
  },
@@ -628,7 +628,7 @@
   "thumbnail": null,
   "published": "2026-10-09T18:15+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "7771bfdab537",
@@ -659,7 +659,7 @@
   "thumbnail": null,
   "published": "2026-10-09T18:00+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "620751f65362",
@@ -674,7 +674,7 @@
   "thumbnail": null,
   "published": "2026-10-09T17:45+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "86cd61695620",
@@ -811,7 +811,7 @@
   "thumbnail": null,
   "published": "2026-10-09T15:30+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "66eeb5a13b90",
@@ -828,6 +828,34 @@
   "collected": "2026-10-10T09:54+09:00"
  },
  {
+  "id": "2a52218110d2",
+  "url": "https://prtimes.jp/main/html/rd/p/000000141.000050750.html",
+  "title": "AIデータエージェント「Squadbase」、データの取り込みから分析・レポート配信までを自動化する「Automation機能」の提供を開始",
+  "summary": "AIデータエージェント「Squadbase」、データの取り込みから分析・レポート配信までを自動化する「Automation機能」の提供を開始",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/50750/141/50750-141-fead840f3285e2a8c95953a4d8b4e812-3600x1890.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-09T14:00+09:00",
+  "collected": "2026-10-10T10:15+09:00"
+ },
+ {
+  "id": "429af05064c5",
+  "url": "https://gigazine.net/news/20261009-gemini-agent/",
+  "title": "Googleが仕事を自動で進めるAI「Geminiエージェント」を発表、情報調査・資料作成・プログラミングまで対応",
+  "summary": "Googleが2026年10月8日に開催したイベント「Gemini at Work 2026」で、仕事に関するさまざまな作業をまとめて任せられる汎用AIエージェント「Geminiエージェント」を発表しました。",
+  "source": "GIGAZINE",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://i.gzn.jp/img/2026/10/09/gemini-agent/00.png",
+  "published": "2026-10-09T13:45+09:00",
+  "collected": "2026-10-10T10:15+09:00"
+ },
+ {
   "id": "3b7a582e1d5f",
   "url": "https://article.auone.jp/07942304-f1b2-4c88-8718-8c2ecfa3d9b1",
   "title": "なぜAIへの「執拗な虐待」を禁止？ AnthropicがClaudeの利用ポリシーを改訂―背景にはAIの意識や苦痛を考える「モデル福祉」研究の可能性も",
@@ -842,6 +870,63 @@
   "collected": "2026-10-10T09:54+09:00"
  },
  {
+  "id": "0be498340adf",
+  "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
+  "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」 OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
+  "summary": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002164/10008953/2048",
+  "published": "2026-10-09T13:20+09:00",
+  "collected": "2026-10-10T10:15+09:00"
+ },
+ {
+  "id": "ba7994372122",
+  "url": "https://markezine.jp/article/detail/77815",
+  "title": "変化の兆しから新たな価値を導く。BICP、AI活用型マーケ支援サービス「7BOX AI」を提供",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-09T12:45+09:00",
+  "collected": "2026-10-10T10:15+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "2b1c340df9f3",
+  "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/",
+  "title": "“AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査 依存強まる傾向に",
+  "summary": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002121/10008821/2048",
+  "published": "2026-10-09T12:20+09:00",
+  "collected": "2026-10-10T10:15+09:00"
+ },
+ {
+  "id": "1ad319c3c886",
+  "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
+  "title": "履歴書100通に1通「AIだけが読める文字」 20万件調査でわかった“就活ハック”の手口 米研究",
+  "summary": "米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based R",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002102/10008744/2048",
+  "published": "2026-10-09T12:00+09:00",
+  "collected": "2026-10-10T10:15+09:00"
+ },
+ {
   "id": "9a40f764d1df",
   "url": "https://gigazine.net/news/20261009-anthropic-policy-update/",
   "title": "Anthropicが「Claudeに対する持続的かつ不必要な虐待・残酷な行為禁止」などを利用規約に追加",
@@ -854,6 +939,20 @@
   "thumbnail": "https://i.gzn.jp/img/2026/10/09/anthropic-policy-update/00_m.jpg",
   "published": "2026-10-09T11:38+09:00",
   "collected": "2026-10-09T11:56+09:00"
+ },
+ {
+  "id": "7f3a4a6b05be",
+  "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002159/",
+  "title": "トランプ大統領、マスク氏やフアン氏ら6人に米国家科学賞と国家技術革新賞を授与",
+  "summary": "米トランプ政権は科学サミットを開催し、トランプ大統領がイーロン・マスク氏やNVIDIAのジェンスン・フアンCEOら6人に国家科学賞と国家技術革新賞を授与した。半導体やSI（旧AI）、宇宙探査、クラウドなどの分野で米国のリーダーシップと技術革新に貢献した功績を最高栄誉として称えた。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/09/2000002159/10008938/2048",
+  "published": "2026-10-09T11:33+09:00",
+  "collected": "2026-10-10T10:15+09:00"
  },
  {
   "id": "d79391fc6e81",
@@ -882,6 +981,20 @@
   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/61382/235/61382-235-c4b784cc89dec372d8e26f1c8776fc33-680x381.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "published": "2026-10-09T11:17+09:00",
   "collected": "2026-10-09T11:33+09:00"
+ },
+ {
+  "id": "12f006445b04",
+  "url": "https://topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020261009024?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch3",
+  "title": "テリロジーHD---テリロジーサービスウェアがINTEPとAIエージェント「palton AI」の販売代理店契約を締結",
+  "summary": "テリロジーHD---テリロジーサービスウェアがINTEPとAIエージェント「palton AI」の販売代理店契約を締結",
+  "source": "ｄメニューニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://img.topics.smt.news.goo.ne.jp/-/20261009110318/img/dmenu_service-brand-logo_200x200.png",
+  "published": "2026-10-09T11:12+09:00",
+  "collected": "2026-10-10T10:15+09:00"
  },
  {
   "id": "492225a85be3",
@@ -1055,7 +1168,7 @@
   "thumbnail": null,
   "published": "2026-10-09T09:34+09:00",
   "collected": "2026-10-10T09:54+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "summary_orig": "Release: ttok 1.0 I released ttok 0.4 , ran uv tool upgrade ttok , piped a file into the new version... and realized that it was defaulting to the GPT-4 tokeniz"
  },
  {
