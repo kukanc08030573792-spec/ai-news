@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-10T10:54+09:00",
+  "last_updated": "2026-10-10T11:19+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,23 @@
   ]
  },
  "items": [
+  {
+   "id": "d78bb69c4925",
+   "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+   "title": "ニューヨーク・タイムズの引用",
+   "summary": "Anthropicは、金曜日のブログ投稿でAIエージェントの活動を詳しく説明したが、ターゲットとなるウェブサイトには名前を付けていない。しかし、インシデンを知っている2つの情報源は",
+   "source": "Simon Willison",
+   "type": "article",
+   "tier": "voice",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-10T11:04+09:00",
+   "collected": "2026-10-10T11:19+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Quoting The New York Times",
+   "summary_orig": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the inciden"
+  },
   {
    "id": "d2e5912a3db6",
    "url": "https://www.latent.space/p/biohub-deepmind",
@@ -636,6 +653,48 @@
    "summary_orig": "Recent tracking data found AI Overviews on most brand-name searches it checked. The post AI Overviews Have Spread To Most Big-Brand Searches appeared first on S"
   },
   {
+   "id": "aaded7d2f05a",
+   "url": "https://ascii.jp/elem/000/004/441/4441720/?rss",
+   "title": "【経営者限定・参加無料】「はじめてのClaude Code」実践会を10月15日に開催。初期設定とフォルダ理解を自分のPCで",
+   "summary": "【経営者限定・参加無料】「はじめてのClaude Code」実践会を10月15日に開催。初期設定とフォルダ理解を自分のPCで",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-09T20:16+09:00",
+   "collected": "2026-10-10T11:19+09:00"
+  },
+  {
+   "id": "27339cec25de",
+   "url": "https://ascii.jp/elem/000/004/441/4441721/?rss",
+   "title": "【Kalodataウィークリー】日本TikTok Shop市場、GMVが前週比4.06%増 4週連続の成長（9 月 28 日週）",
+   "summary": "【Kalodataウィークリー】日本TikTok Shop市場、GMVが前週比4.06%増 4週連続の成長（9 月 28 日週）",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-09T20:10+09:00",
+   "collected": "2026-10-10T11:19+09:00"
+  },
+  {
+   "id": "d93911c643ef",
+   "url": "https://ascii.jp/elem/000/004/441/4441722/?rss",
+   "title": "Kizuna AI New Single「モンスターファクトリー」Release＆MV公開！自身初のハロウィン楽曲",
+   "summary": "Kizuna AI New Single「モンスターファクトリー」Release＆MV公開！自身初のハロウィン楽曲",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-09T20:00+09:00",
+   "collected": "2026-10-10T11:19+09:00"
+  },
+  {
    "id": "6dabd838c275",
    "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/",
    "title": "ChatGPT、ついに音声ファイルに対応 文字起こしや要約などが可能に 有料ユーザー向け",
@@ -721,7 +780,7 @@
    "thumbnail": null,
    "published": "2026-10-09T18:00+09:00",
    "collected": "2026-10-10T10:54+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "7771bfdab537",
@@ -989,7 +1048,7 @@
    "thumbnail": null,
    "published": "2026-10-09T12:45+09:00",
    "collected": "2026-10-10T10:15+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "2b1c340df9f3",
@@ -9124,68 +9183,6 @@
    "proxy_for": "Anthropic",
    "thumbnail": "https://www.zaikei.co.jp/files/general/202610032347253of0big.jpg",
    "published": "2026-10-03T23:46+09:00",
-   "collected": "2026-10-04T08:47+09:00"
-  },
-  {
-   "id": "91c2390ce603",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-   "title": "OpenAIの安全担当者が辞め、アラームを鳴らしています",
-   "summary": "デビッド・ロビンソンは、OpenAIのすべての主要なモデルリリースに付随する安全性レポートを書いていました。今週、彼は自分のポジションを辞任し、今はスピーチをしています。",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "published": "2026-10-03T23:31+09:00",
-   "collected": "2026-10-04T08:47+09:00",
-   "title_orig": "An OpenAI safety employee has quit and is sounding the alarm",
-   "summary_orig": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaki"
-  },
-  {
-   "id": "9a415d111d44",
-   "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "title": "あなたのテキストメッセージに存在できるすべてのAIエージェント",
-   "summary": "一般アシスタントから、家族、旅行、仕事用に設計されたエージェントまで、テキストメッセージに存在できる最も注目すべきAIエージェントのリストを作成しました。",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-   "published": "2026-10-03T23:00+09:00",
-   "collected": "2026-10-04T08:47+09:00",
-   "title_orig": "All the AI agents that can live in your text messages",
-   "summary_orig": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-  },
-  {
-   "id": "3d79eb44aa60",
-   "url": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
-   "title": "Google Wants AI Content Fact - Checked、 Gemini UTM Tags – SEO Pulse via @ sejournal、 @ MattGS",
-   "summary": "GoogleはAIコンテンツガイダンスに事実確認を追加し、GeminiのリンクにはUTMタグが表示され、デスクトップのCTRは第2四半期に低下し、裁判官は2つのAI訴訟を却下した。Google Waの投稿",
-   "source": "Search Engine Journal",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/seo-pulse-october-1-2026.jpg",
-   "published": "2026-10-03T21:00+09:00",
-   "collected": "2026-10-04T08:47+09:00",
-   "title_orig": "Google Wants AI Content Fact - Checked、Gemini UTM Tags – SEO Pulse via @ sejournal、@ MattGS",
-   "summary_orig": "Google adds fact-checking to its AI content guidance, Gemini links show UTM tags, desktop CTR fell in Q2, and a judge dismisses two AI suits. The post Google Wa"
-  },
-  {
-   "id": "3efa150870b2",
-   "url": "https://ascii.jp/elem/000/004/439/4439744/?rss",
-   "title": "AIボイスレコーダー買ってから、“ひとりでずっと”スマホに話しかけ続けてます。",
-   "summary": "「思いつきをすぐ残したい」「口頭指示を記録したい」。生活から仕事まで、すべて記録してくれる専属秘書がいたらと妄想したことはありませんか？ SwitchBotの「AIマインドクリップ」は、そんな貴方にピッタリのガジェットです！",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2026/10/02/4533318/xl/d63ce6e39e824f71.jpg?20200122",
-   "published": "2026-10-03T18:00+09:00",
    "collected": "2026-10-04T08:47+09:00"
   }
  ]
