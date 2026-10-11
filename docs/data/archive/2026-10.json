@@ -1,5 +1,22 @@
 [
  {
+  "id": "e179bee0d893",
+  "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+  "title": "ドワーフフォートレスはバージョン管理を使用するようになりました",
+  "summary": "少し前に、ドワーフフォートレスがバージョン管理を使用していなかったと聞いたことがあります。その事実は、私が持っているその固有の複雑さを考えると、私の頭の中にありました",
+  "source": "Simon Willison",
+  "type": "article",
+  "tier": "voice",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-11T09:52+09:00",
+  "collected": "2026-10-11T10:14+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Dwarf Fortress uses version control now",
+  "summary_orig": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I hav"
+ },
+ {
   "id": "24d721d47322",
   "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
   "title": "Python 3.15.0がactions/python - versionsに追加されました",
@@ -12,7 +29,7 @@
   "thumbnail": null,
   "published": "2026-10-11T08:58+09:00",
   "collected": "2026-10-11T09:15+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Python 3.15.0 added to actions/python-versions",
   "summary_orig": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: C"
  },
@@ -1075,7 +1092,7 @@
   "thumbnail": null,
   "published": "2026-10-09T17:07+09:00",
   "collected": "2026-10-11T09:15+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "6b90f1c044c4",
@@ -2575,7 +2592,7 @@
   "thumbnail": null,
   "published": "2026-10-08T22:30+09:00",
   "collected": "2026-10-11T09:15+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "19e26c83b268",
