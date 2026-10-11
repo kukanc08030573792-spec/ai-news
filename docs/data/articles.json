@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-11T09:15+09:00",
+  "last_updated": "2026-10-11T09:29+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -58,7 +58,7 @@
    "thumbnail": null,
    "published": "2026-10-11T08:58+09:00",
    "collected": "2026-10-11T09:15+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Python 3.15.0 added to actions/python-versions",
    "summary_orig": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: C"
   },
@@ -292,7 +292,7 @@
    "thumbnail": null,
    "published": "2026-10-10T11:04+09:00",
    "collected": "2026-10-10T11:19+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting The New York Times",
    "summary_orig": "Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the inciden"
   },
@@ -1121,7 +1121,7 @@
    "thumbnail": null,
    "published": "2026-10-09T17:07+09:00",
    "collected": "2026-10-11T09:15+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "6b90f1c044c4",
@@ -2621,7 +2621,7 @@
    "thumbnail": null,
    "published": "2026-10-08T22:30+09:00",
    "collected": "2026-10-11T09:15+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "19e26c83b268",
