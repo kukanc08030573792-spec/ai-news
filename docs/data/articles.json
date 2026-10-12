@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-12T10:46+09:00",
+  "last_updated": "2026-10-12T11:23+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,20 @@
   ]
  },
  "items": [
+  {
+   "id": "cb6ed1a515dc",
+   "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/",
+   "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
+   "summary": "MicrosoftのナデラCEOは、SIモデルを組織の内部リスクと同様に扱い、統制の仕組みをモデル外部に構築すべきだと提言した。モデルの多様性や人間による強制停止、証拠の記録など7つの設計原則を提示し、モデル提供者の保証に頼らず知能の供給と実行権限を分離する安全策を訴えた。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/12/2000002195/10009088/2048",
+   "published": "2026-10-12T10:26+09:00",
+   "collected": "2026-10-12T11:23+09:00"
+  },
   {
    "id": "4f625cb4c432",
    "url": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
@@ -216,6 +230,20 @@
    "summary_orig": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break"
   },
   {
+   "id": "dbaa1a2917df",
+   "url": "https://ascii.jp/elem/000/004/441/4441809/?rss",
+   "title": "株式会社harvest、300名のママインフルエンサーとのネットワークを活かしたECマーケティング支援を展開",
+   "summary": "株式会社harvest、300名のママインフルエンサーとのネットワークを活かしたECマーケティング支援を展開",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-11T22:35+09:00",
+   "collected": "2026-10-12T11:23+09:00"
+  },
+  {
    "id": "893f2ecf826c",
    "url": "https://news.infoseek.co.jp/article/naigaitimes_584895/",
    "title": "AIへの暴言や憂さ晴らしも許されないのか…Claude開発元が「虐待行為」禁止を明文化",
@@ -286,6 +314,20 @@
    "thumbnail": "https://www.niikei.jp/wp-content/uploads/2026/10/51909c82322621966108f8ae8436a8bb.png",
    "published": "2026-10-11T15:56+09:00",
    "collected": "2026-10-12T09:34+09:00"
+  },
+  {
+   "id": "baa6ce46dfce",
+   "url": "https://ledge.ai/articles/claude_diary_threat_police_report",
+   "title": "Claudeを「日記」に使った米女性が逮捕 銃撃の脅迫をAnthropicが人間の審査後に通報",
+   "summary": "AI・人工知能関連のニュースやトレンドを高頻度で配信！最新ニュースやインタビュー、イベントレポートなどAIに関するさまざまな情報を独自の切り口で掲載",
+   "source": "Ledge.ai",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c3ee6a31_a720_456f_a7c3_dad58c20a020_388d3cfca6/c3ee6a31_a720_456f_a7c3_dad58c20a020_388d3cfca6.jpg",
+   "published": "2026-10-11T12:09+09:00",
+   "collected": "2026-10-12T11:23+09:00"
   },
   {
    "id": "e179bee0d893",
@@ -1599,6 +1641,20 @@
    "published": "2026-10-09T12:45+09:00",
    "collected": "2026-10-10T10:15+09:00",
    "_thumb_tries": 3
+  },
+  {
+   "id": "6e861662b5b0",
+   "url": "https://otakuma.net/archives/2026100903.html",
+   "title": "AIをいじめてはいけません Anthropicが「AIへの虐待」を禁止へ",
+   "summary": "米AI企業のAnthropic（アンソロピック）は10月8日、対話型AI「Claude（クロード）」の利用ポリシーを改定すると発表しました。新たに盛り込まれたのは、AIに対する継続的で不必要な「虐待的・残酷な振る舞い」を禁止する規定です。",
+   "source": "おたくま経済新聞",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://otakuma.net/wp/wp-content/uploads/2026/10/anthropic-ai-abuse-policy-update-20261008.jpg",
+   "published": "2026-10-09T12:38+09:00",
+   "collected": "2026-10-12T11:23+09:00"
   },
   {
    "id": "2b1c340df9f3",
@@ -3363,6 +3419,20 @@
    "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/jankara01.jpg",
    "published": "2026-10-08T12:13+09:00",
    "collected": "2026-10-09T10:27+09:00"
+  },
+  {
+   "id": "e5a6b011c8fe",
+   "url": "https://prtimes.jp/main/html/rd/p/000000417.000073671.html",
+   "title": "法人向けスライド生成AI「ChatSense」、複数ページのデザイン統一を強化 | 株式会社ナレッジセンスのプレスリリース",
+   "summary": "法人向けスライド生成AI「ChatSense」、複数ページのデザイン統一を強化",
+   "source": "PR TIMES",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/73671/417/73671-417-59c559dad2228f9a9e82df00e0804a34-1673x940.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-08T12:05+09:00",
+   "collected": "2026-10-12T11:23+09:00"
   },
   {
    "id": "1912d47126d1",
@@ -9122,76 +9192,6 @@
    "proxy_for": null,
    "thumbnail": "https://ascii.jp/img/2026/10/05/4534129/xl/86f89d76cd582831.jpg?20200122",
    "published": "2026-10-05T10:50+09:00",
-   "collected": "2026-10-05T11:00+09:00"
-  },
-  {
-   "id": "f04b9afb5e69",
-   "url": "https://prtimes.jp/main/html/rd/p/000000046.000053139.html",
-   "title": "HRbase、労務専門AIエージェントのMCP連携を開始 Claudeから労務の専門知識を活用可能に",
-   "summary": "HRbase、労務専門AIエージェントのMCP連携を開始　Claudeから労務の専門知識を活用可能に",
-   "source": "prtimes.jp",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/53139/46/53139-46-bb4b243e4a5fc5e6d65a116955fe0c55-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-10-05T10:30+09:00",
-   "collected": "2026-10-05T11:00+09:00"
-  },
-  {
-   "id": "c8541f2ccf36",
-   "url": "https://ascii.jp/elem/000/004/438/4438869/?rss",
-   "title": "3年10ヵ月で日本は周回遅れに！ フィジカルAIにおける日本の現在地と、高市首相が国家目標として語るAIロボット1000万台",
-   "summary": "東京・渋谷のセルリアンタワー東急ホテルで「第4回 GMO大会議・秋・フィジカルAI 2026」が開催された。今年は一歩進み、AIロボットをどう産業に育てるのかという具体論が交わされた。高市首相や片山財務大臣もビデオメッセージで訴えかける。",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2026/10/01/4532440/xl/9d07f8d57ce867c6.jpg?20200122",
-   "published": "2026-10-05T10:30+09:00",
-   "collected": "2026-10-05T11:00+09:00"
-  },
-  {
-   "id": "3ff51e667637",
-   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/05/news005.html",
-   "title": "RPAの次はどうする？ AIエージェントを業務プロセスに組み込む方法を学ぶ1時間",
-   "summary": "RPAの次はどうする？ AIエージェントを業務プロセスに組み込む方法を学ぶ1時間",
-   "source": "ITmedia",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_enterprise.gif",
-   "published": "2026-10-05T10:00+09:00",
-   "collected": "2026-10-08T10:19+09:00"
-  },
-  {
-   "id": "aa038f319a46",
-   "url": "https://ascii.jp/elem/000/004/439/4439888/?rss",
-   "title": "京都市と、介護サービス事業所向け生成AIチャットボットの導入契約を締結",
-   "summary": "京都市と、介護サービス事業所向け生成AIチャットボットの導入契約を締結",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
-   "published": "2026-10-05T10:00+09:00",
-   "collected": "2026-10-05T11:00+09:00"
-  },
-  {
-   "id": "db3cfc0d222f",
-   "url": "https://ascii.jp/elem/000/004/439/4439887/?rss",
-   "title": "AI画像生成を「見て終わり」にしない。アドビ公式番組「CREATOR KITCHEN supported by Adobe」Season3が開幕し、Season2に続きコンドウハルキが出演",
-   "summary": "AI画像生成を「見て終わり」にしない。アドビ公式番組「CREATOR KITCHEN supported by Adobe」Season3が開幕し、Season2に続きコンドウハルキが出演",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
-   "published": "2026-10-05T10:00+09:00",
    "collected": "2026-10-05T11:00+09:00"
   }
  ]
