@@ -1,5 +1,19 @@
 [
  {
+  "id": "aac41f33062d",
+  "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+  "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+  "summary": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/12/2000002192/10009077/2048",
+  "published": "2026-10-12T08:59+09:00",
+  "collected": "2026-10-12T09:43+09:00"
+ },
+ {
   "id": "604d6c2198c6",
   "url": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
   "title": "Googleは@ sejournal、@ MattGSouthを介してDiscoverのAIコンテンツを生成するために採用しています",
@@ -14,6 +28,22 @@
   "collected": "2026-10-12T09:34+09:00",
   "title_orig": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
   "summary_orig": "Open job listings describe teams that generate and recommend AI content for Discover, plus a design lead to turn it into a proactive concierge experience. The p"
+ },
+ {
+  "id": "f69d93a76da1",
+  "url": "https://www.socialmediatoday.com/news/social-media-platforms-have-not-ruled-out-execution-livestream/832683/",
+  "title": "ソーシャルメディアプラットフォームは、実行ライブストリーミングを除外していない",
+  "summary": "米国のピート・ヘグセス国防長官は、12月の軍事処刑をライブストリーミングすることを提案したが、多くのプラットフォームはまだ重み付けされていない。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/dVzFVwdZsCfJKNUk0oEhh8iKZ_UGqWrkYNRJYSSb04A/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MzU2MjA2NTYuanBn.webp",
+  "published": "2026-10-12T07:14+09:00",
+  "collected": "2026-10-12T09:43+09:00",
+  "title_orig": "Social media platforms have not ruled out execution livestream",
+  "summary_orig": "U.S. Secretary of Defense Pete Hegseth proposed that a December military execution be livestreamed, and many platforms have not yet weighed in, per The Verge."
  },
  {
   "id": "03a58fa1cead",
@@ -44,6 +74,38 @@
   "thumbnail": "https://ascii.jp/img/2026/10/11/4537442/xl/4ee4c5e4ecc989f8.jpg?20200122",
   "published": "2026-10-12T07:00+09:00",
   "collected": "2026-10-12T09:34+09:00"
+ },
+ {
+  "id": "baafb0ba20f9",
+  "url": "https://www.socialmediatoday.com/news/there-is-no-viable-case-for-widespread-generative-ai-access/832681/",
+  "title": "広範なジェネレーティブAIアクセスの実行可能なケースはありません",
+  "summary": "ソーシャルメディアやオンラインライフのあらゆる側面に人工知能を組み込もうとする動きにもかかわらず、そのリスクはAIの狭いユースケースをはるかに上回っています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/xU0IgmFJ6LsVhBXcVdMKX0ZXTjTs0eVdNfRdXlk6CvA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0Mzg4NDgwX1ZDajFpZzguanBn.webp",
+  "published": "2026-10-12T05:42+09:00",
+  "collected": "2026-10-12T09:43+09:00",
+  "title_orig": "There is no viable case for widespread generative AI access",
+  "summary_orig": "Despite the push to incorporate artificial intelligence into every aspect of social media and online life, the risks far outweigh AI’s narrow use case."
+ },
+ {
+  "id": "32e477157fcd",
+  "url": "https://www.socialmediatoday.com/news/meta-publishes-post-to-counter-data-center-concerns/832679/",
+  "title": "Metaがデータセンターの懸念に対抗するためにPOSTを公開",
+  "summary": "同社は、水の使用量、エネルギー料金、地元の雇用への影響に関する一般の懸念に対処するため、クリエイターのトム・ショーからの概要を発表しました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/bSVKfy-JdwY8SXPJQwHYowLUWkTo2aRGrXfMUf4rCuE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0thbnNhc19DaXR5X0RhdGFfQ2VudGVyX0FlcmlhbF8xLmpwZw==.webp",
+  "published": "2026-10-12T05:17+09:00",
+  "collected": "2026-10-12T09:43+09:00",
+  "title_orig": "Meta publishes post to counter data center concerns",
+  "summary_orig": "The company released an overview from creator Tom Shaw addressing public apprehensions about water usage, energy bills and local job impacts."
  },
  {
   "id": "7ec8afeed353",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-12T09:34+09:00",
+  "last_updated": "2026-10-12T09:43+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -46,6 +46,20 @@
  },
  "items": [
   {
+   "id": "aac41f33062d",
+   "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+   "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+   "summary": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/12/2000002192/10009077/2048",
+   "published": "2026-10-12T08:59+09:00",
+   "collected": "2026-10-12T09:43+09:00"
+  },
+  {
    "id": "604d6c2198c6",
    "url": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
    "title": "Googleは@ sejournal、@ MattGSouthを介してDiscoverのAIコンテンツを生成するために採用しています",
@@ -60,6 +74,22 @@
    "collected": "2026-10-12T09:34+09:00",
    "title_orig": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
    "summary_orig": "Open job listings describe teams that generate and recommend AI content for Discover, plus a design lead to turn it into a proactive concierge experience. The p"
+  },
+  {
+   "id": "f69d93a76da1",
+   "url": "https://www.socialmediatoday.com/news/social-media-platforms-have-not-ruled-out-execution-livestream/832683/",
+   "title": "ソーシャルメディアプラットフォームは、実行ライブストリーミングを除外していない",
+   "summary": "米国のピート・ヘグセス国防長官は、12月の軍事処刑をライブストリーミングすることを提案したが、多くのプラットフォームはまだ重み付けされていない。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/dVzFVwdZsCfJKNUk0oEhh8iKZ_UGqWrkYNRJYSSb04A/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05MzU2MjA2NTYuanBn.webp",
+   "published": "2026-10-12T07:14+09:00",
+   "collected": "2026-10-12T09:43+09:00",
+   "title_orig": "Social media platforms have not ruled out execution livestream",
+   "summary_orig": "U.S. Secretary of Defense Pete Hegseth proposed that a December military execution be livestreamed, and many platforms have not yet weighed in, per The Verge."
   },
   {
    "id": "03a58fa1cead",
@@ -90,6 +120,38 @@
    "thumbnail": "https://ascii.jp/img/2026/10/11/4537442/xl/4ee4c5e4ecc989f8.jpg?20200122",
    "published": "2026-10-12T07:00+09:00",
    "collected": "2026-10-12T09:34+09:00"
+  },
+  {
+   "id": "baafb0ba20f9",
+   "url": "https://www.socialmediatoday.com/news/there-is-no-viable-case-for-widespread-generative-ai-access/832681/",
+   "title": "広範なジェネレーティブAIアクセスの実行可能なケースはありません",
+   "summary": "ソーシャルメディアやオンラインライフのあらゆる側面に人工知能を組み込もうとする動きにもかかわらず、そのリスクはAIの狭いユースケースをはるかに上回っています。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/xU0IgmFJ6LsVhBXcVdMKX0ZXTjTs0eVdNfRdXlk6CvA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0Mzg4NDgwX1ZDajFpZzguanBn.webp",
+   "published": "2026-10-12T05:42+09:00",
+   "collected": "2026-10-12T09:43+09:00",
+   "title_orig": "There is no viable case for widespread generative AI access",
+   "summary_orig": "Despite the push to incorporate artificial intelligence into every aspect of social media and online life, the risks far outweigh AI’s narrow use case."
+  },
+  {
+   "id": "32e477157fcd",
+   "url": "https://www.socialmediatoday.com/news/meta-publishes-post-to-counter-data-center-concerns/832679/",
+   "title": "Metaがデータセンターの懸念に対抗するためにPOSTを公開",
+   "summary": "同社は、水の使用量、エネルギー料金、地元の雇用への影響に関する一般の懸念に対処するため、クリエイターのトム・ショーからの概要を発表しました。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://imgproxy.divecdn.com/bSVKfy-JdwY8SXPJQwHYowLUWkTo2aRGrXfMUf4rCuE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NZXRhX0thbnNhc19DaXR5X0RhdGFfQ2VudGVyX0FlcmlhbF8xLmpwZw==.webp",
+   "published": "2026-10-12T05:17+09:00",
+   "collected": "2026-10-12T09:43+09:00",
+   "title_orig": "Meta publishes post to counter data center concerns",
+   "summary_orig": "The company released an overview from creator Tom Shaw addressing public apprehensions about water usage, energy bills and local job impacts."
   },
   {
    "id": "7ec8afeed353",
@@ -9131,66 +9193,6 @@
    "thumbnail": "https://ascii.jp/img/2026/10/05/4534081/xl/41d6ce1c2d3f8287.png?20200122",
    "published": "2026-10-05T10:00+09:00",
    "collected": "2026-10-05T10:16+09:00"
-  },
-  {
-   "id": "13a4e4617cbc",
-   "url": "https://ascii.jp/elem/000/004/439/4439846/?rss",
-   "title": "相次ぐ不正アクセス、AIが原因？ 専門家に聞く",
-   "summary": "タイムズカー、京王電鉄など、大企業を狙ったサイバー攻撃が相次いでいる。ソフトウェアの脆弱性を示すCVEも急増している。背景にはAIの進歩があるのだろうか。専門家に聞いた。",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2026/10/05/4534033/xl/c7bf393671d813d9.png?20200122",
-   "published": "2026-10-05T10:00+09:00",
-   "collected": "2026-10-05T10:16+09:00"
-  },
-  {
-   "id": "06ba6578badc",
-   "url": "https://markezine.jp/article/detail/77668",
-   "title": "負ける勝負はしない、勝てる設計図をつくれ！ファミマ南雲氏の「成果を出す思考法とインサイト発掘術」",
-   "summary": "2026年9月に開催された「MarkeZine Day 2026 Autumn」に、株式会社ファミリーマート エグゼクティブ・ディレクター（商品価値・MD改革）兼 2030プロジェクト室長の南雲克明氏が登壇。",
-   "source": "MarkeZine",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-05T09:00+09:00",
-   "collected": "2026-10-05T10:16+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "3bcfe2f4d2ef",
-   "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-   "title": "Qwen3.8 27 B単語での追加",
-   "summary": "リサーチ： Qwen3.8 27 Bに、Colin Frasierが2年前にGPT -4 oを使用して実行した実験についてBlueskyに投稿した言葉が追加されました。",
-   "source": "Simon Willison",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://static.simonwillison.net/static/2026/qwen-words-no-reasoning.webp",
-   "published": "2026-10-05T08:34+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "Qwen3.8 27B addition in words",
-   "summary_orig": "Research: Qwen3.8 27B addition in words Colin Frasier posted on Bluesky about an experiment he ran over two years ago using GPT-4o to see how well it could \"com"
-  },
-  {
-   "id": "7f2c0c76cc8e",
-   "url": "https://markezine.jp/article/detail/77369",
-   "title": "BtoBメール施策の「最適解」 安藤氏に聞く、よくある「勘違い」と本当に追うべき指標",
-   "summary": "松本健太郎氏が、BtoBマーケティングを深掘りする本連載。今回は、合同会社エスプーマ 代表の安藤健作氏を迎え、メール施策の「最適解」を紐解く。多くの企業が陥りがちな「測り過ぎ」の罠や、購買シグナル誤認の落とし穴から脱却する鍵とは？ 営業とマーケティングの境界線から、AIを活用したデータ蓄積の鉄則まで、現場のマーケターを",
-   "source": "MarkeZine",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-05T08:30+09:00",
-   "collected": "2026-10-05T08:57+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
