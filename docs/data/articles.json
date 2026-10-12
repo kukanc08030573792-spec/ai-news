@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-12T09:43+09:00",
+  "last_updated": "2026-10-12T10:46+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,20 @@
   ]
  },
  "items": [
+  {
+   "id": "4f625cb4c432",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+   "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+   "summary": "Microsoftは、文章生成を行わず選択肢ごとの確率を返す判断特化AI「Microsoft-Decision-1」を発表した。「Qwen3.5-9B」を追加学習し、OpenAIの「GPT-6 Sol」の35倍の速度を実現。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/12/2000002194/10009085/2048",
+   "published": "2026-10-12T09:39+09:00",
+   "collected": "2026-10-12T10:46+09:00"
+  },
   {
    "id": "aac41f33062d",
    "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
@@ -9179,20 +9193,6 @@
    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
    "published": "2026-10-05T10:00+09:00",
    "collected": "2026-10-05T11:00+09:00"
-  },
-  {
-   "id": "dd8b1143448e",
-   "url": "https://ascii.jp/elem/000/004/439/4439860/?rss",
-   "title": "高市首相、アップルに異例の要請 生成AIに“自殺防止”機能求める",
-   "summary": "高市早苗首相は10月2日、自身のXアカウントで米アップル社のティム・クック前CEOから手紙を受け取ったと明らかにした。",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2026/10/05/4534081/xl/41d6ce1c2d3f8287.png?20200122",
-   "published": "2026-10-05T10:00+09:00",
-   "collected": "2026-10-05T10:16+09:00"
   }
  ]
 }

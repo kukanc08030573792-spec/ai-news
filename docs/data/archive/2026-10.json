@@ -1,5 +1,19 @@
 [
  {
+  "id": "4f625cb4c432",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+  "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+  "summary": "Microsoftは、文章生成を行わず選択肢ごとの確率を返す判断特化AI「Microsoft-Decision-1」を発表した。「Qwen3.5-9B」を追加学習し、OpenAIの「GPT-6 Sol」の35倍の速度を実現。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/12/2000002194/10009085/2048",
+  "published": "2026-10-12T09:39+09:00",
+  "collected": "2026-10-12T10:46+09:00"
+ },
+ {
   "id": "aac41f33062d",
   "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
   "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
