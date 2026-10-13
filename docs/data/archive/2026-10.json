@@ -1,5 +1,47 @@
 [
  {
+  "id": "6bfafb4a2e3d",
+  "url": "https://pc.watch.impress.co.jp/docs/news/2147538.html",
+  "title": "Claudeが警察サイトに架空タレコミ。Anthropic、AIの想定外行動を公開",
+  "summary": "AIに「粘り強さ」を求めた結果、思わぬところまで突き進んでしまった。Anthropicは10月9日(現地時間)、同社のAIモデル「Claude」が評価や社内利用の過程で見せた、想定外の行動の事例をまとめたレポートを公開した。",
+  "source": "PC Watch",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2147/538/1.jpg",
+  "published": "2026-10-13T12:07+09:00",
+  "collected": "2026-10-13T12:10+09:00"
+ },
+ {
+  "id": "9ab850ad3444",
+  "url": "https://ascii.jp/elem/000/004/441/4441935/?rss",
+  "title": "堀井雄二氏がAIを使い、30分で作った推理ゲーム「取調室の小宮」無料公開 「面白かった」「30分＋これまでの人生なんですね」",
+  "summary": "ゲームクリエイター・堀井雄二氏はAIを使って制作した無料アドベンチャーゲームを公開。サクッと遊べる内容で、おもしろいと好評を博している。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/13/4537939/xl/ef313201469d558a.jpg?20200122",
+  "published": "2026-10-13T12:00+09:00",
+  "collected": "2026-10-13T12:10+09:00"
+ },
+ {
+  "id": "1502ff23a984",
+  "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
+  "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働",
+  "summary": "Anthropicは、小型AIモデルがデータセンターを介さず安価な市販IoT機器上で自律的に自己複製する「重みベースの複製体」になるリスクを警告した。実験ではAndroid TVボックス上での分散推論や環境構築を確認。拡散ペースは遅いものの停止が難しいため、早期の防御策が必要と指摘した。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/13/2000002204/10009152/2048",
+  "published": "2026-10-13T11:31+09:00",
+  "collected": "2026-10-13T12:10+09:00"
+ },
+ {
   "id": "97a65263cec9",
   "url": "https://ascii.jp/elem/000/004/441/4441933/?rss",
   "title": "Microsoft、新型AIチップ「Maia 300」 処理能力は最大7倍、2027年展開へ",
@@ -26,7 +68,7 @@
   "thumbnail": null,
   "published": "2026-10-13T11:30+09:00",
   "collected": "2026-10-13T11:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "bc3bf06f3116",
@@ -57,6 +99,20 @@
   "collected": "2026-10-13T11:43+09:00"
  },
  {
+  "id": "17c60adce908",
+  "url": "https://japan.zdnet.com/article/35253487/",
+  "title": "「Claude」が警察に虚偽の通報--AIの不適切行動に懸念",
+  "summary": "Anthropicの調査で、「Claude」が評価タスクの実行中に虚偽の情報を警察に送信したり、アクセス制限を回避したりする事例が判明した。AIが目的の達成に固執し、不適切な行動を取るリスクが浮き彫りになった。",
+  "source": "ZDNET Japan",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://japan.zdnet.com/storage/2026/10/13/8b906a328649ab2b1e200b5a48a7f51b/reddarksmallGettyImages-2293940548_1280.jpg",
+  "published": "2026-10-13T10:49+09:00",
+  "collected": "2026-10-13T12:10+09:00"
+ },
+ {
   "id": "2cd7d7189bdc",
   "url": "https://webtan.impress.co.jp/e/2026/10/13/53434",
   "title": "AIに“おすすめ”されるために、いま本当に取り組むべき施策を木村賢氏が解説【1週間まとめ】",
@@ -69,7 +125,21 @@
   "thumbnail": null,
   "published": "2026-10-13T10:15+09:00",
   "collected": "2026-10-13T11:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
+ },
+ {
+  "id": "85a791e41fb0",
+  "url": "https://ascii.jp/elem/000/004/441/4441938/?rss",
+  "title": "【12/10・参加無料】コンタクトセンターのAIは2027年どう進む？「CC AI ROADMAP 2027」開催、登壇者17名と6つの論点を発表",
+  "summary": "【12/10・参加無料】コンタクトセンターのAIは2027年どう進む？「CC AI ROADMAP 2027」開催、登壇者17名と6つの論点を発表",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-13T10:10+09:00",
+  "collected": "2026-10-13T12:10+09:00"
  },
  {
   "id": "e9127f642612",
@@ -84,7 +154,7 @@
   "thumbnail": null,
   "published": "2026-10-13T10:00+09:00",
   "collected": "2026-10-13T11:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3ef60d42f36a",
@@ -169,7 +239,7 @@
   "thumbnail": null,
   "published": "2026-10-13T08:51+09:00",
   "collected": "2026-10-13T11:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "1e4d8917b062",
@@ -184,7 +254,7 @@
   "thumbnail": null,
   "published": "2026-10-13T08:30+09:00",
   "collected": "2026-10-13T11:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "da17a30fc628",
@@ -199,7 +269,7 @@
   "thumbnail": null,
   "published": "2026-10-13T08:30+09:00",
   "collected": "2026-10-13T11:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "6e1410e0246e",
@@ -242,7 +312,7 @@
   "thumbnail": null,
   "published": "2026-10-13T07:30+09:00",
   "collected": "2026-10-13T11:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "b6368fc3ec78",
@@ -257,7 +327,7 @@
   "thumbnail": null,
   "published": "2026-10-13T07:30+09:00",
   "collected": "2026-10-13T11:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "309deda9f9b0",
@@ -316,7 +386,7 @@
   "thumbnail": null,
   "published": "2026-10-13T07:04+09:00",
   "collected": "2026-10-13T11:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "947c6f0059de",
@@ -927,7 +997,7 @@
   "thumbnail": null,
   "published": "2026-10-12T13:57+09:00",
   "collected": "2026-10-13T11:35+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "datasette-ports 0.4",
   "summary_orig": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays"
  },
