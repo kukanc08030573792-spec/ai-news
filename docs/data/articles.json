@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-13T11:35+09:00",
+  "last_updated": "2026-10-13T11:43+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -72,7 +72,21 @@
    "thumbnail": null,
    "published": "2026-10-13T11:30+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
+  },
+  {
+   "id": "ba30390b143d",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news029.html",
+   "title": "AIエージェントで「約7人に1人が法令違反リスク」 古いルールを参照させた代償とは",
+   "summary": "",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/13/cover_news029.jpg",
+   "published": "2026-10-13T11:00+09:00",
+   "collected": "2026-10-13T11:43+09:00"
   },
   {
    "id": "bc3bf06f3116",
@@ -101,7 +115,7 @@
    "thumbnail": null,
    "published": "2026-10-13T10:15+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "e9127f642612",
@@ -116,7 +130,7 @@
    "thumbnail": null,
    "published": "2026-10-13T10:00+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "3ef60d42f36a",
@@ -201,7 +215,7 @@
    "thumbnail": null,
    "published": "2026-10-13T08:51+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "1e4d8917b062",
@@ -216,7 +230,7 @@
    "thumbnail": null,
    "published": "2026-10-13T08:30+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "da17a30fc628",
@@ -231,7 +245,7 @@
    "thumbnail": null,
    "published": "2026-10-13T08:30+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "6e1410e0246e",
@@ -274,7 +288,7 @@
    "thumbnail": null,
    "published": "2026-10-13T07:30+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "b6368fc3ec78",
@@ -289,7 +303,7 @@
    "thumbnail": null,
    "published": "2026-10-13T07:30+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "309deda9f9b0",
@@ -348,7 +362,7 @@
    "thumbnail": null,
    "published": "2026-10-13T07:04+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "947c6f0059de",
@@ -613,6 +627,22 @@
    "summary_orig": "Meta is introducing Muse Wonder and Muse Wonder Full, our most capable models to date, built to deliver state-of-the-art performance on personal and professiona"
   },
   {
+   "id": "5b0bbc20b589",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+   "title": "MetaにはいくつかのWonder Fullの新しいAIモデルがあります",
+   "summary": "メタはAIレースで失った時間を埋め合わせようとしている。改良されたスーパーインテリジェンスラボ部門の最初のモデルであるMuse SparkとBUZZY AI AGENを立ち上げた後",
+   "source": "The Verge AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+   "published": "2026-10-13T02:00+09:00",
+   "collected": "2026-10-13T11:43+09:00",
+   "title_orig": "Meta has some Wonder Full new AI models",
+   "summary_orig": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agen"
+  },
+  {
    "id": "91768b555b7e",
    "url": "https://www.youtube.com/watch?v=IZXv6a78NDw",
    "title": "コードレビューはもはやボトルネックではありません",
@@ -631,7 +661,7 @@
   {
    "id": "efadf9441346",
    "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
-   "title": "web - edit 0.1a0",
+   "title": "ウェブ- 0.1a0を編集",
    "summary": "リリース： web - edit 0.1a0 Codex Remoteを使用して携帯電話からプロジェクトに取り組んでいたとき、ラウンドトリッピンなしで資格情報ファイルを編集したいと思った",
    "source": "Simon Willison",
    "type": "article",
@@ -641,7 +671,7 @@
    "thumbnail": "https://static.simonwillison.net/static/2026/web-edit-card.jpg",
    "published": "2026-10-13T00:54+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "title_orig": "web-edit 0.1a0",
+   "title_orig": "web - edit 0.1a0",
    "summary_orig": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-trippin"
   },
   {
@@ -675,6 +705,54 @@
    "collected": "2026-10-13T11:35+09:00",
    "title_orig": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
    "summary_orig": "Learn how to deploy one large language model across two GPU nodes on Amazon EKS using the multi-node Ray LLM Deep Learning Containers, with separate prefill and"
+  },
+  {
+   "id": "bdf59882f2c6",
+   "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+   "title": "Honeyjarは、すべての企業でPRとコミュニケーションを改善するためのAIツールを提供しています",
+   "summary": "ジャーナリスト、起業家、さらには広報の専門家の中には、PRプロセスが壊れていると言う人もいます。しかし、AIは実際に物事をより良くすることができますか？",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
+   "published": "2026-10-13T00:45+09:00",
+   "collected": "2026-10-13T11:43+09:00",
+   "title_orig": "Honeyjar offers AI tools to improve PR and comms at every company",
+   "summary_orig": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
+  },
+  {
+   "id": "5974203bb3c7",
+   "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+   "title": "マイクロソフト社長は、英国がAI規制を推進するのに最適であると述べています",
+   "summary": "マイクロソフト社長のブラッド・スミス氏は、ミルクや洗濯機はAI企業よりも監視されていると述べ、緊急のAI規制を求めている。",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
+   "published": "2026-10-13T00:31+09:00",
+   "collected": "2026-10-13T11:43+09:00",
+   "title_orig": "Microsoft president says UK is best placed to drive AI regulation",
+   "summary_orig": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+  },
+  {
+   "id": "1b3594718c48",
+   "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+   "title": "このAIスタートアップは、許可準備の青写真を数分で生成できると言います",
+   "summary": "サンタモニカに拠点を置くスタートアップのBlueprints AIは、写真、PDF、またはスケッチからコード準拠の建設青写真を生成するソフトウェアを開発しました",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
+   "published": "2026-10-13T00:27+09:00",
+   "collected": "2026-10-13T11:43+09:00",
+   "title_orig": "This AI startup says it can generate permit-ready blueprints in minutes",
+   "summary_orig": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketc"
   },
   {
    "id": "64b8fb1d42bf",
@@ -741,6 +819,38 @@
    "summary_orig": "The post Introducing Microsoft’s latest custom chip: Maia 300 appeared first on Source ."
   },
   {
+   "id": "f35a07389044",
+   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+   "title": "マイクロソフトの新しいAIチップにより、NVIDIAのGPUへの依存度が低下",
+   "summary": "マイクロソフトは本日、マイクロソフトの製品とサービスの「主要なAI推論システム」として設計された第3世代のMAIA社内AIチップを発表します",
+   "source": "The Verge AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "published": "2026-10-12T22:00+09:00",
+   "collected": "2026-10-13T11:43+09:00",
+   "title_orig": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+   "summary_orig": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services"
+  },
+  {
+   "id": "36347ea06c8c",
+   "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+   "title": "元プラウドエグゼクティブが、バックグラウンドであなたの声を聞くAIアプリのために2600万$を調達",
+   "summary": "AIの中核的な約束の1つは、人について知るほど、タスクを支援し、適切な提案を行うことができるようになるということです。",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
+   "published": "2026-10-12T21:47+09:00",
+   "collected": "2026-10-13T11:43+09:00",
+   "title_orig": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+   "summary_orig": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions,"
+  },
+  {
    "id": "8635d0995c1d",
    "url": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
    "title": "インポートAI 476 ：創造性とRSI。中国よりも悪いオープンウェイトモデル。AIは宇宙に行く",
@@ -757,6 +867,38 @@
    "summary_orig": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please sub"
   },
   {
+   "id": "2f59bc49fe59",
+   "url": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
+   "title": "@ sejournal、@ martinibusterを介して劇的な変更を受けるGoogle Discover",
+   "summary": "Googleは、Discoverを再発明して、YouTubeとのより緊密な統合によりAIコンシェルジュになることを計画しています。Google Discoverが劇的な変化を遂げる記事",
+   "source": "Search Engine Journal",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-discover-156.jpg",
+   "published": "2026-10-12T20:13+09:00",
+   "collected": "2026-10-13T11:43+09:00",
+   "title_orig": "Google Discover To Undergo Dramatic Changes via @sejournal, @martinibuster",
+   "summary_orig": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube. The post Google Discover To Undergo Dramatic Changes"
+  },
+  {
+   "id": "d27559d9a5a9",
+   "url": "https://buffer.com/resources/facebook-cover-photo-size/",
+   "title": "2026年の理想的なFacebookカバー写真のサイズ（+あなたのアイデアを際立たせるための11のアイデア）",
+   "summary": "デスクトップとモバイル用の正確なFacebookカバー写真のサイズ、完璧なカバー写真を作成する方法を学び、Facebookカバー写真のアイデアを獲得することでインスピレーションを得ましょう",
+   "source": "Buffer",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2024/10/facebook-cover-photo.png",
+   "published": "2026-10-12T20:00+09:00",
+   "collected": "2026-10-13T11:43+09:00",
+   "title_orig": "The Ideal Facebook Cover Photo Size in 2026 (+ 11 Ideas To Make Yours Stand Out)",
+   "summary_orig": "The exact Facebook cover photo sizes for desktop and mobile, find out how to create a perfect cover photo, and get inspired by winning Facebook cover photo idea"
+  },
+  {
    "id": "de98b5d4a04e",
    "url": "https://stratechery.com/2026/personal-day-4/",
    "title": "個人的な日",
@@ -771,6 +913,36 @@
    "collected": "2026-10-13T11:35+09:00",
    "title_orig": "Personal Day",
    "summary_orig": "Personal Day — No Update"
+  },
+  {
+   "id": "04453c54e7eb",
+   "url": "https://prtimes.jp/main/html/rd/p/000000015.000149931.html",
+   "title": "LeapAI、AIエージェントの業務活用事例を共有する交流会を開催【開催レポート】",
+   "summary": "LeapAI、AIエージェントの業務活用事例を共有する交流会を開催【開催レポート】",
+   "source": "PR TIMES",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/149931/15/149931-15-e7ecf09b5849c03cb1fbc999a44f47d2-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-12T18:45+09:00",
+   "collected": "2026-10-13T11:43+09:00"
+  },
+  {
+   "id": "eb4a056c0ca6",
+   "url": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
+   "title": "AnthropicのThariq Shihiparが@ sejournal、@ martinibuster経由でアーティファクトの使用を推奨",
+   "summary": "AnthropicのThariq Shihipar氏によると、Artifactsはプロジェクト情報とエージェントアクティビティを1つのインターフェースに統合し、ユーザーにより多くの監督を提供します。The post Anthropic's T",
+   "source": "Search Engine Journal",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/antrhopic-thariq-shihipar-396.jpg",
+   "published": "2026-10-12T18:31+09:00",
+   "collected": "2026-10-13T11:43+09:00",
+   "title_orig": "Anthropic’s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
+   "summary_orig": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic’s T"
   },
   {
    "id": "ed7e1b11bffe",
@@ -801,9 +973,37 @@
    "thumbnail": null,
    "published": "2026-10-12T13:57+09:00",
    "collected": "2026-10-13T11:35+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "datasette-ports 0.4",
    "summary_orig": "Release: datasette-ports 0.4 My plugin for detecting and listing all Datasette instances on the current machine now works with the latest version, and displays"
+  },
+  {
+   "id": "9e0c713f5cae",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html",
+   "title": "3社に1社がトークン予算超過 コスト増を最大44％抑える方法とは【アクセンチュア調査】",
+   "summary": "",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2610/08/cover_news036.jpg",
+   "published": "2026-10-12T11:50+09:00",
+   "collected": "2026-10-13T11:43+09:00"
+  },
+  {
+   "id": "8b486f9b15e8",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html",
+   "title": "FDEが構築したAIエージェントの7割、企業が放棄へ Gartner予測",
+   "summary": "",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2610/09/cover_news042.jpg",
+   "published": "2026-10-12T11:15+09:00",
+   "collected": "2026-10-13T11:43+09:00"
   },
   {
    "id": "cb6ed1a515dc",
@@ -1060,6 +1260,20 @@
    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
    "published": "2026-10-11T16:10+09:00",
    "collected": "2026-10-12T09:34+09:00"
+  },
+  {
+   "id": "c191ae6fb32c",
+   "url": "https://www.imagazine.co.jp/order-ai-agent/",
+   "title": "kozokaAIがコゾカAI 受注AIエージェントを発表 ～注文業務に特化したAIソリューション、マスターと連携しながらIBM iへ自動入力",
+   "summary": "注文書を受け取り 基幹システムへ自動入力 kozokaAIの設立は、2025年10月。長くIBM iビジネスを展開してきたMONO-Xから分離独立し、AIビジネスにフォーカスするために誕生した。",
+   "source": "アイマガジン",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.imagazine.co.jp/wp-content/uploads/2026/10/2517451486b2159267a9de412f6b1f69.png",
+   "published": "2026-10-11T16:00+09:00",
+   "collected": "2026-10-13T11:43+09:00"
   },
   {
    "id": "dcfe4b8018c3",
@@ -8966,227 +9180,6 @@
    "thumbnail": "https://www.unite.ai/wp-content/uploads/2026/10/aws-details-claude-code-deployment-on-amazon-bedrock-in-govcloud-us.jpg",
    "published": "2026-10-06T02:48+09:00",
    "collected": "2026-10-06T10:46+09:00"
-  },
-  {
-   "id": "2c63d48f2853",
-   "url": "https://news.microsoft.com/windows-surface-october-2026-news/",
-   "title": "10月7日（水）午前10時（太平洋標準時）、WindowsとMicrosoft Surfaceの最新情報をお届けします",
-   "summary": "WindowsとMicrosoft Surfaceの最新情報については、10月7日（水）午前10時（太平洋標準時）に投稿されたSourceに最初に掲載されました。",
-   "source": "Microsoft Source",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://msftstories.thesourcemediaassets.com/sites/759/2026/10/Windows-10-7-1-scaled.jpg",
-   "published": "2026-10-06T02:38+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "Join us at 10 a.m. PT on Wednesday, Oct. 7, for the latest on Windows and Microsoft Surface",
-   "summary_orig": "The post Join us at 10 a.m. PT on Wednesday, Oct. 7, for the latest on Windows and Microsoft Surface appeared first on Source ."
-  },
-  {
-   "id": "4eb10d9e5034",
-   "url": "https://www.microsoft.com/en-us/power-platform/blog/power-apps/your-ai-transformation-starts-with-what-youve-already-built/",
-   "title": "Power Platformが企業が既存のアプリにAIを組み込むのにどのように役立つか",
-   "summary": "Microsoft Power AppsとCopilot Studioを使用したMicrosoft Power Platformが、PPCC 2026で組織がAIトランスフォーメーションを推進するのにどのように役立つかをご覧ください。",
-   "source": "Microsoft Source",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://www.microsoft.com/en-us/power-platform/blog/wp-content/uploads/2026/10/AI-transformation-1-1200.jpg",
-   "published": "2026-10-06T02:32+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "How Power Platform helps businesses build AI into existing apps",
-   "summary_orig": "See how Microsoft Power Platform, with Microsoft Power Apps and Copilot Studio, help organizations drive AI transformation at PPCC 2026."
-  },
-  {
-   "id": "88b687652847",
-   "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-   "title": "ホットガールホットラインは、AI時代の「親愛なるアビー」のようなものです",
-   "summary": "2人の姉妹によって設立されたホットガールホットラインは、AIを使用して、若い女性にパーソナライズされたデートと関係アドバイスを提供し、安全性と感情の回避に重点を置いています",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/hgh_web-1.png?resize=1200,920",
-   "published": "2026-10-06T02:29+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-   "summary_orig": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotio"
-  },
-  {
-   "id": "1a12289f0287",
-   "url": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
-   "title": "Claude CodeとAmazon Bedrockで規制されたワークロードをスーパーチャリング",
-   "summary": "Anthropic Claude Opus 5.5とClaude Sonnet 5.5は、AWS GovCloud （米国）リージョンのAmazon Bedrockで利用できます。Claude Code、Anthroの使い方を学ぼう",
-   "source": "AWS Machine Learning Blog",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/23/ML-19466-featured-image.png",
-   "published": "2026-10-06T02:25+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "Supercharge regulated workloads with Claude Code and Amazon Bedrock",
-   "summary_orig": "Anthropic Claude Opus 5.5 and Claude Sonnet 5.5 are available on Amazon Bedrock in the AWS GovCloud (US) Regions. Learn how to use them with Claude Code, Anthro"
-  },
-  {
-   "id": "2c28686d47a7",
-   "url": "https://news.microsoft.com/source/asia/2026/09/29/supporting-communities-through-drought-providing-clean-water-in-karawang-and-bekasi/",
-   "title": "インドネシアの干ばつ緊急時にマイクロソフトが清潔な水の提供をどのように支援した",
-   "summary": "インドネシアの干ばつ緊急事態の間にマイクロソフトが清潔な水を提供するのをどのように支援したかの投稿は、Sourceで最初に",
-   "source": "Microsoft Source",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://news.microsoft.com/source/asia/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-25-at-4.24.01-PM-1.jpeg",
-   "published": "2026-10-06T02:25+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "How Microsoft helped deliver clean water during Indonesia’s drought emergency",
-   "summary_orig": "The post How Microsoft helped deliver clean water during Indonesia’s drought emergency appeared first on Source ."
-  },
-  {
-   "id": "f5b98f32f035",
-   "url": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
-   "title": "新しいエージェントスキル： Amazon SageMakerがコーディングエージェントのために生成AI推論を最適化",
-   "summary": "Amazon SageMaker最適化されたジェネレーティブAI推論は、AWS用エージェントツールキットを通じてaws - ai - mlスキルを導入し、Kiro、Claude Codeなどのコーディングエージェントを提供します",
-   "source": "AWS Machine Learning Blog",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/09/29/ML-21968-featured-image.png",
-   "published": "2026-10-06T02:23+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent",
-   "summary_orig": "Amazon SageMaker optimized generative AI inference introduces the aws-ai-ml skill through the Agent Toolkit for AWS, giving coding agents like Kiro, Claude Code"
-  },
-  {
-   "id": "d4dabb149454",
-   "url": "https://pasqualepillitteri.it/ja/news/20942/cowork-cloud-pro-max-2026",
-   "title": "Anthropicが、ProとMaxのCoworkをクラウドで実行へ",
-   "summary": "Anthropicが、ProとMaxのCoworkをクラウドで実行へ    Pasquale Pillitteri",
-   "source": "Pasquale Pillitteri",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": null,
-   "published": "2026-10-06T01:57+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "cf94a559a112",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-   "title": "OpenAI PRは、Sam AltmanにChatGPTユーザーの自殺について尋ねながら、ジャーナリストに「先に進む」ように指示します",
-   "summary": "OpenAIの広報担当者は、編集者がChatGPTユーザーの自殺を取り上げた後、Vanity FairのMark GuiducciとのCEO Sam Altmanのインタビューのトピックを変更しようとしました",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "published": "2026-10-06T01:55+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-   "summary_orig": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicid"
-  },
-  {
-   "id": "4b1490e66776",
-   "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic",
-   "title": "アクセンチュアとAnthropic、AIの安全性評価を担う「組み込み型評価者」専門チームのAnthropicでの社内設立に向け提携",
-   "summary": "【ニューヨークおよびサンフランシスコ発】アクセンチュア（NYSE：ACN）とAnthropicは、AIモデルの評価、レッドチーミング、アラインメント評価、モデルのセーフガードの有効性検証を担う「組み込み型評価者（embedded evaluators）」のチームの設立に向けて提携したことを発表しました。",
-   "source": "newsroom.accenture.jp",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://newsroom.accenture.jp/default-meta-image.png?width=1200&format=pjpg&optimize=medium",
-   "published": "2026-10-06T01:53+09:00",
-   "collected": "2026-10-06T10:46+09:00"
-  },
-  {
-   "id": "4d92ee383d00",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-   "title": "サム・アルトマンは「いくつかの悪いこと」が起こるだろうと言いますが、AIはそれだけの価値があります",
-   "summary": "サム・アルトマンは、AIの利点は非常に大きいので、途中で「世界は悪いことが起こるのを受け入れるべきだ」と考えています。OpenAIのCEOはHACを指摘した。",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294958253.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-   "published": "2026-10-06T01:44+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
-   "summary_orig": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hac"
-  },
-  {
-   "id": "ea5cfbb46094",
-   "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-   "title": "HackerRankのAI面接官は、就職面接がどのようなものになるかを垣間見ることができます",
-   "summary": "HackerRankのAIインタビュー担当者はすでに50万回以上のインタビューを実施しており、Snowflake、Snorkel、Capgeminiも初期のテスターの1人だ。",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826",
-   "published": "2026-10-06T01:43+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-   "summary_orig": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers."
-  },
-  {
-   "id": "3f9ba89f32e4",
-   "url": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
-   "title": "AI Cites Your Brand: How to Choose Your Next Move via @ sejournal, @ hethr_campbell",
-   "summary": "AIの可視性のギャップには、さまざまな修正が必要です。Constance Tanは、情報の修正、メンションの獲得、コンテンツの作成、チェックのいずれかを選択する方法を示します",
-   "source": "Search Engine Journal",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ahrefs-ai-visibility-data-actions-on-demand-sej.png",
-   "published": "2026-10-06T01:16+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
-   "summary_orig": "AI visibility gaps call for different fixes. Constance Tan shows how to decide between correcting information, earning mentions, creating content, and checking"
-  },
-  {
-   "id": "21f6701ee400",
-   "url": "https://www.youtube.com/shorts/PYtbXz5_aFo",
-   "title": "新機能！スーパーチャージのアフィリエイト収益とYouTubeショッピングトレンド",
-   "summary": "アフィリエイトの収益とオーディエンスの傾向をこれまで以上に素早く理解できたらどうでしょうか？まあ、あなたが対象となるYouTubeショッピングクリエイターであれば、あなたの全体の",
-   "source": "Creator Insider（YouTube公式）",
-   "type": "video",
-   "tier": "official",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://i.ytimg.com/vi/PYtbXz5_aFo/hqdefault.jpg",
-   "published": "2026-10-06T01:00+09:00",
-   "collected": "2026-10-07T09:44+09:00",
-   "title_orig": "New! Supercharging Affiliate Earnings & YouTube Shopping Trends",
-   "summary_orig": "What if you could understand your affiliate earnings and audience trends… quicker than ever? Well, if you’re an eligible YouTube Shopping creator, your entire s"
-  },
-  {
-   "id": "e4f96ea3e7c3",
-   "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-   "title": "ReviewBench ： AIコードレビューのオープンベンチマーク",
-   "summary": "代表的なGitHubプルリクエスト、マルチソースのグラウンドトゥルース、較正された評価、",
-   "source": "GitHub Blog (AI)",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://github.blog/wp-content/uploads/2026/01/generic-invertocat-logo.png",
-   "published": "2026-10-06T00:59+09:00",
-   "collected": "2026-10-06T10:46+09:00",
-   "title_orig": "ReviewBench: An open benchmark for AI code review",
-   "summary_orig": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation,"
   }
  ]
 }
