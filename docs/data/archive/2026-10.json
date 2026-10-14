@@ -1,5 +1,19 @@
 [
  {
+  "id": "3f96a6f6ba14",
+  "url": "https://article.auone.jp/41851144-ca68-445b-983d-3178b6915dc5",
+  "title": "Claude CodeハッカソンBuilt with Claude: Japan発表、賞品は800万円分のAPIクレジット。10月26日まで申込み受付中",
+  "summary": "Claude CodeハッカソンBuilt with Claude: Japan発表、賞品は800万円分のAPIクレジット。10月26日まで申込み受付中他の写真を見る\nAnthropicとAIコミュニ",
+  "source": "au Webポータル",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/14/https___news_jp_i_1482907348168605934_w640.webp",
+  "published": "2026-10-14T10:04+09:00",
+  "collected": "2026-10-14T10:23+09:00"
+ },
+ {
   "id": "84290a9261fc",
   "url": "https://prtimes.jp/main/html/rd/p/000000298.000002500.html",
   "title": "コミクス、AIエージェント運用設計を学べる9要素の無料教材を公開",
@@ -12,6 +26,34 @@
   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/2500/298/2500-298-d8bb759f5ea7b97babead7640173fdf6-2560x1440.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "published": "2026-10-14T09:30+09:00",
   "collected": "2026-10-14T09:36+09:00"
+ },
+ {
+  "id": "490647f7e5d0",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/",
+  "title": "Googleの新モデル「Gemini 4 Argon」一般提供開始 使えるプラン、価格",
+  "summary": "Googleは同社最先端のモデル「Gemini 4 Argon」の一般提供を開始した。Geminiアプリや検索のAIモード、Google Antigravity、APIなどで利用できる。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/14/2000002241/10008245/2048",
+  "published": "2026-10-14T09:29+09:00",
+  "collected": "2026-10-14T10:23+09:00"
+ },
+ {
+  "id": "138c83c063a2",
+  "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002240/",
+  "title": "「Google Play」、AI Studioで作った自作アプリを自分の端末で実行可能に AIでゲームを探す機能も",
+  "summary": "Google Playに複数の新機能が追加された。「Google AI Studio」でバイブコーディングした自作Androidアプリを開発者登録なしで自分の端末上で起動・実行できる機能のほか、AIによるアプリ比較「Ask Play」、プレイスタイルを分析して好みの作品を推薦する「Game Finder」などを順次提供",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/14/2000002240/10009264/2048",
+  "published": "2026-10-14T09:24+09:00",
+  "collected": "2026-10-14T10:23+09:00"
  },
  {
   "id": "1609f5d4ca73",
@@ -102,7 +144,7 @@
   "thumbnail": null,
   "published": "2026-10-14T08:30+09:00",
   "collected": "2026-10-14T09:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "4e08ca757bb7",
@@ -135,6 +177,20 @@
   "summary_orig": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and pa"
  },
  {
+  "id": "3ab55ef08596",
+  "url": "https://coralcap.co/2026/10/how-coral-builds-claude-skills-as-a-team/",
+  "title": "AIを個人技で終わらせない——エンジニア経験者1人のVCが、Claudeスキルを全員で育てるまで",
+  "summary": "AIを個人技で終わらせない——エンジニア経験者1人のVCが、Claudeスキルを全員で育てるまで    Coral Capital",
+  "source": "Coral Capital",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "http://coralcap.co/wp-content/uploads/2026/10/claude-skills-team-cover.jpg",
+  "published": "2026-10-14T08:03+09:00",
+  "collected": "2026-10-14T10:23+09:00"
+ },
+ {
   "id": "49aae9e462bc",
   "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
   "title": "Anthropicでのソースコントロールの再設計",
@@ -163,7 +219,7 @@
   "thumbnail": null,
   "published": "2026-10-14T08:00+09:00",
   "collected": "2026-10-14T09:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f2fb2747c1a4",
@@ -240,7 +296,7 @@
   "thumbnail": null,
   "published": "2026-10-14T07:05+09:00",
   "collected": "2026-10-14T09:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f2d710fc4841",
@@ -255,7 +311,7 @@
   "thumbnail": null,
   "published": "2026-10-14T07:04+09:00",
   "collected": "2026-10-14T09:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f16056d9a13f",
@@ -312,7 +368,7 @@
   "thumbnail": null,
   "published": "2026-10-14T07:00+09:00",
   "collected": "2026-10-14T09:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "0ea69025e969",
@@ -465,6 +521,20 @@
   "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/13/cover_news017.jpg",
   "published": "2026-10-14T05:00+09:00",
   "collected": "2026-10-14T09:19+09:00"
+ },
+ {
+  "id": "2efb41bbb171",
+  "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100600003/?ST=singleview",
+  "title": "Claude拡大の理由 「ミスなし」評価のサイバー、メルカリは統制基盤に信頼",
+  "summary": "米Anthropic（アンソロピック）が日本国内での勢力拡大を急いでいる。2025年10月に東京オフィスを開設。2026年6月には、開発者イベント「Code w/ Claude」の開催地に米国のサンフランシスコ、英国のロンドンに続く3都市目として東京を選んだ。",
+  "source": "日経クロステック",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100600003/ntopm.jpg?20220512",
+  "published": "2026-10-14T05:00+09:00",
+  "collected": "2026-10-14T10:23+09:00"
  },
  {
   "id": "1a30691bdfc6",
@@ -1103,7 +1173,7 @@
   "thumbnail": null,
   "published": "2026-10-13T22:32+09:00",
   "collected": "2026-10-14T09:19+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting Geoffrey Huntley",
   "summary_orig": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-com"
  },
@@ -1232,7 +1302,7 @@
   "thumbnail": null,
   "published": "2026-10-13T19:00+09:00",
   "collected": "2026-10-14T09:36+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "AI Landing Pages: From Project Plan to Published Page",
   "summary_orig": "Wondering how to use AI to build landing pages that convert without hiring a developer or designer? Want a step-by-step workflow for creating landing pages with"
  },
@@ -1265,7 +1335,7 @@
   "thumbnail": null,
   "published": "2026-10-13T18:30+09:00",
   "collected": "2026-10-14T09:36+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "LinkedIn Recommendations Strategy, YouTube Scripting, and Industry News",
   "summary_orig": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
  },
@@ -1328,7 +1398,7 @@
   "thumbnail": null,
   "published": "2026-10-13T16:52+09:00",
   "collected": "2026-10-14T09:36+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "7801d18c3edd",
@@ -1343,7 +1413,7 @@
   "thumbnail": null,
   "published": "2026-10-13T16:45+09:00",
   "collected": "2026-10-14T09:36+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "15c236a3ae16",
@@ -1388,7 +1458,7 @@
   "thumbnail": null,
   "published": "2026-10-13T13:45+09:00",
   "collected": "2026-10-14T09:36+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f8eab0acbb09",
@@ -1417,7 +1487,7 @@
   "thumbnail": null,
   "published": "2026-10-13T13:00+09:00",
   "collected": "2026-10-14T09:36+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "b8c17fb85103",
@@ -1601,7 +1671,7 @@
   "thumbnail": null,
   "published": "2026-10-13T10:40+09:00",
   "collected": "2026-10-14T09:19+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "web - edit 0.1a1",
   "summary_orig": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra."
  },
@@ -2202,7 +2272,7 @@
   "thumbnail": null,
   "published": "2026-10-13T01:58+09:00",
   "collected": "2026-10-14T09:19+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
   "summary_orig": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra"
  },
