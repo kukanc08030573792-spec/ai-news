@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-14T10:23+09:00",
+  "last_updated": "2026-10-14T10:54+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,34 @@
   ]
  },
  "items": [
+  {
+   "id": "6ff71e531290",
+   "url": "https://ascii.jp/elem/000/004/442/4442279/?rss",
+   "title": "NVIDIAとCisco、光モジュール「USFP」発表 AIファクトリー向けに帯域幅密度4倍へ",
+   "summary": "NVIDIAとCiscoがAIファクトリー向け新光モジュールUSFPを発表。1レーン400Gb/s対応、最大12.8Tb/s、OSFP相当サイズで高密度化と省電力化を両立する。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/14/4538320/xl/2fe4998f0eb36864.jpg?20200122",
+   "published": "2026-10-14T10:30+09:00",
+   "collected": "2026-10-14T10:54+09:00"
+  },
+  {
+   "id": "2b8face76992",
+   "url": "https://ascii.jp/elem/000/004/442/4442287/?rss",
+   "title": "グーグル「Gemini 4 Argon」ついに提供開始 テストは好成績、でも仕事はできる？",
+   "summary": "Googleは10月13日、AIモデル「Gemini 4 Argon」の一般提供を開始した。GeminiアプリとGoogle検索のAIモードではGoogle AI Pro／Ultra契約者が利用できる。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/14/4538336/xl/d944a7f3e2e89efd.png?20200122",
+   "published": "2026-10-14T10:20+09:00",
+   "collected": "2026-10-14T10:54+09:00"
+  },
   {
    "id": "3f96a6f6ba14",
    "url": "https://article.auone.jp/41851144-ca68-445b-983d-3178b6915dc5",
@@ -1332,7 +1360,7 @@
    "thumbnail": null,
    "published": "2026-10-13T19:00+09:00",
    "collected": "2026-10-14T09:36+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "AI Landing Pages: From Project Plan to Published Page",
    "summary_orig": "Wondering how to use AI to build landing pages that convert without hiring a developer or designer? Want a step-by-step workflow for creating landing pages with"
   },
@@ -1381,7 +1409,7 @@
    "thumbnail": null,
    "published": "2026-10-13T18:30+09:00",
    "collected": "2026-10-14T09:36+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "LinkedIn Recommendations Strategy, YouTube Scripting, and Industry News",
    "summary_orig": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
   },
@@ -1444,7 +1472,7 @@
    "thumbnail": null,
    "published": "2026-10-13T16:52+09:00",
    "collected": "2026-10-14T09:36+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7801d18c3edd",
@@ -1459,7 +1487,7 @@
    "thumbnail": null,
    "published": "2026-10-13T16:45+09:00",
    "collected": "2026-10-14T09:36+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "15c236a3ae16",
@@ -1504,7 +1532,7 @@
    "thumbnail": null,
    "published": "2026-10-13T13:45+09:00",
    "collected": "2026-10-14T09:36+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "f8eab0acbb09",
@@ -1533,7 +1561,7 @@
    "thumbnail": null,
    "published": "2026-10-13T13:00+09:00",
    "collected": "2026-10-14T09:36+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "b8c17fb85103",
@@ -2639,6 +2667,20 @@
    "collected": "2026-10-13T11:35+09:00",
    "title_orig": "What 20,000 creators told us about unleashing Europe’s potential",
    "summary_orig": "Europe’s creator economy contributes over €8.4 billion to the EU’s GDP – but creators often feel left out of decision making. In “Creative Capital,” our new rep"
+  },
+  {
+   "id": "ed03831a6536",
+   "url": "https://ledge.ai/articles/anthropic_claude_usage_policy_update_2026",
+   "title": "Anthropic、Claudeへの継続的な「虐待」を利用ポリシーで禁止 通常の不満や研究は対象外、11月12日発効",
+   "summary": "AI・人工知能関連のニュースやトレンドを高頻度で配信！最新ニュースやインタビュー、イベントレポートなどAIに関するさまざまな情報を独自の切り口で掲載",
+   "source": "Ledge.ai",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/98ba5c8a_6b28_459e_b3aa_a182699433ac_7eaf62181d/98ba5c8a_6b28_459e_b3aa_a182699433ac_7eaf62181d.png",
+   "published": "2026-10-12T15:21+09:00",
+   "collected": "2026-10-14T10:54+09:00"
   },
   {
    "id": "a318bce54a37",
@@ -9143,53 +9185,6 @@
    "collected": "2026-10-07T09:44+09:00",
    "title_orig": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
    "summary_orig": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases"
-  },
-  {
-   "id": "fe89f2d659e0",
-   "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-   "title": "AIエージェントの次のハードルは、Webサイトを許可することです",
-   "summary": "パーソナルAIエージェントは、買い物をしたり、航空券を予約したり、予約したりすることを約束します。しかし、意図的なブロックとアンチボットの防御が邪魔になり、",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
-   "published": "2026-10-07T04:56+09:00",
-   "collected": "2026-10-07T09:44+09:00",
-   "title_orig": "The next hurdle for AI agents: getting websites to let them in",
-   "summary_orig": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving con"
-  },
-  {
-   "id": "f29c5a304f69",
-   "url": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
-   "title": "AgentCoreとOpenClawでコンテキスト認識AIアシスタントを構築する",
-   "summary": "既製のAIアシスタントは、会話の間にあなたを忘れます。この記事では、AmazoでOpenClawを使用してコンテキストを蓄積するパーソナルアシスタントを構築する方法を説明します",
-   "source": "AWS Machine Learning Blog",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/02/ML-21277-featured-image.png",
-   "published": "2026-10-07T04:19+09:00",
-   "collected": "2026-10-07T09:44+09:00",
-   "title_orig": "Building a context-aware AI assistant on AgentCore and OpenClaw",
-   "summary_orig": "Off-the-shelf AI assistants forget you between conversations. This post shows how to build a personal assistant that accumulates context using OpenClaw on Amazo"
-  },
-  {
-   "id": "fc8dde68c468",
-   "url": "https://pasqualepillitteri.it/ja/news/19610/anthropic-interviewer-ai-chosa-kokai",
-   "title": "Anthropicが「AIに何を求めるか」調査を再開、インタビューは公開も選べる",
-   "summary": "Anthropicが「AIに何を求めるか」調査を再開、インタビューは公開も選べる    Pasquale Pillitteri",
-   "source": "Pasquale Pillitteri",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": null,
-   "published": "2026-10-07T04:08+09:00",
-   "collected": "2026-10-07T09:44+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
