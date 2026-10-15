@@ -1,5 +1,21 @@
 [
  {
+  "id": "aae90d6b2dab",
+  "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+  "title": "Cal AIのバイラルな成功について言えば、インフルエンサーの小さな軍隊が報われました",
+  "summary": "同社は2年間で3000万$以上の収益を上げ、3月にMyFitnessに未公開の金額で買収された。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
+  "published": "2026-10-16T08:44+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+  "summary_orig": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March."
+ },
+ {
   "id": "63e8e09612a8",
   "url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
   "title": "Google OAuthのDPoPサポートの発表：リフレッシュトークンの保護",
@@ -48,6 +64,21 @@
   "summary_orig": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent"
  },
  {
+  "id": "6790702d34d6",
+  "url": "https://markezine.jp/article/detail/77840",
+  "title": "MQLが増えても商談につながらないのはなぜ？ 「人」と「案件」のギャップを埋めるADRが必要な理由",
+  "summary": "「MQLは増えているのに商談につながらない」「重点企業の1人とは接点を持てても社内の関係者へ広がらない」このような課題が生じるのは、マーケティング担当者がMA上で追う“人”と、営業部門がSFA上で追う“案件”の間に、管理単位のギャップがあるからです。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-16T08:30+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "19f23a92948a",
   "url": "https://ict-enews.net/2026/10/16dhw-13/",
   "title": "DHU、Anthropicの生成AIモデル「Claude」を国内大学初となる全学導入へ",
@@ -88,7 +119,7 @@
   "thumbnail": null,
   "published": "2026-10-16T08:00+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "53fbec6fc7c2",
@@ -103,7 +134,7 @@
   "thumbnail": null,
   "published": "2026-10-16T08:00+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "924ca13842a3",
@@ -150,7 +181,7 @@
   "thumbnail": null,
   "published": "2026-10-16T07:30+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f58634bdaec8",
@@ -165,7 +196,7 @@
   "thumbnail": null,
   "published": "2026-10-16T07:05+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "d80d98795ad6",
@@ -185,7 +216,7 @@
   "id": "d7b4a7786471",
   "url": "https://www.itmedia.co.jp/business/articles/2610/16/news007.html",
   "title": "【現地レポ】なぜドイツの地方都市が「AIベンチャーの聖地」に？ 元食肉処理場が起業拠点、その熱気の実態",
-  "summary": "hCcì ¼ ÍnûssªAñsxð ½ ® ¨ ¢ ÅBtoBEfB [vebNÍåx '[_ ÖÆÄeµÄ ¢ éBåwÍmàAnêYÆÍ ÅèèA »µÄ ÅÈ ¯ Å {ª",
+  "summary": "hCcì ¼ ÍnûssªAñsxð ½ ® ¨ ¢ ÅBtoBEfB [vebNÍåx '[_ ÖÆÄeµÄ ¢ éBåwÍmàAnêYÆÍ ÅèA »µÄ ÅÈ ¯ Å {ª",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -194,7 +225,7 @@
   "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/16/cover_news007.jpg",
   "published": "2026-10-16T07:00+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "summary_orig": "hCcì¼ÌnûssªAñsxð½®¨¢ÅBtoBEfB[vebNÌåx`[_ÖÆÏeµÄ¢éBåwÌmàAnêYÆÌÛèA»µÄ­ÅÈ¯Ô{ª"
+  "summary_orig": "hCcì ¼ ÍnûssªAñsxð ½ ® ¨ ¢ ÅBtoBEfB [vebNÍåx '[_ ÖÆÄeµÄ ¢ éBåwÍmàAnêYÆÍ ÅèèA »µÄ ÅÈ ¯ Å {ª"
  },
  {
   "id": "920b4f54c18a",
@@ -209,7 +240,7 @@
   "thumbnail": null,
   "published": "2026-10-16T07:00+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "ead7e2d522ef",
@@ -224,7 +255,7 @@
   "thumbnail": null,
   "published": "2026-10-16T06:55+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "d86dae2ca61e",
@@ -239,7 +270,7 @@
   "thumbnail": null,
   "published": "2026-10-16T06:50+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "54d7a618ecd3",
@@ -304,6 +335,22 @@
   "collected": "2026-10-16T08:41+09:00",
   "title_orig": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
   "summary_orig": "A Blog post by IBM Granite on Hugging Face"
+ },
+ {
+  "id": "103f524a1327",
+  "url": "https://www.socialmediatoday.com/news/linkedin-adds-new-creator-monetization-options/833179/",
+  "title": "LinkedInが新しいクリエイター収益化オプションを追加",
+  "summary": "同社は、スポンサーシップの拡大、最新のインサイト、アプリから直接1対1のコンサルティングを開催する機能を提供しています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/H3kZmlTTPKd6gH1er3fhV0g9iKxQCsNRwm9YNA4SxZw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9saW5rZWRpbl9jcmVhdG9yX21hcmtldHBsYWNlX2ZpbHRlcnMucG5n.webp",
+  "published": "2026-10-16T05:31+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "LinkedIn adds new creator monetization options",
+  "summary_orig": "The company is offering expanded sponsorships, updated insights and the ability to host one-on-one consultations directly from the app."
  },
  {
   "id": "691b42c67ca3",
@@ -382,9 +429,25 @@
   "thumbnail": null,
   "published": "2026-10-16T04:47+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Chirp Pong",
   "summary_orig": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the"
+ },
+ {
+  "id": "23014f3c5af6",
+  "url": "https://www.socialmediatoday.com/news/meta-offers-enhanced-ad-campaign-exposure/833171/",
+  "title": "Metaは広告キャンペーンの露出を向上させます",
+  "summary": "ブランドビルディングサミットで、同社は新しいファーストインプレッションオプションと拡大されたリールサービスを含む3つの広告アップデートを発表しました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/MTzBQw8xiKv56ggFcHxUayozBZ93So_FOMQd7218fXg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2JyYW5kX3N1bW1pdC5wbmc=.webp",
+  "published": "2026-10-16T04:34+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "Meta offers enhanced ad campaign exposure",
+  "summary_orig": "At its brand building summit the company announced a trio of ad updates, which included a new First Impressions option and expanded Reels services."
  },
  {
   "id": "e925c3137a8a",
@@ -643,6 +706,38 @@
   "summary_orig": "how did we fit IMAX level tech into VR Glasses as light as a deck of cards? that—and everything else you wanted to know about VR Glasses."
  },
  {
+  "id": "7c78c8bc6aba",
+  "url": "https://www.searchenginejournal.com/google-inline-links-higher-ai-search-responses/593089/",
+  "title": "Google、@ sejournal、@ MattGSouthを介してより多くのAI検索レスポンスでインラインリンクを高めます",
+  "summary": "Googleは、AIモードとAI概要でのリンクの表示方法を変更し、インラインリンクを上に移動し、優先ソースを強調表示するカルーセルを拡大しています。",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-ai-search-dive-deeper-1600x840-1.png",
+  "published": "2026-10-16T01:00+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "Google Puts Inline Links Higher In More AI Search Responses via @sejournal, @MattGSouthern",
+  "summary_orig": "Google is changing how links appear in AI Mode and AI Overviews, moving inline links higher and expanding the carousels that highlight Preferred Sources. The po"
+ },
+ {
+  "id": "12f70f9144a8",
+  "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+  "title": "報告：トランプ氏がAIへの恐怖を「でっち上げ」として却下した後、FTCはAnthropic、OpenAIを調査",
+  "summary": "FTCは、データ侵害報告を遅らせる企業と同等のAI企業に罰金を科す可能性があります。",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2277824748-1024x648.jpg",
+  "published": "2026-10-16T00:43+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+  "summary_orig": "FTC may fine AI firms on par with companies that delay data breach reports."
+ },
+ {
   "id": "bcb4cee530f8",
   "url": "https://news.microsoft.com/source/emea/features/missed-a-lecture-this-ai-agent-at-bar-ilan-university-helps-students-catch-up/",
   "title": "講義を見逃しましたか？ Bar - Ilan UniversityのこのAIエージェントは、学生が追いつくのを助けます",
@@ -657,6 +752,22 @@
   "collected": "2026-10-16T08:41+09:00",
   "title_orig": "Missed a lecture? This AI agent at Bar-Ilan University helps students catch up",
   "summary_orig": "The post Missed a lecture? This AI agent at Bar-Ilan University helps students catch up appeared first on Source ."
+ },
+ {
+  "id": "6388b3d480b1",
+  "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+  "title": "歌手？それともクラッカー？ YouTube Musicは、新しい世代のAIラベリングであなたを教えてくれます。",
+  "summary": "AI音楽レーベルは現在YouTube Musicで展開されており、まもなくYouTubeに登場する予定です。",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/youtube-music-gen-ai-labels-fill2-1152x648.png",
+  "published": "2026-10-16T00:12+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+  "summary_orig": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon."
  },
  {
   "id": "25dcb59795ff",
@@ -675,6 +786,38 @@
   "summary_orig": "Enterprise leaders want AI agents to take on more work but don't fully trust them to act correctly every time. Trust in Depth is AWS's layered approach-scope, k"
  },
  {
+  "id": "2c9392a52f20",
+  "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+  "title": "AIエージェントがリビアンの車にやってくる",
+  "summary": "これがどのように機能するかについては、12月に予定されている同社の「AI ＆ Autonomy Day」イベントで詳しく学ぶことができるでしょう。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
+  "published": "2026-10-16T00:02+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "AI agents are coming to Rivian’s cars",
+  "summary_orig": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
+ },
+ {
+  "id": "697ccaae15d0",
+  "url": "https://www.adweek.com/brand-marketing/pivot-or-perish-kargos-bet-on-ai-media-buying/",
+  "title": "Pivot or Perish ： KargoのAIメディア購入への賭け",
+  "summary": "ハリー・カーグマンが、ブランドが広告やメディア購入にアプローチする方法を再構築する原動力について語ります。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/speed-of-culture-outrigger-Harry-Kargman.png?w=600&h=315&crop=1",
+  "published": "2026-10-16T00:02+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "Pivot or Perish: Kargo’s Bet on AI Media Buying",
+  "summary_orig": "Harry Kargman on the forces reshaping the way brands approach advertising and media buying."
+ },
+ {
   "id": "2cd92b812c13",
   "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
   "title": "データセンターからデスクトップへのオープン： NVIDIAは最高効率のスーパーVLとボルトモデルでネモトロンファミリーを拡大",
@@ -689,6 +832,68 @@
   "collected": "2026-10-16T08:41+09:00",
   "title_orig": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
   "summary_orig": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized"
+ },
+ {
+  "id": "566eb01177ed",
+  "url": "https://www.hrpro.co.jp/press_detail.php?ccd=01696&press_no=1",
+  "title": "日揮コーポレートソリューションズとドコモCSに聞く、生成AIが定着する組織の人材育成",
+  "summary": "日揮コーポレートソリューションズとドコモCSに聞く、生成AIが定着する組織の人材育成",
+  "source": "HRプロ",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-16T00:00+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "9ff8c7888846",
+  "url": "https://news.nicovideo.jp/watch/nw19883596?news_ref=watch_20_nw19780883",
+  "title": "GMOランシステム、150種以上の業務別AIエージェントと人が連携するBPOサービス「GENBA AI byGMO」を提供開始",
+  "summary": "GMOランシステム、150種以上の業務別AIエージェントと人が連携するBPOサービス「GENBA AI byGMO」を提供開始",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-15T23:51+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "97f8573c584b",
+  "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+  "title": "NvidiaのRTX Sparkノートパソコン向けにWindowsがどのように最適化されているか",
+  "summary": "マイクロソフトとNVIDIAは先週、サンフランシスコで第1波のRTX Sparkノートパソコンのローンチパーティーを開催した。",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-10-15T23:30+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+  "summary_orig": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a"
+ },
+ {
+  "id": "244831af6248",
+  "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+  "title": "Googleのユニバーサルカートショッピングツールが米国で開始",
+  "summary": "この新しいショッピングツールは、Google検索とGeminiアプリで米国で利用できます。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Google-UniversalCart.png?w=1200",
+  "published": "2026-10-15T23:29+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "Google’s Universal Cart shopping tool launches in the US",
+  "summary_orig": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
  },
  {
   "id": "bd02def313d0",
@@ -707,6 +912,38 @@
   "summary_orig": "Cybersecurity research, moving from weeks to hours. SentinelOne’s Gregor Stewart describes OpenAI’s cyber capabilities reaching human-level output in about eigh"
  },
  {
+  "id": "f616628c1389",
+  "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+  "title": "誰も有名人のAIディープフェイクから安全ではありません",
+  "summary": "後から考えると、Instagramの投稿はもっとレッドフラグを立てるべきでした。この画像は、ACTとの離婚を申請したわずか数日後、女優のミア・ゴスを示していると主張しています",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-10-15T23:03+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "Nobody is safe from celebrity AI deepfakes",
+  "summary_orig": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from act"
+ },
+ {
+  "id": "b7df48e51488",
+  "url": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
+  "title": "SERPは、@ sejournal、@ DuaneForresterを介して、2028年から2030年の間にデフォルトになるのをやめます",
+  "summary": "回答層の広告収益率がSERPと一致すると、Googleはデフォルトをランク付けされた結果からAI回答に切り替えます。そのクロスオーバーは2028年から2030年の間に着陸します。ポストSER",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/duane-forrester-decodes-serps-808.png",
+  "published": "2026-10-15T23:00+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
+  "summary_orig": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030. The post SER"
+ },
+ {
   "id": "40b611a330c7",
   "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
   "title": "Anthropicは、IPO前に投資家の四半期収益が約50 ％増加して168億$になると述べています",
@@ -719,7 +956,7 @@
   "thumbnail": null,
   "published": "2026-10-15T22:04+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
   "summary_orig": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which repor"
  },
@@ -804,6 +1041,53 @@
   "summary_orig": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready."
  },
  {
+  "id": "f746f25f5b35",
+  "url": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
+  "title": "@ sejournal、@ TaylorDanRWを介した予測モデルシグナルによると、96.8 ％の確率で1か月以内にパンダスタイルのアップデートが可能",
+  "summary": "サイト全体のランキングを脅かす可能性のあるスケーリングされたAIコンテンツや偽の著者に対処することで、潜在的なパンダスタイルのGoogleアップデートに備える。投稿96.8 ％",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/panda-update-912.png",
+  "published": "2026-10-15T21:00+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
+  "summary_orig": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site. The post 96.8%"
+ },
+ {
+  "id": "cc07996f6bad",
+  "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+  "title": "Amazon's Bee、$ 75から始まる2つの新しいパーソナルAIデバイスを発売",
+  "summary": "アマゾンが所有するBeeは、買収後初の新しいAIデバイスを発売しました。これには、アップデートされたウェアラブルと、smに取り付けられたクレジットカードサイズのレコーダーが含まれます。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+  "published": "2026-10-15T21:00+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+  "summary_orig": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to sm"
+ },
+ {
+  "id": "9aea15c42cc7",
+  "url": "https://news.nicovideo.jp/watch/nw19882827?news_ref=watch_60_nw18963321",
+  "title": "AI指示書マーケット「マキモノ」正式公開 AIエージェント自身が指示書を検索・取得できる公開APIを提供",
+  "summary": "AI指示書マーケット「マキモノ」正式公開 AIエージェント自身が指示書を検索・取得できる公開APIを提供",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-15T19:30+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "0c6f09c40e01",
   "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
   "title": "[AINews]モーダルの$ 10億ARR、$ 160億シリーズDは、ニューヨーク市の最新のAIインフラデカコーンになり、5か月で3倍の使用量と3倍の評価、1年で15倍の評価",
@@ -852,6 +1136,85 @@
   "summary_orig": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call."
  },
  {
+  "id": "61c4b038e35c",
+  "url": "https://www.socialmediaexaminer.com/making-instagram-reels-easier-faster-scalable/",
+  "title": "Instagramリールをより簡単に、より速く、スケーラブルに",
+  "summary": "品質やリーチを損なうことなく、Instagramリールをより速く作成する方法をお探しですか？どの新しいInstagramと編集機能が編集、分析、",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-15T19:00+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Making Instagram Reels Easier, Faster & Scalable",
+  "summary_orig": "Wondering how to create Instagram Reels faster without losing quality or reach? Want to know which new Instagram and Edits features help you edit, analyze, and"
+ },
+ {
+  "id": "85dd7981daa6",
+  "url": "https://www.socialmediaexaminer.com/updating-to-chatgpt-sites-using-claude-design-guide-and-industry-news/",
+  "title": "ChatGPTサイトへのアップデート、Claudeデザインガイドの使用、業界ニュース",
+  "summary": "もうすぐ金曜日です！プラグを抜く前に、最後にインサイトとアップデートをご紹介します。今読んでも、後で保存しても、見逃すことはありません",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-15T18:30+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Updating to ChatGPT Sites, Using Claude Design Guide, and Industry News",
+  "summary_orig": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to mis"
+ },
+ {
+  "id": "10264adea3da",
+  "url": "https://markezine.jp/article/detail/77858",
+  "title": "DATAFLUCT、伊藤忠食品で営業支援AIエージェントを検証 提案資料の自動生成など4機能",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-15T18:15+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "146bf7caaedc",
+  "url": "https://markezine.jp/article/detail/77821",
+  "title": "KDDI、AIが生成する“もうひとりのわたし”と電話で話せる体験型イベントをGINZA 456で開催",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-15T18:00+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "838dc626cdf3",
+  "url": "https://markezine.jp/article/detail/77847",
+  "title": "immedio、AI時代の営業・マーケを議論する「AI Growth Camp 2026」を開催",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-15T15:00+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "9ff90121ae16",
   "url": "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/",
   "title": "NordicsとNVIDIAは、地域が高度なコンピューティングにコミットしたときに何が可能かを示しています",
@@ -868,6 +1231,49 @@
   "summary_orig": "The Nordic countries have become the European leader in unicorn startup density, producing the most emerging companies valued at $1 billion or more per capita o"
  },
  {
+  "id": "c0cbabffb625",
+  "url": "https://www.advertimes.com/20261015/article560711/?utm_source=feed",
+  "title": "麺もスープも具材もない「ラーメン」が登場 「CEATEC2026」電通が披露した “五感の広告” の未来",
+  "summary": "ラーメンを食べていないのに、まるですすったような感覚を味わえる。実際には存在しない物体の触り心地を、AIが生み出す。そんなユニークな技術を電通が披露している。 The post 麺もスープも具材もない「ラーメン」が登場 「CEATEC2026」電通が披露した “五感の広告” の未来 first appeared on ",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/ceatec2026_dentsu-lab-t_playful-transformation_ogp.jpg",
+  "published": "2026-10-15T13:10+09:00",
+  "collected": "2026-10-16T08:52+09:00"
+ },
+ {
+  "id": "c19bbbb36b34",
+  "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002260/",
+  "title": "CTOが「AI導入で生産性を1年で2倍に」掲げた企業のその後 米国が開発者802人の進捗を追跡調査",
+  "summary": "米カーネギーメロン大学や米スタンフォード大学などに所属する研究者らが発表した論文「AI Writes Faster Than Humans Can Review: A Longitudinal Study of an Enterprise 2x Mandate」は、AI導入を義務化したソフトウェア会社がどのような影響を",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/15/2000002260/10009323/2048",
+  "published": "2026-10-15T12:00+09:00",
+  "collected": "2026-10-16T08:52+09:00"
+ },
+ {
+  "id": "cc65a032f98f",
+  "url": "https://markezine.jp/article/detail/77845",
+  "title": "【イベント】AIが商品を探す時代、ECサイトはどう変わる？エージェンティックコマースの実践戦略を解説",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-15T12:00+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "733411890416",
   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12095/",
   "title": "Anthropic Japan、開設1年でClaude導入企業10倍超 サイバー防御は速度重視",
@@ -880,6 +1286,48 @@
   "thumbnail": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12095/topm.jpg?20220512",
   "published": "2026-10-15T11:30+09:00",
   "collected": "2026-10-16T08:41+09:00"
+ },
+ {
+  "id": "0edf8206feb5",
+  "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002286/",
+  "title": "相次ぐサイバー攻撃に「AI悪用の可能性」……初来日のAnthropic共同創業者が言及 悪用どう抑止",
+  "summary": "「おそらく、AIツールが使われている可能性はあるだろうと推測している」──米Anthropicの共同創業者のジャック・クラーク氏が初来日し、同社の日本法人が10月14日に開いたメディア説明会に登壇した。講演では、報道陣の質問に答える形でサイバー攻撃とAIの関係性についても言及する一幕も。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/15/2000002286/10009409/2048",
+  "published": "2026-10-15T10:55+09:00",
+  "collected": "2026-10-16T08:52+09:00"
+ },
+ {
+  "id": "d7925e8696ec",
+  "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002287/",
+  "title": "「YouTube Music」、生成AIで作られた楽曲にラベル表示",
+  "summary": "YouTubeは「YouTube Music」で、主に生成AIで作られた楽曲を示すラベル表示を開始した。音楽パートナーとの連携や独自ツールで曲やボーカルの生成を検知し、プレーヤー画面に表示する。メタデータ申告のほか未申告でも自動判定し、今後はYouTubeにも拡大する。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/15/2000002287/10009413/2048",
+  "published": "2026-10-15T10:27+09:00",
+  "collected": "2026-10-16T08:52+09:00"
+ },
+ {
+  "id": "344f1cd9cce8",
+  "url": "https://prtimes.jp/main/html/rd/p/000000478.000033386.html",
+  "title": "弁護士向けAI「ベンパル書面作成」で裁判書類の作成時間を60%削減！法律事務所による活用事例を一挙公開",
+  "summary": "弁護士向けAI「ベンパル書面作成」で裁判書類の作成時間を60%削減！法律事務所による活用事例を一挙公開",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/33386/478/33386-478-b5a8561183e9ab4dee29b5eed2ff9140-1731x909.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-15T10:10+09:00",
+  "collected": "2026-10-16T08:52+09:00"
  },
  {
   "id": "f0fe7c9aa7b8",
@@ -910,7 +1358,7 @@
   "thumbnail": null,
   "published": "2026-10-15T10:00+09:00",
   "collected": "2026-10-15T10:28+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d7f4f48324ba",
@@ -3503,8 +3951,8 @@
  {
   "id": "e1fac0b9234f",
   "url": "https://www.youtube.com/watch?v=LVEfFyijQ2c",
-  "title": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
-  "summary": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of tangled features, where touching o",
+  "title": "Chromiumでの大規模なコードベースのメンテナンスのためのGemini 4の適用",
+  "summary": "Chromiumのコードベースは、何百万行もの長さと数十年の歴史があります。過去には、それを使用することは、何十年にもわたる複雑な機能をナビゲートすることを意味していました。",
   "source": "Google DeepMind",
   "type": "video",
   "tier": "official",
@@ -3512,13 +3960,15 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/LVEfFyijQ2c/hqdefault.jpg",
   "published": "2026-10-14T01:38+09:00",
-  "collected": "2026-10-16T08:41+09:00"
+  "collected": "2026-10-16T08:41+09:00",
+  "title_orig": "Applying Gemini 4 for large-scale codebase maintenance in Chromium",
+  "summary_orig": "The Chromium codebase is millions of lines long and decades old. In the past, working with it has meant navigating decades of tangled features, where touching o"
  },
  {
   "id": "d5d8f56a8647",
   "url": "https://www.youtube.com/watch?v=ftkic7Tdpcg",
-  "title": "Using Gemini 4 Argon to protect against Cyber attackers",
-  "summary": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber threats. Using its advanced reasoning",
+  "title": "ジェミニ4アルゴンを使ってサイバー攻撃者から身を守る",
+  "summary": "現実のシステムでのシャドウA/Bテストでは、Wizのセキュリティ研究者がGemini 4 Argonを複雑なサイバー脅威に対してテストしました。高度な推論を使用する",
   "source": "Google DeepMind",
   "type": "video",
   "tier": "official",
@@ -3526,7 +3976,9 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/ftkic7Tdpcg/hqdefault.jpg",
   "published": "2026-10-14T01:38+09:00",
-  "collected": "2026-10-16T08:41+09:00"
+  "collected": "2026-10-16T08:41+09:00",
+  "title_orig": "Using Gemini 4 Argon to protect against Cyber attackers",
+  "summary_orig": "In shadow A/B testing on real-world systems, Wiz security researchers put Gemini 4 Argon to the test against complex cyber threats. Using its advanced reasoning"
  },
  {
   "id": "17bf6767dcb0",
@@ -3547,8 +3999,8 @@
  {
   "id": "1fa3e36e2da6",
   "url": "https://www.youtube.com/shorts/N1fhLtHmJ1I",
-  "title": "Reel of the Week | Surreal Instagram Illustrator",
-  "summary": "Natasha is an illustrator who translates everyday observations into imaginative characters, then uses the Edits app to discover the perfect songs to add to her ",
+  "title": "今週のリール| Surreal Instagram Illustrator",
+  "summary": "Natashaはイラストレーターで、日々の観察を想像力豊かなキャラクターに変換し、Editsアプリを使用して自分に追加するのに最適な曲を見つけます",
   "source": "Meta",
   "type": "video",
   "tier": "official",
@@ -3556,7 +4008,9 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/N1fhLtHmJ1I/hqdefault.jpg",
   "published": "2026-10-14T01:04+09:00",
-  "collected": "2026-10-16T08:41+09:00"
+  "collected": "2026-10-16T08:41+09:00",
+  "title_orig": "Reel of the Week | Surreal Instagram Illustrator",
+  "summary_orig": "Natasha is an illustrator who translates everyday observations into imaginative characters, then uses the Edits app to discover the perfect songs to add to her"
  },
  {
   "id": "958759977490",
@@ -3657,8 +4111,8 @@
  {
   "id": "ade12c07232f",
   "url": "https://www.youtube.com/watch?v=9PICEmtfpWU",
-  "title": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
-  "summary": "In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing cornhole. Using its video understanding ",
+  "title": "Gemini 4 Argonで人型ロボットにトウモロコシ穴遊びを教える",
+  "summary": "内部テストでは、Google DeepMindのロボット研究者が、Gemini 4 Argonに人間がトウモロコシの穴で遊んでいるビデオを見るように指示しました。ビデオの理解を使用して",
   "source": "Google DeepMind",
   "type": "video",
   "tier": "official",
@@ -3666,13 +4120,15 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/9PICEmtfpWU/hqdefault.jpg",
   "published": "2026-10-14T00:58+09:00",
-  "collected": "2026-10-16T08:41+09:00"
+  "collected": "2026-10-16T08:41+09:00",
+  "title_orig": "Teaching a humanoid robot to play cornhole with Gemini 4 Argon",
+  "summary_orig": "In an internal test, Google DeepMind robotics researchers instructed Gemini 4 Argon to watch a video of a human playing cornhole. Using its video understanding"
  },
  {
   "id": "1d27ca953a63",
   "url": "https://www.youtube.com/watch?v=9jQA7IgPhBE",
-  "title": "Untangling 500-page chemistry patents with Gemini 4",
-  "summary": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule’s structure can sit 50 pages away from its experimental reado",
+  "title": "Gemini 4で500ページの化学特許を解き明かす",
+  "summary": "化学文献の監査は、通常、分子の構造が実験的な読み取りから50ページ離れた場所に置かれる可能性がある、手動でエラーが発生しやすい読み取りの数週間を意味します",
   "source": "Google DeepMind",
   "type": "video",
   "tier": "official",
@@ -3680,7 +4136,9 @@
   "proxy_for": null,
   "thumbnail": "https://i.ytimg.com/vi/9jQA7IgPhBE/hqdefault.jpg",
   "published": "2026-10-14T00:58+09:00",
-  "collected": "2026-10-16T08:41+09:00"
+  "collected": "2026-10-16T08:41+09:00",
+  "title_orig": "Untangling 500-page chemistry patents with Gemini 4",
+  "summary_orig": "Auditing chemistry literature usually means weeks of manual, error-prone reading, where a molecule’s structure can sit 50 pages away from its experimental reado"
  },
  {
   "id": "576253ed8947",
@@ -3873,6 +4331,22 @@
   "collected": "2026-10-14T09:36+09:00",
   "title_orig": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
   "summary_orig": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month."
+ },
+ {
+  "id": "341e6dd7e69d",
+  "url": "https://www.youtube.com/watch?v=cxCBk6uouHM",
+  "title": "ジェニー・ホヨスがライブ＆コミュニティの新機能をチェック",
+  "summary": "ショートフォームとライブセンセーション@ JennyHoyosがYouTube Live @ BarbaraEMacとクリエイターリエゾン@ ReneRitchieのヘッドに加わり、go lなどの新しいライブ機能についてすべて話し合います",
+  "source": "Creator Insider（YouTube公式）",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/cxCBk6uouHM/hqdefault.jpg",
+  "published": "2026-10-13T22:38+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "Jenny Hoyos Locks in on New Live & Community Features",
+  "summary_orig": "Short form and live sensation @JennyHoyos joins head of YouTube Live @BarbaraEMac and Creator Liaison @ReneRitchie to talk all about new live features like go l"
  },
  {
   "id": "858ce7e14d91",
@@ -4782,6 +5256,22 @@
   "summary_orig": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter."
  },
  {
+  "id": "2ebd4f4083a0",
+  "url": "https://www.youtube.com/shorts/2iPJaGzgQQU",
+  "title": "新機能！ Ask YouTubeがショートパンツに登場",
+  "summary": "新しいフィードエクスペリエンスを介して、デスクトップ、テレビ、モバイルのショートパンツプレーヤーで直接視聴ページでYouTubeに尋ねることができたらどうでしょうか？",
+  "source": "Creator Insider（YouTube公式）",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/2iPJaGzgQQU/hqdefault.jpg",
+  "published": "2026-10-13T05:26+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "New! Ask YouTube is Coming to Shorts",
+  "summary_orig": "What if you could hit up Ask YouTube on the watch page directly in the Shorts player across desktop, TV, and mobile, and… and! … through a new feed experience o"
+ },
+ {
   "id": "ee730a053bcc",
   "url": "https://www.socialmediatoday.com/news/meta-launches-advanced-muse-wonder-ai-models/832795/",
   "title": "Meta、高度なMuse Wonder AIモデルを発表",
@@ -4888,6 +5378,22 @@
   "collected": "2026-10-13T11:35+09:00",
   "title_orig": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
   "summary_orig": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who"
+ },
+ {
+  "id": "aad845690774",
+  "url": "https://www.youtube.com/shorts/xGxx6NksmU4",
+  "title": "新機能！検索ページでYouTubeに問い合わせる",
+  "summary": "必要な情報を必要なビデオからすばやく見つけることができれば、フォローアップを簡単に依頼し、複雑なトピックを探索し、デスクトップでより深く掘り下げることができます。",
+  "source": "Creator Insider（YouTube公式）",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/xGxx6NksmU4/hqdefault.jpg",
+  "published": "2026-10-13T02:56+09:00",
+  "collected": "2026-10-16T08:52+09:00",
+  "title_orig": "New! Ask YouTube on the Search Page",
+  "summary_orig": "What if you could quickly find the information you need from the video you want, easily ask follow ups, explore complex topics, and dive deeper, on desktop, on"
  },
  {
   "id": "024d9eece6c0",
@@ -5802,22 +6308,6 @@
   "collected": "2026-10-11T09:15+09:00",
   "title_orig": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
   "summary_orig": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
- },
- {
-  "id": "493824dfd332",
-  "url": "https://www.youtube.com/watch?v=Ju-JyxDgV7g",
-  "title": "オラクルがコーデックスを使用してビジネスユーザーが回答を得るのを助ける方法",
-  "summary": "Oracle Applications LabのグループバイスプレジデントであるRichard Lam氏は、彼のチームがコーデックスを使用してビジネスユーザーが会社のデータから回答を得るのをどのように支援しているかを説明しています。",
-  "source": "OpenAI",
-  "type": "video",
-  "tier": "official",
-  "topic": "ai",
-  "proxy_for": null,
-  "thumbnail": "https://i.ytimg.com/vi/Ju-JyxDgV7g/hqdefault.jpg",
-  "published": "2026-10-11T06:40+09:00",
-  "collected": "2026-10-11T09:15+09:00",
-  "title_orig": "How Oracle Uses Codex to Help Business Users Get Answers",
-  "summary_orig": "Richard Lam, Group Vice President at Oracle Applications Lab, shares how his team uses Codex to help business users get answers from company data. By describing"
  },
  {
   "id": "ac1984a6a99c",
