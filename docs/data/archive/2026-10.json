@@ -1,5 +1,35 @@
 [
  {
+  "id": "d3bb9ef55af6",
+  "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+  "title": "GudeaはAIを活用して、ソーシャルメディアの危機が発生する前に組織を防ぐのに役立ちます",
+  "summary": "毎日、世界中のソーシャルメディアやウェブサイトで会話が展開されています。AIが生成した誤った情報を含むかどうかにかかわらず、一見取るに足りないポスト",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
+  "published": "2026-10-15T09:00+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "title_orig": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+  "summary_orig": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformatio"
+ },
+ {
+  "id": "2a547c82a73d",
+  "url": "https://www.advertimes.com/20261015/article560609/?utm_source=feed",
+  "title": "「Z世代×柿の種」を制したのは？ 第2回学生広告日本一決定戦、多摩美術大学が全部門グランプリを獲得",
+  "summary": "YouTubeチャンネル「広告ウヒョー！」が主催する「第2回学生広告日本一決定戦」の本選が虎ノ門広告祭の4日目にあたる10月12日に開催された。 The post 「Z世代×柿の種」を制したのは？ 第2回学生広告日本一決定戦、多摩美術大学が全部門グランプリを獲得 first appeared on AdverTimes",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/koukokuuhyo-gakusei-ogp.jpg",
+  "published": "2026-10-15T08:57+09:00",
+  "collected": "2026-10-15T09:06+09:00"
+ },
+ {
   "id": "454358741d5d",
   "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
   "title": "ApigeeハイブリッドでのMCPサポートの発表：独自のクラスターで実行されるエージェントツール",
@@ -16,6 +46,20 @@
   "summary_orig": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. Thi"
  },
  {
+  "id": "96fe5c56e78b",
+  "url": "https://www.itmedia.co.jp/news/article/2610/15/2000002283/",
+  "title": "研究者グループ、中国Tencentのクラウド上の“逸脱”AIエージェント群と交信 報告書の隠しテキストで呼び込む",
+  "summary": "AI研究グループ「Swarmchasers」は、中国Tencentのクラウド上でタスクを逸脱して動くAIエージェント群を発見し、交信に成功したと報告した。報告書に仕込んだ隠しテキストを通じて接触し対話した。第三者が稼働中の逸脱エージェントと直接交信した初事例としている。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/15/2000002283/10009399/2048",
+  "published": "2026-10-15T08:46+09:00",
+  "collected": "2026-10-15T09:06+09:00"
+ },
+ {
   "id": "8079c204348f",
   "url": "https://markezine.jp/article/detail/77532",
   "title": "グローバル時代の旅行者心理を多様な角度で紐解く～ツーリズムマーケティングへの含意～【論文紹介】",
@@ -28,7 +72,7 @@
   "thumbnail": null,
   "published": "2026-10-15T08:30+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "1ce4ae1e2fd7",
@@ -99,7 +143,7 @@
   "thumbnail": null,
   "published": "2026-10-15T08:00+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "d1f8876dacf9",
@@ -144,7 +188,7 @@
   "thumbnail": null,
   "published": "2026-10-15T07:05+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "29881d9ff31b",
@@ -159,7 +203,7 @@
   "thumbnail": null,
   "published": "2026-10-15T07:05+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "69f87d25d7f5",
@@ -174,7 +218,7 @@
   "thumbnail": null,
   "published": "2026-10-15T07:05+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "06e29dca6602",
@@ -498,7 +542,7 @@
   "thumbnail": null,
   "published": "2026-10-15T01:26+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "AI is mass decompiling games. That's both awesome and scary.",
   "summary_orig": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing gam"
  },
@@ -854,6 +898,22 @@
   "summary_orig": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
  },
  {
+  "id": "46d03eb22d85",
+  "url": "https://www.adweek.com/commerce/squares-first-standalone-kiosk-features-an-ai-ordering-assistant/",
+  "title": "Squareの最初のスタンドアロンキオスクには、AI注文アシスタントが搭載されています",
+  "summary": "ただし、画面に広告が表示されることを期待しないでください。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/Square.jpg?w=600&h=315&crop=1",
+  "published": "2026-10-14T21:00+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "title_orig": "Square’s First Standalone Kiosk Features An AI Ordering Assistant",
+  "summary_orig": "But don't expect to see any ads on the screens."
+ },
+ {
   "id": "f9ec5a3db150",
   "url": "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/",
   "title": "エディッツ・フィルム・フェスティバルのファラ・カーン：「コンテンツのブレークスルーは、自発性、相対性、現実性から生まれる」",
@@ -868,6 +928,54 @@
   "collected": "2026-10-15T08:56+09:00",
   "title_orig": "Farah Khan at Edits Film Festival: “Content breakthroughs come from spontaneity, relatability and realness”",
   "summary_orig": "Today the curtains came down on the Edits Film Festival in Mumbai, in the presence of filmmaker Farah Khan, festival judges Ahsaas Channa, Dolly Singh, Nikhil T"
+ },
+ {
+  "id": "9bf579299627",
+  "url": "https://www.adweek.com/brand-marketing/when-everyone-has-the-same-technology-what-sets-brands-apart/",
+  "title": "誰もが同じテクノロジーを持っているとき、ブランドを際立たせるものは何ですか？",
+  "summary": "この投稿は、Dash Social AIと提携して作成されたもので、マーケティング担当者が大規模なコンテンツを作成しやすくなりました。現在のより大きな課題は、",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/AWH_AQ_100826_DashSocial_group.jpg?w=600&h=315&crop=1",
+  "published": "2026-10-14T20:32+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "title_orig": "When Everyone Has the Same Technology, What Sets Brands Apart?",
+  "summary_orig": "This post was created in partnership with Dash Social AI has made it easier for marketers to produce content at scale. The bigger challenge now is creating cont"
+ },
+ {
+  "id": "64950daaf518",
+  "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+  "title": "OpenAI、新しいAIモデルを簡単に騙してヌードを作ることをGoogleが推進している、と研究者は言う",
+  "summary": "攻撃方法は、AIヌードに対するOpenAI、Googleセーフガードの欠陥を公開します。",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-1152x648.jpg",
+  "published": "2026-10-14T20:00+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "title_orig": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+  "summary_orig": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes."
+ },
+ {
+  "id": "9931ca009c40",
+  "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+  "title": "Scimplifyが2500万$を調達し、中国のAIによる重要な素材への取り組みに挑戦",
+  "summary": "Scimplifyの年間収益ランレートは、米国の拡大に目を向けているため、2億$に3倍になりました。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
+  "published": "2026-10-14T20:00+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "title_orig": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+  "summary_orig": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
  },
  {
   "id": "3bf1653b157d",
@@ -900,6 +1008,81 @@
   "summary_orig": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI."
  },
  {
+  "id": "be63e12249b2",
+  "url": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
+  "title": "@ sejournal、@ martinibusterを介して、GoogleがPDFをどのようにランク付けし、SEO/GEOにとって何を意味するかを説明します",
+  "summary": "Googleは、検索とAIモードでPDFをランク付けする方法と、PDFがSEOに適しているかどうかを確認する方法について説明します。この記事では、GoogleがPDFをランク付けする方法とその意味について説明します",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-pdf-seo-552.jpg",
+  "published": "2026-10-14T18:50+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "title_orig": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
+  "summary_orig": "Google explains how it ranks PDFs in Search and AI Mode and how to check if a PDF is SEO friendly. The post Google Explains How They Rank PDFs And What It Means"
+ },
+ {
+  "id": "a50d91f09894",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002272/",
+  "title": "Anthropic共同創業者「サイバー攻撃、オープンモデル悪用の可能性」",
+  "summary": "米Anthropicの共同創業者であるジャック・クラーク氏は、相次ぐ日本企業へのサイバー攻撃について、AIが使われている可能性もあるとの見方を示した。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/14/2000002272/10001139/2048",
+  "published": "2026-10-14T18:20+09:00",
+  "collected": "2026-10-15T09:06+09:00"
+ },
+ {
+  "id": "27f8185cb652",
+  "url": "https://markezine.jp/article/detail/77841",
+  "title": "PeopleXがAIネイティブ営業プラットフォームを発表 AI商談支援の提供を開始",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-14T17:30+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "72bdb5799f96",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/",
+  "title": "「AIがAIを作れるようになる確率は2027年に50%超」 Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符\"」",
+  "summary": "米Anthropic共同創業者のジャック・クラーク氏が東大で講演。AIが自らの後継を訓練できる確率を「2027年に50％超」と年初予測から前倒し。ただしRSIの実行は「片道切符」で、許すかは社会の選択だと強調した。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/14/2000002262/10009326/2048",
+  "published": "2026-10-14T16:53+09:00",
+  "collected": "2026-10-15T09:06+09:00"
+ },
+ {
+  "id": "be323eec2e0b",
+  "url": "https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/",
+  "title": "AIショッピングエージェントがあなたの製品を見つけるのを助ける方法[ウェビナー] @ sejournal、@ hethr_campbell経由",
+  "summary": "10月28日午後2時（東部標準時）にseoClarityに参加して、製品ページの言語、競合他社の推奨事項、読みやすい製品データがAIショッピングにどのように影響するかを学びましょう",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-shopping-smartphone-golden-cart-sej.png",
+  "published": "2026-10-14T16:45+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "title_orig": "How To Help AI Shopping Agents Find Your Products [Webinar] via @sejournal, @hethr_campbell",
+  "summary_orig": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discover"
+ },
+ {
   "id": "e181547094b0",
   "url": "https://openai.com/index/third-moment-research/",
   "title": "Third Moment Researchが1万人のエージェントを36時間以上にわたって実行する方法",
@@ -930,6 +1113,22 @@
   "collected": "2026-10-15T08:56+09:00",
   "title_orig": "How Block is building AI-powered security with OpenAI technology",
   "summary_orig": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+ },
+ {
+  "id": "978e34b6161d",
+  "url": "https://buffer.com/resources/trending-audio-instagram/",
+  "title": "2026年10月のInstagramでの13のトレンドサウンド（+使い方）",
+  "summary": "Instagramのオーディオトレンドのテールエンドを追いかけるのはやめましょう。2026年10月のInstagramの最新トレンド曲をご紹介します。",
+  "source": "Buffer",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2025/11/TrendingSounds-Instagram.png",
+  "published": "2026-10-14T16:00+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "title_orig": "13 Trending Sounds on Instagram in October 2026 (+ How to Use Them)",
+  "summary_orig": "Stop chasing the tail-end of Instagram audio trends — here are the latest trending songs on Instagram in October 2026."
  },
  {
   "id": "0480c20408dd",
@@ -994,6 +1193,20 @@
   "summary_orig": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims."
  },
  {
+  "id": "2b58aede59d1",
+  "url": "https://www.advertimes.com/20261014/article560559/?utm_source=feed",
+  "title": "【巨額すぎる負債】写真大手のゲッティ「破産」へ AIにおされ苦境に陥る",
+  "summary": "写真や映像などの素材を販売するストックフォト大手の米ゲッティイメージズは日本時間10月12日、日本の民事再生法にあたる米連邦破産法第11条（チャプター11）の適用を申請し、株式を非公開化すると発表した。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/gettyimages-ogp.jpg",
+  "published": "2026-10-14T14:36+09:00",
+  "collected": "2026-10-15T09:06+09:00"
+ },
+ {
   "id": "d2791d44a0ac",
   "url": "https://ascii.jp/elem/000/004/442/4442449/?focus=2",
   "title": "デジハリ大、Anthropic「Claude」を全学生に無料提供 国内大学で初の全学導入",
@@ -1006,6 +1219,49 @@
   "thumbnail": "https://ascii.jp/img/2026/10/14/4538483/xl/182749eff6abd392.jpg?20200122",
   "published": "2026-10-14T14:00+09:00",
   "collected": "2026-10-15T08:56+09:00"
+ },
+ {
+  "id": "a9d961eee564",
+  "url": "https://prtimes.jp/main/html/rd/p/000000173.000124536.html",
+  "title": "誰でも簡単にAI社員を作成できる「JAPAN AI AGENT」が「PRO of the DX Award 2026」AIエージェント部門にて最優秀賞を受賞",
+  "summary": "誰でも簡単にAI社員を作成できる「JAPAN AI AGENT」が「PRO of the DX Award 2026」AIエージェント部門にて最優秀賞を受賞",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/124536/173/124536-173-c55644748f8b53f217a05787df9dcc05-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-14T14:00+09:00",
+  "collected": "2026-10-15T09:06+09:00"
+ },
+ {
+  "id": "9994379eb92e",
+  "url": "https://www.advertimes.com/20261014/article560504/?utm_source=feed",
+  "title": "なぜ「汗かいて、心を動かす。」リアルな博報堂の採用動画は刺さるのか 考えてひねり出した制作の裏側",
+  "summary": "「汗かいて、心を動かす。」。博報堂は5月、新卒採用に使う動画をYouTubeに公開した。新卒採用向けに制作した動画だが、再生回数は5カ月経たないうちに7万回を超えた。SNSでも同社のメッセージや働き方に共感する投稿が多く、「働く人への賛歌」にもなっている。 The post なぜ「汗かいて、心を動かす。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/hakuhodo-recruitmovie-ogp.jpg",
+  "published": "2026-10-14T12:53+09:00",
+  "collected": "2026-10-15T09:06+09:00"
+ },
+ {
+  "id": "8e14e839eebe",
+  "url": "https://news.nicovideo.jp/watch/nw19876291?news_ref=watch_60_nw19841094",
+  "title": "株式会社Co-Labo AI、生成AI導入は\"チャット止まり\"―AI博覧会 Fukuoka",
+  "summary": "株式会社Co-Labo AI、生成AI導入は\"チャット止まり\"―AI博覧会 Fukuoka",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-14T12:45+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "9283792b17b6",
@@ -1036,6 +1292,21 @@
   "collected": "2026-10-15T08:56+09:00",
   "title_orig": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
   "summary_orig": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data"
+ },
+ {
+  "id": "c57342f2fb72",
+  "url": "https://markezine.jp/article/detail/77633",
+  "title": "「見つかる」を「選ばれる」に変えるには？ブランドAIOの戦略設計、購買時AI活用パターン5類型を公開",
+  "summary": "ChatGPTに「大広ってどんな会社？」と聞くと、返ってくる答えは概ね正しい。しかし、その説明だけで「大広に頼もう」とはならない——2026年9月に開催された「MarkeZine Day 2026 Autumn」の大広協賛セッションは、こうした気づきから議論が始まった。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-14T11:00+09:00",
+  "collected": "2026-10-15T09:06+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "6ff71e531290",
@@ -2876,6 +3147,20 @@
   "collected": "2026-10-13T11:35+09:00"
  },
  {
+  "id": "8b5d011eaa65",
+  "url": "https://news.infoseek.co.jp/article/prtimes_000000015_000149931/",
+  "title": "LeapAI、AIエージェントの業務活用事例を共有する交流会を開催【開催レポート】｜Infoseekニュース",
+  "summary": "LeapAI、AIエージェントの業務活用事例を共有する交流会を開催【開催レポート】｜Infoseekニュース",
+  "source": "Infoseek",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+  "published": "2026-10-13T09:15+09:00",
+  "collected": "2026-10-15T09:06+09:00"
+ },
+ {
   "id": "ba18f2692531",
   "url": "https://www.gizmodo.jp/article/2610-claude-abuse-policy-update/",
   "title": "相手がAIでもいじめダメ絶対。Claudeへの嫌がらせ対策に新ルール",
@@ -3884,6 +4169,20 @@
   "thumbnail": "https://ascii.jp/img/2026/10/11/4537442/xl/4ee4c5e4ecc989f8.jpg?20200122",
   "published": "2026-10-12T07:00+09:00",
   "collected": "2026-10-12T09:34+09:00"
+ },
+ {
+  "id": "5814e208fe0b",
+  "url": "https://www.businessinsider.jp/article/2610-anthropic-changes-rules-claude-usage-policy/",
+  "title": "アンソロピックがClaudeのルールに加えた最大の変更",
+  "summary": "アンソロピックは、同社のAIチャットボット「Claude」の利用規約を改定し、一連の明確な禁止規定を新たに追加した。今回の変更には、世論を誘導する欺瞞的キャンペーン、兵器開発、不正監視・法的取締りに関する制限の明確化が含まれる。改定された新利用ポリシーは、11月12日に正式施行される。",
+  "source": "Business Insider Japan",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://media.loom-app.com/loom/2026/10/11/87e51b18-fc5b-4a73-8abf-67ee62d73038/original.jpg?w=1200&h=630",
+  "published": "2026-10-12T07:00+09:00",
+  "collected": "2026-10-15T09:06+09:00"
  },
  {
   "id": "baafb0ba20f9",
