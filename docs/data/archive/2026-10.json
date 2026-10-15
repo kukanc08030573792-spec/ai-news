@@ -1,5 +1,19 @@
 [
  {
+  "id": "1024b753dac9",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
+  "title": "国内WebサイトへのAIエージェント攻撃を観測 「8時間弱」続いた攻撃の推移を公開 国内セキュリティベンダー",
+  "summary": "ビットフォレストが、日本企業のWebサイトへのAIエージェントによる攻撃を観測したと報告。10月14日までに3つのIPアドレスから確認し、うち1つは8時間弱にわたり10段階に攻撃を変化させたという。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/15/2000002284/10009402/2048",
+  "published": "2026-10-15T09:06+09:00",
+  "collected": "2026-10-15T09:51+09:00"
+ },
+ {
   "id": "d3bb9ef55af6",
   "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
   "title": "GudeaはAIを活用して、ソーシャルメディアの危機が発生する前に組織を防ぐのに役立ちます",
@@ -72,7 +86,7 @@
   "thumbnail": null,
   "published": "2026-10-15T08:30+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "1ce4ae1e2fd7",
@@ -143,7 +157,21 @@
   "thumbnail": null,
   "published": "2026-10-15T08:00+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
+ },
+ {
+  "id": "67ca38ce7f5d",
+  "url": "https://news.mynavi.jp/techplus/kikaku/20261015-4989355/",
+  "title": "サイボウズ 青野 氏とジョイゾー 四宮 氏が語る、生成AI時代の業務改善――手段と目的を取り違えないために",
+  "summary": "生成AIを業務で使う機会は急速に広がっており、メールの下書きや情報収集、資料作成など、個人レベルではすでに日常的なツールになりつつあります。一方で、企業としてAIを業務に組み込み、継続的な成果につなげようとすると、思うように進まないケースも少なくありません。",
+  "source": "マイナビニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://news.mynavi.jp/techplus/kikaku/20261015-4989355/index_images/index.jpg",
+  "published": "2026-10-15T08:00+09:00",
+  "collected": "2026-10-15T09:51+09:00"
  },
  {
   "id": "d1f8876dacf9",
@@ -188,7 +216,7 @@
   "thumbnail": null,
   "published": "2026-10-15T07:05+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "29881d9ff31b",
@@ -203,7 +231,7 @@
   "thumbnail": null,
   "published": "2026-10-15T07:05+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "69f87d25d7f5",
@@ -218,7 +246,7 @@
   "thumbnail": null,
   "published": "2026-10-15T07:05+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "06e29dca6602",
@@ -308,6 +336,22 @@
   "summary_orig": "IFSÌtOVbvJt@XuIFS Unleashed 2026vªAÄI[hÅJµ½B¯CxgÉí¹ÄAYÆpAIvbgtH[ÌV»iuIFS Intelligencevð"
  },
  {
+  "id": "2c3ce0b13a2f",
+  "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+  "title": "木の鑑賞者",
+  "summary": "ツール：ツリーアプレシエータークロードとの別のゲーム実験。これはデフォルトのClaude iPhoneアプリ（ Claude Codeモードではなく、チャットモード）を使用して、Claudにプロンプトを表示しました",
+  "source": "Simon Willison",
+  "type": "article",
+  "tier": "voice",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static.simonwillison.net/static/2026-10-14/IMG_9084.jpeg",
+  "published": "2026-10-15T06:23+09:00",
+  "collected": "2026-10-15T09:51+09:00",
+  "title_orig": "Tree Appreciator",
+  "summary_orig": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claud"
+ },
+ {
   "id": "88ac6d1c3f06",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
   "title": "8つの州がOpenAIを訴え、ChatGPTは子供にとって安全ではないと主張",
@@ -368,6 +412,22 @@
   "collected": "2026-10-15T08:56+09:00",
   "title_orig": "The AI race is back on",
   "summary_orig": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the du"
+ },
+ {
+  "id": "1522feb63f30",
+  "url": "https://www.adweek.com/media/content-commerce-publishers-outdoor-life/",
+  "title": "コンテンツ・ツー・コマースのパブリッシャーは苦労してきました。アウトドアライフは例外でしょうか？",
+  "summary": "128年前のタイトルの新しい所有者は、戦略の不調な実績にもかかわらず、ブランドをAI搭載のマーケットプレイスに変える計画を立てています。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/GettyImages-114676281.jpg?w=600&h=315&crop=1",
+  "published": "2026-10-15T04:00+09:00",
+  "collected": "2026-10-15T09:51+09:00",
+  "title_orig": "Content-to-Commerce Publishers Have Struggled. Could Outdoor Life Be the Exception?",
+  "summary_orig": "The new owner of the 128-year-old title plans to transform the brand into an AI-powered marketplace, despite the strategy’s spotty track record."
  },
  {
   "id": "738aed8dcc6e",
@@ -542,7 +602,7 @@
   "thumbnail": null,
   "published": "2026-10-15T01:26+09:00",
   "collected": "2026-10-15T08:56+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "AI is mass decompiling games. That's both awesome and scary.",
   "summary_orig": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing gam"
  },
@@ -1050,7 +1110,7 @@
   "thumbnail": null,
   "published": "2026-10-14T17:30+09:00",
   "collected": "2026-10-15T09:06+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "72bdb5799f96",
@@ -1261,7 +1321,7 @@
   "thumbnail": null,
   "published": "2026-10-14T12:45+09:00",
   "collected": "2026-10-15T09:06+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "9283792b17b6",
@@ -1306,7 +1366,7 @@
   "thumbnail": null,
   "published": "2026-10-14T11:00+09:00",
   "collected": "2026-10-15T09:06+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "6ff71e531290",

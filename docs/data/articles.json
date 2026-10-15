@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-15T09:06+09:00",
+  "last_updated": "2026-10-15T09:51+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,20 @@
   ]
  },
  "items": [
+  {
+   "id": "1024b753dac9",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/",
+   "title": "国内WebサイトへのAIエージェント攻撃を観測 「8時間弱」続いた攻撃の推移を公開 国内セキュリティベンダー",
+   "summary": "ビットフォレストが、日本企業のWebサイトへのAIエージェントによる攻撃を観測したと報告。10月14日までに3つのIPアドレスから確認し、うち1つは8時間弱にわたり10段階に攻撃を変化させたという。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/15/2000002284/10009402/2048",
+   "published": "2026-10-15T09:06+09:00",
+   "collected": "2026-10-15T09:51+09:00"
+  },
   {
    "id": "d3bb9ef55af6",
    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
@@ -118,7 +132,7 @@
    "thumbnail": null,
    "published": "2026-10-15T08:30+09:00",
    "collected": "2026-10-15T08:56+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "1ce4ae1e2fd7",
@@ -133,6 +147,20 @@
    "thumbnail": "https://assets.st-note.com/production/uploads/images/324507172/rectangle_large_type_2_afcb8fc6a71f4626873e063f49a6ccd6.png?fit=bounds&quality=85&width=1280",
    "published": "2026-10-15T08:18+09:00",
    "collected": "2026-10-15T08:56+09:00"
+  },
+  {
+   "id": "67ca38ce7f5d",
+   "url": "https://news.mynavi.jp/techplus/kikaku/20261015-4989355/",
+   "title": "サイボウズ 青野 氏とジョイゾー 四宮 氏が語る、生成AI時代の業務改善――手段と目的を取り違えないために",
+   "summary": "生成AIを業務で使う機会は急速に広がっており、メールの下書きや情報収集、資料作成など、個人レベルではすでに日常的なツールになりつつあります。一方で、企業としてAIを業務に組み込み、継続的な成果につなげようとすると、思うように進まないケースも少なくありません。",
+   "source": "マイナビニュース",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://news.mynavi.jp/techplus/kikaku/20261015-4989355/index_images/index.jpg",
+   "published": "2026-10-15T08:00+09:00",
+   "collected": "2026-10-15T09:51+09:00"
   },
   {
    "id": "c62e6910607d",
@@ -189,7 +217,7 @@
    "thumbnail": null,
    "published": "2026-10-15T08:00+09:00",
    "collected": "2026-10-15T08:56+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d1f8876dacf9",
@@ -234,7 +262,7 @@
    "thumbnail": null,
    "published": "2026-10-15T07:05+09:00",
    "collected": "2026-10-15T08:56+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "29881d9ff31b",
@@ -249,7 +277,7 @@
    "thumbnail": null,
    "published": "2026-10-15T07:05+09:00",
    "collected": "2026-10-15T08:56+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "69f87d25d7f5",
@@ -264,7 +292,7 @@
    "thumbnail": null,
    "published": "2026-10-15T07:05+09:00",
    "collected": "2026-10-15T08:56+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "06e29dca6602",
@@ -354,6 +382,22 @@
    "summary_orig": "IFSÌtOVbvJt@XuIFS Unleashed 2026vªAÄI[hÅJµ½B¯CxgÉí¹ÄAYÆpAIvbgtH[ÌV»iuIFS Intelligencevð"
   },
   {
+   "id": "2c3ce0b13a2f",
+   "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+   "title": "木の鑑賞者",
+   "summary": "ツール：ツリーアプレシエータークロードとの別のゲーム実験。これはデフォルトのClaude iPhoneアプリ（ Claude Codeモードではなく、チャットモード）を使用して、Claudにプロンプトを表示しました",
+   "source": "Simon Willison",
+   "type": "article",
+   "tier": "voice",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://static.simonwillison.net/static/2026-10-14/IMG_9084.jpeg",
+   "published": "2026-10-15T06:23+09:00",
+   "collected": "2026-10-15T09:51+09:00",
+   "title_orig": "Tree Appreciator",
+   "summary_orig": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claud"
+  },
+  {
    "id": "88ac6d1c3f06",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
    "title": "8つの州がOpenAIを訴え、ChatGPTは子供にとって安全ではないと主張",
@@ -414,6 +458,22 @@
    "collected": "2026-10-15T08:56+09:00",
    "title_orig": "The AI race is back on",
    "summary_orig": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the du"
+  },
+  {
+   "id": "1522feb63f30",
+   "url": "https://www.adweek.com/media/content-commerce-publishers-outdoor-life/",
+   "title": "コンテンツ・ツー・コマースのパブリッシャーは苦労してきました。アウトドアライフは例外でしょうか？",
+   "summary": "128年前のタイトルの新しい所有者は、戦略の不調な実績にもかかわらず、ブランドをAI搭載のマーケットプレイスに変える計画を立てています。",
+   "source": "Adweek（ソーシャル）",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/GettyImages-114676281.jpg?w=600&h=315&crop=1",
+   "published": "2026-10-15T04:00+09:00",
+   "collected": "2026-10-15T09:51+09:00",
+   "title_orig": "Content-to-Commerce Publishers Have Struggled. Could Outdoor Life Be the Exception?",
+   "summary_orig": "The new owner of the 128-year-old title plans to transform the brand into an AI-powered marketplace, despite the strategy’s spotty track record."
   },
   {
    "id": "738aed8dcc6e",
@@ -588,7 +648,7 @@
    "thumbnail": null,
    "published": "2026-10-15T01:26+09:00",
    "collected": "2026-10-15T08:56+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "AI is mass decompiling games. That's both awesome and scary.",
    "summary_orig": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing gam"
   },
@@ -1096,7 +1156,7 @@
    "thumbnail": null,
    "published": "2026-10-14T17:30+09:00",
    "collected": "2026-10-15T09:06+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "72bdb5799f96",
@@ -1307,7 +1367,7 @@
    "thumbnail": null,
    "published": "2026-10-14T12:45+09:00",
    "collected": "2026-10-15T09:06+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "9283792b17b6",
@@ -1336,7 +1396,7 @@
    "thumbnail": null,
    "published": "2026-10-14T11:00+09:00",
    "collected": "2026-10-15T09:06+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "5cb1618c1db5",
@@ -9158,70 +9218,6 @@
    "collected": "2026-10-08T10:19+09:00",
    "title_orig": "Google experiments with an AI-powered gaming platform",
    "summary_orig": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts."
-  },
-  {
-   "id": "72452dba288e",
-   "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-   "title": "OpenAIのAlexander Embiricosは、Dotsのローンチから数日後にTechCrunch Disrupt 2026に登場します",
-   "summary": "OpenAIのAlexander Embiricosは、Dotsの発売から数日後にTechCrunch Disrupt 2026でAIステージに登場します。に登録して、この会話に参加しましょう",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-   "published": "2026-10-07T23:30+09:00",
-   "collected": "2026-10-08T10:19+09:00",
-   "title_orig": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-   "summary_orig": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for"
-  },
-  {
-   "id": "31faaa09aae5",
-   "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-   "title": "ハンズオン： TechCrunch Disrupt 2026でのインタラクティブなラウンドテーブルの完全なラインナップ",
-   "summary": "NvidiaとChimeからObvious VenturesとAnthropicまで、TechCrunch Disrupt 2026のラウンドテーブルの議題全体をご覧ください。今すぐご登録いただくと、最大100 $お得にご利用いただけます",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
-   "published": "2026-10-07T23:15+09:00",
-   "collected": "2026-10-08T10:19+09:00",
-   "title_orig": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-   "summary_orig": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on you"
-  },
-  {
-   "id": "083b4a0cd473",
-   "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-   "title": "Mistralは「Le Chonk」が最高のAIモデルに挑戦できると言います",
-   "summary": "Mistralは、Le Chonkはオープンウェイトを維持しながら、トップクローズドモデルに匹敵することができると述べています。",
-   "source": "Ars Technica AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg",
-   "published": "2026-10-07T23:12+09:00",
-   "collected": "2026-10-08T10:19+09:00",
-   "title_orig": "Mistral says \"Le Chonk\" can challenge the best AI models",
-   "summary_orig": "Mistral says Le Chonk can rival top closed models while remaining open-weight."
-  },
-  {
-   "id": "f2c199a6dd88",
-   "url": "https://www.latent.space/p/stacklok",
-   "title": "クラウドネイティブハーネスは、デスクトップを超えてエージェントを信頼できるようにすることができますか？",
-   "summary": "Kubernetesの共同開発者であるCraig McLuckie氏とJoe Beda氏は、エージェントのハーネスをクラウドに完全に導入することを目指しています。",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!r55R!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1c3cd3d-2682-47cb-9be6-74302c1ca8ea_2560x1440.png",
-   "published": "2026-10-07T23:10+09:00",
-   "collected": "2026-10-08T10:01+09:00",
-   "title_orig": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
-   "summary_orig": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud."
   }
  ]
 }
