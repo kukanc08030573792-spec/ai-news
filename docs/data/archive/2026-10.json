@@ -1,5 +1,106 @@
 [
  {
+  "id": "db80f36afcd6",
+  "url": "https://prtimes.jp/main/html/rd/p/000000430.000011515.html",
+  "title": "“AIが考え、RPAが動く”を実現 AIエージェントからロボットを直接実行できるBizRobo!新バージョン2026.3を提供開始",
+  "summary": "“AIが考え、RPAが動く”を実現 AIエージェントからロボットを直接実行できるBizRobo!新バージョン2026.3を提供開始",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/11515/430/11515-430-834ca99bd7641b5834ff835021b4d5c7-1198x631.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-16T10:00+09:00",
+  "collected": "2026-10-16T10:19+09:00"
+ },
+ {
+  "id": "e3669848fae2",
+  "url": "https://ascii.jp/elem/000/004/443/4443127/?rss",
+  "title": "技術者への依頼不要に。音声AIエージェントを自然な会話やテキストで作成・改善",
+  "summary": "Eleven Labs Japan合同会社は10月7日、企業向け音声・チャットエージェントプラットフォーム向けの新機能「ElevenAgents Architect」のアルファ版の提供を開始したと発表した。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/16/4539362/xl/81b89dad69f06fa0.jpg",
+  "published": "2026-10-16T10:00+09:00",
+  "collected": "2026-10-16T10:19+09:00"
+ },
+ {
+  "id": "9ab56d26ad35",
+  "url": "https://markezine.jp/article/detail/77702",
+  "title": "ライト層をミドル・ヘビー層へ、味の素「Cook Do」がフェズと挑んだ購買データ起点の顧客育成とは",
+  "summary": "消費者に「愛着」を持たせ、ファンを増やすマーケティングが重要とされる時代、味の素「Cook Do」は顧客育成をテーマにしたユニークな施策を展開した。施策内の広告配信・検証には、フェズ社のデータマーケティングソリューション「Urumo Ads（ウルモ アズ）」を活用。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-16T10:00+09:00",
+  "collected": "2026-10-16T10:19+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "f95d414aea78",
+  "url": "https://webtan.impress.co.jp/q/2026/10/53458",
+  "title": "AIを成果につなげる『Gemini Notebook×ビジネスフレームワーク AIで思考を自動化する秒速仕事術』を3名様にプレゼント",
+  "summary": "AIを成果につなげる『Gemini Notebook×ビジネスフレームワーク AIで思考を自動化する秒速仕事術』を3名様にプレゼント 読者プレゼント webtan 2026年10月16日 【申込は10/23まで】書籍『Gemini Notebook×ビジネスフレームワーク AIで思考を自動化する秒速仕事術』を3名様にプ",
+  "source": "Web担当者フォーラム",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-16T10:00+09:00",
+  "collected": "2026-10-16T10:19+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "26557c3d3287",
+  "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
+  "title": "Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与 公表に拒否権なし",
+  "summary": "Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002315/10009521/2048",
+  "published": "2026-10-16T09:49+09:00",
+  "collected": "2026-10-16T10:19+09:00"
+ },
+ {
+  "id": "b45ae788cde7",
+  "url": "https://news.infoseek.co.jp/article/itmedia_aiplus_202610162000002313/",
+  "title": "「Claude Haiku 5.5」は本当にコスパがいいのか？ 3つの日本語タスクで検証してみた",
+  "summary": "「Claude Haiku 5.5」は本当にコスパがいいのか？ 3つの日本語タスクで検証してみた",
+  "source": "Infoseek",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_aiplus/itmedia_aiplus_202610162000002313_0.jpg",
+  "published": "2026-10-16T09:46+09:00",
+  "collected": "2026-10-16T10:19+09:00"
+ },
+ {
+  "id": "621ed9c379d8",
+  "url": "https://news.nicovideo.jp/watch/nw19885128?news_ref=20_20",
+  "title": "生成AIとこれからの学びを考える。「教育と生成AI 大研修会2026」福岡・大阪会場 取材レポート",
+  "summary": "生成AIとこれからの学びを考える。「教育と生成AI 大研修会2026」福岡・大阪会場 取材レポート",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-16T09:45+09:00",
+  "collected": "2026-10-16T10:19+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "4ba803527fb0",
   "url": "https://ascii.jp/elem/000/004/443/4443118/?rss",
   "title": "クラウドに頼らず生成AIを活用 ASUS「UGen300」シリーズ、LLM・VLM・音声認識に対応",
@@ -54,7 +155,7 @@
   "thumbnail": null,
   "published": "2026-10-16T09:00+09:00",
   "collected": "2026-10-16T09:45+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "aae90d6b2dab",
@@ -133,7 +234,7 @@
   "thumbnail": null,
   "published": "2026-10-16T08:30+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "19f23a92948a",
@@ -192,6 +293,20 @@
   "published": "2026-10-16T08:00+09:00",
   "collected": "2026-10-16T08:41+09:00",
   "_thumb_tries": 3
+ },
+ {
+  "id": "af0b6d73e586",
+  "url": "https://ascii.jp/elem/000/004/443/4443131/?rss",
+  "title": "【非エンジニア向け】Claude Code法人研修のサービスサイトをリニューアル 受講条件、4層構造のセキュリティ対策、第0回～第4回のカリキュラムを掲載",
+  "summary": "【非エンジニア向け】Claude Code法人研修のサービスサイトをリニューアル 受講条件、4層構造のセキュリティ対策、第0回～第4回のカリキュラムを掲載",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-16T08:00+09:00",
+  "collected": "2026-10-16T10:19+09:00"
  },
  {
   "id": "924ca13842a3",
@@ -935,7 +1050,7 @@
   "thumbnail": null,
   "published": "2026-10-16T00:00+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "9ff8c7888846",
@@ -950,7 +1065,7 @@
   "thumbnail": null,
   "published": "2026-10-15T23:51+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "97f8573c584b",
@@ -1174,7 +1289,7 @@
   "thumbnail": null,
   "published": "2026-10-15T19:30+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "0c6f09c40e01",
@@ -1237,7 +1352,7 @@
   "thumbnail": null,
   "published": "2026-10-15T19:00+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Making Instagram Reels Easier, Faster & Scalable",
   "summary_orig": "Wondering how to create Instagram Reels faster without losing quality or reach? Want to know which new Instagram and Edits features help you edit, analyze, and"
  },
@@ -1254,7 +1369,7 @@
   "thumbnail": null,
   "published": "2026-10-15T18:30+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Updating to ChatGPT Sites, Using Claude Design Guide, and Industry News",
   "summary_orig": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to mis"
  },
@@ -1271,7 +1386,7 @@
   "thumbnail": null,
   "published": "2026-10-15T18:15+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "146bf7caaedc",
@@ -1286,7 +1401,7 @@
   "thumbnail": null,
   "published": "2026-10-15T18:00+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "838dc626cdf3",
@@ -1301,7 +1416,7 @@
   "thumbnail": null,
   "published": "2026-10-15T15:00+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "9ff90121ae16",
@@ -1360,7 +1475,7 @@
   "thumbnail": null,
   "published": "2026-10-15T12:00+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "733411890416",
