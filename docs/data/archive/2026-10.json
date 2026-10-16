@@ -1,5 +1,62 @@
 [
  {
+  "id": "4ba803527fb0",
+  "url": "https://ascii.jp/elem/000/004/443/4443118/?rss",
+  "title": "クラウドに頼らず生成AIを活用 ASUS「UGen300」シリーズ、LLM・VLM・音声認識に対応",
+  "summary": "ASUS JAPANが、Hailo-10H搭載のエッジAIアクセラレーター「UGen300」シリーズ3モデルと、Hailo-8L搭載の「UGen200」を10月16日に発売する。USB接続とM.2接続に対応し、生成AIや従来型ビジョンAIをローカルで低消費電力処理できる点が特徴だ。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/16/4539328/xl/aa5db4f1f4c2be35.jpg?20200122",
+  "published": "2026-10-16T09:30+09:00",
+  "collected": "2026-10-16T09:45+09:00"
+ },
+ {
+  "id": "5ffba8ee773a",
+  "url": "https://ascii.jp/elem/000/004/443/4443120/?rss",
+  "title": "GIGABYTE「AI TOP ATOM」新モデル、最大1ペタFLOPのFP4 AI性能と2TB SSDを搭載",
+  "summary": "GIGABYTEが、2TB SSDを追加した省エネ型AIスーパーコンピューティングソリューション「AI TOP ATOM ATAGB10-9003」を10月16日に発売。GB10 Superchip搭載で最大1ペタFLOP、オンプレミスAI開発に対応する新モデルを紹介する。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/16/4539339/xl/731749f0341579d3.jpg",
+  "published": "2026-10-16T09:00+09:00",
+  "collected": "2026-10-16T09:45+09:00"
+ },
+ {
+  "id": "a05cb0e58e9d",
+  "url": "https://ascii.jp/elem/000/004/443/4443079/?rss",
+  "title": "AI insideが魅せた業務完全自動化の世界 もはやデモはシンプルすぎて映えない",
+  "summary": "「AIの進化は速いのに、私たちの業務はなぜ変わっていないのか？」。2026年10月6日に開催された年次イベント「AI inside Conference （AIIC）2026」の基調講演でAI inside 代表取締役社長CEO 渡久地 択氏はこう語る。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/15/4539168/xl/ec688561b0819eae.jpg?20200122",
+  "published": "2026-10-16T09:00+09:00",
+  "collected": "2026-10-16T09:45+09:00"
+ },
+ {
+  "id": "940461c3251e",
+  "url": "https://markezine.jp/article/detail/77786",
+  "title": "「買った後」まで顧客体験を設計する――メルカリに学ぶ、循環経済時代のCX設計",
+  "summary": "本連載では、持続可能な社会に向けたマーケティングのあり方を企業の実践から考察している。第3回は、モノを次の人へつなぐマーケットプレイスを運営するメルカリを取り上げる。商品の購入後、長く使い、修理し、手放す――最初の持ち主の「購入後」は、次の持ち主の「購入前」へとつながる。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-16T09:00+09:00",
+  "collected": "2026-10-16T09:45+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "aae90d6b2dab",
   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
   "title": "Cal AIのバイラルな成功について言えば、インフルエンサーの小さな軍隊が報われました",
@@ -76,7 +133,7 @@
   "thumbnail": null,
   "published": "2026-10-16T08:30+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "19f23a92948a",
@@ -119,7 +176,7 @@
   "thumbnail": null,
   "published": "2026-10-16T08:00+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "53fbec6fc7c2",
@@ -134,7 +191,7 @@
   "thumbnail": null,
   "published": "2026-10-16T08:00+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "924ca13842a3",
@@ -181,7 +238,7 @@
   "thumbnail": null,
   "published": "2026-10-16T07:30+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f58634bdaec8",
@@ -196,7 +253,7 @@
   "thumbnail": null,
   "published": "2026-10-16T07:05+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d80d98795ad6",
@@ -240,7 +297,39 @@
   "thumbnail": null,
   "published": "2026-10-16T07:00+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
+ },
+ {
+  "id": "dbfd49271030",
+  "url": "https://www.socialmediatoday.com/news/meta-adds-audio-links-and-reference-reels-to-edits/833192/",
+  "title": "Metaはオーディオリンクとリファレンスリールを編集に追加します",
+  "summary": "同社は、カスタムキットオプションとクリエイター向けの追加のインサイトを備えたビデオ編集アプリの構築を続けています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/6aOAPwn6-A6BqAUmioKuAK7QUxBq5-3ax4_x0xE9qmc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yZWVsc19jcmVhdGVfd2l0aF9yZWZlcmVuY2UyLnBuZw==.webp",
+  "published": "2026-10-16T07:00+09:00",
+  "collected": "2026-10-16T09:45+09:00",
+  "title_orig": "Meta adds audio links and reference Reels to Edits",
+  "summary_orig": "The company continues to build out its video editing app with custom kit options and additional insights for creators."
+ },
+ {
+  "id": "b107d37f8311",
+  "url": "https://www.socialmediatoday.com/news/tiktok-shares-holiday-sales-data/833191/",
+  "title": "TikTokがホリデーセールのデータを共有",
+  "summary": "同社によると、昨年のブラックフライデーサイバーマンデーの間にアプリ内売上高が5億$を超え、ユーザーは現在休暇のインスピレーションを求めているという。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://imgproxy.divecdn.com/Y4ZmvMFIMSqp4fqK6QP6VSNEJdYXSyfKg8o4E5lDU40/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfbG9nby5wbmc=.webp",
+  "published": "2026-10-16T06:58+09:00",
+  "collected": "2026-10-16T09:45+09:00",
+  "title_orig": "TikTok shares holiday sales data",
+  "summary_orig": "The company said in-app sales surpassed $500 million between Black Friday Cyber Monday last year and users are currently looking for holiday inspiration."
  },
  {
   "id": "ead7e2d522ef",
@@ -255,7 +344,7 @@
   "thumbnail": null,
   "published": "2026-10-16T06:55+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d86dae2ca61e",
@@ -270,7 +359,7 @@
   "thumbnail": null,
   "published": "2026-10-16T06:50+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "54d7a618ecd3",
@@ -429,7 +518,7 @@
   "thumbnail": null,
   "published": "2026-10-16T04:47+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Chirp Pong",
   "summary_orig": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the"
  },
@@ -846,7 +935,7 @@
   "thumbnail": null,
   "published": "2026-10-16T00:00+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "9ff8c7888846",
@@ -861,7 +950,7 @@
   "thumbnail": null,
   "published": "2026-10-15T23:51+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "97f8573c584b",
@@ -956,7 +1045,7 @@
   "thumbnail": null,
   "published": "2026-10-15T22:04+09:00",
   "collected": "2026-10-16T08:41+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
   "summary_orig": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which repor"
  },
@@ -1085,7 +1174,7 @@
   "thumbnail": null,
   "published": "2026-10-15T19:30+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "0c6f09c40e01",
@@ -1148,7 +1237,7 @@
   "thumbnail": null,
   "published": "2026-10-15T19:00+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Making Instagram Reels Easier, Faster & Scalable",
   "summary_orig": "Wondering how to create Instagram Reels faster without losing quality or reach? Want to know which new Instagram and Edits features help you edit, analyze, and"
  },
@@ -1165,7 +1254,7 @@
   "thumbnail": null,
   "published": "2026-10-15T18:30+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Updating to ChatGPT Sites, Using Claude Design Guide, and Industry News",
   "summary_orig": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to mis"
  },
@@ -1182,7 +1271,7 @@
   "thumbnail": null,
   "published": "2026-10-15T18:15+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "146bf7caaedc",
@@ -1197,7 +1286,7 @@
   "thumbnail": null,
   "published": "2026-10-15T18:00+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "838dc626cdf3",
@@ -1212,7 +1301,7 @@
   "thumbnail": null,
   "published": "2026-10-15T15:00+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "9ff90121ae16",
@@ -1271,7 +1360,7 @@
   "thumbnail": null,
   "published": "2026-10-15T12:00+09:00",
   "collected": "2026-10-16T08:52+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "733411890416",
@@ -1451,6 +1540,22 @@
   "collected": "2026-10-16T08:41+09:00",
   "title_orig": "Welcome FLUX.3 Image Klein in Diffusers",
   "summary_orig": "We’re on a journey to advance and democratize artificial intelligence through open source and open science."
+ },
+ {
+  "id": "dd00c04c9b95",
+  "url": "https://openai.com/index/sullivan-cromwell/",
+  "title": "サリバン＆クロムウェルは、契約レビューに法律の専門知識をもたらします",
+  "summary": "OpenAIと協力して、Sullivan ＆ Cromwellは契約書草案の問題を特定するためのAIツールである契約アナライザーを開発しました。",
+  "source": "OpenAI",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/4UO3B0RlmvGz3hIUiiFyJl/262aca81008e886c7d750c18ee33c0aa/sullivan-cromwell-seo.png?w=1600&h=900&fit=fill",
+  "published": "2026-10-15T09:00+09:00",
+  "collected": "2026-10-16T09:45+09:00",
+  "title_orig": "Sullivan & Cromwell brings legal expertise into agreement review",
+  "summary_orig": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement."
  },
  {
   "id": "2a547c82a73d",
