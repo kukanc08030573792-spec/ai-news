@@ -12,7 +12,7 @@
   "thumbnail": null,
   "published": "2026-10-17T07:06+09:00",
   "collected": "2026-10-17T08:37+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
   "summary_orig": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to ca"
  },
@@ -687,7 +687,7 @@
   "thumbnail": null,
   "published": "2026-10-16T10:05+09:00",
   "collected": "2026-10-17T08:37+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "db80f36afcd6",
@@ -8886,22 +8886,6 @@
   "published": "2026-10-09T09:15+09:00",
   "collected": "2026-10-09T10:14+09:00",
   "_thumb_tries": 3
- },
- {
-  "id": "ca5fcc9baf2e",
-  "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-  "title": "ラウンドテーブル： AIを設計したウイルスの創造者との対話",
-  "summary": "2026年10月16日金曜日、AIは新しい生命体を設計できますか？ 2025年、スタンフォード大学の博士課程の学生であるサミュエル・キングは、",
-  "source": "MIT Technology Review AI",
-  "type": "article",
-  "tier": "media",
-  "topic": "sns",
-  "proxy_for": null,
-  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
-  "published": "2026-10-09T09:08+09:00",
-  "collected": "2026-10-09T10:14+09:00",
-  "title_orig": "Roundtables: A Conversation with the Creator of AI - Designed Viruses",
-  "summary_orig": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a gen"
  },
  {
   "id": "581878b61d99",
