@@ -76,7 +76,7 @@
   "thumbnail": null,
   "published": "2026-10-18T03:47+09:00",
   "collected": "2026-10-18T08:08+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "952ff722afef",
@@ -386,6 +386,21 @@
   "collected": "2026-10-17T08:37+09:00",
   "title_orig": "How Itaú is building generative AI for its entire customer base",
   "summary_orig": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s"
+ },
+ {
+  "id": "d58828a7556a",
+  "url": "https://jp.investing.com/news/economy-news/article-1714956",
+  "title": "AnthropicのClaude、25年来の暗号技術の謎を30分で解明 執筆 - Investing.com",
+  "summary": "AnthropicのClaude、25年来の暗号技術の謎を30分で解明 執筆    Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+  "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": null,
+  "published": "2026-10-17T03:53+09:00",
+  "collected": "2026-10-18T08:25+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "081a8c34a658",
