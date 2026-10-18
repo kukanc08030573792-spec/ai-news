@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-18T09:18+09:00",
+  "last_updated": "2026-10-18T10:01+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,49 @@
   ]
  },
  "items": [
+  {
+   "id": "38f276479872",
+   "url": "https://prtimes.jp/main/html/rd/p/000000004.000190819.html",
+   "title": "Claude・ChatGPTのサブスクでデータ分析をAIに任せる。デスクトップAIエージェント「Kari」が、CSV・Excelの分析自動化機能を追加",
+   "summary": "Claude・ChatGPTのサブスクでデータ分析をAIに任せる。デスクトップAIエージェント「Kari」が、CSV・Excelの分析自動化機能を追加",
+   "source": "PR TIMES",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/190819/4/190819-4-f05cb43ad566b118c280f30912bf908e-1828x1159.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-18T09:39+09:00",
+   "collected": "2026-10-18T10:01+09:00"
+  },
+  {
+   "id": "7194f88fb0b4",
+   "url": "https://exawizards.com/column/ai-trend/news-10-18-2026-3/",
+   "title": "Microsoft、Claudeの社内利用費を3分の1超削減へ Metaも利用者が半減",
+   "summary": "Microsoft、Claudeの社内利用費を3分の1超削減へ Metaも利用者が半減",
+   "source": "株式会社エクサウィザーズ",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": null,
+   "published": "2026-10-18T09:25+09:00",
+   "collected": "2026-10-18T10:01+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "c17839a80f40",
+   "url": "https://ascii.jp/elem/000/004/443/4443561/?rss",
+   "title": "AIが答えを出す時代に、あなたは何を生み出す？ 農業を舞台に挑戦する学生インターン募集",
+   "summary": "AIが答えを出す時代に、あなたは何を生み出す？ 農業を舞台に挑戦する学生インターン募集",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-18T08:20+09:00",
+   "collected": "2026-10-18T10:01+09:00"
+  },
   {
    "id": "e0eddf9b45b4",
    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
@@ -474,7 +517,7 @@
    "thumbnail": null,
    "published": "2026-10-17T03:53+09:00",
    "collected": "2026-10-18T08:25+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "081a8c34a658",
@@ -9186,49 +9229,6 @@
    "proxy_for": null,
    "thumbnail": "https://ascii.jp/img/2026/10/09/4536539/xl/c4d1dcd9930da235.jpg?20200122",
    "published": "2026-10-09T10:00+09:00",
-   "collected": "2026-10-09T10:14+09:00"
-  },
-  {
-   "id": "98d1d2b1a830",
-   "url": "https://ascii.jp/elem/000/004/438/4438870/?rss",
-   "title": "トークン利用はAIへの投資戦略。OpenAIのFDEが語る、何を生み出すかが大事なトークンマネジメント",
-   "summary": "「第4回 GMO大会議 秋 フィジカルAI 2026」にて、最近話題のトークンマネジメントに関するパネルディスカッションを開催。OpenAIで企業のAI導入を支援するForward Deployed Engineer（FDE）の齊藤初雲氏が語るトークンマネージメント",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2026/10/01/4532446/xl/9967a4d9ce73ee7b.jpg?20200122",
-   "published": "2026-10-09T10:00+09:00",
-   "collected": "2026-10-09T10:14+09:00"
-  },
-  {
-   "id": "94071754a80b",
-   "url": "https://webtan.impress.co.jp/q/2026/10/53403",
-   "title": "実務直結のAI広告術『そのまま使えるAI×ネット広告』を3名様にプレゼント",
-   "summary": "実務直結のAI広告術『そのまま使えるAI×ネット広告』を3名様にプレゼント 読者プレゼント webtan 2026年10月9日 【申込は10/16まで】書籍『そのまま使えるAI×ネット広告』を3名様にプレゼントします。",
-   "source": "Web担当者フォーラム",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-09T10:00+09:00",
-   "collected": "2026-10-09T10:14+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "19d7a7c28042",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
-   "title": "Google「Gemini」新サービスで「Claude」利用可能に 他モデルも今後追加予定",
-   "summary": "Google Cloudは新サービス「Gemini Agent」を発表。クラウドで動作するマルチエージェントツールとされる。Geminiに加えて、Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている。",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/09/2000002152/10008907/2048",
-   "published": "2026-10-09T09:40+09:00",
    "collected": "2026-10-09T10:14+09:00"
   }
  ]
