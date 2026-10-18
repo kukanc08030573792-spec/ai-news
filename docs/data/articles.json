@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-19T08:15+09:00",
+  "last_updated": "2026-10-19T08:39+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -72,6 +72,36 @@
    "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/19/2000002353/10009703/2048",
    "published": "2026-10-19T08:02+09:00",
    "collected": "2026-10-19T08:15+09:00"
+  },
+  {
+   "id": "fed1c69539da",
+   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
+   "title": "Newオンプレミス、RAG、SREはもう“幻滅期” 2026年、「過度な期待」のピークにある5項目とは？",
+   "summary": "K [gi [ª A 2026 NÍú {É ¨ éNEhÆAIÍnCvTCNð ­\\ BNewIv ~ XARAGASREªg ¶ ÅúhÉüéêûÅAgßxÈúÒhÍs [NÉ § Â 5 Úª ¦ ³",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/19/cover_news029.jpg",
+   "published": "2026-10-19T08:00+09:00",
+   "collected": "2026-10-19T08:39+09:00",
+   "summary_orig": "K[gi[ªA2026NÌú{É¨¯éNEhÆAIÌnCvTCNð­\\BNewIv~XARAGASREªg¶ÅúhÉüéêûÅAgßxÈúÒhÌs[NÉ§Â5Úª¦³"
+  },
+  {
+   "id": "d32aa5c63047",
+   "url": "https://markezine.jp/article/detail/77529",
+   "title": "AIが生活者の“手放せない存在”になる理由とは？3万人調査で見えた、「4つの生活文脈 」と定着条件",
+   "summary": "QOが実施した全国3万人への大規模調査から、生活者と生成AIとの関係性を可視化する本連載。第2回では、日本全体の約67％が生成AIを利用していないという現状から、未利用者が利用に至らない理由を「4つの壁」という構造で整理しました。では、一度使い始めた生活者に生成AIはどの程度定着しているのでしょうか。",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-19T08:00+09:00",
+   "collected": "2026-10-19T08:39+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "c30ebb2daf5b",
@@ -156,7 +186,7 @@
    "thumbnail": null,
    "published": "2026-10-19T07:05+09:00",
    "collected": "2026-10-19T08:15+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "219b0eb9923b",
@@ -171,7 +201,7 @@
    "thumbnail": null,
    "published": "2026-10-19T07:01+09:00",
    "collected": "2026-10-19T08:15+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "0267a55682ce",
@@ -242,7 +272,7 @@
    "thumbnail": null,
    "published": "2026-10-19T06:00+09:00",
    "collected": "2026-10-19T08:15+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "29f96a3cdf7f",
@@ -405,7 +435,7 @@
    "thumbnail": null,
    "published": "2026-10-18T09:17+09:00",
    "collected": "2026-10-19T08:15+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "c17839a80f40",
@@ -464,7 +494,7 @@
    "thumbnail": null,
    "published": "2026-10-18T06:11+09:00",
    "collected": "2026-10-19T08:15+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Inline rendering with document​.currentScript",
    "summary_orig": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to"
   },
@@ -594,7 +624,7 @@
   {
    "id": "bd9cf38076e0",
    "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
-   "title": "web - edit 0.1a2",
+   "title": "ウェブ- 0.1a2を編集",
    "summary": "Release ： web - edit 0.1a2 web - edit （以前）は、フォルダ内のファイルを閲覧および編集するための小さなWebアプリです。主に別の場所でファイルを編集するために構築しました",
    "source": "Simon Willison",
    "type": "article",
@@ -604,8 +634,8 @@
    "thumbnail": null,
    "published": "2026-10-17T22:16+09:00",
    "collected": "2026-10-19T08:15+09:00",
-   "_thumb_tries": 1,
-   "title_orig": "web-edit 0.1a2",
+   "_thumb_tries": 2,
+   "title_orig": "web - edit 0.1a2",
    "summary_orig": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different"
   },
   {
@@ -9213,35 +9243,6 @@
    "collected": "2026-10-10T09:54+09:00",
    "title_orig": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
    "summary_orig": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
-  },
-  {
-   "id": "8354b6c2b90e",
-   "url": "https://www.advertimes.com/20261009/article560282/?utm_source=feed",
-   "title": "虎ノ門広告祭が開幕 9日間で185コンテンツ、SNSで話題の「あ、この言葉、気にになる展2」も公開",
-   "summary": "日本最大規模の広告クリエイティブフェスティバル「虎ノ門広告祭」が10月9日、東京・虎ノ門ヒルズの情報発信拠点TOKYO NODE（東京ノード）にて開幕した。会期は10月17日までの9日間。",
-   "source": "宣伝会議 AdverTimes",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/toradfes-report-ogp.jpg",
-   "published": "2026-10-09T15:45+09:00",
-   "collected": "2026-10-10T09:54+09:00"
-  },
-  {
-   "id": "74d5c7b85bfb",
-   "url": "https://news.nicovideo.jp/watch/nw19863818?news_ref=watch_60_nw18963321",
-   "title": "FastMetal、Anthropic社の最新小型モデル「Claude Haiku 5.5」を提供開始",
-   "summary": "FastMetal、Anthropic社の最新小型モデル「Claude Haiku 5.5」を提供開始",
-   "source": "ニコニコニュース",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": null,
-   "published": "2026-10-09T15:30+09:00",
-   "collected": "2026-10-10T09:54+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
