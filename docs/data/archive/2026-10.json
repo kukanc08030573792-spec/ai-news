@@ -1,5 +1,19 @@
 [
  {
+  "id": "e0eddf9b45b4",
+  "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
+  "title": "「11回止めたのに本番DBが消えた」 AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/18/cover_news004.png",
+  "published": "2026-10-18T08:00+09:00",
+  "collected": "2026-10-18T09:18+09:00"
+ },
+ {
   "id": "d4d8a21bd997",
   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
   "title": "Metaは、スクレイピングとAIトレーニングの懸念を引き起こす言語を削除します",
@@ -76,7 +90,21 @@
   "thumbnail": null,
   "published": "2026-10-18T03:47+09:00",
   "collected": "2026-10-18T08:08+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
+ },
+ {
+  "id": "36ead7917101",
+  "url": "https://finance.biggo.jp/news/90f87a81-928e-418a-86f9-5bba60969058",
+  "title": "Anthropic共同創業者、AIで米GDPが2030年に44.4兆ドルへ拡大もと発言",
+  "summary": "AI研究企業Anthropicの共同創業者ジャック・クラーク氏は、バンコクで開催されたIMF・世界銀行年次総会で、急速に向上するAIの能力により米国のGDPが2030年まで…",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://img.biggo.com/5dREqNVRqZCqU8ywYtPmwzPNnJoC-bsJkLDbnRi3tMo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzkwZjg3YTgxLTkyOGUtNDE4YS04NmY5LTViYmE2MDk2OTA1OF8xNzkyMjYxODI2X2RlZmF1bHQuanBn.jpg",
+  "published": "2026-10-18T03:16+09:00",
+  "collected": "2026-10-18T09:18+09:00"
  },
  {
   "id": "952ff722afef",
@@ -400,7 +428,7 @@
   "thumbnail": null,
   "published": "2026-10-17T03:53+09:00",
   "collected": "2026-10-18T08:25+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "081a8c34a658",
