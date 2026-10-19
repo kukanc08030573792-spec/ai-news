@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-19T09:29+09:00",
+  "last_updated": "2026-10-19T10:15+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -46,6 +46,62 @@
  },
  "items": [
   {
+   "id": "c6d7f5bcb430",
+   "url": "https://legalontech.jp/11174/",
+   "title": "〜設定に応じてAIエージェントが自動で実行・法務担当者は思考と判断に集中できる環境へ〜",
+   "summary": "〜設定に応じてAIエージェントが自動で実行・法務担当者は思考と判断に集中できる環境へ〜    株式会社LegalOn Technologies",
+   "source": "株式会社LegalOn Technologies",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://legalontech.jp/wp-content/uploads/2026/10/image4-2.png",
+   "published": "2026-10-19T10:07+09:00",
+   "collected": "2026-10-19T10:15+09:00"
+  },
+  {
+   "id": "5437027a792c",
+   "url": "https://ledge.ai/articles/bitforest_ai_agent_web_attacks",
+   "title": "AIエージェントによる日本企業サイトへの攻撃を観測 ビットフォレスト、8時間弱にわたる攻撃の推移を公開",
+   "summary": "AI・人工知能関連のニュースやトレンドを高頻度で配信！最新ニュースやインタビュー、イベントレポートなどAIに関するさまざまな情報を独自の切り口で掲載",
+   "source": "Ledge.ai",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191.jpg",
+   "published": "2026-10-19T10:01+09:00",
+   "collected": "2026-10-19T10:15+09:00"
+  },
+  {
+   "id": "8bebffbdce01",
+   "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002359/",
+   "title": "Anthropic、株式の5％を公益目的の新組織に拠出 企業価値の上昇に応じて割合を拡大",
+   "summary": "Anthropicは、自社株の一部を新組織「Anthropic Public Benefit Fund」に拠出すると発表した。まず株式の5％を拠出し、企業価値の上昇に応じて追加する。完全子会社のLLC形態を採用し、雇用への影響対策や直接分配など、大規模かつ柔軟な公益活動に充てるとしている。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/19/2000002359/10009720/2048",
+   "published": "2026-10-19T09:38+09:00",
+   "collected": "2026-10-19T10:15+09:00"
+  },
+  {
+   "id": "be212fd3b863",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
+   "title": "中国DeepSeek、V4.1-Flash新バージョンを公開 一部Astra超えをうたうモデルがオープンに",
+   "summary": "中国DeepSeekが「DeepSeek-V4.1-Flash-1017」を公開。コーディングエージェント性能評価の一部でGPT-6 Astra超えをうたい、実行時間と出力量も削減したという。重みはMITライセンスで提供する。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/19/2000002357/10009717/2048",
+   "published": "2026-10-19T09:35+09:00",
+   "collected": "2026-10-19T10:15+09:00"
+  },
+  {
    "id": "f36e83f8f645",
    "url": "https://ascii.jp/elem/000/004/439/4439906/?rss",
    "title": "人件費高騰・SVの負荷増の悩みを打破する！ Zoomが拓く次世代のコンタクトセンターBPO",
@@ -60,6 +116,34 @@
    "collected": "2026-10-19T09:29+09:00"
   },
   {
+   "id": "3ecf4d183bf0",
+   "url": "https://ascii.jp/elem/000/004/443/4443602/?rss",
+   "title": "【中小企業向けの支援では届かなかった層へ】株式会社AI Docks、個人事業主・ひとり社長向けの「コミュニティ立ち上げコンサルティング」を提供開始 月3万円×6ヶ月、先着3名のモニター募集",
+   "summary": "【中小企業向けの支援では届かなかった層へ】株式会社AI Docks、個人事業主・ひとり社長向けの「コミュニティ立ち上げコンサルティング」を提供開始 月3万円×6ヶ月、先着3名のモニター募集",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-19T08:50+09:00",
+   "collected": "2026-10-19T10:15+09:00"
+  },
+  {
+   "id": "94dededea8e7",
+   "url": "https://ascii.jp/elem/000/004/443/4443601/?rss",
+   "title": "First Recon AI、SOCOTECとAIガバナンス・ISO/IEC 42001に関する無料ウェビナーを開催",
+   "summary": "First Recon AI、SOCOTECとAIガバナンス・ISO/IEC 42001に関する無料ウェビナーを開催",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-19T08:50+09:00",
+   "collected": "2026-10-19T10:15+09:00"
+  },
+  {
    "id": "ad547968d473",
    "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
    "title": "llm - tools - dataset 0.1.1",
@@ -72,7 +156,7 @@
    "thumbnail": null,
    "published": "2026-10-19T08:43+09:00",
    "collected": "2026-10-19T09:29+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "llm-tools-datasette 0.1.1",
    "summary_orig": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly d"
   },
@@ -89,7 +173,7 @@
    "thumbnail": null,
    "published": "2026-10-19T08:16+09:00",
    "collected": "2026-10-19T09:29+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "llm-echo 0.5",
    "summary_orig": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" whic"
   },
@@ -149,7 +233,7 @@
    "thumbnail": null,
    "published": "2026-10-19T08:00+09:00",
    "collected": "2026-10-19T08:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "c30ebb2daf5b",
@@ -192,6 +276,20 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-00000001-ascii-000-1-view.jpg?exp=10800",
    "published": "2026-10-19T07:32+09:00",
    "collected": "2026-10-19T08:15+09:00"
+  },
+  {
+   "id": "39407b06f8bb",
+   "url": "https://ascii.jp/elem/000/004/443/4443113/?topnew=1",
+   "title": "日本企業の「AI業務実装の壁」を打ち破る ― RPAのパイオニアが「AI×RPA×人」の統合基盤を国内展開 (1/2)",
+   "summary": "SS&C Blue Prismは、2026年10月7日、業務自動化プラットフォーム「WorkHQ」の日本語版を提供開始した。これは、AIエージェントやRPA、人を適材適所でつなぎ、部分最適な自動化を全体最適へと発展させるための基盤である。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/16/4539306/xl/cbdfa1bff3b69bde.jpg?20200122",
+   "published": "2026-10-19T07:30+09:00",
+   "collected": "2026-10-19T10:15+09:00"
   },
   {
    "id": "6faa936ab203",
@@ -407,7 +505,7 @@
    "thumbnail": null,
    "published": "2026-10-19T03:15+09:00",
    "collected": "2026-10-19T09:29+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "218f77bb959f",
@@ -9136,113 +9234,6 @@
    "published": "2026-10-09T18:15+09:00",
    "collected": "2026-10-10T09:54+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "e94ba206cb09",
-   "url": "https://news.nicovideo.jp/watch/nw19864364?news_ref=watch_20_nw19784422",
-   "title": "【2026年10月21日（水）～10月23日（金）＠幕張メッセ】生成AI時代に求められるのは「使える人材」ではなく「成",
-   "summary": "【2026年10月21日（水）～10月23日（金）＠幕張メッセ】生成AI時代に求められるのは「使える人材」ではなく「成",
-   "source": "ニコニコニュース",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-09T18:00+09:00",
-   "collected": "2026-10-10T10:54+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "7771bfdab537",
-   "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-   "title": "私たちは、AIがノーと言う能力をあまりにも信頼しすぎています",
-   "summary": "人々が私たち自身をモデルにしたインテリジェンスを機械に与えることを最初に真剣に考えて以来、彼らが私たちのように",
-   "source": "MIT Technology Review AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
-   "published": "2026-10-09T18:00+09:00",
-   "collected": "2026-10-10T09:54+09:00",
-   "title_orig": "We’re putting too much faith in AI’s ability to say no",
-   "summary_orig": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, b"
-  },
-  {
-   "id": "282bec26a626",
-   "url": "https://markezine.jp/article/detail/77817",
-   "title": "SCSK、「Agentforce」で営業AIエージェントを内製化 FDE人材100名の育成へ",
-   "summary": "",
-   "source": "MarkeZine",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-09T18:00+09:00",
-   "collected": "2026-10-10T09:54+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "620751f65362",
-   "url": "https://markezine.jp/article/detail/77811",
-   "title": "ファネルAi、同一顧客の並行商談で情報混入を抑止する「AI商談文脈ガード」を提供開始",
-   "summary": "",
-   "source": "MarkeZine",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-09T17:45+09:00",
-   "collected": "2026-10-10T09:54+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "86cd61695620",
-   "url": "https://www.youtube.com/watch?v=MUHjyljBPHI",
-   "title": "SophosがOpenAI Daybreakを使用して脅威の応答時間を96 ％短縮する方法",
-   "summary": "SophosのCTOであるJohn Petersonが、OpenAI Daybreakを介して構築されたエージェントがAIとSophosのサイバーセキュリティの専門知識を組み合わせて、平均応答時間を3から短縮する方法について説明します",
-   "source": "OpenAI",
-   "type": "video",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://i.ytimg.com/vi/MUHjyljBPHI/hqdefault.jpg",
-   "published": "2026-10-09T17:37+09:00",
-   "collected": "2026-10-10T09:54+09:00",
-   "title_orig": "How Sophos cuts threat response time by 96% with OpenAI Daybreak",
-   "summary_orig": "Sophos CTO John Peterson shares how agents built through OpenAI Daybreak combine AI with Sophos’s cybersecurity expertise to reduce average response time from 3"
-  },
-  {
-   "id": "86f852e36ae2",
-   "url": "https://news.yahoo.co.jp/pickup/6598146",
-   "title": "AI「Claude」への虐待行為 禁止",
-   "summary": "米Anthropicは10月8日（現地時間）、AIモデル「Claude」の「Usage Policy」（利用ポリシー）の改定版を公開した。11月12日に発効する。",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/9/b6bf9bdde1a86ab2c64475b9970e5ff17667fede1bacecfa3649b508019b5918.jpg",
-   "published": "2026-10-09T17:21+09:00",
-   "collected": "2026-10-10T09:54+09:00"
-  },
-  {
-   "id": "be4f6799f5aa",
-   "url": "https://www.adweek.com/agencies/adweek-agencies-advantage-brands-stall-the-shift-to-performance-pay/",
-   "title": "ADWEEKエージェンシーの利点：ブランドがパフォーマンス給への移行を停止",
-   "summary": "AIのプレッシャーとクライアント予算の縮小の下で、エージェンシーはより持続可能なモデルを支持する必要があります。",
-   "source": "Adweek（ソーシャル）",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/FTE-vs-OBR.png?w=600&h=315&crop=1",
-   "published": "2026-10-09T17:14+09:00",
-   "collected": "2026-10-10T09:54+09:00",
-   "title_orig": "ADWEEK Agencies Advantage: Brands Stall the Shift to Performance Pay",
-   "summary_orig": "Under pressure from AI and shrinking client budgets, agencies need to advocate for a more sustainable model to take hold."
   }
  ]
 }

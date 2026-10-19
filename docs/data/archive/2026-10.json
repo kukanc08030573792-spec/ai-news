@@ -1,5 +1,61 @@
 [
  {
+  "id": "c6d7f5bcb430",
+  "url": "https://legalontech.jp/11174/",
+  "title": "〜設定に応じてAIエージェントが自動で実行・法務担当者は思考と判断に集中できる環境へ〜",
+  "summary": "〜設定に応じてAIエージェントが自動で実行・法務担当者は思考と判断に集中できる環境へ〜    株式会社LegalOn Technologies",
+  "source": "株式会社LegalOn Technologies",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://legalontech.jp/wp-content/uploads/2026/10/image4-2.png",
+  "published": "2026-10-19T10:07+09:00",
+  "collected": "2026-10-19T10:15+09:00"
+ },
+ {
+  "id": "5437027a792c",
+  "url": "https://ledge.ai/articles/bitforest_ai_agent_web_attacks",
+  "title": "AIエージェントによる日本企業サイトへの攻撃を観測 ビットフォレスト、8時間弱にわたる攻撃の推移を公開",
+  "summary": "AI・人工知能関連のニュースやトレンドを高頻度で配信！最新ニュースやインタビュー、イベントレポートなどAIに関するさまざまな情報を独自の切り口で掲載",
+  "source": "Ledge.ai",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191/47c64157_4d49_446f_bcee_21e5a92dceff_ba9cf1c191.jpg",
+  "published": "2026-10-19T10:01+09:00",
+  "collected": "2026-10-19T10:15+09:00"
+ },
+ {
+  "id": "8bebffbdce01",
+  "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002359/",
+  "title": "Anthropic、株式の5％を公益目的の新組織に拠出 企業価値の上昇に応じて割合を拡大",
+  "summary": "Anthropicは、自社株の一部を新組織「Anthropic Public Benefit Fund」に拠出すると発表した。まず株式の5％を拠出し、企業価値の上昇に応じて追加する。完全子会社のLLC形態を採用し、雇用への影響対策や直接分配など、大規模かつ柔軟な公益活動に充てるとしている。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/19/2000002359/10009720/2048",
+  "published": "2026-10-19T09:38+09:00",
+  "collected": "2026-10-19T10:15+09:00"
+ },
+ {
+  "id": "be212fd3b863",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/",
+  "title": "中国DeepSeek、V4.1-Flash新バージョンを公開 一部Astra超えをうたうモデルがオープンに",
+  "summary": "中国DeepSeekが「DeepSeek-V4.1-Flash-1017」を公開。コーディングエージェント性能評価の一部でGPT-6 Astra超えをうたい、実行時間と出力量も削減したという。重みはMITライセンスで提供する。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/19/2000002357/10009717/2048",
+  "published": "2026-10-19T09:35+09:00",
+  "collected": "2026-10-19T10:15+09:00"
+ },
+ {
   "id": "f36e83f8f645",
   "url": "https://ascii.jp/elem/000/004/439/4439906/?rss",
   "title": "人件費高騰・SVの負荷増の悩みを打破する！ Zoomが拓く次世代のコンタクトセンターBPO",
@@ -14,6 +70,34 @@
   "collected": "2026-10-19T09:29+09:00"
  },
  {
+  "id": "3ecf4d183bf0",
+  "url": "https://ascii.jp/elem/000/004/443/4443602/?rss",
+  "title": "【中小企業向けの支援では届かなかった層へ】株式会社AI Docks、個人事業主・ひとり社長向けの「コミュニティ立ち上げコンサルティング」を提供開始 月3万円×6ヶ月、先着3名のモニター募集",
+  "summary": "【中小企業向けの支援では届かなかった層へ】株式会社AI Docks、個人事業主・ひとり社長向けの「コミュニティ立ち上げコンサルティング」を提供開始 月3万円×6ヶ月、先着3名のモニター募集",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-19T08:50+09:00",
+  "collected": "2026-10-19T10:15+09:00"
+ },
+ {
+  "id": "94dededea8e7",
+  "url": "https://ascii.jp/elem/000/004/443/4443601/?rss",
+  "title": "First Recon AI、SOCOTECとAIガバナンス・ISO/IEC 42001に関する無料ウェビナーを開催",
+  "summary": "First Recon AI、SOCOTECとAIガバナンス・ISO/IEC 42001に関する無料ウェビナーを開催",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-19T08:50+09:00",
+  "collected": "2026-10-19T10:15+09:00"
+ },
+ {
   "id": "ad547968d473",
   "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
   "title": "llm - tools - dataset 0.1.1",
@@ -26,7 +110,7 @@
   "thumbnail": null,
   "published": "2026-10-19T08:43+09:00",
   "collected": "2026-10-19T09:29+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "llm-tools-datasette 0.1.1",
   "summary_orig": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly d"
  },
@@ -43,7 +127,7 @@
   "thumbnail": null,
   "published": "2026-10-19T08:16+09:00",
   "collected": "2026-10-19T09:29+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "llm-echo 0.5",
   "summary_orig": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" whic"
  },
@@ -117,7 +201,7 @@
   "thumbnail": null,
   "published": "2026-10-19T08:00+09:00",
   "collected": "2026-10-19T08:39+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d73cf4f69c7b",
@@ -174,6 +258,20 @@
   "thumbnail": "https://ascii.jp/img/2026/10/16/4539306/xl/cbdfa1bff3b69bde.jpg?20200122",
   "published": "2026-10-19T07:30+09:00",
   "collected": "2026-10-19T08:15+09:00"
+ },
+ {
+  "id": "39407b06f8bb",
+  "url": "https://ascii.jp/elem/000/004/443/4443113/?topnew=1",
+  "title": "日本企業の「AI業務実装の壁」を打ち破る ― RPAのパイオニアが「AI×RPA×人」の統合基盤を国内展開 (1/2)",
+  "summary": "SS&C Blue Prismは、2026年10月7日、業務自動化プラットフォーム「WorkHQ」の日本語版を提供開始した。これは、AIエージェントやRPA、人を適材適所でつなぎ、部分最適な自動化を全体最適へと発展させるための基盤である。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/16/4539306/xl/cbdfa1bff3b69bde.jpg?20200122",
+  "published": "2026-10-19T07:30+09:00",
+  "collected": "2026-10-19T10:15+09:00"
  },
  {
   "id": "6b01c4141459",
@@ -361,7 +459,7 @@
   "thumbnail": null,
   "published": "2026-10-19T03:15+09:00",
   "collected": "2026-10-19T09:29+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "218f77bb959f",
