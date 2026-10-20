@@ -1,5 +1,35 @@
 [
  {
+  "id": "e9f6e03adc36",
+  "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+  "title": "Mamdaniは、連邦政府がAIを放棄したと言い、ニューヨーカーに押し戻すよう促す",
+  "summary": "Zohran Mamdani市長は月曜日の夜、ニューヨーカーはAIの乗っ取りは避けられないという話に抵抗しなければならず、公開を保護する規制を要求しなければならないと述べた",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
+  "published": "2026-10-20T10:27+09:00",
+  "collected": "2026-10-20T10:49+09:00",
+  "title_orig": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+  "summary_orig": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the publ"
+ },
+ {
+  "id": "aa1daee43763",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/20/2000002411/",
+  "title": "Grok BotがiPhoneのアクションボタンに対応 音声会話などを起動可能",
+  "summary": "常時稼働エージェントツール「Grok Bot」がiPhoneのアクションボタンに対応。「15 Pro」以降のiPhoneでGrok Botのバージョンを「1.16」にアップデートすると割り当てられるようになる。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/20/2000002411/10009870/2048",
+  "published": "2026-10-20T09:59+09:00",
+  "collected": "2026-10-20T10:49+09:00"
+ },
+ {
   "id": "fab709211f3c",
   "url": "https://news.nicovideo.jp/watch/nw19896378?news_ref=watch_20_nw18970014",
   "title": "株式会社B-Steep、第1回「AI・人工知能EXPO NEO」に出展",
@@ -12,7 +42,7 @@
   "thumbnail": null,
   "published": "2026-10-20T09:45+09:00",
   "collected": "2026-10-20T10:16+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "862a1e12615d",
@@ -288,6 +318,23 @@
   "summary_orig": "New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you already have"
  },
  {
+  "id": "f4e60f99df45",
+  "url": "https://www.socialmediatoday.com/news/youtube-tests-new-shorts-incentives/833420/",
+  "title": "YouTubeが新しいShortsインセンティブをテスト",
+  "summary": "このプラットフォームは、招待されたクリエイターへのボーナス、ショッピングアフィリエイトプログラムの拡大、ショッピングアナリティクスの更新を試みています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-20T07:37+09:00",
+  "collected": "2026-10-20T10:49+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "YouTube tests new Shorts incentives",
+  "summary_orig": "The platform is experimenting with bonuses for invited creators and expanding its shopping affiliates program, as well as updating shopping analytics."
+ },
+ {
   "id": "a7ee1e77a7c5",
   "url": "https://hashout.jp/ai/12859/",
   "title": "Amazonの意思決定理論を応用、Claudeに任せる作業・任せない作業を分けた大阪のAI勉強会の基準",
@@ -300,6 +347,23 @@
   "thumbnail": "https://hashout.jp/wp-content/uploads/2026/10/2112155954955293164-img-1200x675.png",
   "published": "2026-10-20T07:33+09:00",
   "collected": "2026-10-20T09:22+09:00"
+ },
+ {
+  "id": "9bbc80a064eb",
+  "url": "https://www.socialmediatoday.com/news/threads-introduces-nfl-commentary-team/833417/",
+  "title": "スレッドでNFL解説チームを紹介",
+  "summary": "このアプリでは、元アスリート、ベテランコメンテーター、コミュニティメンバーが洞察と分析を提供し、スポーツへの関与を促進します。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-20T07:32+09:00",
+  "collected": "2026-10-20T10:49+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Threads introduces NFL commentary team",
+  "summary_orig": "The app is bringing in former athletes, veteran commentators and community members to provide insights and analysis and drive sports engagement."
  },
  {
   "id": "332992202599",
@@ -390,6 +454,23 @@
   "collected": "2026-10-20T10:16+09:00",
   "title_orig": "Get Ideas Out of Your Head and into Videos - Hank Green #CreatorAdvice",
   "summary_orig": "Creator @hankschannel chats with Creator Liaison @ReneRitchie about making it on YouTube, getting ideas, creating for television, what kids and families can get"
+ },
+ {
+  "id": "b440a57ba394",
+  "url": "https://www.socialmediatoday.com/news/instagram-chief-says-stronger-ai-slop-prevention-is-needed/833416/",
+  "title": "Instagramのチーフは、より強力なAIスロップ防止が必要であると言います",
+  "summary": "Adam Mosseri氏は、毎週のQ&Aと別のThreadsの投稿の両方で、同社は人工知能コンテンツのレプリケーションに積極的に対抗しようとしていると述べた。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-20T07:02+09:00",
+  "collected": "2026-10-20T10:49+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Instagram chief says stronger AI slop prevention is needed",
+  "summary_orig": "Adam Mosseri said in both a weekly Q&A and a separate Threads post that the company was actively trying to combat artificial intelligence content replication."
  },
  {
   "id": "d27923426dd6",
@@ -581,6 +662,23 @@
   "thumbnail": "https://xtech.nikkei.com/atcl/nxt/info/18/00044/100200082/topm.jpg?20220512",
   "published": "2026-10-20T05:00+09:00",
   "collected": "2026-10-20T09:22+09:00"
+ },
+ {
+  "id": "e268e62e3302",
+  "url": "https://www.socialmediatoday.com/news/recent-mistakes-highlight-the-risks-of-ai/833413/",
+  "title": "最近の間違いは、AIのリスクを浮き彫りにしています",
+  "summary": "MetaとXの一連の問題は、人工知能システムの脆弱性のいくつかを明らかにしました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-20T04:57+09:00",
+  "collected": "2026-10-20T10:49+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Recent mistakes highlight the risks of AI",
+  "summary_orig": "A series of problems at Meta and X exposed some of the vulnerabilities in artificial intelligence systems."
  },
  {
   "id": "141841bfba33",
@@ -1153,7 +1251,7 @@
   "thumbnail": null,
   "published": "2026-10-19T17:20+09:00",
   "collected": "2026-10-20T09:39+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "ee41dd49f210",
@@ -1168,7 +1266,7 @@
   "thumbnail": null,
   "published": "2026-10-19T17:00+09:00",
   "collected": "2026-10-20T09:39+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "7d5e1fadf669",
@@ -1183,7 +1281,7 @@
   "thumbnail": null,
   "published": "2026-10-19T15:45+09:00",
   "collected": "2026-10-20T09:39+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "6296a7325348",
@@ -1304,7 +1402,7 @@
   "thumbnail": null,
   "published": "2026-10-19T12:45+09:00",
   "collected": "2026-10-20T09:39+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "1909930f54a3",
@@ -1361,7 +1459,7 @@
   "thumbnail": null,
   "published": "2026-10-19T11:30+09:00",
   "collected": "2026-10-20T09:39+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "6abd7f5a18ee",
@@ -1809,7 +1907,7 @@
   "thumbnail": null,
   "published": "2026-10-19T05:47+09:00",
   "collected": "2026-10-20T09:39+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Meta outlines Muse AI use cases for businesses",
   "summary_orig": "The company has shared info on some of the more common business use cases for its Muse AI tools based on examples it's seen thus far."
  },
@@ -1826,7 +1924,7 @@
   "thumbnail": null,
   "published": "2026-10-19T05:40+09:00",
   "collected": "2026-10-20T09:39+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "YouTube tests AI replies in searches",
   "summary_orig": "U.S.-based users in the experiment group may be given artificial intelligence-generated responses to their search queries in the app."
  },
@@ -1859,7 +1957,7 @@
   "thumbnail": null,
   "published": "2026-10-19T05:37+09:00",
   "collected": "2026-10-20T09:39+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "LinkedIn adds digital business cards",
   "summary_orig": "The platform is rolling out personalized, scannable displays that can be added to users’ digital wallets and used to facilitate offline connections."
  },

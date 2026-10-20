@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-20T10:16+09:00",
+  "last_updated": "2026-10-20T10:49+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -46,6 +46,36 @@
  },
  "items": [
   {
+   "id": "e9f6e03adc36",
+   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+   "title": "Mamdaniは、連邦政府がAIを放棄したと言い、ニューヨーカーに押し戻すよう促す",
+   "summary": "Zohran Mamdani市長は月曜日の夜、ニューヨーカーはAIの乗っ取りは避けられないという話に抵抗しなければならず、公開を保護する規制を要求しなければならないと述べた",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
+   "published": "2026-10-20T10:27+09:00",
+   "collected": "2026-10-20T10:49+09:00",
+   "title_orig": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+   "summary_orig": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the publ"
+  },
+  {
+   "id": "aa1daee43763",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/20/2000002411/",
+   "title": "Grok BotがiPhoneのアクションボタンに対応 音声会話などを起動可能",
+   "summary": "常時稼働エージェントツール「Grok Bot」がiPhoneのアクションボタンに対応。「15 Pro」以降のiPhoneでGrok Botのバージョンを「1.16」にアップデートすると割り当てられるようになる。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/20/2000002411/10009870/2048",
+   "published": "2026-10-20T09:59+09:00",
+   "collected": "2026-10-20T10:49+09:00"
+  },
+  {
    "id": "fab709211f3c",
    "url": "https://news.nicovideo.jp/watch/nw19896378?news_ref=watch_20_nw18970014",
    "title": "株式会社B-Steep、第1回「AI・人工知能EXPO NEO」に出展",
@@ -58,7 +88,7 @@
    "thumbnail": null,
    "published": "2026-10-20T09:45+09:00",
    "collected": "2026-10-20T10:16+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "862a1e12615d",
@@ -334,6 +364,23 @@
    "summary_orig": "New Amazon SageMaker AI customers can now land in a fully configured SageMaker Studio environment in only a few steps. Sign up with an identity you already have"
   },
   {
+   "id": "f4e60f99df45",
+   "url": "https://www.socialmediatoday.com/news/youtube-tests-new-shorts-incentives/833420/",
+   "title": "YouTubeが新しいShortsインセンティブをテスト",
+   "summary": "このプラットフォームは、招待されたクリエイターへのボーナス、ショッピングアフィリエイトプログラムの拡大、ショッピングアナリティクスの更新を試みています。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-20T07:37+09:00",
+   "collected": "2026-10-20T10:49+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "YouTube tests new Shorts incentives",
+   "summary_orig": "The platform is experimenting with bonuses for invited creators and expanding its shopping affiliates program, as well as updating shopping analytics."
+  },
+  {
    "id": "a7ee1e77a7c5",
    "url": "https://hashout.jp/ai/12859/",
    "title": "Amazonの意思決定理論を応用、Claudeに任せる作業・任せない作業を分けた大阪のAI勉強会の基準",
@@ -346,6 +393,23 @@
    "thumbnail": "https://hashout.jp/wp-content/uploads/2026/10/2112155954955293164-img-1200x675.png",
    "published": "2026-10-20T07:33+09:00",
    "collected": "2026-10-20T09:22+09:00"
+  },
+  {
+   "id": "9bbc80a064eb",
+   "url": "https://www.socialmediatoday.com/news/threads-introduces-nfl-commentary-team/833417/",
+   "title": "スレッドでNFL解説チームを紹介",
+   "summary": "このアプリでは、元アスリート、ベテランコメンテーター、コミュニティメンバーが洞察と分析を提供し、スポーツへの関与を促進します。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-20T07:32+09:00",
+   "collected": "2026-10-20T10:49+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Threads introduces NFL commentary team",
+   "summary_orig": "The app is bringing in former athletes, veteran commentators and community members to provide insights and analysis and drive sports engagement."
   },
   {
    "id": "332992202599",
@@ -406,6 +470,23 @@
    "thumbnail": "https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/news2026/1020_aluha07.jpg?itok=wcnS9IUm",
    "published": "2026-10-20T07:03+09:00",
    "collected": "2026-10-20T09:22+09:00"
+  },
+  {
+   "id": "b440a57ba394",
+   "url": "https://www.socialmediatoday.com/news/instagram-chief-says-stronger-ai-slop-prevention-is-needed/833416/",
+   "title": "Instagramのチーフは、より強力なAIスロップ防止が必要であると言います",
+   "summary": "Adam Mosseri氏は、毎週のQ&Aと別のThreadsの投稿の両方で、同社は人工知能コンテンツのレプリケーションに積極的に対抗しようとしていると述べた。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-20T07:02+09:00",
+   "collected": "2026-10-20T10:49+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Instagram chief says stronger AI slop prevention is needed",
+   "summary_orig": "Adam Mosseri said in both a weekly Q&A and a separate Threads post that the company was actively trying to combat artificial intelligence content replication."
   },
   {
    "id": "595d4dd6cfcb",
@@ -627,6 +708,23 @@
    "thumbnail": "https://xtech.nikkei.com/atcl/nxt/info/18/00044/100200082/topm.jpg?20220512",
    "published": "2026-10-20T05:00+09:00",
    "collected": "2026-10-20T09:22+09:00"
+  },
+  {
+   "id": "e268e62e3302",
+   "url": "https://www.socialmediatoday.com/news/recent-mistakes-highlight-the-risks-of-ai/833413/",
+   "title": "最近の間違いは、AIのリスクを浮き彫りにしています",
+   "summary": "MetaとXの一連の問題は、人工知能システムの脆弱性のいくつかを明らかにしました。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-20T04:57+09:00",
+   "collected": "2026-10-20T10:49+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Recent mistakes highlight the risks of AI",
+   "summary_orig": "A series of problems at Meta and X exposed some of the vulnerabilities in artificial intelligence systems."
   },
   {
    "id": "141841bfba33",
@@ -1199,7 +1297,7 @@
    "thumbnail": null,
    "published": "2026-10-19T17:20+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "ee41dd49f210",
@@ -1214,7 +1312,7 @@
    "thumbnail": null,
    "published": "2026-10-19T17:00+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7d5e1fadf669",
@@ -1229,7 +1327,7 @@
    "thumbnail": null,
    "published": "2026-10-19T15:45+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "432e1a9a5074",
@@ -1350,7 +1448,7 @@
    "thumbnail": null,
    "published": "2026-10-19T12:45+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "1909930f54a3",
@@ -1407,7 +1505,7 @@
    "thumbnail": null,
    "published": "2026-10-19T11:30+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "6abd7f5a18ee",
@@ -1855,7 +1953,7 @@
    "thumbnail": null,
    "published": "2026-10-19T05:47+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Meta outlines Muse AI use cases for businesses",
    "summary_orig": "The company has shared info on some of the more common business use cases for its Muse AI tools based on examples it's seen thus far."
   },
@@ -1872,7 +1970,7 @@
    "thumbnail": null,
    "published": "2026-10-19T05:40+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "YouTube tests AI replies in searches",
    "summary_orig": "U.S.-based users in the experiment group may be given artificial intelligence-generated responses to their search queries in the app."
   },
@@ -1889,7 +1987,7 @@
    "thumbnail": null,
    "published": "2026-10-19T05:37+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "LinkedIn adds digital business cards",
    "summary_orig": "The platform is rolling out personalized, scannable displays that can be added to users’ digital wallets and used to facilitate offline connections."
   },
@@ -9134,86 +9232,6 @@
    "collected": "2026-10-13T11:35+09:00",
    "title_orig": "Introducing Microsoft’s latest custom chip: Maia 300",
    "summary_orig": "The post Introducing Microsoft’s latest custom chip: Maia 300 appeared first on Source ."
-  },
-  {
-   "id": "f35a07389044",
-   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-   "title": "マイクロソフトの新しいAIチップにより、NVIDIAのGPUへの依存度が低下",
-   "summary": "マイクロソフトは本日、マイクロソフトの製品とサービスの「主要なAI推論システム」として設計された第3世代のMAIA社内AIチップを発表します",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "published": "2026-10-12T22:00+09:00",
-   "collected": "2026-10-13T11:43+09:00",
-   "title_orig": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-   "summary_orig": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services"
-  },
-  {
-   "id": "36347ea06c8c",
-   "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-   "title": "元プラウドエグゼクティブが、バックグラウンドであなたの声を聞くAIアプリのために2600万$を調達",
-   "summary": "AIの中核的な約束の1つは、人について知るほど、タスクを支援し、適切な提案を行うことができるようになるということです。",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
-   "published": "2026-10-12T21:47+09:00",
-   "collected": "2026-10-13T11:43+09:00",
-   "title_orig": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-   "summary_orig": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions,"
-  },
-  {
-   "id": "8635d0995c1d",
-   "url": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
-   "title": "インポートAI 476 ：創造性とRSI。中国よりも悪いオープンウェイトモデル。AIは宇宙に行く",
-   "summary": "AI研究に関するニュースレター「Import AI」へようこそ。インポートAIは、arXiv、カプチーノ、および読者からのフィードバックで実行されます。これをサポートしたい場合は、",
-   "source": "Import AI（Jack Clark／Anthropic共同創業者）",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvczAud3AuY29tXC9pXC9ibGFuay5qcGciLCJ0eHQiOiJJbXBvcnQgQUkgIiwidGVtcGxhdGUiOiJoaWdod2F5IiwiZm9udCI6IiIsImJsb2dfaWQiOjEwNzM4NzM3fQ.5lSAiEzyUNRFqGNJt0fHiWtUevhr506J_0PofiEO9WIMQ",
-   "published": "2026-10-12T21:30+09:00",
-   "collected": "2026-10-13T11:35+09:00",
-   "title_orig": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-   "summary_orig": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please sub"
-  },
-  {
-   "id": "2f59bc49fe59",
-   "url": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
-   "title": "@ sejournal、@ martinibusterを介して劇的な変更を受けるGoogle Discover",
-   "summary": "Googleは、Discoverを再発明して、YouTubeとのより緊密な統合によりAIコンシェルジュになることを計画しています。Google Discoverが劇的な変化を遂げる記事",
-   "source": "Search Engine Journal",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-discover-156.jpg",
-   "published": "2026-10-12T20:13+09:00",
-   "collected": "2026-10-13T11:43+09:00",
-   "title_orig": "Google Discover To Undergo Dramatic Changes via @sejournal, @martinibuster",
-   "summary_orig": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube. The post Google Discover To Undergo Dramatic Changes"
-  },
-  {
-   "id": "d27559d9a5a9",
-   "url": "https://buffer.com/resources/facebook-cover-photo-size/",
-   "title": "2026年の理想的なFacebookカバー写真のサイズ（+あなたのアイデアを際立たせるための11のアイデア）",
-   "summary": "デスクトップとモバイル用の正確なFacebookカバー写真のサイズ、完璧なカバー写真を作成する方法を学び、Facebookカバー写真のアイデアを獲得することでインスピレーションを得ましょう",
-   "source": "Buffer",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2024/10/facebook-cover-photo.png",
-   "published": "2026-10-12T20:00+09:00",
-   "collected": "2026-10-13T11:43+09:00",
-   "title_orig": "The Ideal Facebook Cover Photo Size in 2026 (+ 11 Ideas To Make Yours Stand Out)",
-   "summary_orig": "The exact Facebook cover photo sizes for desktop and mobile, find out how to create a perfect cover photo, and get inspired by winning Facebook cover photo idea"
   }
  ]
 }
