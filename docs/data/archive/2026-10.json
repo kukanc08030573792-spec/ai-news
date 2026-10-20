@@ -100,7 +100,7 @@
   "thumbnail": null,
   "published": "2026-10-20T09:00+09:00",
   "collected": "2026-10-20T09:22+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "6c096b15e9b9",
@@ -115,7 +115,7 @@
   "thumbnail": null,
   "published": "2026-10-20T08:58+09:00",
   "collected": "2026-10-20T09:22+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "My obituary for programming",
   "summary_orig": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing c"
  },
@@ -164,7 +164,7 @@
   "thumbnail": null,
   "published": "2026-10-20T08:30+09:00",
   "collected": "2026-10-20T09:22+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "e81e68dfb102",
@@ -285,7 +285,7 @@
   "thumbnail": null,
   "published": "2026-10-20T07:30+09:00",
   "collected": "2026-10-20T09:22+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "0e19bec78e36",
@@ -316,7 +316,7 @@
   "thumbnail": null,
   "published": "2026-10-20T07:04+09:00",
   "collected": "2026-10-20T09:22+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "354aa0d1242a",
@@ -714,6 +714,22 @@
   "summary_orig": "Deepgram worked with the AWS Forward Deployed Engineering team to port its Nova-3 speech-to-text model to AWS Trainium2 for offline batch inference. This post c"
  },
  {
+  "id": "69bd463197ee",
+  "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+  "title": "人々はAIを使用してスマートテレビを再びダムにしています",
+  "summary": "広告、トラッキング、遅いインターフェースにうんざりしているスマートテレビの所有者の中には、膨大なソフトウェアを取り除き、テレビのコントロールを取り戻すためにAIエージェントに目を向けている人もいます。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
+  "published": "2026-10-20T01:13+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "People are using AI to make their smart TVs dumb again",
+  "summary_orig": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+ },
+ {
   "id": "e242a37f6e45",
   "url": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
   "title": "VLLMの分解推論のためのTTFTとTPOTを改善するためのプッシュベースのKV転送",
@@ -746,6 +762,22 @@
   "summary_orig": "Multi-turn agentic workloads reprocess growing conversation context each turn, driving up latency. See how bi-directional KV cache transfer lets prefill and dec"
  },
  {
+  "id": "c33a66b4df03",
+  "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+  "title": "Nvidiaは、企業内およびPC上でエージェントを実行するための新しいオープンモデルを発表",
+  "summary": "Nvidiaは、自社のデータセンターで独自のオープンモデルを実行し、オンデバイスを作成しようとする企業の傾向に強く傾いています。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+  "published": "2026-10-20T00:37+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+  "summary_orig": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device,"
+ },
+ {
   "id": "f9db1e35ec7a",
   "url": "https://www.youtube.com/shorts/7lC2N9woZy4",
   "title": "トムソン・ロイターが語る法務AIへの信頼構築| OpenAI",
@@ -760,6 +792,22 @@
   "collected": "2026-10-20T09:22+09:00",
   "title_orig": "Thomson Reuters on Building Trust in Legal AI | OpenAI",
   "summary_orig": "Bringing legal expertise and frontier AI together starts with trust. For Thomson Reuters’ Camillo Speroni, that means output lawyers can verify, cite and put th"
+ },
+ {
+  "id": "1cd642b14ff8",
+  "url": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
+  "title": "DeepSeek、@ sejournal、@ MattGSouthを介して開発者に社内検索エンジンを開放",
+  "summary": "中国のAIラボは、検索エンジンを開発者に開放した。各結果にはページレベルの権限層があり、DeepSeekはGEOの操作をフィルタリングすると述べています。",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/deepseek-search-api-featured.jpg",
+  "published": "2026-10-20T00:02+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
+  "summary_orig": "A Chinese AI lab opened its search engine to developers. Each result carries a page-level authority tier, and DeepSeek says it filters GEO manipulation. The pos"
  },
  {
   "id": "24f0298eed38",
@@ -790,7 +838,55 @@
   "thumbnail": null,
   "published": "2026-10-20T00:00+09:00",
   "collected": "2026-10-20T09:22+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
+ },
+ {
+  "id": "b3d41182461b",
+  "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+  "title": "ディズニーは、訴訟を購入せずにCharacter.AIを購入する方法を見つけました",
+  "summary": "Character.AIは、同社のボットが未成年者に自傷行為や両親の殺害を奨励したと主張している。",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
+  "published": "2026-10-19T23:45+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "Disney found a way to buy Character.AI without buying its lawsuits",
+  "summary_orig": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents."
+ },
+ {
+  "id": "d4e34b264dbc",
+  "url": "https://blog.hootsuite.com/content-calendar-tools/",
+  "title": "2026年に最適なコンテンツカレンダーツール14選",
+  "summary": "どのコンテンツカレンダーツールを使用すればよいかわかりませんか？ 2026年の14のオプション（長所、短所、料金設定）とチームの選択方法を比較します。ポスト14ベストコー",
+  "source": "Hootsuite",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/10/BLOG-10-1.png",
+  "published": "2026-10-19T23:30+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "14 best content calendar tools for 2026",
+  "summary_orig": "Not sure which content calendar tool to use? We compare 14 options for 2026, with pros, cons, and pricing, plus how to choose for your team. The post 14 best co"
+ },
+ {
+  "id": "fd89b9b5cd58",
+  "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+  "title": "JBプリツカーは、AIは私たちが100歳まで生きるのを助けることができる、または核のように私たちを脅かすことができると考えています",
+  "summary": "今日は、AI、テクノロジー、プライバシーについて多くの考えを持っているイリノイ州知事JB Pritzkerと話をしています。あなたが番組を聞いているなら、あなたはそれを知っています",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-10-19T23:30+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+  "summary_orig": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that on"
  },
  {
   "id": "5a9dd192c567",
@@ -807,6 +903,38 @@
   "collected": "2026-10-20T09:22+09:00",
   "title_orig": "Securing the agentic insider",
   "summary_orig": "In the last few months, concerns have arisen about AI safety as a growing number of incidents were publicly disclosed. These incidents exposed how powerful mode"
+ },
+ {
+  "id": "c08e28e17ab3",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+  "title": "ハッカーは、AIエージェントの軍隊でJohn DeereとSharkNinjaに侵入しました",
+  "summary": "AIセキュリティ会社Norforgの調査結果によると、ハッカーは主に自社で運営するAIエージェントの軍隊を使用して100以上のウェブサイトに侵入しました",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+  "published": "2026-10-19T22:58+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+  "summary_orig": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforg"
+ },
+ {
+  "id": "4aa10e9ebb8b",
+  "url": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
+  "title": "AI検索ツールが1週間以内にメイドアップされたコンセプトを引用、@ sejournal、@ MattGS",
+  "summary": "研究者らは、AI検索ツールが引用するサイトに、作り上げられたコンセプトについて投稿した。4つの英語のウェブツールが1週間以内にそれを引用しました。他のトピックはほとんど着陸しませんでした。po",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-search-chatgpt-grok-2609462005.jpg",
+  "published": "2026-10-19T22:34+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern",
+  "summary_orig": "Researchers posted about a made-up concept on sites AI search tools cite. Four English-web tools cited it within a week. Other topics mostly didn't land. The po"
  },
  {
   "id": "42bf08993ef0",
@@ -841,6 +969,22 @@
   "summary_orig": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please sub"
  },
  {
+  "id": "448617650f8a",
+  "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+  "title": "ラプラスインテリジェンスは、現実世界に出現する前にロボットと自動運転車を赤チーム化します",
+  "summary": "ミシガン大学のスピンアウトLaplace Intelligenceは、AIエージェントとインタラクティブシミュレーションを使用して、展開前にロボットと自動運転車をストレステストします。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+  "published": "2026-10-19T21:30+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+  "summary_orig": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment."
+ },
+ {
   "id": "3a0dd109ab74",
   "url": "https://prtimes.jp/main/html/rd/p/000000006.000181120.html",
   "title": "Anthropic社の「Claude Partner Network」に参画しました",
@@ -867,9 +1011,41 @@
   "thumbnail": null,
   "published": "2026-10-19T21:00+09:00",
   "collected": "2026-10-20T09:22+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Advancing coding in low‑resource programming languages",
   "summary_orig": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+ },
+ {
+  "id": "10f358566d88",
+  "url": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/",
+  "title": "何百万通もの電子メールに基づくジャーナリストアウトリーチの新しいルール",
+  "summary": "関連するターゲティング、認証されたドメイン、具体的な主題ライン、AIを形作る明確な開口部を使用して、ジャーナリストのアウトリーチのピッチを見て理解する",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/journalist-outreach-744.png",
+  "published": "2026-10-19T21:00+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "The New Rules Of Journalist Outreach, Based On Millions Of Emails",
+  "summary_orig": "Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inb"
+ },
+ {
+  "id": "9279cf6bb0c3",
+  "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+  "title": "民主党は、AIを取り締まることが彼らに優位性を与える可能性があると考えている",
+  "summary": "民主党は今年11月に議会のコントロールを取り戻す可能性があり、そうした場合、国の最新かつ最も厄介な政治家の1つにどのようにアプローチするかを決定する必要があります",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+  "published": "2026-10-19T21:00+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "Democrats think cracking down on AI could give them an edge",
+  "summary_orig": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest pol"
  },
  {
   "id": "631a7d12aeb5",
@@ -888,6 +1064,83 @@
   "summary_orig": "Apple has a lot of trust in terms of delivering integrated products and preserving privacy; the real trust question is if you think Siri AI will justify investi"
  },
  {
+  "id": "639f330afceb",
+  "url": "https://blog.hootsuite.com/how-many-followers-on-tiktok-to-get-paid/",
+  "title": "支払いを受け取るには、TikTokに何人のフォロワーが必要ですか？ （ 2026年）",
+  "summary": "支払いを受け取るには10,000人のTikTokフォロワーが必要だと思いますか？必ずしもそうではありません。2026年にクリエイターが収入を得るさまざまな方法をご覧ください。この投稿には何人のフォロワーが必要ですか",
+  "source": "Hootsuite",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/10/How-many-followers-do-you-need-on-TikTok-to-get-paid.png",
+  "published": "2026-10-19T18:30+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "How many followers do you need on TikTok to get paid? (2026)",
+  "summary_orig": "Think you need 10,000 TikTok followers to get paid? Not always. Explore the different ways creators can earn in 2026. The post How many followers do you need on"
+ },
+ {
+  "id": "dce24a8973ca",
+  "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+  "title": "人工知能の研究者たちは、クロードをバーチャルな無人島に立ち往生させた。それは「遊び」始めました。",
+  "summary": "何も言わない場合、AIエージェントは何をしますか？答えは遊びによく似ています。研究者は繰り返し、バーチャルな砂漠の島に一人で座礁させました",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+  "published": "2026-10-19T18:08+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+  "summary_orig": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert isl"
+ },
+ {
+  "id": "5060e7aaf363",
+  "url": "https://markezine.jp/article/detail/77879",
+  "title": "レブコム、「MiiTel Synapse Copilot」にAI分析を自動実行機能（β版）を追加",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-19T17:20+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "ee41dd49f210",
+  "url": "https://markezine.jp/article/detail/77875",
+  "title": "Emoooveがワンスターの導入事例を公開、LinkedInと手紙営業で決裁者とのアポイント獲得",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-19T17:00+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "7d5e1fadf669",
+  "url": "https://markezine.jp/article/detail/77868",
+  "title": "マツリカ、AXの構想から定着まで支援する「Sozo AI Solutions」を提供開始",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-19T15:45+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "6296a7325348",
   "url": "https://gigazine.net/news/20261019-employment-at-anthropic/",
   "title": "Anthropic社内ではAIが人間の6倍も稼働していることが判明、従業員の仕事は「AIの監督」へと変化",
@@ -900,6 +1153,22 @@
   "thumbnail": "https://i.gzn.jp/img/2026/10/19/employment-at-anthropic/00.jpg",
   "published": "2026-10-19T15:00+09:00",
   "collected": "2026-10-20T09:22+09:00"
+ },
+ {
+  "id": "432e1a9a5074",
+  "url": "https://buffer.com/resources/best-time-to-post-on-facebook/",
+  "title": "Facebookに投稿するのに最適な時期— 1,400万件の投稿からの新しいデータ",
+  "summary": "1400万件のFacebook投稿を分析し、Facebookに投稿するのに最適な時期、Facebookに投稿するのに最適な日付、回避するのに最適な日時を特定しました",
+  "source": "Buffer",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2026/02/best-time-to-post-on-facebook-feat.png",
+  "published": "2026-10-19T15:00+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "title_orig": "Best Time to Post on Facebook — New Data from 14M Posts",
+  "summary_orig": "We analyzed 14 million Facebook posts to pinpoint the best time to post on Facebook, the best day to post on Facebook, and which days and times are best avoided"
  },
  {
   "id": "27efbd794215",
@@ -950,6 +1219,20 @@
   "summary_orig": "Pour cette vidéo, pensez à activez le son pour ne rien manquer. En savoir plus: https://chatgpt.com/fr-FR/features/voice/"
  },
  {
+  "id": "f4c7958ff994",
+  "url": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news068.html",
+  "title": "AIエージェントの業務管理、答えは「プロジェクト管理」にある？ NTTテクノクロスの「AI-PMO」構想を基に考察",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2610/19/cover_news068.jpg",
+  "published": "2026-10-19T13:25+09:00",
+  "collected": "2026-10-20T09:39+09:00"
+ },
+ {
   "id": "e70e43542309",
   "url": "https://news.yahoo.co.jp/articles/8d1505c3b2009e20099a5f31d2bdc0bc1b6d6f0e",
   "title": "アクセンチュア、アンソロピック「Claude」の会社負担を1人月約4600円に制限──生成AIの費用問題",
@@ -964,6 +1247,35 @@
   "collected": "2026-10-20T09:22+09:00"
  },
  {
+  "id": "d4d4af5baaf1",
+  "url": "https://thebridge.jp/2026/10/duvo-series-a-balderton-enterprise-execution-os",
+  "title": "業務プロセスをAIエージェントで自動化するDuvo、Balderton Capital主導のシリーズAで3,200万ドルを調達",
+  "summary": "業務プロセスをAIエージェントで自動化するDuvo、Balderton Capital主導のシリーズAで3,200万ドルを調達",
+  "source": "BRIDGE（ブリッジ）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-19T12:45+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "1909930f54a3",
+  "url": "https://forest.watch.impress.co.jp/docs/bookwatch/techlibnew/2148201.html",
+  "title": "読み放題にデザイン系実用書が追加！ 生成AIや「Figma」「After Effects」「Affinity」など - 読み放題！TechLib新着情報",
+  "summary": "ITエンジニア向け技術書籍の読み放題サービス「TechLib」（月額3,080円）では、プログラミング言語、サーバー・クラウドサービス、コンテナ開発、情報処理資格、AI・機械学習、ネットワーク・セキュリティなど様々なジャンルの書籍を取り揃え、続々と新しい書籍が追加されている。",
+  "source": "窓の杜",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://forest.watch.impress.co.jp/img/wf/list/2148/201/image1.jpg",
+  "published": "2026-10-19T12:07+09:00",
+  "collected": "2026-10-20T09:39+09:00"
+ },
+ {
   "id": "2c0b4264f20a",
   "url": "https://news.yahoo.co.jp/expert/articles/6552ed4f2080510d8a5fd2e48ffc9e427f25042c",
   "title": "米Anthropic共同創業者が来日 AI攻撃の可能性に言及、自律攻撃は「確認していない」（いけとも） - エキスパート",
@@ -976,6 +1288,49 @@
   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/10017249/02745182/title-1792219999976.jpeg?exp=10800",
   "published": "2026-10-19T12:01+09:00",
   "collected": "2026-10-20T09:22+09:00"
+ },
+ {
+  "id": "2270fda6e4be",
+  "url": "https://www.itmedia.co.jp/business/articles/2610/19/news064.html",
+  "title": "AI活用で約2900時間削減した世田谷区、しかし「確認と修正の負担」増加 新たな課題どう対応？",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/19/cover_news064.jpg",
+  "published": "2026-10-19T12:00+09:00",
+  "collected": "2026-10-20T09:39+09:00"
+ },
+ {
+  "id": "eb7187ac0b3c",
+  "url": "https://webtan.impress.co.jp/e/2026/10/19/53470",
+  "title": "AI時代、「PV数・クリック数」目当てのSEO予算は通らない！？ 上司が納得する3つの指標とは【1週間まとめ】",
+  "summary": "━━【この記事の目次】━━ 今回の要チェック記事 先週のニュース記事 他社主催のセミナー情報まとめ 編集後記 2026/10/10～2026/10/16 Web 担当者 Forum に掲載された情報を毎週一度、まとめてご紹介するこのコーナー、今回は解説記事 5 本とニュース記事 5 本です。 今週の担当は、四谷です。",
+  "source": "Web担当者フォーラム",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-19T11:30+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "6abd7f5a18ee",
+  "url": "https://voix.jp/biz/news-analysis/180063/",
+  "title": "アジアクエスト、リコーとAIエージェントの共同実証を開始",
+  "summary": "アジアクエスト株式会社は、株式会社リコーと共同で、AIエージェント（目標に対して自律的に行動を計画し実行するAIシステム）と企業の基幹システム（企業の主要業務を一元管理するシステム）を連携させる実証実験を開始した。",
+  "source": "ニュースメディアVOIX",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://voix.jp/biz/wp-content/uploads/sites/3/2026/10/thumb_20261019110219.png",
+  "published": "2026-10-19T11:02+09:00",
+  "collected": "2026-10-20T09:39+09:00"
  },
  {
   "id": "c6d7f5bcb430",
@@ -1397,6 +1752,40 @@
   "collected": "2026-10-19T08:15+09:00"
  },
  {
+  "id": "d1faa2574da6",
+  "url": "https://www.socialmediatoday.com/news/meta-outlines-muse-ai-use-cases-for-businesses/833308/",
+  "title": "ビジネス向けのMuse AIユースケースの概要",
+  "summary": "同社は、これまでに見られた例に基づいて、Muse AIツールのより一般的なビジネスユースケースのいくつかに関する情報を共有している。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-19T05:47+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Meta outlines Muse AI use cases for businesses",
+  "summary_orig": "The company has shared info on some of the more common business use cases for its Muse AI tools based on examples it's seen thus far."
+ },
+ {
+  "id": "43e2c0373378",
+  "url": "https://www.socialmediatoday.com/news/youtube-tests-ai-replies-in-searches/833307/",
+  "title": "YouTubeが検索でAIの返信をテスト",
+  "summary": "実験グループ内の米国に拠点を置くユーザーには、アプリ内の検索クエリに対する人工知能が生成された応答が与えられる場合があります。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-19T05:40+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "YouTube tests AI replies in searches",
+  "summary_orig": "U.S.-based users in the experiment group may be given artificial intelligence-generated responses to their search queries in the app."
+ },
+ {
   "id": "efeb3746fdd3",
   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
   "title": "Anthropicは、株式の5 ％を「公益基金」にコミットしていると述べています",
@@ -1411,6 +1800,23 @@
   "collected": "2026-10-19T08:15+09:00",
   "title_orig": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
   "summary_orig": "Anthropic said that it will commit 5% of its shares to the fund."
+ },
+ {
+  "id": "1a02b4192b99",
+  "url": "https://www.socialmediatoday.com/news/linkedin-adds-digital-business-cards/833306/",
+  "title": "LinkedInがデジタル名刺を追加",
+  "summary": "このプラットフォームは、ユーザーのデジタルウォレットに追加し、オフライン接続を容易にするために使用できる、パーソナライズされたスキャン可能なディスプレイを展開しています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-19T05:37+09:00",
+  "collected": "2026-10-20T09:39+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "LinkedIn adds digital business cards",
+  "summary_orig": "The platform is rolling out personalized, scannable displays that can be added to users’ digital wallets and used to facilitate offline connections."
  },
  {
   "id": "0eb33d90db41",
