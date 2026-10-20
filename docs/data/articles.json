@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-20T09:39+09:00",
+  "last_updated": "2026-10-20T10:16+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,21 @@
   ]
  },
  "items": [
+  {
+   "id": "fab709211f3c",
+   "url": "https://news.nicovideo.jp/watch/nw19896378?news_ref=watch_20_nw18970014",
+   "title": "株式会社B-Steep、第1回「AI・人工知能EXPO NEO」に出展",
+   "summary": "株式会社B-Steep、第1回「AI・人工知能EXPO NEO」に出展",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-20T09:45+09:00",
+   "collected": "2026-10-20T10:16+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "862a1e12615d",
    "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
@@ -146,7 +161,7 @@
    "thumbnail": null,
    "published": "2026-10-20T09:00+09:00",
    "collected": "2026-10-20T09:22+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "6c096b15e9b9",
@@ -161,7 +176,7 @@
    "thumbnail": null,
    "published": "2026-10-20T08:58+09:00",
    "collected": "2026-10-20T09:22+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "My obituary for programming",
    "summary_orig": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing c"
   },
@@ -210,7 +225,7 @@
    "thumbnail": null,
    "published": "2026-10-20T08:30+09:00",
    "collected": "2026-10-20T09:22+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "e81e68dfb102",
@@ -273,6 +288,20 @@
    "summary_orig": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one"
   },
   {
+   "id": "bbb253b97028",
+   "url": "https://ascii.jp/elem/000/004/443/4443923/?rss",
+   "title": "AIエージェントと人で経営の実行を回す「キメグリ」提供開始 生成AIを作業の効率化から、経営陣の決定を社内で回す仕組みへ",
+   "summary": "AIエージェントと人で経営の実行を回す「キメグリ」提供開始 生成AIを作業の効率化から、経営陣の決定を社内で回す仕組みへ",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-20T07:46+09:00",
+   "collected": "2026-10-20T10:16+09:00"
+  },
+  {
    "id": "9f8459b6eade",
    "url": "https://www.youtube.com/watch?v=29jCT5zL_O0",
    "title": "スケッチからスケールへ：チームがメタVRメガネをどのように構築したか",
@@ -331,7 +360,7 @@
    "thumbnail": null,
    "published": "2026-10-20T07:30+09:00",
    "collected": "2026-10-20T09:22+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "0e19bec78e36",
@@ -362,7 +391,7 @@
    "thumbnail": null,
    "published": "2026-10-20T07:04+09:00",
    "collected": "2026-10-20T09:22+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "354aa0d1242a",
@@ -377,6 +406,22 @@
    "thumbnail": "https://webtan.impress.co.jp/sites/default/files/styles/1200x630/public/images/news2026/1020_aluha07.jpg?itok=wcnS9IUm",
    "published": "2026-10-20T07:03+09:00",
    "collected": "2026-10-20T09:22+09:00"
+  },
+  {
+   "id": "595d4dd6cfcb",
+   "url": "https://www.youtube.com/shorts/ujumx3_wAKU",
+   "title": "アイデアを頭から離れてビデオに収める-ハンク・グリーン# CreatorAdvice",
+   "summary": "Creator @ hankschannelとCreator Liaison @ ReneRitchieは、YouTubeに投稿したり、アイデアを得たり、テレビ向けに制作したり、子供や家族が何を手に入れることができるかについてチャットします",
+   "source": "Creator Insider（YouTube公式）",
+   "type": "video",
+   "tier": "official",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://i.ytimg.com/vi/ujumx3_wAKU/hqdefault.jpg",
+   "published": "2026-10-20T07:02+09:00",
+   "collected": "2026-10-20T10:16+09:00",
+   "title_orig": "Get Ideas Out of Your Head and into Videos - Hank Green #CreatorAdvice",
+   "summary_orig": "Creator @hankschannel chats with Creator Liaison @ReneRitchie about making it on YouTube, getting ideas, creating for television, what kids and families can get"
   },
   {
    "id": "2b039753c97b",
@@ -884,7 +929,7 @@
    "thumbnail": null,
    "published": "2026-10-20T00:00+09:00",
    "collected": "2026-10-20T09:22+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "b3d41182461b",
@@ -1089,7 +1134,7 @@
    "thumbnail": null,
    "published": "2026-10-19T21:00+09:00",
    "collected": "2026-10-20T09:22+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Advancing coding in low‑resource programming languages",
    "summary_orig": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
   },
@@ -1154,7 +1199,7 @@
    "thumbnail": null,
    "published": "2026-10-19T17:20+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "ee41dd49f210",
@@ -1169,7 +1214,7 @@
    "thumbnail": null,
    "published": "2026-10-19T17:00+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "7d5e1fadf669",
@@ -1184,7 +1229,7 @@
    "thumbnail": null,
    "published": "2026-10-19T15:45+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "432e1a9a5074",
@@ -1305,7 +1350,7 @@
    "thumbnail": null,
    "published": "2026-10-19T12:45+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "1909930f54a3",
@@ -1362,7 +1407,7 @@
    "thumbnail": null,
    "published": "2026-10-19T11:30+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "6abd7f5a18ee",
@@ -1810,7 +1855,7 @@
    "thumbnail": null,
    "published": "2026-10-19T05:47+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Meta outlines Muse AI use cases for businesses",
    "summary_orig": "The company has shared info on some of the more common business use cases for its Muse AI tools based on examples it's seen thus far."
   },
@@ -1827,7 +1872,7 @@
    "thumbnail": null,
    "published": "2026-10-19T05:40+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "YouTube tests AI replies in searches",
    "summary_orig": "U.S.-based users in the experiment group may be given artificial intelligence-generated responses to their search queries in the app."
   },
@@ -1844,7 +1889,7 @@
    "thumbnail": null,
    "published": "2026-10-19T05:37+09:00",
    "collected": "2026-10-20T09:39+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "LinkedIn adds digital business cards",
    "summary_orig": "The platform is rolling out personalized, scannable displays that can be added to users’ digital wallets and used to facilitate offline connections."
   },
@@ -7195,22 +7240,6 @@
    "summary_orig": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The pos"
   },
   {
-   "id": "fa1a37fdc416",
-   "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-   "title": "ラプラスインテリジェンスは、現実世界に出現する前にロボットと自動運転車を赤チーム化します",
-   "summary": "ミシガン大学のスピンアウトLaplace Intelligenceは、AIエージェントとインタラクティブシミュレーションを使用して、展開前にロボットと自動運転車をストレステストします。",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-   "published": "2026-10-14T02:30+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "summary_orig": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment."
-  },
-  {
    "id": "56194186978f",
    "url": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
    "title": "GoogleがGemini 4 Argonを@ sejournal、@ MattGSouth経由でProおよびUltraサブスクライバー用のAIモードに追加",
@@ -9185,52 +9214,6 @@
    "collected": "2026-10-13T11:43+09:00",
    "title_orig": "The Ideal Facebook Cover Photo Size in 2026 (+ 11 Ideas To Make Yours Stand Out)",
    "summary_orig": "The exact Facebook cover photo sizes for desktop and mobile, find out how to create a perfect cover photo, and get inspired by winning Facebook cover photo idea"
-  },
-  {
-   "id": "de98b5d4a04e",
-   "url": "https://stratechery.com/2026/personal-day-4/",
-   "title": "個人的な日",
-   "summary": "個人的な日—更新なし",
-   "source": "Ben Thompson（Stratechery）",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-   "published": "2026-10-12T19:00+09:00",
-   "collected": "2026-10-13T11:35+09:00",
-   "title_orig": "Personal Day",
-   "summary_orig": "Personal Day — No Update"
-  },
-  {
-   "id": "04453c54e7eb",
-   "url": "https://prtimes.jp/main/html/rd/p/000000015.000149931.html",
-   "title": "LeapAI、AIエージェントの業務活用事例を共有する交流会を開催【開催レポート】",
-   "summary": "LeapAI、AIエージェントの業務活用事例を共有する交流会を開催【開催レポート】",
-   "source": "PR TIMES",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/149931/15/149931-15-e7ecf09b5849c03cb1fbc999a44f47d2-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-10-12T18:45+09:00",
-   "collected": "2026-10-13T11:43+09:00"
-  },
-  {
-   "id": "eb4a056c0ca6",
-   "url": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
-   "title": "AnthropicのThariq Shihiparが@ sejournal、@ martinibuster経由でアーティファクトの使用を推奨",
-   "summary": "AnthropicのThariq Shihipar氏によると、Artifactsはプロジェクト情報とエージェントアクティビティを1つのインターフェースに統合し、ユーザーにより多くの監督を提供します。The post Anthropic's T",
-   "source": "Search Engine Journal",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/antrhopic-thariq-shihipar-396.jpg",
-   "published": "2026-10-12T18:31+09:00",
-   "collected": "2026-10-13T11:43+09:00",
-   "title_orig": "Anthropic’s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
-   "summary_orig": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic’s T"
   }
  ]
 }
