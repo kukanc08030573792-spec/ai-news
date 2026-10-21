@@ -28,6 +28,49 @@
   "collected": "2026-10-21T09:08+09:00"
  },
  {
+  "id": "747e669bc469",
+  "url": "https://prtimes.jp/main/html/rd/p/000000229.000045678.html",
+  "title": "SOKUDAN代表の田根が広島県主催 生成AI共有会「生成AI、結局どこに使える？」に登壇します",
+  "summary": "SOKUDAN代表の田根が広島県主催 生成AI共有会「生成AI、結局どこに使える？」に登壇します",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/45678/229/45678-229-b9f146944526cdc9d7ef459d95d4380a-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-21T09:00+09:00",
+  "collected": "2026-10-21T09:56+09:00"
+ },
+ {
+  "id": "61bddaff7e5e",
+  "url": "https://www.itmedia.co.jp/enterprise/articles/2610/21/news030.html",
+  "title": "「AI活用でIT部門の人員が増える」は本当か？ 人材構成の「二重の変化」をGartnerが解説",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2610/21/cover_news030.jpg",
+  "published": "2026-10-21T09:00+09:00",
+  "collected": "2026-10-21T09:56+09:00"
+ },
+ {
+  "id": "80ac34307338",
+  "url": "https://markezine.jp/article/detail/77472",
+  "title": "OpenAIは顧客のAI活用にどう伴走するのか 導入から定着、事業成果につなげるカスタマーサクセス",
+  "summary": "才流の高橋歩さんが、最前線を行くカスタマーサクセス組織をたずねる本連載。今回は「ChatGPT」を開発・提供するOpenAIの日本法人を取材しました。同社では営業担当者と技術担当者が連携し、構想から導入・活用までを支援しています。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-21T09:00+09:00",
+  "collected": "2026-10-21T09:56+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "5242b0a9a92a",
   "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
   "title": "Unifying Edge AI ： Coral NPUのオープンスタンダードがモデルからシリコンまで、ポータブルでエネルギーに左右されるインテリジェンスをもたらす方法",
@@ -104,9 +147,23 @@
   "thumbnail": null,
   "published": "2026-10-21T08:50+09:00",
   "collected": "2026-10-21T08:55+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "eMudhra Intermediate CA Compromise",
   "summary_orig": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain"
+ },
+ {
+  "id": "1b1a565d47dd",
+  "url": "https://ascii.jp/elem/000/004/444/4444351/?rss",
+  "title": "建設業専用のTikTok採用支援プランを新設、現場の撮影許諾を当社が代行",
+  "summary": "建設業専用のTikTok採用支援プランを新設、現場の撮影許諾を当社が代行",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-21T08:10+09:00",
+  "collected": "2026-10-21T09:56+09:00"
  },
  {
   "id": "6559d9cb2b55",
@@ -305,7 +362,7 @@
   "id": "20865beac534",
   "url": "https://marketing.itmedia.co.jp/mm/articles/2610/21/news006.html",
   "title": "期待の新星「ChatGPT広告」 しかし“広告だけで効果が出る”とは言い切れない、そのワケは？",
-  "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððúÒÅ «éÍ © BÜ ½ A",
+  "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððúÒÅ «éÍ © BÜ ½ A",
   "source": "ITmedia マーケティング",
   "type": "article",
   "tier": "media",
@@ -314,7 +371,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mm/articles/2610/21/cover_news006.jpg",
   "published": "2026-10-21T07:00+09:00",
   "collected": "2026-10-21T08:55+09:00",
-  "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððúÒÅ «éÍ © BÜ ½ A"
+  "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððúÒÅ «éÍ © BÜ ½ A"
  },
  {
   "id": "329fc72597e2",
@@ -331,6 +388,23 @@
   "collected": "2026-10-21T08:55+09:00"
  },
  {
+  "id": "4bea6481bfb5",
+  "url": "https://www.socialmediatoday.com/news/tiktok-shares-black-fridaycyber-monday-promotion-tips/833546/",
+  "title": "TikTokがブラックフライデー/サイバーマンデーのプロモーションのヒントを共有",
+  "summary": "このアプリは、Princess Polly、Dossier、SharkNinjaなどの企業がどのようにブランドの露出を高めたかを調べた一連のビデオを公開しました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-21T06:52+09:00",
+  "collected": "2026-10-21T09:56+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "TikTok shares Black Friday/Cyber Monday promotion tips",
+  "summary_orig": "The app published a series of videos that examined how companies including Princess Polly, Dossier and SharkNinja boosted their brand exposure."
+ },
+ {
   "id": "33c25bb465cf",
   "url": "https://webtan.impress.co.jp/e/2026/10/21/53478",
   "title": "「ChatGPTで売上2.5倍」「脱・高額広告費」「安売りしないファンづくり」―AI時代の“すぐ再現できる”高収益ECの再現手法【11/5＋6 リアルセミナー開催】",
@@ -343,7 +417,7 @@
   "thumbnail": null,
   "published": "2026-10-21T06:50+09:00",
   "collected": "2026-10-21T08:55+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "5841d0b7d0e4",
@@ -358,6 +432,23 @@
   "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/xl/ed8de61ce6796246.png?20200122",
   "published": "2026-10-21T06:46+09:00",
   "collected": "2026-10-21T08:55+09:00"
+ },
+ {
+  "id": "eed248b112c2",
+  "url": "https://www.socialmediatoday.com/news/australia-prepares-to-sue-social-platforms-over-age-violations/833545/",
+  "title": "オーストラリア、年齢違反を理由にソーシャルプラットフォームを訴える準備を進めている",
+  "summary": "ブルームバーグは、政府がMeta、TikTok、Snapchat、YouTubeを、10代のユーザーに対する全国的な禁止措置を遵守していないと主張して訴える予定であると報じた。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-21T06:46+09:00",
+  "collected": "2026-10-21T09:56+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Australia prepares to sue social platforms over age violations",
+  "summary_orig": "Bloomberg reported that the government planned to sue Meta, TikTok, Snapchat and YouTube for alleged non-compliance with a nationwide ban on teen users."
  },
  {
   "id": "e37ed77d03a5",
@@ -388,6 +479,40 @@
   "collected": "2026-10-21T08:55+09:00",
   "title_orig": "Anthropic’s cloud partnerships are getting messy",
   "summary_orig": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending"
+ },
+ {
+  "id": "1116e847d5fe",
+  "url": "https://www.socialmediatoday.com/news/instagram-announces-next-phase-of-rings-creative-talent-awards/833543/",
+  "title": "Instagramがリングクリエイティブタレントアワードの次のフェーズを発表",
+  "summary": "このプロモーションイベントは、アプリのトップクリエイターを紹介することを目的としており、Donatella VersaceやA $ AP Rockyなどの審査員が参加しています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-21T06:23+09:00",
+  "collected": "2026-10-21T09:56+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Instagram announces next phase of Rings creative talent awards",
+  "summary_orig": "The promotional event is designed to highlight the app’s top creators, and features judges including Donatella Versace and A$AP Rocky."
+ },
+ {
+  "id": "34a053d4375f",
+  "url": "https://www.socialmediatoday.com/news/youtube-inks-affiliate-deal-with-aliexpress/833542/",
+  "title": "YouTubeがアフィリエイト契約をAliExpressと結ぶ",
+  "summary": "クリエイターは、動画に会社の製品にタグを付け、結果として生じる売上のコミッションを得ることができます。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-21T06:17+09:00",
+  "collected": "2026-10-21T09:56+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "YouTube inks affiliate deal with AliExpress",
+  "summary_orig": "Creators will be able to tag the company’s products in their videos and earn commissions for any resulting sales."
  },
  {
   "id": "65f689d03570",
@@ -544,6 +669,23 @@
   "summary_orig": "From GPU trading to physical settlement, independent markets, and programmable compute"
  },
  {
+  "id": "89c3a087248b",
+  "url": "https://www.socialmediatoday.com/news/reddit-adds-ai-powered-ad-guidance-tools/833532/",
+  "title": "RedditがAIを活用した広告ガイダンスツールを追加",
+  "summary": "このプラットフォームには、新しいキャンペーンプランナー要素と、ブランドがカスタマイズされた推奨事項を使用して最適化スコアを向上させる方法があります。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-21T04:26+09:00",
+  "collected": "2026-10-21T09:56+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Reddit adds AI-powered ad guidance tools",
+  "summary_orig": "The platform has a new campaign planner element and a way for brands to improve their optimization scores using customized recommendations."
+ },
+ {
   "id": "2651ea2d400f",
   "url": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
   "title": "あなたのオーディエンスはAIを使用していますが、それを信頼していません– @ sejournal、@ gregjarboeを介してギャップのためのコンテンツを構築する",
@@ -574,6 +716,20 @@
   "collected": "2026-10-21T09:08+09:00",
   "title_orig": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
   "summary_orig": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
+ },
+ {
+  "id": "2c6e68252b81",
+  "url": "https://finance.biggo.jp/news/90588430-f428-4eea-8b20-1f53bdcbaafd",
+  "title": "ズーム、会議の文脈をAIに開放 Claude・ChatGPTから業務起動へ",
+  "summary": "ズーム・コミュニケーションズは年次イベントZoomtopia 2026で、会議や通話、チャットの会話情報をAIの業務遂行に結び付ける基盤「Unified Context Layer」を発…",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://img.biggo.com/RpxHzZKIT72pNFnlbQ4BFx3T3KrgMd0PJUHS2XlKqXA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzkwNTg4NDMwLWY0MjgtNGVlYS04YjIwLTFmNTNiZGNiYWFmZF8xNzkyNTIzMjMyX2RlZmF1bHQuanBn.jpg",
+  "published": "2026-10-21T03:35+09:00",
+  "collected": "2026-10-21T09:56+09:00"
  },
  {
   "id": "4eb9f7080b11",
@@ -1111,7 +1267,7 @@
   "thumbnail": null,
   "published": "2026-10-20T22:30+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "3309b6ce15f4",
@@ -1364,7 +1520,7 @@
   "thumbnail": null,
   "published": "2026-10-20T19:00+09:00",
   "collected": "2026-10-21T08:55+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
   "summary_orig": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
  },
@@ -1397,7 +1553,7 @@
   "thumbnail": null,
   "published": "2026-10-20T19:00+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "How to Get Recommended by AI: Being Found Isn’t Enough",
   "summary_orig": "Wondering how to get your business recommended by ChatGPT, Claude, and other AI tools? Want to know what to change on your website, Google Business Profile, and"
  },
@@ -1414,7 +1570,7 @@
   "thumbnail": null,
   "published": "2026-10-20T18:30+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Reddit Tactics, Instagram Tools, and Industry News",
   "summary_orig": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
  },
@@ -1521,7 +1677,7 @@
   "thumbnail": null,
   "published": "2026-10-20T17:10+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "2819fe57c556",
@@ -1552,7 +1708,7 @@
   "thumbnail": null,
   "published": "2026-10-20T16:30+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "dfb576fe8673",
@@ -1581,7 +1737,7 @@
   "thumbnail": null,
   "published": "2026-10-20T15:23+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "fb236cc542ed",
@@ -1712,7 +1868,7 @@
   "thumbnail": null,
   "published": "2026-10-20T11:00+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "e8a30204abfb",
@@ -1903,7 +2059,7 @@
   "thumbnail": null,
   "published": "2026-10-20T09:00+09:00",
   "collected": "2026-10-21T08:55+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "OpenAI acquires Orchestra Bio",
   "summary_orig": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treat"
  },

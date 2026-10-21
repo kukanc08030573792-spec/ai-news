@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-21T09:08+09:00",
+  "last_updated": "2026-10-21T09:56+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,49 @@
   ]
  },
  "items": [
+  {
+   "id": "747e669bc469",
+   "url": "https://prtimes.jp/main/html/rd/p/000000229.000045678.html",
+   "title": "SOKUDAN代表の田根が広島県主催 生成AI共有会「生成AI、結局どこに使える？」に登壇します",
+   "summary": "SOKUDAN代表の田根が広島県主催 生成AI共有会「生成AI、結局どこに使える？」に登壇します",
+   "source": "PR TIMES",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/45678/229/45678-229-b9f146944526cdc9d7ef459d95d4380a-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-21T09:00+09:00",
+   "collected": "2026-10-21T09:56+09:00"
+  },
+  {
+   "id": "61bddaff7e5e",
+   "url": "https://www.itmedia.co.jp/enterprise/articles/2610/21/news030.html",
+   "title": "「AI活用でIT部門の人員が増える」は本当か？ 人材構成の「二重の変化」をGartnerが解説",
+   "summary": "",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2610/21/cover_news030.jpg",
+   "published": "2026-10-21T09:00+09:00",
+   "collected": "2026-10-21T09:56+09:00"
+  },
+  {
+   "id": "80ac34307338",
+   "url": "https://markezine.jp/article/detail/77472",
+   "title": "OpenAIは顧客のAI活用にどう伴走するのか 導入から定着、事業成果につなげるカスタマーサクセス",
+   "summary": "才流の高橋歩さんが、最前線を行くカスタマーサクセス組織をたずねる本連載。今回は「ChatGPT」を開発・提供するOpenAIの日本法人を取材しました。同社では営業担当者と技術担当者が連携し、構想から導入・活用までを支援しています。",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-21T09:00+09:00",
+   "collected": "2026-10-21T09:56+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "34f3e3be670f",
    "url": "https://www.advertimes.com/20261021/article560215/?utm_source=feed",
@@ -150,9 +193,23 @@
    "thumbnail": null,
    "published": "2026-10-21T08:50+09:00",
    "collected": "2026-10-21T08:55+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "eMudhra Intermediate CA Compromise",
    "summary_orig": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain"
+  },
+  {
+   "id": "1b1a565d47dd",
+   "url": "https://ascii.jp/elem/000/004/444/4444351/?rss",
+   "title": "建設業専用のTikTok採用支援プランを新設、現場の撮影許諾を当社が代行",
+   "summary": "建設業専用のTikTok採用支援プランを新設、現場の撮影許諾を当社が代行",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-21T08:10+09:00",
+   "collected": "2026-10-21T09:56+09:00"
   },
   {
    "id": "6559d9cb2b55",
@@ -351,7 +408,7 @@
    "id": "20865beac534",
    "url": "https://marketing.itmedia.co.jp/mm/articles/2610/21/news006.html",
    "title": "期待の新星「ChatGPT広告」 しかし“広告だけで効果が出る”とは言い切れない、そのワケは？",
-   "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððúÒÅ «éÍ © BÜ ½ A",
+   "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððúÒÅ «éÍ © BÜ ½ A",
    "source": "ITmedia マーケティング",
    "type": "article",
    "tier": "media",
@@ -360,7 +417,7 @@
    "thumbnail": "https://image.itmedia.co.jp/mm/articles/2610/21/cover_news006.jpg",
    "published": "2026-10-21T07:00+09:00",
    "collected": "2026-10-21T08:55+09:00",
-   "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððúÒÅ «éÍ © BÜ ½ A"
+   "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððúÒÅ «éÍ © BÜ ½ A"
   },
   {
    "id": "329fc72597e2",
@@ -377,6 +434,23 @@
    "collected": "2026-10-21T08:55+09:00"
   },
   {
+   "id": "4bea6481bfb5",
+   "url": "https://www.socialmediatoday.com/news/tiktok-shares-black-fridaycyber-monday-promotion-tips/833546/",
+   "title": "TikTokがブラックフライデー/サイバーマンデーのプロモーションのヒントを共有",
+   "summary": "このアプリは、Princess Polly、Dossier、SharkNinjaなどの企業がどのようにブランドの露出を高めたかを調べた一連のビデオを公開しました。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-21T06:52+09:00",
+   "collected": "2026-10-21T09:56+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "TikTok shares Black Friday/Cyber Monday promotion tips",
+   "summary_orig": "The app published a series of videos that examined how companies including Princess Polly, Dossier and SharkNinja boosted their brand exposure."
+  },
+  {
    "id": "33c25bb465cf",
    "url": "https://webtan.impress.co.jp/e/2026/10/21/53478",
    "title": "「ChatGPTで売上2.5倍」「脱・高額広告費」「安売りしないファンづくり」―AI時代の“すぐ再現できる”高収益ECの再現手法【11/5＋6 リアルセミナー開催】",
@@ -389,7 +463,24 @@
    "thumbnail": null,
    "published": "2026-10-21T06:50+09:00",
    "collected": "2026-10-21T08:55+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
+  },
+  {
+   "id": "eed248b112c2",
+   "url": "https://www.socialmediatoday.com/news/australia-prepares-to-sue-social-platforms-over-age-violations/833545/",
+   "title": "オーストラリア、年齢違反を理由にソーシャルプラットフォームを訴える準備を進めている",
+   "summary": "ブルームバーグは、政府がMeta、TikTok、Snapchat、YouTubeを、10代のユーザーに対する全国的な禁止措置を遵守していないと主張して訴える予定であると報じた。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-21T06:46+09:00",
+   "collected": "2026-10-21T09:56+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Australia prepares to sue social platforms over age violations",
+   "summary_orig": "Bloomberg reported that the government planned to sue Meta, TikTok, Snapchat and YouTube for alleged non-compliance with a nationwide ban on teen users."
   },
   {
    "id": "5841d0b7d0e4",
@@ -434,6 +525,40 @@
    "collected": "2026-10-21T08:55+09:00",
    "title_orig": "Anthropic’s cloud partnerships are getting messy",
    "summary_orig": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending"
+  },
+  {
+   "id": "1116e847d5fe",
+   "url": "https://www.socialmediatoday.com/news/instagram-announces-next-phase-of-rings-creative-talent-awards/833543/",
+   "title": "Instagramがリングクリエイティブタレントアワードの次のフェーズを発表",
+   "summary": "このプロモーションイベントは、アプリのトップクリエイターを紹介することを目的としており、Donatella VersaceやA $ AP Rockyなどの審査員が参加しています。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-21T06:23+09:00",
+   "collected": "2026-10-21T09:56+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Instagram announces next phase of Rings creative talent awards",
+   "summary_orig": "The promotional event is designed to highlight the app’s top creators, and features judges including Donatella Versace and A$AP Rocky."
+  },
+  {
+   "id": "34a053d4375f",
+   "url": "https://www.socialmediatoday.com/news/youtube-inks-affiliate-deal-with-aliexpress/833542/",
+   "title": "YouTubeがアフィリエイト契約をAliExpressと結ぶ",
+   "summary": "クリエイターは、動画に会社の製品にタグを付け、結果として生じる売上のコミッションを得ることができます。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-21T06:17+09:00",
+   "collected": "2026-10-21T09:56+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "YouTube inks affiliate deal with AliExpress",
+   "summary_orig": "Creators will be able to tag the company’s products in their videos and earn commissions for any resulting sales."
   },
   {
    "id": "65f689d03570",
@@ -590,6 +715,23 @@
    "summary_orig": "From GPU trading to physical settlement, independent markets, and programmable compute"
   },
   {
+   "id": "89c3a087248b",
+   "url": "https://www.socialmediatoday.com/news/reddit-adds-ai-powered-ad-guidance-tools/833532/",
+   "title": "RedditがAIを活用した広告ガイダンスツールを追加",
+   "summary": "このプラットフォームには、新しいキャンペーンプランナー要素と、ブランドがカスタマイズされた推奨事項を使用して最適化スコアを向上させる方法があります。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-21T04:26+09:00",
+   "collected": "2026-10-21T09:56+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Reddit adds AI-powered ad guidance tools",
+   "summary_orig": "The platform has a new campaign planner element and a way for brands to improve their optimization scores using customized recommendations."
+  },
+  {
    "id": "2651ea2d400f",
    "url": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
    "title": "あなたのオーディエンスはAIを使用していますが、それを信頼していません– @ sejournal、@ gregjarboeを介してギャップのためのコンテンツを構築する",
@@ -620,6 +762,20 @@
    "collected": "2026-10-21T09:08+09:00",
    "title_orig": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
    "summary_orig": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
+  },
+  {
+   "id": "2c6e68252b81",
+   "url": "https://finance.biggo.jp/news/90588430-f428-4eea-8b20-1f53bdcbaafd",
+   "title": "ズーム、会議の文脈をAIに開放 Claude・ChatGPTから業務起動へ",
+   "summary": "ズーム・コミュニケーションズは年次イベントZoomtopia 2026で、会議や通話、チャットの会話情報をAIの業務遂行に結び付ける基盤「Unified Context Layer」を発…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://img.biggo.com/RpxHzZKIT72pNFnlbQ4BFx3T3KrgMd0PJUHS2XlKqXA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzkwNTg4NDMwLWY0MjgtNGVlYS04YjIwLTFmNTNiZGNiYWFmZF8xNzkyNTIzMjMyX2RlZmF1bHQuanBn.jpg",
+   "published": "2026-10-21T03:35+09:00",
+   "collected": "2026-10-21T09:56+09:00"
   },
   {
    "id": "4eb9f7080b11",
@@ -1157,7 +1313,7 @@
    "thumbnail": null,
    "published": "2026-10-20T22:30+09:00",
    "collected": "2026-10-21T09:08+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "3309b6ce15f4",
@@ -1410,7 +1566,7 @@
    "thumbnail": null,
    "published": "2026-10-20T19:00+09:00",
    "collected": "2026-10-21T09:08+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "How to Get Recommended by AI: Being Found Isn’t Enough",
    "summary_orig": "Wondering how to get your business recommended by ChatGPT, Claude, and other AI tools? Want to know what to change on your website, Google Business Profile, and"
   },
@@ -1427,7 +1583,7 @@
    "thumbnail": null,
    "published": "2026-10-20T19:00+09:00",
    "collected": "2026-10-21T08:55+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
    "summary_orig": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
   },
@@ -1460,7 +1616,7 @@
    "thumbnail": null,
    "published": "2026-10-20T18:30+09:00",
    "collected": "2026-10-21T09:08+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Reddit Tactics, Instagram Tools, and Industry News",
    "summary_orig": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
   },
@@ -1567,7 +1723,7 @@
    "thumbnail": null,
    "published": "2026-10-20T17:10+09:00",
    "collected": "2026-10-21T09:08+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "2819fe57c556",
@@ -1598,7 +1754,7 @@
    "thumbnail": null,
    "published": "2026-10-20T16:30+09:00",
    "collected": "2026-10-21T09:08+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "dfb576fe8673",
@@ -1627,7 +1783,7 @@
    "thumbnail": null,
    "published": "2026-10-20T15:23+09:00",
    "collected": "2026-10-21T09:08+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "fb236cc542ed",
@@ -1758,7 +1914,7 @@
    "thumbnail": null,
    "published": "2026-10-20T11:00+09:00",
    "collected": "2026-10-21T09:08+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "e8a30204abfb",
@@ -1892,7 +2048,7 @@
    "thumbnail": null,
    "published": "2026-10-20T09:00+09:00",
    "collected": "2026-10-21T08:55+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "OpenAI acquires Orchestra Bio",
    "summary_orig": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treat"
   },
@@ -9072,166 +9228,6 @@
    "collected": "2026-10-14T09:19+09:00",
    "title_orig": "Developing Gemini 4 Argon responsibly and safely",
    "summary_orig": "Learn more about our approach to safety and security for Gemini 4 Argon."
-  },
-  {
-   "id": "c839b9474fae",
-   "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-   "title": "Shopifyは、より多くのAIエージェントにカタログを開放します",
-   "summary": "間もなく、より多くのAIエージェントがShopifyのリスティングを閲覧して購入できるようになり、同社のエージェント的な商取引の野望が拡大することを示しています。Shopifyは発表します",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-   "published": "2026-10-14T04:42+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "Shopify opens its catalog up to more AI agents",
-   "summary_orig": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announc"
-  },
-  {
-   "id": "ffb4af635c9e",
-   "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-   "title": "Xboxは、AIを搭載したゲームポートのカオスを正式に受け入れています",
-   "summary": "レトロゲームは、ゲーマーがクラシックタイトルを新しいデバイスに移植できるようにする逆コンパイルと再コンパイルのおかげで、現在ワイルドな時間を過ごしています。",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "published": "2026-10-14T04:00+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "Xbox is officially embracing the chaos of AI-powered game ports",
-   "summary_orig": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices,"
-  },
-  {
-   "id": "089d3b41d24f",
-   "url": "https://blog.hootsuite.com/competitive-analysis-on-social-media/",
-   "title": "2026年にソーシャルメディアの競合他社を分析する方法",
-   "summary": "ソーシャルメディアで一歩先を行きたいですか？ 4段階のプロセス、無料のSWOTテンプレート、2026年のトップツールを使って、ソーシャルメディアの競合他社を分析しましょう。投稿ハウツー",
-   "source": "Hootsuite",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/10/BLOG-9.png",
-   "published": "2026-10-14T03:47+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "How to do a social media competitor analysis in 2026",
-   "summary_orig": "Want to stay ahead on social? Do a social media competitor analysis with our 4-step process, free SWOT template, and top tool picks for 2026. The post How to do"
-  },
-  {
-   "id": "d3f06c5cb28b",
-   "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-   "title": "Flox Intelligenceは、電車、空港、道路から野生動物を遠ざけるためのAIを構築しています",
-   "summary": "Floxのエッジデバイスは、動物を識別し、種固有の音を使用して重要なインフラストラクチャから動物を遠ざけることができます。",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828",
-   "published": "2026-10-14T03:30+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-   "summary_orig": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
-  },
-  {
-   "id": "c11b8b011c28",
-   "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-   "title": "ディズニー、Character.AIのスキャンダルに悩まされているチャットボットテクノロジーに2000万$を提供",
-   "summary": "ディズニーは、子供の自殺に関連する最初のチャットボットメーカーの1つから技術を取得する可能性があります。",
-   "source": "Ars Technica AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1167281066-1024x648.jpg",
-   "published": "2026-10-14T03:23+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
-   "summary_orig": "Disney may acquire tech from one of the first chatbot makers linked to child suicide."
-  },
-  {
-   "id": "c06a934276cf",
-   "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-   "title": "Facebookは、ユーザーがアルゴリズムをよりコントロールできるようにしています",
-   "summary": "Metaは、新しいAI搭載機能である「Your Algorithm （あなたのアルゴリズム）」のリリースを発表しました。これは、Instagramで最初にリリースされた機能です。",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200",
-   "published": "2026-10-14T03:05+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "Facebook is giving users more control over their algorithm",
-   "summary_orig": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
-  },
-  {
-   "id": "8997ec127dcc",
-   "url": "https://www.youtube.com/shorts/9aDuSpVoB-Y",
-   "title": "OpenAIによるセキュリティリスクの発見と修正のブロック",
-   "summary": "「他の人に知られる前に行動を起こすことができるようになりました。「コードの弱点は、はるかに大きな攻撃の一部になる可能性があります。それらの弱点をどのように見ているかc",
-   "source": "OpenAI",
-   "type": "video",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://i.ytimg.com/vi/9aDuSpVoB-Y/hqdefault.jpg",
-   "published": "2026-10-14T03:02+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "Block on Finding and Fixing Security Risks with OpenAI",
-   "summary_orig": "“Now you know and now you can take action before someone else knows.” A weakness in your code can be part of a much bigger attack. Seeing how those weaknesses c"
-  },
-  {
-   "id": "ae304a8adfa9",
-   "url": "https://commandline.microsoft.com/ai-agent-copilot-autopilot-layered-model-production-network-incidents-on-call-engineers/",
-   "title": "現実世界の修正でAIを信頼するために必要なもの",
-   "summary": "私たちは、AIエージェントが定義されたID、承認、ツール、およびヒューマンアプリ内で本番ネットワークインシデントを独自に解決できるようにする階層モデルを設計しました",
-   "source": "Microsoft Source",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://commandline.microsoft.com/wp-content/uploads/2026/10/copilot-to-autopilot-why-no-single-safeguard-is-enough-card-2.png",
-   "published": "2026-10-14T02:58+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "What it takes to trust AI with real-world fixes",
-   "summary_orig": "We designed a layered model that lets an AI agent resolve production network incidents on its own within defined identity, authorization, tooling, and human-app"
-  },
-  {
-   "id": "49fe8a3fc3d9",
-   "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-   "title": "秘密検出のためのGitHubのモデル：ノイズの少ないより多くの秘密を見つける",
-   "summary": "GitHubのコンテキストアウェアシークレット分類子は、検出品質を向上させ、重み付け受け入れを11.5 ％向上させ、スキャン実行時間の中央値を86 ％短縮します。POS",
-   "source": "GitHub Blog (AI)",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://github.blog/wp-content/uploads/2026/01/generic-github-security-logo.png",
-   "published": "2026-10-14T02:56+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "GitHub’s model for secret detection: Finding more secrets with less noise",
-   "summary_orig": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The pos"
-  },
-  {
-   "id": "56194186978f",
-   "url": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
-   "title": "GoogleがGemini 4 Argonを@ sejournal、@ MattGSouth経由でProおよびUltraサブスクライバー用のAIモードに追加",
-   "summary": "Googleは、有料加入者向けにAIモードにGemini 4 Argonを追加し、モデルを開発者、企業、およびGeminiアプリに開放しました。The post Google Adds Gemini 4 A",
-   "source": "Search Engine Journal",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-gemini-argon-featured.jpg",
-   "published": "2026-10-14T02:18+09:00",
-   "collected": "2026-10-14T09:19+09:00",
-   "title_orig": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
-   "summary_orig": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app. The post Google Adds Gemini 4 A"
   }
  ]
 }
