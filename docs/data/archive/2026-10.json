@@ -1,5 +1,61 @@
 [
  {
+  "id": "b446cc0ff05f",
+  "url": "https://voix.jp/biz/news-analysis/180177/",
+  "title": "ＧＭＯ、MCP対応でAIによる契約業務の自動化を支援する新オプション",
+  "summary": "GMOグローバルサイン・ホールディングス株式会社は2026年10月21日、電子契約サービス「電子印鑑GMOサイン」において、生成AIから直接契約書の検索や署名依頼を可能にする「AI Flowオプション」の提供を開始した。",
+  "source": "ニュースメディアVOIX",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://voix.jp/biz/wp-content/uploads/sites/3/2026/10/thumb_20261021100307.png",
+  "published": "2026-10-21T10:03+09:00",
+  "collected": "2026-10-21T10:35+09:00"
+ },
+ {
+  "id": "151904bc73e6",
+  "url": "https://ledge.ai/articles/anthropic_metr_independent_evaluation",
+  "title": "Anthropic、METRの6人に「社員並み」の社内アクセス AIの独立評価を拡充、公表には機密情報の制限も",
+  "summary": "AI・人工知能関連のニュースやトレンドを高頻度で配信！最新ニュースやインタビュー、イベントレポートなどAIに関するさまざまな情報を独自の切り口で掲載",
+  "source": "Ledge.ai",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/c2af6aeedb4995d202c7543f3d59c6bbbd5352f1_2000x1125_de227e318b/c2af6aeedb4995d202c7543f3d59c6bbbd5352f1_2000x1125_de227e318b.jpg",
+  "published": "2026-10-21T10:03+09:00",
+  "collected": "2026-10-21T10:35+09:00"
+ },
+ {
+  "id": "a95f62c1849c",
+  "url": "https://ascii.jp/elem/000/004/444/4444334/?rss",
+  "title": "地面に置くだけで「給水管の漏水位置」を自動特定 NTTが光ファイバセンシング×AIで世界初実証",
+  "summary": "水道設備の老朽化が進む中で、重要性を増しているのが「漏水探査」だ。しかし、その作業は熟練技術者のスキルに頼る部分が大きく、地方自治体を中心に「誰でも扱える技術」の登場が待ち望まれている。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/20/4541150/xl/698c97548d185f46.jpg?20200122",
+  "published": "2026-10-21T10:00+09:00",
+  "collected": "2026-10-21T10:35+09:00"
+ },
+ {
+  "id": "1c99e2f8ce3e",
+  "url": "https://ascii.jp/elem/000/004/444/4444350/?rss",
+  "title": "わずか2週間でGitHubスター30万超 AIでリバースエンジニアリングする「REA」が話題",
+  "summary": "morluto氏がGitHubで公開しているAIエージェント向けのツール「REA（Reverse Engineer Anything）」が急速に人気を集めている。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/21/4541255/xl/78f108033f817b01.png?20200122",
+  "published": "2026-10-21T09:55+09:00",
+  "collected": "2026-10-21T10:35+09:00"
+ },
+ {
   "id": "34f3e3be670f",
   "url": "https://www.advertimes.com/20261021/article560215/?utm_source=feed",
   "title": "BOOK CROSS TALK vol.1 「欲しい」は、どこから生まれるのか。 ――インサイトと偶発購買デザインから考える、人が動く瞬間",
@@ -68,7 +124,7 @@
   "thumbnail": null,
   "published": "2026-10-21T09:00+09:00",
   "collected": "2026-10-21T09:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "5242b0a9a92a",
@@ -362,7 +418,7 @@
   "id": "20865beac534",
   "url": "https://marketing.itmedia.co.jp/mm/articles/2610/21/news006.html",
   "title": "期待の新星「ChatGPT広告」 しかし“広告だけで効果が出る”とは言い切れない、そのワケは？",
-  "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððúÒÅ «éÍ © BÜ ½ A",
+  "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððððúÒÅ «éÍ © BÜ ½ A",
   "source": "ITmedia マーケティング",
   "type": "article",
   "tier": "media",
@@ -371,7 +427,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mm/articles/2610/21/cover_news006.jpg",
   "published": "2026-10-21T07:00+09:00",
   "collected": "2026-10-21T08:55+09:00",
-  "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððúÒÅ «éÍ © BÜ ½ A"
+  "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððúÒÅ «éÍ © BÜ ½ A"
  },
  {
   "id": "329fc72597e2",
@@ -400,7 +456,7 @@
   "thumbnail": null,
   "published": "2026-10-21T06:52+09:00",
   "collected": "2026-10-21T09:56+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "TikTok shares Black Friday/Cyber Monday promotion tips",
   "summary_orig": "The app published a series of videos that examined how companies including Princess Polly, Dossier and SharkNinja boosted their brand exposure."
  },
@@ -446,7 +502,7 @@
   "thumbnail": null,
   "published": "2026-10-21T06:46+09:00",
   "collected": "2026-10-21T09:56+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Australia prepares to sue social platforms over age violations",
   "summary_orig": "Bloomberg reported that the government planned to sue Meta, TikTok, Snapchat and YouTube for alleged non-compliance with a nationwide ban on teen users."
  },
@@ -493,7 +549,7 @@
   "thumbnail": null,
   "published": "2026-10-21T06:23+09:00",
   "collected": "2026-10-21T09:56+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Instagram announces next phase of Rings creative talent awards",
   "summary_orig": "The promotional event is designed to highlight the app’s top creators, and features judges including Donatella Versace and A$AP Rocky."
  },
@@ -510,7 +566,7 @@
   "thumbnail": null,
   "published": "2026-10-21T06:17+09:00",
   "collected": "2026-10-21T09:56+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "YouTube inks affiliate deal with AliExpress",
   "summary_orig": "Creators will be able to tag the company’s products in their videos and earn commissions for any resulting sales."
  },
@@ -681,7 +737,7 @@
   "thumbnail": null,
   "published": "2026-10-21T04:26+09:00",
   "collected": "2026-10-21T09:56+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Reddit adds AI-powered ad guidance tools",
   "summary_orig": "The platform has a new campaign planner element and a way for brands to improve their optimization scores using customized recommendations."
  },
@@ -1267,7 +1323,7 @@
   "thumbnail": null,
   "published": "2026-10-20T22:30+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3309b6ce15f4",
@@ -1553,7 +1609,7 @@
   "thumbnail": null,
   "published": "2026-10-20T19:00+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "How to Get Recommended by AI: Being Found Isn’t Enough",
   "summary_orig": "Wondering how to get your business recommended by ChatGPT, Claude, and other AI tools? Want to know what to change on your website, Google Business Profile, and"
  },
@@ -1570,7 +1626,7 @@
   "thumbnail": null,
   "published": "2026-10-20T18:30+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Reddit Tactics, Instagram Tools, and Industry News",
   "summary_orig": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
  },
@@ -1677,7 +1733,7 @@
   "thumbnail": null,
   "published": "2026-10-20T17:10+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "2819fe57c556",
@@ -1708,7 +1764,7 @@
   "thumbnail": null,
   "published": "2026-10-20T16:30+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "dfb576fe8673",
@@ -1725,6 +1781,23 @@
   "collected": "2026-10-21T09:08+09:00"
  },
  {
+  "id": "a84b6a7bee5c",
+  "url": "https://openai.com/index/terminal-x",
+  "title": "ターミナルXは、シニア投資家の判断88.6 ％をGPT-6.1と一致させる",
+  "summary": "ターミナルXの評価エージェントは、54基準のルーブリックに対してアウトプットを評価し、GPT-6.1 SOLでファンドの義務から25 ％多くの逸脱をキャッチします。",
+  "source": "OpenAI",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-20T16:00+09:00",
+  "collected": "2026-10-21T10:35+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "summary_orig": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+ },
+ {
   "id": "a7bcea1a88f7",
   "url": "https://voix.jp/business-cards/joyo-ai-agent-local-llm/",
   "title": "常陽銀行とAthenaが共同開発した閉域環境向けAI議事録作成機能の魅力",
@@ -1737,7 +1810,7 @@
   "thumbnail": null,
   "published": "2026-10-20T15:23+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "fb236cc542ed",
@@ -1868,7 +1941,7 @@
   "thumbnail": null,
   "published": "2026-10-20T11:00+09:00",
   "collected": "2026-10-21T09:08+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "e8a30204abfb",
