@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-22T09:14+09:00",
+  "last_updated": "2026-10-22T09:53+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -46,6 +46,21 @@
  },
  "items": [
   {
+   "id": "2b61fb8d9898",
+   "url": "https://markezine.jp/article/detail/77506",
+   "title": "【マンガ】突如ECショップに来たインタビュー依頼、そこに潜む罠とは",
+   "summary": "Xにて「毎日4コマ」を掲げ、EC／ウェブ業界の“たのしいおしごと”を4コママンガで発信しているチョピやまさん。自身のこれまでの体験や、横のつながりから耳にする業界の光と闇をシュールに伝え、既に3,100人以上のフォロワーを抱えています。",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-22T09:30+09:00",
+   "collected": "2026-10-22T09:53+09:00",
+   "_thumb_tries": 1
+  },
+  {
    "id": "a5e8cd8d3d0f",
    "url": "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
    "title": "ADKからLangChainなど、あらゆるフレームワークでエージェント開発ライフサイクルを強化",
@@ -60,6 +75,21 @@
    "collected": "2026-10-22T09:01+09:00",
    "title_orig": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
    "summary_orig": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment"
+  },
+  {
+   "id": "a6adf1f7624d",
+   "url": "https://markezine.jp/article/detail/77611",
+   "title": "マーケターは「社外の評価」を逆輸入せよ！マクロミル橘氏に学ぶ、「評価されない」を打破する社内PR戦略",
+   "summary": "「社内の他部署から仕事内容を理解されない」「取り組みを正しく評価してもらえない」と悩むBtoBマーケターは少なくない。営業主力の組織文化において、マーケティング部門の価値を証明し、組織を拡大させたのがマクロミルの橘亮介氏だ。",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-22T09:00+09:00",
+   "collected": "2026-10-22T09:53+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "d5ca22832546",
@@ -153,7 +183,7 @@
    "id": "c8fa60e59723",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news017.html",
    "title": "AIカメラで「最後の砦は人」を脱却、レンゴーとキリンビールの工場安全DX",
-   "summary": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆÀÀÀSðçéÉívªsíêAS [ÆLr [ªodµ",
+   "summary": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆÀÀÀSSðçéÉívªsíêAS [ÆLr [ªodµ",
    "source": "ITmedia AI+",
    "type": "article",
    "tier": "media",
@@ -162,7 +192,7 @@
    "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/22/mn10xx_factoryinovation_001_w250.jpg",
    "published": "2026-10-22T08:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "summary_orig": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆõÀÀSðçéÉívªsíêAS [ÆLr [ªodµ"
+   "summary_orig": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆÀÀÀSðçéÉívªsíêAS [ÆLr [ªodµ"
   },
   {
    "id": "ccfa92587c91",
@@ -177,7 +207,7 @@
    "thumbnail": null,
    "published": "2026-10-22T08:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "8f1896cd4fb5",
@@ -238,7 +268,7 @@
    "thumbnail": null,
    "published": "2026-10-22T07:08+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Meta adds users and revenue as AI costs climb",
    "summary_orig": "Third-quarter revenue rose 26% year over year to nearly $65 billion, but expenses were up 68% due to capital expenditures."
   },
@@ -326,7 +356,7 @@
    "thumbnail": null,
    "published": "2026-10-22T06:50+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "2c07ee13b521",
@@ -419,7 +449,7 @@
    "thumbnail": null,
    "published": "2026-10-22T06:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Broad access through consistent standards",
    "summary_orig": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
   },
@@ -484,7 +514,7 @@
    "thumbnail": null,
    "published": "2026-10-22T05:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "YouTube shares data on how creators are using AI",
    "summary_orig": "A new study commissioned by the platform found that nearly two-thirds of people posting videos wanted to insert themselves into the content using artificial int"
   },
@@ -549,7 +579,7 @@
    "thumbnail": null,
    "published": "2026-10-22T04:37+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "YouTube adds temporary pause for hacked accounts",
    "summary_orig": "The new security feature is designed to keep creator channels safe by preventing bad actors from uploading content or starting livestreams."
   },
@@ -646,7 +676,7 @@
    "thumbnail": null,
    "published": "2026-10-22T03:41+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Today's PHP Security Release, and How We're Strengthening PHP Security",
    "summary_orig": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the en"
   },
@@ -759,7 +789,7 @@
    "thumbnail": null,
    "published": "2026-10-22T02:45+09:00",
    "collected": "2026-10-22T09:14+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "354f89a6c7db",
@@ -838,7 +868,7 @@
    "thumbnail": null,
    "published": "2026-10-22T02:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "How AT&T is rethinking in-house legal work with OpenAI",
    "summary_orig": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
   },
@@ -855,7 +885,7 @@
    "thumbnail": null,
    "published": "2026-10-22T01:51+09:00",
    "collected": "2026-10-22T09:14+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "8bc62dc5e5d8",
@@ -886,7 +916,7 @@
    "thumbnail": null,
    "published": "2026-10-22T01:25+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "summary_orig": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French lang"
   },
   {
@@ -950,6 +980,21 @@
    "collected": "2026-10-22T09:01+09:00",
    "title_orig": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
    "summary_orig": "A Blog post by Amazon on Hugging Face"
+  },
+  {
+   "id": "8468b36a12fe",
+   "url": "https://news.nicovideo.jp/watch/nw19903900?news_ref=watch_20_nw19223133",
+   "title": "法務AIの実践書『事例ではじめる法務AI』、Amazonにて予約販売開始",
+   "summary": "法務AIの実践書『事例ではじめる法務AI』、Amazonにて予約販売開始",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-22T00:15+09:00",
+   "collected": "2026-10-22T09:53+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "a25875e508ad",
@@ -1074,7 +1119,7 @@
    "thumbnail": null,
    "published": "2026-10-21T22:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
    "summary_orig": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
   },
@@ -1201,7 +1246,7 @@
    "thumbnail": null,
    "published": "2026-10-21T21:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "OpenAI models are coming to Google Cloud",
    "summary_orig": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
   },
@@ -1380,6 +1425,21 @@
    "summary_orig": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since ho"
   },
   {
+   "id": "1371fd57c951",
+   "url": "https://news.nicovideo.jp/watch/nw19902546?news_ref=20_20",
+   "title": "RPO（採用代行）にAI/AIエージェント・採用データを活用し、企業の採用力強化を促進する「AI RPO by 採用のゼロ化」を提供開始",
+   "summary": "RPO（採用代行）にAI/AIエージェント・採用データを活用し、企業の採用力強化を促進する「AI RPO by 採用のゼロ化」を提供開始",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-21T17:15+09:00",
+   "collected": "2026-10-22T09:53+09:00",
+   "_thumb_tries": 1
+  },
+  {
    "id": "a985fde61d3b",
    "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002470/",
    "title": "「政府機関向けGemini」登場 米国政府・自治体と共同開発 データをプライベートクラウドに保持",
@@ -1406,7 +1466,7 @@
    "thumbnail": null,
    "published": "2026-10-21T16:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
    "summary_orig": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
   },
@@ -1423,7 +1483,7 @@
    "thumbnail": null,
    "published": "2026-10-21T16:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "How we built ChatGPT’s novel ad stack for user trust and relevance",
    "summary_orig": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
   },
@@ -1528,7 +1588,7 @@
    "thumbnail": null,
    "published": "2026-10-21T13:50+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Using thousands of AI agents to uncover new leads in biological data",
    "summary_orig": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
   },
@@ -1545,7 +1605,7 @@
    "thumbnail": null,
    "published": "2026-10-21T13:30+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "8349555bcec9",
@@ -1674,6 +1734,23 @@
    "collected": "2026-10-21T10:35+09:00"
   },
   {
+   "id": "9201054eeb4c",
+   "url": "https://openai.com/index/cloudflare-cyber",
+   "title": "Cloudflareは、OpenAIを使用して脆弱性の発見を防御にリンクします",
+   "summary": "Cloudflareは、OpenAI Daybreakを使用して脆弱性を調査し、レビューのための修正を提案します。開発者はCodexを使用して、より速く構築し、コードの品質を向上させています。",
+   "source": "OpenAI",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-21T09:00+09:00",
+   "collected": "2026-10-22T09:53+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "summary_orig": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
+  },
+  {
    "id": "b2deaf97c98c",
    "url": "https://openai.com/index/empowering-cyber-defenders",
    "title": "フロンティアAIの民主的ガバナンス、パートII ：サイバーディフェンダーのエンパワーメント",
@@ -1686,7 +1763,7 @@
    "thumbnail": null,
    "published": "2026-10-21T09:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
    "summary_orig": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutio"
   },
@@ -2053,7 +2130,7 @@
    "id": "20865beac534",
    "url": "https://marketing.itmedia.co.jp/mm/articles/2610/21/news006.html",
    "title": "期待の新星「ChatGPT広告」 しかし“広告だけで効果が出る”とは言い切れない、そのワケは？",
-   "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððððúÒÅ «éÍ © BÜ ½ A",
+   "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððððððúÒÅ «éÍ © BÜ ½ A",
    "source": "ITmedia マーケティング",
    "type": "article",
    "tier": "media",
@@ -2062,7 +2139,7 @@
    "thumbnail": "https://image.itmedia.co.jp/mm/articles/2610/21/cover_news006.jpg",
    "published": "2026-10-21T07:00+09:00",
    "collected": "2026-10-21T08:55+09:00",
-   "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððððúÒÅ «éÍ © BÜ ½ A"
+   "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððððúÒÅ «éÍ © BÜ ½ A"
   },
   {
    "id": "329fc72597e2",
@@ -2091,26 +2168,9 @@
    "thumbnail": null,
    "published": "2026-10-21T06:52+09:00",
    "collected": "2026-10-22T09:14+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "TikTok shares Black Friday, Cyber Monday promotion tips",
    "summary_orig": "The app published a series of videos that examine how companies including Princess Polly, Dossier and SharkNinja have boosted their brand exposure."
-  },
-  {
-   "id": "4bea6481bfb5",
-   "url": "https://www.socialmediatoday.com/news/tiktok-shares-black-fridaycyber-monday-promotion-tips/833546/",
-   "title": "TikTokがブラックフライデー/サイバーマンデーのプロモーションのヒントを共有",
-   "summary": "このアプリは、Princess Polly、Dossier、SharkNinjaなどの企業がどのようにブランドの露出を高めたかを調べた一連のビデオを公開しました。",
-   "source": "Social Media Today",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-21T06:52+09:00",
-   "collected": "2026-10-21T09:56+09:00",
-   "_thumb_tries": 3,
-   "title_orig": "TikTok shares Black Friday/Cyber Monday promotion tips",
-   "summary_orig": "The app published a series of videos that examined how companies including Princess Polly, Dossier and SharkNinja boosted their brand exposure."
   },
   {
    "id": "33c25bb465cf",
@@ -3494,6 +3554,21 @@
    "_thumb_tries": 3,
    "title_orig": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
    "summary_orig": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
+  },
+  {
+   "id": "9413fc4b20f1",
+   "url": "https://voix.jp/business-cards/amour-corporate-site-redesign/",
+   "title": "アムール株式会社、AI検索最適化支援を強化したコーポレートサイトをリニューアル",
+   "summary": "アムール株式会社がコーポレートサイトを全面リニューアル アムール株式会社は、2026年9月にコーポレートサイトを全面リニューアルしたことを発表しました。今回のリニューアルは、生成AIを活用した情報収集の変化に対応するため […]",
+   "source": "ニュースメディアVOIX",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-20T15:44+09:00",
+   "collected": "2026-10-22T09:53+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "a7bcea1a88f7",
@@ -9157,100 +9232,6 @@
    "collected": "2026-10-15T09:51+09:00",
    "title_orig": "Tree Appreciator",
    "summary_orig": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claud"
-  },
-  {
-   "id": "88ac6d1c3f06",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-   "title": "8つの州がOpenAIを訴え、ChatGPTは子供にとって安全ではないと主張",
-   "summary": "OpenAIは、米国の8つの州から、同社が子供を傷つけ、ChatGPTの安全性について顧客を誤解させていると非難する新たな訴訟の波に直面しています。",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "published": "2026-10-15T06:11+09:00",
-   "collected": "2026-10-15T08:56+09:00",
-   "title_orig": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-   "summary_orig": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, a"
-  },
-  {
-   "id": "40a01fa02db0",
-   "url": "https://www.socialmediatoday.com/news/tiktok-inks-microdrama-partnership-with-made-by-us-studios/833055/",
-   "title": "TikTokはMade By Usスタジオと提携",
-   "summary": "コンテンツ契約により、TikTokは複数の知名度の高いクリエイターからマイクロドラマシリーズを選択する独占権が付与されます。",
-   "source": "Social Media Today",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://imgproxy.divecdn.com/k3j5Krl0xJKhwobnbcNcGMeqEw0npkVcNolZGQpdkIk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfbWFkZV9ieV91cy5wbmc=.webp",
-   "published": "2026-10-15T05:41+09:00",
-   "collected": "2026-10-15T10:28+09:00",
-   "title_orig": "TikTok inks partnership with Made By Us studios",
-   "summary_orig": "The content deal gives TikTok exclusive rights to select microdrama series from several high-profile creators."
-  },
-  {
-   "id": "ecfb2d56ace4",
-   "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
-   "title": "計算速度でのラボインザループ— Ian Quigley、Leash Bio",
-   "summary": "Leash Bioがどのようにすべての人にトラウマを与えるアッセイであるDELを飼いならし、データを使用して不正行為モデルをキャッチしたか。そして、なぜ同じデータがAIエージェントの学習に最適なのか",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!_2Xe!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F220316507%2F1ab4e337-1a1f-4b3b-afa1-cfdb8262bddc%2Ftranscoded-1792008845.png",
-   "published": "2026-10-15T05:35+09:00",
-   "collected": "2026-10-15T08:56+09:00",
-   "title_orig": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-   "summary_orig": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learn"
-  },
-  {
-   "id": "933fc221f3bd",
-   "url": "https://www.socialmediatoday.com/news/youtube-labels-ai-generated-music/833053/",
-   "title": "YouTubeがAIが生成した音楽にラベルを付ける",
-   "summary": "同社は、生成的な人工知能の作成を識別するために、音楽プラットフォームとメインアプリに透明性対策を実装しています。",
-   "source": "Social Media Today",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://imgproxy.divecdn.com/-yRE3aZxd7zGPdfqgiCXdQ3ljRZ3_BZrlAqhG4LMGh8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS95b3V0dWJlX2FpX211c2ljLnBuZw==.webp",
-   "published": "2026-10-15T05:23+09:00",
-   "collected": "2026-10-15T10:28+09:00",
-   "title_orig": "YouTube labels AI-generated music",
-   "summary_orig": "The company has implemented transparency measures on its music platform and in its main app to identify generative artificial intelligence creations."
-  },
-  {
-   "id": "eef7b5c35b3e",
-   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100600001/?ST=singleview",
-   "title": "700件超のAnthropic論文をClaudeで分析 ぶれぬ安全軸、競争優位と二兎追う",
-   "summary": "「人類に利益をもたらす安全なAI（人工知能）の開発」を使命とし、AI安全性研究所の構想から出発した米Anthropic（アンソロピック）。創業6年目に当たる2026年、年換算の売上高650億ドル、評価額は9650億ドルとも言われる企業へと急成長した。",
-   "source": "日経クロステック",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://xtech.nikkei.com/atcl/nxt/column/18/03757/100600001/ntopm.jpg?20220512",
-   "published": "2026-10-15T05:00+09:00",
-   "collected": "2026-10-15T08:56+09:00"
-  },
-  {
-   "id": "2fac9b600466",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-   "title": "AIレースが再開されました",
-   "summary": "先週、AnthropicとOpenAIはAIの競争を勝ち抜いているように見え、ますます強力なモデルで前進し、ライバルをデュに残しました。",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "published": "2026-10-15T04:06+09:00",
-   "collected": "2026-10-15T08:56+09:00",
-   "title_orig": "The AI race is back on",
-   "summary_orig": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the du"
   }
  ]
 }
