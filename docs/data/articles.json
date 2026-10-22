@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-22T09:53+09:00",
+  "last_updated": "2026-10-22T10:31+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -46,6 +46,34 @@
  },
  "items": [
   {
+   "id": "885c726cc705",
+   "url": "https://news.infoseek.co.jp/article/itmedia_aiplus_202610222000002490/",
+   "title": "Anthropic版常時稼働エージェント「Claude Duet」発表 Opus 5.5ベースで設計 Pro／Maxプランで提供",
+   "summary": "Anthropic版常時稼働エージェント「Claude Duet」発表 Opus 5.5ベースで設計 Pro／Maxプランで提供",
+   "source": "Infoseek",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_aiplus/itmedia_aiplus_202610222000002490_0.jpg",
+   "published": "2026-10-22T10:09+09:00",
+   "collected": "2026-10-22T10:31+09:00"
+  },
+  {
+   "id": "65f5ebe9c677",
+   "url": "https://prtimes.jp/main/html/rd/p/000000427.000073671.html",
+   "title": "法人向け生成AI「ChatSense」を花王株式会社が導入",
+   "summary": "法人向け生成AI「ChatSense」を花王株式会社が導入",
+   "source": "PR TIMES",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/73671/427/73671-427-1945ace34a179ef90f3d5e145b7a8aa2-1925x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-22T10:00+09:00",
+   "collected": "2026-10-22T10:31+09:00"
+  },
+  {
    "id": "2b61fb8d9898",
    "url": "https://markezine.jp/article/detail/77506",
    "title": "【マンガ】突如ECショップに来たインタビュー依頼、そこに潜む罠とは",
@@ -58,7 +86,7 @@
    "thumbnail": null,
    "published": "2026-10-22T09:30+09:00",
    "collected": "2026-10-22T09:53+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "a5e8cd8d3d0f",
@@ -89,7 +117,7 @@
    "thumbnail": null,
    "published": "2026-10-22T09:00+09:00",
    "collected": "2026-10-22T09:53+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "d5ca22832546",
@@ -183,7 +211,7 @@
    "id": "c8fa60e59723",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news017.html",
    "title": "AIカメラで「最後の砦は人」を脱却、レンゴーとキリンビールの工場安全DX",
-   "summary": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆÀÀÀSSðçéÉívªsíêAS [ÆLr [ªodµ",
+   "summary": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆÀÀSSðçéévªsíêAS [ÆLr [ªodµ",
    "source": "ITmedia AI+",
    "type": "article",
    "tier": "media",
@@ -192,7 +220,7 @@
    "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/22/mn10xx_factoryinovation_001_w250.jpg",
    "published": "2026-10-22T08:00+09:00",
    "collected": "2026-10-22T09:01+09:00",
-   "summary_orig": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆÀÀÀSðçéÉívªsíêAS [ÆLr [ªodµ"
+   "summary_orig": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆÀÀÀSSðçéÉívªsíêAS [ÆLr [ªodµ"
   },
   {
    "id": "ccfa92587c91",
@@ -789,7 +817,7 @@
    "thumbnail": null,
    "published": "2026-10-22T02:45+09:00",
    "collected": "2026-10-22T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "354f89a6c7db",
@@ -885,7 +913,7 @@
    "thumbnail": null,
    "published": "2026-10-22T01:51+09:00",
    "collected": "2026-10-22T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "8bc62dc5e5d8",
@@ -994,7 +1022,7 @@
    "thumbnail": null,
    "published": "2026-10-22T00:15+09:00",
    "collected": "2026-10-22T09:53+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "a25875e508ad",
@@ -1437,7 +1465,7 @@
    "thumbnail": null,
    "published": "2026-10-21T17:15+09:00",
    "collected": "2026-10-22T09:53+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "a985fde61d3b",
@@ -1746,7 +1774,7 @@
    "thumbnail": null,
    "published": "2026-10-21T09:00+09:00",
    "collected": "2026-10-22T09:53+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Cloudflare links vulnerability discovery to defense with OpenAI",
    "summary_orig": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
   },
@@ -2130,7 +2158,7 @@
    "id": "20865beac534",
    "url": "https://marketing.itmedia.co.jp/mm/articles/2610/21/news006.html",
    "title": "期待の新星「ChatGPT広告」 しかし“広告だけで効果が出る”とは言い切れない、そのワケは？",
-   "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððððððúÒÅ «éÍ © BÜ ½ A",
+   "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððððððúÒÅ «éÍ © BÜ ½ A",
    "source": "ITmedia マーケティング",
    "type": "article",
    "tier": "media",
@@ -2139,7 +2167,7 @@
    "thumbnail": "https://image.itmedia.co.jp/mm/articles/2610/21/cover_news006.jpg",
    "published": "2026-10-21T07:00+09:00",
    "collected": "2026-10-21T08:55+09:00",
-   "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððððúÒÅ «éÍ © BÜ ½ A"
+   "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððððððúÒÅ «éÍ © BÜ ½ A"
   },
   {
    "id": "329fc72597e2",
@@ -2168,7 +2196,7 @@
    "thumbnail": null,
    "published": "2026-10-21T06:52+09:00",
    "collected": "2026-10-22T09:14+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "TikTok shares Black Friday, Cyber Monday promotion tips",
    "summary_orig": "The app published a series of videos that examine how companies including Princess Polly, Dossier and SharkNinja have boosted their brand exposure."
   },
@@ -3568,7 +3596,7 @@
    "thumbnail": null,
    "published": "2026-10-20T15:44+09:00",
    "collected": "2026-10-22T09:53+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "a7bcea1a88f7",
@@ -9216,22 +9244,6 @@
    "published": "2026-10-15T06:30+09:00",
    "collected": "2026-10-15T08:56+09:00",
    "summary_orig": "IFSÌtOVbvJt@XuIFS Unleashed 2026vªAÄI[hÅJµ½B¯CxgÉí¹ÄAYÆpAIvbgtH[ÌV»iuIFS Intelligencevð"
-  },
-  {
-   "id": "2c3ce0b13a2f",
-   "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-   "title": "木の鑑賞者",
-   "summary": "ツール：ツリーアプレシエータークロードとの別のゲーム実験。これはデフォルトのClaude iPhoneアプリ（ Claude Codeモードではなく、チャットモード）を使用して、Claudにプロンプトを表示しました",
-   "source": "Simon Willison",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://static.simonwillison.net/static/2026-10-14/IMG_9084.jpeg",
-   "published": "2026-10-15T06:23+09:00",
-   "collected": "2026-10-15T09:51+09:00",
-   "title_orig": "Tree Appreciator",
-   "summary_orig": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode) where I prompted Claud"
   }
  ]
 }
