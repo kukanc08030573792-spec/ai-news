@@ -16,6 +16,20 @@
   "summary_orig": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment"
  },
  {
+  "id": "d5ca22832546",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
+  "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加 「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
+  "summary": "Google CloudのModel GardenにOpenAIの「GPT-6 Astra」「GPT-6.1 Sol」「GPT-6 Luna」が追加された。（1/2 ページ）",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/22/2000002487/10010117/2048",
+  "published": "2026-10-22T08:52+09:00",
+  "collected": "2026-10-22T09:14+09:00"
+ },
+ {
   "id": "a8d953e36308",
   "url": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
   "title": "AWS PrivateLinkによる企業ネットワークからのクイックアクセスの保護",
@@ -93,7 +107,7 @@
   "id": "c8fa60e59723",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news017.html",
   "title": "AIカメラで「最後の砦は人」を脱却、レンゴーとキリンビールの工場安全DX",
-  "summary": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆõÀÀSðçéÉívªsíêAS [ÆLr [ªodµ",
+  "summary": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆÀÀÀSðçéÉívªsíêAS [ÆLr [ªodµ",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -102,7 +116,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/22/mn10xx_factoryinovation_001_w250.jpg",
   "published": "2026-10-22T08:00+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "summary_orig": "ut@Ng[Cmx[VWeeK2026HvÉ¨¢ÄAÁÊuuyHêÌÀSÎôzAI^fW^ICTÅ]ÆõÌÀSðçéÉÍvªsíêAS[ÆLr[ªodµ"
+  "summary_orig": "ut @ Ng [Cmx [VWeeK 2026 HvÉ ¨ ¢ ÄAÁÁuuyHêÀÀSÎôzAI ^ fW ^ ICTÅ] ÆõÀÀSðçéÉívªsíêAS [ÆLr [ªodµ"
  },
  {
   "id": "ccfa92587c91",
@@ -117,7 +131,7 @@
   "thumbnail": null,
   "published": "2026-10-22T08:00+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "8f1896cd4fb5",
@@ -178,7 +192,7 @@
   "thumbnail": null,
   "published": "2026-10-22T07:08+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Meta adds users and revenue as AI costs climb",
   "summary_orig": "Third-quarter revenue rose 26% year over year to nearly $65 billion, but expenses were up 68% due to capital expenditures."
  },
@@ -266,13 +280,13 @@
   "thumbnail": null,
   "published": "2026-10-22T06:50+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "2c07ee13b521",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news039.html",
   "title": "旧世代NVIDIAを循環利用、クラウド接続の「自社専用AI基盤」を1GPUから提供",
-  "summary": "GNXg [[Dç 3 DÍAÃGPUðpµ ½ AICtT [rXuRaplase RCAvðJnµ ½ BÅZ ¦ ú © Â 1 GPU © çèzpÅ «A_îÈ \\¬ ÅXÉàÎ · éB @ § f [^",
+  "summary": "GNXg [[Dç 3 DÍAÃGPUðpµ½ AICtT [rXuRaplase RCAvðJnµ½ BÅZ ¦ ú © Â 1 GPU © çèzpÅ «A_îÈ\\ ¬ ÅXÉàÎ · éB @ § f [^",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -281,7 +295,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/22/cover_news039.jpg",
   "published": "2026-10-22T06:45+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "summary_orig": "GNXg[[Dç3ÐÍAÃGPUðpµ½AICtT[rXuRaplase RCAvðJnµ½BÅZ¦ú©Â1GPU©çèzpÅ«A_îÈ\\¬ÏXÉàÎ·éB@§f[^"
+  "summary_orig": "GNXg [[Dç 3 DÍAÃGPUðpµ ½ AICtT [rXuRaplase RCAvðJnµ ½ BÅZ ¦ ú © Â 1 GPU © çèzpÅ «A_îÈ \\¬ ÅXÉàÎ · éB @ § f [^"
  },
  {
   "id": "86bbef590f28",
@@ -319,7 +333,7 @@
   "id": "b9bbecf658df",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news073.html",
   "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF20226でデモ",
-  "summary": "OHd @ ÍAtBWJAIðîµÄq [} mCh {bgÆCNCHì @ BªAg · éÁHVXeðJ µ½ B © R ¾ êÍw ¦ © çÁH ^ XNð © ® ¶ ¬ µ A »êÈL» Év",
+  "summary": "OHd @ ÍAtBWJAIðîµÄq [} mCh {bgÆCNCHì @ BªAg · éÁHVXeðJ µ½ B © R ¾ êÍw ¦ © çÁH ^ XNð © ®¶ ¬ µ A »êÈL» Év",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -328,7 +342,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/21/l_mn1022_mitsubishi_001.jpg",
   "published": "2026-10-22T06:15+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "summary_orig": "OHd@ÍAtBWJAIðîµÄq[}mCh{bgÆCNCHì@BªAg·éÁHVXeðJ­µ½B©R¾êÌw¦©çÁH^XNð©®¶¬µA»êÌÈl»Év"
+  "summary_orig": "OHd @ ÍAtBWJAIðîµÄq [} mCh {bgÆCNCHì @ BªAg · éÁHVXeðJ µ½ B © R ¾ êÍw ¦ © çÁH ^ XNð © ® ¶ ¬ µ A »êÈL» Év"
  },
  {
   "id": "e9fc4036438c",
@@ -359,7 +373,7 @@
   "thumbnail": null,
   "published": "2026-10-22T06:00+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Broad access through consistent standards",
   "summary_orig": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
  },
@@ -424,7 +438,7 @@
   "thumbnail": null,
   "published": "2026-10-22T05:00+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "YouTube shares data on how creators are using AI",
   "summary_orig": "A new study commissioned by the platform found that nearly two-thirds of people posting videos wanted to insert themselves into the content using artificial int"
  },
@@ -489,7 +503,7 @@
   "thumbnail": null,
   "published": "2026-10-22T04:37+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "YouTube adds temporary pause for hacked accounts",
   "summary_orig": "The new security feature is designed to keep creator channels safe by preventing bad actors from uploading content or starting livestreams."
  },
@@ -558,6 +572,22 @@
   "summary_orig": "Measure SEO beyond keyword positions with brand visibility, AI citations, and revenue as rank tracking outages expose gaps in traditional reporting. The post Ra"
  },
  {
+  "id": "14f13252070a",
+  "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+  "title": "OpenAIの最新のAIモデルがGoogle CloudとAntigravityに登場",
+  "summary": "Google Cloudは、今後数週間以内にGPT 6.1 Astra、Sol、Lunaを提供する予定です。",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Google-cloud-IO-1152x648.jpg",
+  "published": "2026-10-22T03:51+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+  "summary_orig": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks."
+ },
+ {
   "id": "918065aafd8b",
   "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
   "title": "本日のPHPセキュリティリリースとPHPセキュリティの強化方法",
@@ -570,7 +600,7 @@
   "thumbnail": null,
   "published": "2026-10-22T03:41+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Today's PHP Security Release, and How We're Strengthening PHP Security",
   "summary_orig": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the en"
  },
@@ -589,6 +619,22 @@
   "collected": "2026-10-22T09:01+09:00",
   "title_orig": "With new ideas and human-directed AI, researchers solve a 31-year-old math mystery",
   "summary_orig": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removi"
+ },
+ {
+  "id": "ecaa8ab20b40",
+  "url": "https://www.adweek.com/media/meta-beats-q3-expectations-with-strong-earnings/",
+  "title": "高収益で第3四半期の期待を上回るメタ",
+  "summary": "同社は、AIへの投資はすでに広告主に利益をもたらしていると述べている",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/GettyImages-2296215726_184b2a.jpg?w=600&h=315&crop=1",
+  "published": "2026-10-22T03:35+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "Meta Beats Q3 Expectations With Strong Earnings",
+  "summary_orig": "The company says its AI investments are already paying off for advertisers"
  },
  {
   "id": "7104bc51c295",
@@ -621,6 +667,53 @@
   "collected": "2026-10-22T09:01+09:00",
   "title_orig": "Celebrating the educators shaping the future of learning",
   "summary_orig": "Celebrate Microsoft Elevate for Educators and discover how educators and schools are building AI skills, advancing innovation, and helping students thrive."
+ },
+ {
+  "id": "a61190ef2d92",
+  "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+  "title": "PHPハルマゲドン： OpenAI、GoogleのWizが古代の穴を発見し、インターネットをパニックに陥れる",
+  "summary": "これは、AIによって発見され予防されたセキュリティ問題の一種ですが、AIのためにリスクが高いこともあります。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801",
+  "published": "2026-10-22T02:59+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+  "summary_orig": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+ },
+ {
+  "id": "c94506cb5ef2",
+  "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+  "title": "ウォルマート、顧客に代わって買い物をするAIエージェントを採用",
+  "summary": "小売業者は、AIショッピングエージェントが従わなければならないルールを設定しています。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=600&h=315&crop=1",
+  "published": "2026-10-22T02:55+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
+  "summary_orig": "The retailer is setting the rules AI shopping agents will have to follow."
+ },
+ {
+  "id": "824599d371b9",
+  "url": "https://news.nicovideo.jp/watch/nw19904165?news_ref=watch_20_nw19171266",
+  "title": "株式会社Curentioraを設立、全国訪問型の中小企業向けAI支援ブランド「中小企業AI研究所」を展開",
+  "summary": "株式会社Curentioraを設立、全国訪問型の中小企業向けAI支援ブランド「中小企業AI研究所」を展開",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-22T02:45+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "354f89a6c7db",
@@ -671,6 +764,22 @@
   "summary_orig": "We're back with a fresh PowerToys release! This one brings two new mouse utilities, Mouse Button Lock and CursorHide, an optional quick-access shelf for"
  },
  {
+  "id": "7427c42a84e4",
+  "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+  "title": "セコイアがシリーズCをリードした後、鍛冶屋はユニコーンの評価を打ちました",
+  "summary": "企業がAIコードをより効果的に構築しテストできるプラットフォームであるBlacksmithは、Sequoiaが主導する6600万$のシリーズCラウンドを発表しました。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800",
+  "published": "2026-10-22T02:18+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+  "summary_orig": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the c"
+ },
+ {
   "id": "4ab93569e260",
   "url": "https://openai.com/index/att-legal",
   "title": "AT&TがOpenAIとの社内法務業務をどのように再考しているか",
@@ -683,9 +792,40 @@
   "thumbnail": null,
   "published": "2026-10-22T02:00+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "How AT&T is rethinking in-house legal work with OpenAI",
   "summary_orig": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+ },
+ {
+  "id": "55e509e24f37",
+  "url": "https://news.nicovideo.jp/watch/nw19904067?news_ref=watch_60_nw18963321",
+  "title": "「Third AI 生成AIソリューション」、新機能「AI OCR Web」の提供を開始～AI",
+  "summary": "「Third AI 生成AIソリューション」、新機能「AI OCR Web」の提供を開始～AI",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-22T01:51+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "8bc62dc5e5d8",
+  "url": "https://blog.hootsuite.com/employee-advocacy-program-examples/",
+  "title": "2026年の11の従業員擁護プログラムの例",
+  "summary": "Dell、Athletico、Salesforceを含む11の従業員擁護プログラムの例をご覧ください。実際の結果と独自のプログラムのレッスンがあります。ポスト11は",
+  "source": "Hootsuite",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/10/BLOG-12.png",
+  "published": "2026-10-22T01:33+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "11 employee advocacy program examples for 2026",
+  "summary_orig": "Explore 11 employee advocacy program examples, including Dell, Athletico, and Salesforce, with real results and lessons for your own program. The post 11 employ"
  },
  {
   "id": "5158d3df898b",
@@ -700,7 +840,7 @@
   "thumbnail": null,
   "published": "2026-10-22T01:25+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "summary_orig": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French lang"
  },
  {
@@ -736,6 +876,20 @@
   "summary_orig": "Health & Bioscience"
  },
  {
+  "id": "7dba45525b3b",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002482/",
+  "title": "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」",
+  "summary": "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/22/2000002482/10010092/2048",
+  "published": "2026-10-22T01:12+09:00",
+  "collected": "2026-10-22T09:14+09:00"
+ },
+ {
   "id": "f9b499debdda",
   "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
   "title": "TorchNeuronのプロファイリング（パート1 ） ： AWS Trainiumでのシステムレベルのプロファイリング。",
@@ -752,6 +906,52 @@
   "summary_orig": "A Blog post by Amazon on Hugging Face"
  },
  {
+  "id": "a25875e508ad",
+  "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+  "title": "あなたの医者がすでに使用している可能性のある150億$の広告ベースのAIスタートアップ",
+  "summary": "OpenEvidenceは、正確性と広告に関する疑問にもかかわらず、急成長しています。",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg",
+  "published": "2026-10-22T00:14+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "The $15 billion ad-powered AI startup your doctor may already be using",
+  "summary_orig": "OpenEvidence is booming despite questions about accuracy and ads."
+ },
+ {
+  "id": "42cdf8e53c60",
+  "url": "https://aismiley.co.jp/ai_news/what-is-claude/",
+  "title": "Claude（クロード）とは？できること・料金・使い方を解説",
+  "summary": "Claude（クロード）とは、Anthropicが開発した対話型AIアシスタントです。本記事では、公式情報をもとに、モデル・料金・使い方・データ取扱いについて整理し、個人と企業それぞれに適した導入方法を解説します。",
+  "source": "AIsmiley",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://aismiley.co.jp/wp-content/uploads/2024/04/whatisclaude01-1.webp",
+  "published": "2026-10-22T00:12+09:00",
+  "collected": "2026-10-22T09:14+09:00"
+ },
+ {
+  "id": "1bbb4f6fc3d1",
+  "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+  "title": "会話型GeminiナビゲーションがApple CarPlayに登場",
+  "summary": "昨年Android AutoにGemini AIアシスタントを導入した後、Googleは現在それをApple CarPlayユーザーに提供しています。ナビゲーションにおける会話型ジェミニi",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-10-22T00:00+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "Conversational Gemini navigation comes to Apple CarPlay",
+  "summary_orig": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation i"
+ },
+ {
   "id": "9b35c0bfb2f0",
   "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
   "title": "Granite Speech 5.0 ：文字起こし、翻訳、属性をより正確かつ迅速に",
@@ -766,6 +966,38 @@
   "collected": "2026-10-22T09:01+09:00",
   "title_orig": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
   "summary_orig": "A Blog post by IBM Granite on Hugging Face"
+ },
+ {
+  "id": "6c14b19c5f4c",
+  "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+  "title": "AIは生産性を約束しますが、マネージャーにとっては今のところ主に頭痛の種です",
+  "summary": "新しい調査によると、マネージャーの50 ％以上が、AIを採用した後、従業員の仕事を評価するのが難しくなっていると答えています。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900",
+  "published": "2026-10-21T23:00+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "AI promises productivity, but for managers, it’s mostly a headache for now",
+  "summary_orig": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
+ },
+ {
+  "id": "c55b4c3c8ca2",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+  "title": "OpenAIは、AIエージェントが安全監視システムの無効化について嘘をついたと述べています",
+  "summary": "OpenAIは、内部コーディングタスク中にAIエージェントが安全監視システムを弱めるという2つの安全インシデントを開示しました。1つのインシデントでは、Ope",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+  "published": "2026-10-21T22:57+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+  "summary_orig": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, Ope"
  },
  {
   "id": "0fff47054cc3",
@@ -796,7 +1028,7 @@
   "thumbnail": null,
   "published": "2026-10-21T22:00+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
   "summary_orig": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
  },
@@ -817,6 +1049,22 @@
   "summary_orig": "Get actionable insights on bidding and budgeting tools in the latest episode of Google's \"Ads Decoded\" podcast."
  },
  {
+  "id": "6d5409ab5ced",
+  "url": "https://www.adweek.com/commerce/kohls-brings-back-ellie-kemper-for-holiday-ad-campaign/",
+  "title": "Kohl'sがEllie Kemperをホリデー広告キャンペーンに連れ戻す",
+  "summary": "この小売チェーンは、買い物客を「The North Kohl's」に連れて行っています。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/Kohls-holiday-ad.jpg?w=600&h=315&crop=1",
+  "published": "2026-10-21T21:41+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "Kohl’s Brings Back Ellie Kemper for Holiday Ad Campaign",
+  "summary_orig": "The retail chain is taking shoppers to \"The North Kohl's.\""
+ },
+ {
   "id": "ef37a444fd66",
   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7518622101692436482/",
   "title": "今日、英国では、Yorkshire Ambulance Service NHS TrustがCopilotを使用して管理作業を削減し、そのデータをより適切に利用し、最終的に",
@@ -831,6 +1079,20 @@
   "collected": "2026-10-22T09:01+09:00",
   "title_orig": "Today in the UK, I saw how the Yorkshire Ambulance Service NHS Trust is using Copilot to cut down on administrative work and make better use of its data, and ultimately provide a better experience for",
   "summary_orig": "Today in the UK, I saw how the Yorkshire Ambulance Service NHS Trust is using Copilot to cut down on administrative work and make better use of its data, and ul"
+ },
+ {
+  "id": "d8f40ea1f51b",
+  "url": "https://prtimes.jp/main/html/rd/p/000000001.000193063.html",
+  "title": "「AIエージェントで、儲かるシステムをつくる」中小企業向けのAI戦略・研修・開発「シス学」を開始",
+  "summary": "「AIエージェントで、儲かるシステムをつくる」中小企業向けのAI戦略・研修・開発「シス学」を開始",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/193063/1/193063-1-5c0f7e740349b7db0f596d80d0b28519-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-21T21:19+09:00",
+  "collected": "2026-10-22T09:14+09:00"
  },
  {
   "id": "82899c945579",
@@ -877,9 +1139,25 @@
   "thumbnail": null,
   "published": "2026-10-21T21:00+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "OpenAI models are coming to Google Cloud",
   "summary_orig": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+ },
+ {
+  "id": "ad4f13a0c3f8",
+  "url": "https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593199/",
+  "title": "中国はテレビスキャンダル後に最初のジオルールブックを作成しました–西洋のSEOは@ sejournal、@ MPentzekを介してメモを取る必要があります",
+  "summary": "中国の5部構成のGEO標準は、西洋のSEOに、AIの可視性を測定し、ベンダーを評価し、最適化を操作から分離するための実用的なフレームワークを提供します",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/china-geo-rulebook-780.png",
+  "published": "2026-10-21T21:00+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "title_orig": "China Wrote The First GEO Rulebook After A TV Scandal – Western SEOs Should Take Notes via @sejournal, @MPentzek",
+  "summary_orig": "China's five-part GEO standard offers Western SEOs a practical framework for measuring AI visibility, evaluating vendors, and separating optimization from manip"
  },
  {
   "id": "4ad89d65a44a",
@@ -980,8 +1258,8 @@
  {
   "id": "cc5dc25c23d0",
   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-  "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-  "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Age",
+  "title": "NVIDIAエージェントツールキットが拡張され、企業データにエンタープライズエージェントを組み込む",
+  "summary": "エージェントは、自分が知っている限り有用であり、自分が実行する境界線だけ信頼できるものです。大手企業はオープンソースのNVIDIA Ageを使用しています",
   "source": "NVIDIA Blog",
   "type": "article",
   "tier": "official",
@@ -989,13 +1267,15 @@
   "proxy_for": null,
   "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548.jpg",
   "published": "2026-10-21T19:10+09:00",
-  "collected": "2026-10-22T09:01+09:00"
+  "collected": "2026-10-22T09:01+09:00",
+  "title_orig": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+  "summary_orig": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Age"
  },
  {
   "id": "140f65345f1e",
   "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
-  "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
-  "summary": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what the",
+  "title": "NVIDIAオープンモデルは、業界全体でヨーロッパのソブリンインテリジェンスを進歩させます",
+  "summary": "NVIDIAは、言語、ロボット工学、生物学、量子コンピューティングにまたがってオープンモデルのファミリーを拡大し、開発者、研究者、企業に",
   "source": "NVIDIA Blog",
   "type": "article",
   "tier": "official",
@@ -1003,13 +1283,15 @@
   "proxy_for": null,
   "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-scaled.png",
   "published": "2026-10-21T19:00+09:00",
-  "collected": "2026-10-22T09:01+09:00"
+  "collected": "2026-10-22T09:01+09:00",
+  "title_orig": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+  "summary_orig": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what the"
  },
  {
   "id": "1bff40e663a8",
   "url": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
-  "title": "Netflix Earnings, Business or Franchise, Disney’s Deal",
-  "summary": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.",
+  "title": "Netflixの収益、ビジネスまたはフランチャイズ、ディズニーの取引",
+  "summary": "Netflixは堅実なビジネスを持っていますが、これはまさに問題です。少なくとも成長の面では、同社はますますフランチャイズではなくビジネスのように見えます。",
   "source": "Ben Thompson（Stratechery）",
   "type": "article",
   "tier": "voice",
@@ -1017,13 +1299,29 @@
   "proxy_for": null,
   "thumbnail": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
   "published": "2026-10-21T19:00+09:00",
-  "collected": "2026-10-22T09:01+09:00"
+  "collected": "2026-10-22T09:01+09:00",
+  "title_orig": "Netflix Earnings, Business or Franchise, Disney’s Deal",
+  "summary_orig": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth."
+ },
+ {
+  "id": "ebe7cbb4753e",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475/",
+  "title": "デジタル庁、「神Excel」対策ツールを公開 AIと組み合わせたデータ整備方法も紹介",
+  "summary": "デジタル庁が、Excelファイルなどが“機械にとって読みやすいか”を判定するツール「Harunobu」を公開している。紙に印刷した際のレイアウトを優先してセル結合などを多用した、いわゆる「神Excel」の対策にも活用できるという。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/21/2000002475/10010068/2048",
+  "published": "2026-10-21T18:42+09:00",
+  "collected": "2026-10-22T09:14+09:00"
  },
  {
   "id": "77c10bd5f145",
   "url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
-  "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
-  "summary": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since ho",
+  "title": "GTC Berlin 2026 ： NVIDIA CEO Jensen Huangの基調講演によるライブアップデート",
+  "summary": "1980年にベルリンの壁の近くのテントで設立されたテンポドロムは、2001年にアンハルター・バーンホフの近くに定住するまでに数回移動しました。それ以来、その恒久的な家は",
   "source": "NVIDIA Blog",
   "type": "article",
   "tier": "official",
@@ -1031,13 +1329,29 @@
   "proxy_for": null,
   "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/jhh-keynote-kv-1920x1080-1.jpg",
   "published": "2026-10-21T18:30+09:00",
-  "collected": "2026-10-22T09:01+09:00"
+  "collected": "2026-10-22T09:01+09:00",
+  "title_orig": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+  "summary_orig": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since ho"
+ },
+ {
+  "id": "a985fde61d3b",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002470/",
+  "title": "「政府機関向けGemini」登場 米国政府・自治体と共同開発 データをプライベートクラウドに保持",
+  "summary": "Google Cloudが米政府機関向け「Gemini for government services」をプレビュー公開。州政府や連邦機関と共同開発し、データは機関のプライベートな環境に保持、許可なく学習に使わないとうたう。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/21/2000002470/10010060/2048",
+  "published": "2026-10-21T16:41+09:00",
+  "collected": "2026-10-22T09:14+09:00"
  },
  {
   "id": "d3f519557f32",
   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-  "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-  "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+  "title": "Patch the Planet ：エージェントが重大な脆弱性を発見する際のグローバルな対応調整",
+  "summary": "Patch the Planetは、セキュリティ研究者、メンテナンス担当者、インシデント対応担当者をつなぎ、オープンソース全体の重大な脆弱性に対処するのに役立ちます。",
   "source": "OpenAI",
   "type": "article",
   "tier": "official",
@@ -1046,13 +1360,15 @@
   "thumbnail": null,
   "published": "2026-10-21T16:00+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2,
+  "title_orig": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+  "summary_orig": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
  },
  {
   "id": "edef63b51aed",
   "url": "https://openai.com/index/building-chatgpt-ad-stack",
-  "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-  "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+  "title": "ユーザーの信頼と関連性のためのChatGPTの新しい広告スタックの構築方法",
+  "summary": "OpenAIがChatGPTのLLMベースの広告スタックを構築し、会話の意図を理解し、回答から広告を分離し、関連する広告を大規模に配信する方法を学びます。",
   "source": "OpenAI",
   "type": "article",
   "tier": "official",
@@ -1061,13 +1377,15 @@
   "thumbnail": null,
   "published": "2026-10-21T16:00+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2,
+  "title_orig": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+  "summary_orig": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
  },
  {
   "id": "7dadac6a0582",
   "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-  "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-  "summary": "An open source “bomb” drops from China",
+  "title": "[AINews] DeepSeek DeepInfer ：オープンソースのSOTA Inferenceは1日155 Tトークン/クラスターを実行し、81日間の投資回収で約80 ％のマージンで2200万$/日を達成",
+  "summary": "中国からのオープンソースの「爆弾」投下",
   "source": "Latent Space",
   "type": "article",
   "tier": "voice",
@@ -1075,13 +1393,71 @@
   "proxy_for": null,
   "thumbnail": "https://substackcdn.com/image/fetch/$s_!tu5N!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07a949cd-f727-48e2-9bd4-c4d110bf94e9_1326x1362.png",
   "published": "2026-10-21T15:54+09:00",
-  "collected": "2026-10-22T09:01+09:00"
+  "collected": "2026-10-22T09:01+09:00",
+  "title_orig": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+  "summary_orig": "An open source “bomb” drops from China"
+ },
+ {
+  "id": "22b8bad1d400",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/",
+  "title": "OpenAIの常時稼働エージェント「dots」、日本のユーザー数は「世界2位」 「仕事の在り方を大きく変える可能性」と長?社長",
+  "summary": "「日本が世界2位」――米OpenAIの日本法人OpenAI Japanの長?忠雄社長は、OpenAIの新たなAIエージェント機能「dots」のユーザー数についてこのように説明した。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/21/2000002457/10010028/2048",
+  "published": "2026-10-21T15:43+09:00",
+  "collected": "2026-10-22T09:14+09:00"
+ },
+ {
+  "id": "4d295c405393",
+  "url": "https://prtimes.jp/main/html/rd/p/000000044.000141002.html",
+  "title": "NexTech Week 2026【秋】 出展のお知らせ｜機密データを社外に出さないプライベートAIをブースで体験 -閉域・オンプレミスで動く生成AI基盤とAIガードレールを一挙展示- | 株式会社Athena Technologiesのプレスリリース",
+  "summary": "NexTech Week 2026【秋】 出展のお知らせ｜機密データを社外に出さないプライベートAIをブースで体験 -閉域・オンプレミスで動く生成AI基盤とAIガードレールを一挙展示-",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/141002/44/141002-44-300bde62e422943f4eedd4494151987d-599x499.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-21T15:29+09:00",
+  "collected": "2026-10-22T09:14+09:00"
+ },
+ {
+  "id": "07bc7c338f38",
+  "url": "https://www.advertimes.com/20261021/article561179/?utm_source=feed",
+  "title": "焼肉店がライブ配信を歓迎するワケ 常識を覆す「撮影専用席」、焼肉ライクが狙う新たな集客策とは",
+  "summary": "カフェなどで見られる、SNS向けの写真・動画撮影を楽しめる専用スペースが、焼肉チェーンにも広がりつつある。1人焼肉が楽しめる「焼肉ライク」は10月19日、新宿南口店（東京・新宿）に、写真・動画撮影やライブ配信ができる特別席「スタジオライク いわたまありの部屋」を開設した。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/photo-op_yakiniku-restaurant-chain_ogp.jpg",
+  "published": "2026-10-21T15:07+09:00",
+  "collected": "2026-10-22T09:14+09:00"
+ },
+ {
+  "id": "7bdc4f97584c",
+  "url": "https://prtimes.jp/main/html/rd/p/000000232.000006187.html",
+  "title": "生成AI・DX・セキュリティの最新動向を一堂に「RICOH Value Presentation 2026 in WAKAYAMA」開催",
+  "summary": "生成AI・DX・セキュリティの最新動向を一堂に「RICOH Value Presentation 2026 in WAKAYAMA」開催",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/6187/232/6187-232-f6cb1d81e2e309cd2ae3a5dc65d7b2d8-679x580.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-21T15:00+09:00",
+  "collected": "2026-10-22T09:14+09:00"
  },
  {
   "id": "a6e1fb4e076b",
   "url": "https://www.latent.space/p/tenex",
-  "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-  "summary": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
+  "title": "フォーチュン2000のためのAI ： TenexがAIネイティブSDLCを構築する方法— Alex LiebermanとCJ Hess",
+  "summary": "今すぐ聴く（ 44分） |成果の支払い、エージェントとの構築、エンタープライズAI採用の最後の1マイル",
   "source": "Latent Space",
   "type": "article",
   "tier": "voice",
@@ -1089,13 +1465,15 @@
   "proxy_for": null,
   "thumbnail": "https://substackcdn.com/image/fetch/$s_!pIOZ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e7a898f-f3ec-4ab5-bf13-fb5d76fff9cb_1672x941.png",
   "published": "2026-10-21T14:01+09:00",
-  "collected": "2026-10-22T09:01+09:00"
+  "collected": "2026-10-22T09:01+09:00",
+  "title_orig": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+  "summary_orig": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption"
  },
  {
   "id": "1de8e62ff715",
   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-  "title": "Using thousands of AI agents to uncover new leads in biological data",
-  "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+  "title": "何千ものAIエージェントを使用して、生物学的データの新しい手がかりを明らかにする",
+  "summary": "OpenAI、PerturbAI、およびScripps Researchが、分散型AIエージェントを使用して、何百万もの脳細胞からのデータから有望な研究リードを明らかにした方法をご覧ください。",
   "source": "OpenAI",
   "type": "article",
   "tier": "official",
@@ -1104,7 +1482,9 @@
   "thumbnail": null,
   "published": "2026-10-21T13:50+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2,
+  "title_orig": "Using thousands of AI agents to uncover new leads in biological data",
+  "summary_orig": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
  },
  {
   "id": "5b26f45ee100",
@@ -1119,7 +1499,7 @@
   "thumbnail": null,
   "published": "2026-10-21T13:30+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "8349555bcec9",
@@ -1148,6 +1528,48 @@
   "thumbnail": "https://i.gzn.jp/img/2026/10/21/claude-designed-protein-against-scorpion-neurotoxins/00.jpg",
   "published": "2026-10-21T12:04+09:00",
   "collected": "2026-10-22T09:01+09:00"
+ },
+ {
+  "id": "71f89dd2dc04",
+  "url": "https://news.infoseek.co.jp/article/mynavi_3238617/",
+  "title": "パーソルビジネスプロセスデザイン、AIを活用した採用代行サービスを提供開始｜Infoseekニュース",
+  "summary": "パーソルビジネスプロセスデザイン、AIを活用した採用代行サービスを提供開始｜Infoseekニュース",
+  "source": "Infoseek",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://media.image.infoseek.co.jp/isnews/photos/mynavi/mynavi_3238617_0-enlarge.jpg",
+  "published": "2026-10-21T11:45+09:00",
+  "collected": "2026-10-22T09:14+09:00"
+ },
+ {
+  "id": "5b790bf5c2ca",
+  "url": "https://aismiley.co.jp/ai_news/ai-agenthaku-2026-vol1/",
+  "title": "「AIエージェント博 2026 byAI博覧会」 カンファレンス第1弾スピーカーを発表！AIエージェントで「AIを使う」から「業務が変わる」フェーズへ。",
+  "summary": "国内最大級のAIポータルメディア「AIsmiley」を運営する株式会社アイスマイリーは、2026年12月15日（火）・16日（水）の2日間、新宿住友ビル 三角広場（1階）・住友ホール（B2階）にて開催する「AIエージェント博 2026 byAI博覧会」のカンファレンス第1弾スピーカーを、10月21日（水）に発表しました",
+  "source": "AIsmiley",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://aismiley.co.jp/wp-content/uploads/2026/10/image_2026_10_19.png",
+  "published": "2026-10-21T11:04+09:00",
+  "collected": "2026-10-22T09:14+09:00"
+ },
+ {
+  "id": "3868ea5766d3",
+  "url": "https://news.mynavi.jp/techplus/article/20261021-5166664/",
+  "title": "GMOサインがAIエージェント連携、MCP対応で契約書の検索や署名依頼を可能に",
+  "summary": "GMOグローバルサイン・ホールディングス（以下、GMOグローバルサイン・HD）は10月21日、電子契約サービス「電子印鑑GMOサイン」（以下、GMOサイン）において、AIエージェントとの連携を可能にする「AI Flowオプション」の提供を開始したと発表した。",
+  "source": "マイナビニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://news.mynavi.jp/techplus/article/20261021-5166664/ogp_images/ogp.jpg",
+  "published": "2026-10-21T11:00+09:00",
+  "collected": "2026-10-22T09:14+09:00"
  },
  {
   "id": "b446cc0ff05f",
@@ -1279,8 +1701,8 @@
  {
   "id": "b2deaf97c98c",
   "url": "https://openai.com/index/empowering-cyber-defenders",
-  "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-  "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutio",
+  "title": "フロンティアAIの民主的ガバナンス、パートII ：サイバーディフェンダーのエンパワーメント",
+  "summary": "OpenAIは、フロンティアAI、より強力なセーフガード、最新のサイバーセキュリティ、より回復力のある公的機関でサイバーディフェンダーに力を与えるための青写真を概説しています",
   "source": "OpenAI",
   "type": "article",
   "tier": "official",
@@ -1289,7 +1711,9 @@
   "thumbnail": null,
   "published": "2026-10-21T09:00+09:00",
   "collected": "2026-10-22T09:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2,
+  "title_orig": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+  "summary_orig": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutio"
  },
  {
   "id": "5242b0a9a92a",
@@ -1583,7 +2007,7 @@
   "id": "20865beac534",
   "url": "https://marketing.itmedia.co.jp/mm/articles/2610/21/news006.html",
   "title": "期待の新星「ChatGPT広告」 しかし“広告だけで効果が出る”とは言い切れない、そのワケは？",
-  "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððððúÒÅ «éÍ © BÜ ½ A",
+  "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððððúÒÅ «éÍ © BÜ ½ A",
   "source": "ITmedia マーケティング",
   "type": "article",
   "tier": "media",
@@ -1592,7 +2016,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mm/articles/2610/21/cover_news006.jpg",
   "published": "2026-10-21T07:00+09:00",
   "collected": "2026-10-21T08:55+09:00",
-  "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððúÒÅ «éÍ © BÜ ½ A"
+  "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððððúÒÅ «éÍ © BÜ ½ A"
  },
  {
   "id": "329fc72597e2",
@@ -1624,6 +2048,23 @@
   "_thumb_tries": 3,
   "title_orig": "TikTok shares Black Friday/Cyber Monday promotion tips",
   "summary_orig": "The app published a series of videos that examined how companies including Princess Polly, Dossier and SharkNinja boosted their brand exposure."
+ },
+ {
+  "id": "e3b61d54dfc4",
+  "url": "https://www.socialmediatoday.com/news/tiktok-shares-black-friday-cyber-monday-promotion-tips/833546/",
+  "title": "TikTokがブラックフライデー、サイバーマンデーのプロモーションのヒントを共有",
+  "summary": "このアプリは、Princess Polly、Dossier、SharkNinjaなどの企業がどのようにブランドの露出を高めたかを調査する一連のビデオを公開しました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-21T06:52+09:00",
+  "collected": "2026-10-22T09:14+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "TikTok shares Black Friday, Cyber Monday promotion tips",
+  "summary_orig": "The app published a series of videos that examine how companies including Princess Polly, Dossier and SharkNinja have boosted their brand exposure."
  },
  {
   "id": "33c25bb465cf",
@@ -1856,6 +2297,20 @@
   "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/21/cover_news011.jpg",
   "published": "2026-10-21T05:00+09:00",
   "collected": "2026-10-21T08:55+09:00"
+ },
+ {
+  "id": "9a60a161c61c",
+  "url": "https://techtarget.itmedia.co.jp/tt/article/2610/21/2000002436/",
+  "title": "Googleの業務向けAIエージェント「Gemini Agent」が登場 しかし課題は山積み",
+  "summary": "2026年10月に登場した「Gemini Agent」は、社内の業務背景を理解し、ナレッジワークを自律的にこなせる。しかし運用費用の肥大化や既存システムとの統合といった障壁もある。企業はこれらを乗り越えられるのか。",
+  "source": "TechTargetジャパン",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techtarget.itmedia.co.jp/tt/article/ogp/2610/21/2000002436/10009957/2048",
+  "published": "2026-10-21T05:00+09:00",
+  "collected": "2026-10-22T09:14+09:00"
  },
  {
   "id": "4dc8a56e0373",
@@ -2715,8 +3170,8 @@
  {
   "id": "cfd8a0828caa",
   "url": "https://blog.youtube/culture-and-trends/youtube-generative-ai-video-creativity-report/",
-  "title": "Inside YouTube's findings on generative video and personal creativity",
-  "summary": "A new YouTube Culture & Trends report shows how creators and hobbyists use generative AI video to express personal identity and connect over shared passions.",
+  "title": "生成的なビデオと個人的な創造性に関するYouTubeの調査結果",
+  "summary": "新しいYouTubeカルチャー＆トレンドレポートでは、クリエイターや愛好家がジェネレーティブAIビデオを使用して個人のアイデンティティを表現し、共有された情熱を介してつながる方法を示しています。",
   "source": "YouTube公式ブログ",
   "type": "article",
   "tier": "official",
@@ -2724,13 +3179,15 @@
   "proxy_for": null,
   "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YouTube-Mainstream-Report-Cover-Newbrand_YT.max-1440x810.png",
   "published": "2026-10-20T20:00+09:00",
-  "collected": "2026-10-22T09:01+09:00"
+  "collected": "2026-10-22T09:01+09:00",
+  "title_orig": "Inside YouTube's findings on generative video and personal creativity",
+  "summary_orig": "A new YouTube Culture & Trends report shows how creators and hobbyists use generative AI video to express personal identity and connect over shared passions."
  },
  {
   "id": "03fd7aaadcdf",
   "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
-  "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
-  "summary": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advan",
+  "title": "ヨーロッパのリーダーは、ローカルインフラストラクチャを構築するためにNVIDIA Vera CPUに目を向けています",
+  "summary": "NebiusとNscaleは、次のインフラストラクチャの波を構築するためにNVIDIA Vera CPUを探しているグローバルテクノロジーパートナーの1つです。彼らの勢いは急速な進歩を反映しています",
   "source": "NVIDIA Blog",
   "type": "article",
   "tier": "official",
@@ -2738,7 +3195,9 @@
   "proxy_for": null,
   "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/10/cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194.jpg",
   "published": "2026-10-20T19:30+09:00",
-  "collected": "2026-10-22T09:01+09:00"
+  "collected": "2026-10-22T09:01+09:00",
+  "title_orig": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+  "summary_orig": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advan"
  },
  {
   "id": "a6b6f4374278",
@@ -2986,7 +3445,7 @@
   "thumbnail": null,
   "published": "2026-10-20T16:00+09:00",
   "collected": "2026-10-21T10:35+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
   "summary_orig": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol."
  },
