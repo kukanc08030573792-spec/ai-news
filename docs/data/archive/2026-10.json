@@ -1,5 +1,62 @@
 [
  {
+  "id": "86ffa5772e91",
+  "url": "https://ascii.jp/elem/000/004/445/4445106/?rss",
+  "title": "カバー画面でSNS、開いて3アプリ同時起動。モトローラの横折りスマホ「razr fold」が使いやすすぎた",
+  "summary": "モトローラ初の横折りスマホ「motorola razr fold」の実機レビューです。開くと4.55mmと極薄で、カメラ評価機関でフォルダブル世界1位を獲得した高性能3眼カメラを搭載。AI機能や手書き文字をテキスト化できる専用ペンにも対応し、約30万円の価値が十分にある完成度です。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/08/17/4513403/xl/57367594606f2b89.jpg?20200122",
+  "published": "2026-10-23T09:00+09:00",
+  "collected": "2026-10-23T09:10+09:00"
+ },
+ {
+  "id": "0f00b00f2bea",
+  "url": "https://ascii.jp/elem/000/004/444/4444656/?rss",
+  "title": "AIが書いた文章はバレるのか？ 文章に隠された電子透かしの仕組みと、検出ツールの現状",
+  "summary": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身に着けて欲しい。第76回は、ChatGPT・Gemini・Claudeに実装された電子透かしについて解説する。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/21/4541647/xl/921af76a1bd77059.jpg?20200122",
+  "published": "2026-10-23T09:00+09:00",
+  "collected": "2026-10-23T09:10+09:00"
+ },
+ {
+  "id": "1d687ffa1d11",
+  "url": "https://ascii.jp/elem/000/004/443/4443596/?rss",
+  "title": "AI時代のフィッシング詐欺に対する警告サインは何を重要とするべきか",
+  "summary": "AI時代のフィッシングに対する保護は、表面的なメッセージの欠陥よりも、メッセージが引き起こそうとするアクションに重点を置くべきです。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/19/4540250/xl/01cec140cb11cdd0.jpg",
+  "published": "2026-10-23T09:00+09:00",
+  "collected": "2026-10-23T09:10+09:00"
+ },
+ {
+  "id": "aa594d63dbe5",
+  "url": "https://markezine.jp/article/detail/77701",
+  "title": "「まだ困っていない」社内をどう動かす？ 村田製作所とGOに学ぶゼロクリック時代のマーケターの仕事",
+  "summary": "AIに聞いて比較検討し、ある程度決めてから問い合わせる。Webサイトを訪れずにAIの回答で情報収集を済ませる「ゼロクリック」の購買行動が、BtoBでも当たり前になりつつある。しかし事業が順調な企業ほど、変わる必要性は社内に伝わりにくい。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-23T09:00+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "87a563b67372",
   "url": "https://developers.googleblog.com/streaming-comes-to-api-gateway-real-time-and-ai-ready-apis-without-changing-your-spec/",
   "title": "ストリーミングはAPIゲートウェイに提供されます：仕様を変更することなく、リアルタイムでAI対応のAPI",
@@ -142,7 +199,7 @@
   "thumbnail": null,
   "published": "2026-10-23T08:00+09:00",
   "collected": "2026-10-23T08:59+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "882f39312267",
@@ -157,7 +214,7 @@
   "thumbnail": null,
   "published": "2026-10-23T08:00+09:00",
   "collected": "2026-10-23T08:59+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "5012f4ba5e97",
@@ -177,7 +234,7 @@
   "id": "f3573839734e",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/23/news021.html",
   "title": "声で動く協働ロボット フィジカルAIの検証ハードルを下げるパッケージ登場",
-  "summary": "xm\\ tgÆ_Ch [ÍA ¦­ {bgü ¯ utBWJAIX ^[ gpbP [Wvð ¤ ¯ ÅJ µ A 2027 N 1 © ç {iIÉó ® ðJn · éB",
+  "summary": "xm\\ tgÆ_Ch [ÍA ¦­ {bgü ¯ utBWJAIX ^[ gpbP [Wvð ¤ ÅJ µ A 2027 N 1 © ç {iIÉó ® ðJn · éB",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -186,7 +243,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/23/l_mn1023_fujisoft_002.jpg",
   "published": "2026-10-23T07:30+09:00",
   "collected": "2026-10-23T08:59+09:00",
-  "summary_orig": "xm\\tgÆ_Ch[ÍA¦­{bgü¯utBWJAIX^[gpbP[Wvð¤¯ÅJ­µA2027N1©ç{iIÉó®ðJn·éB"
+  "summary_orig": "xm\\ tgÆ_Ch [ÍA ¦­ {bgü ¯ utBWJAIX ^[ gpbP [Wvð ¤ ¯ ÅJ µ A 2027 N 1 © ç {iIÉó ® ðJn · éB"
  },
  {
   "id": "95eb6975ad24",
@@ -233,7 +290,7 @@
   "thumbnail": null,
   "published": "2026-10-23T07:05+09:00",
   "collected": "2026-10-23T08:59+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "27f987c59c4f",
@@ -444,7 +501,7 @@
   "thumbnail": null,
   "published": "2026-10-23T04:00+09:00",
   "collected": "2026-10-23T08:59+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Build more responsive apps with the Decisions API",
   "summary_orig": "Fast, focused, low-cost decisions for any application."
  },
@@ -541,7 +598,7 @@
   "thumbnail": null,
   "published": "2026-10-23T03:09+09:00",
   "collected": "2026-10-23T08:59+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Donating Agent Skills to the Agentic AI Foundation",
   "summary_orig": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral"
  },
@@ -674,6 +731,22 @@
   "summary_orig": "Elastic GPUs, sandbox growth, and the economics of the agent cloud"
  },
  {
+  "id": "7b213ad205a3",
+  "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+  "title": "誰かが古いゲームとAIを使ってSwitch 2をハッキングしました",
+  "summary": "ニンテンドースイッチ2は明らかにジェイルブレイクされており、モッダーはすでに新しいプレイをフィーチャーしたマリオカートワールドのカスタムバージョンを実行しているコンソールを示しています",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
+  "published": "2026-10-23T02:21+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Someone hacked the Switch 2 by using an old game and AI",
+  "summary_orig": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new play"
+ },
+ {
   "id": "399a92a0fc3f",
   "url": "https://gigazine.net/news/20261022-claude-duet/",
   "title": "人間の指示なしでAIが自発的にタスクを実行するClaudeのエージェントアプリ「Claude Duet」が発表される",
@@ -686,6 +759,38 @@
   "thumbnail": "https://i.gzn.jp/img/2026/10/22/claude-duet/00.png",
   "published": "2026-10-23T02:05+09:00",
   "collected": "2026-10-23T08:59+09:00"
+ },
+ {
+  "id": "910f079c87a8",
+  "url": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
+  "title": "OpenAIの詳細ChatGPTのLLM広告スタックが@ sejournal、@ brookeosmundsonを介して広告を選択し配信する方法",
+  "summary": "OpenAIは、カスタムLLMオーケストレーターがマルチターンカンバセーションを解釈し、オークションの広告を推薦し、回答期限を逃したプレースメントをドロップする方法を説明します。",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png",
+  "published": "2026-10-23T01:58+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "OpenAI Details How ChatGPT’s LLM Ad Stack Selects And Serves Ads via @sejournal, @brookeosmundson",
+  "summary_orig": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines."
+ },
+ {
+  "id": "d1b19037538a",
+  "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+  "title": "中国のハッカーは、IT大手ConnectWiseに侵入した後、何千もの企業をスパイしました",
+  "summary": "マイクロソフトは、ConnectWiseの侵害の責任を中国と提携しているハッカーに指摘している。このハッカーは、AIエージェントに頼って何千人もの顧客を迅速にハッキングしていた。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799",
+  "published": "2026-10-23T01:47+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+  "summary_orig": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
  },
  {
   "id": "251516e27a00",
@@ -720,6 +825,22 @@
   "summary_orig": "Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in"
  },
  {
+  "id": "2a8e11324f4e",
+  "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+  "title": "ワイルドウッドのディレクターは、AIは「このスタジオにあるすべてのものと対極にある」と述べています",
+  "summary": "ワイルドウッドは、CoralineやParaNormanなどで最もよく知られているストップモーションスタジオであるLaikaの最も野心的な映画です。それは広大なファンタジーアドベンチュです",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&strip=all&crop=0%2C3.4699843686197%2C100%2C93.060031262761&w=1200",
+  "published": "2026-10-23T01:16+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+  "summary_orig": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventu"
+ },
+ {
   "id": "eaa0ebff7daf",
   "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
   "title": "OlmoEarth v1.3 ：惑星全体の最先端の埋め込み",
@@ -736,6 +857,38 @@
   "summary_orig": "A Blog post by Ai2 on Hugging Face"
  },
  {
+  "id": "540e896edf86",
+  "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+  "title": "OpenAI、Anthropic、Nvidiaのロビー活動の四半期は記録的でした",
+  "summary": "AIロビイストにとって忙しい夏でした。連邦政府の情報開示によると、Anthropic、OpenAI、Nvidiaはそれぞれ、7月から9月の間に最も支出の多いロビー活動四半期を迎えた。",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-10-23T00:50+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+  "summary_orig": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclo"
+ },
+ {
+  "id": "640e4d85f619",
+  "url": "https://www.searchenginejournal.com/pichai-ai-agents-browsing-protocols/593986/",
+  "title": "Pichai氏は、AIエージェントがページをクリックして@ sejournal、@ MattGSouth経由でプロトコルを使用すると述べています",
+  "summary": "GoogleのCEOは、AIエージェントがページを閲覧し、プロトコルを介してWebサイトにアクセスすることを期待しており、プロトコルのスケールは優れているが、開発には時間がかかると述べている。",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-pichai-ai-agents-featured.jpg",
+  "published": "2026-10-23T00:36+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Pichai Says AI Agents Will Click Through Pages And Use Protocols via @sejournal, @MattGSouthern",
+  "summary_orig": "Google's CEO expects AI agents to reach websites by browsing pages and through protocols, and says protocols scale better but will take longer to develop. The p"
+ },
+ {
   "id": "6cf146c7e71f",
   "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
   "title": "Armin Ronacherの引用",
@@ -748,9 +901,25 @@
   "thumbnail": null,
   "published": "2026-10-23T00:34+09:00",
   "collected": "2026-10-23T08:59+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Quoting Armin Ronacher",
   "summary_orig": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , gene"
+ },
+ {
+  "id": "12d0b1a86546",
+  "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+  "title": "Spotifyの現在のAIベットは、エージェントが選択する音楽サービスになることです",
+  "summary": "Spotifyの共同CEOであるGustav Söderström氏は、AIエージェントの台頭が音楽サービスにとって良いニュースになる可能性がある理由を説明しています。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
+  "published": "2026-10-23T00:03+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Spotify’s current AI bet is about being the music service that agents choose",
+  "summary_orig": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
  },
  {
   "id": "99c8819be3a7",
@@ -817,6 +986,54 @@
   "summary_orig": "The post Data and AI agents give a lift to TK Elevator service technicians appeared first on Source ."
  },
  {
+  "id": "8e16d6a95427",
+  "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+  "title": "Claude Duetアプリは、Anthropicのエージェントへの賭けです",
+  "summary": "Claude Duetは、ProプランとMaxプランのユーザーのウェイティングリストからご利用いただけます。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
+  "published": "2026-10-22T22:53+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Claude Duet app is Anthropic’s bet on agents",
+  "summary_orig": "Claude Duet is available through waitlist for Pro and Max plan users."
+ },
+ {
+  "id": "d2c9aa9349dc",
+  "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+  "title": "Nirvaがあなたの声だけを聞くペンダントのために3,300万$を調達",
+  "summary": "Nirvaは、年末までに$ 249のアンビエントAIペンダントを出荷する予定です。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675",
+  "published": "2026-10-22T22:26+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Nirva raises $33M for a pendant that only listens to you",
+  "summary_orig": "Nirva will ship its $249 ambient AI pendant by the end of the year."
+ },
+ {
+  "id": "9adc4a20fb53",
+  "url": "https://buffer.com/resources/four-new-buffer-analytics-features/",
+  "title": "バッファ内の4つのアナリティクス機能は、私がなくては生きていけないものです",
+  "summary": "Buffer Insightsで毎月使用している4つのソーシャルメディア分析機能は、コンテンツの計画、その場での調整、リリースの測定、共有にどのように役立ちますか",
+  "source": "Buffer",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2026/10/buffer-insights-ai.png",
+  "published": "2026-10-22T22:16+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "4 Analytics Features in Buffer That I Can't Live Without",
+  "summary_orig": "The four social media analytics features I use every month in Buffer Insights, and how they help me plan content, adjust on the fly, measure launches, and share"
+ },
+ {
   "id": "1703863d36a8",
   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
   "title": "クラウドデプロイメントが登場：「Call of Duty ： Modern Warfare 4」がGeForceに登場",
@@ -831,6 +1048,22 @@
   "collected": "2026-10-23T08:59+09:00",
   "title_orig": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
   "summary_orig": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, hi"
+ },
+ {
+  "id": "cc9ecedaf5a9",
+  "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
+  "title": "広告主は、不要なAIグロウアップを持っていたメタ広告をプルします",
+  "summary": "10月30日に開始されるMetaの新しい用語の下では、広告主はAIが作成するものすべてに「単独で責任を負います」",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1",
+  "published": "2026-10-22T21:09+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-ups",
+  "summary_orig": "Under Meta’s new terms coming into play Oct 30, advertisers are “solely responsible” for whatever its AI creates"
  },
  {
   "id": "d45780a35cec",
@@ -859,7 +1092,23 @@
   "thumbnail": null,
   "published": "2026-10-22T20:11+09:00",
   "collected": "2026-10-23T08:59+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
+ },
+ {
+  "id": "48bb15f5555c",
+  "url": "https://www.searchenginejournal.com/google-illyes-robots-txt-crawling-ai-training/593957/",
+  "title": "GoogleのIllyes ： Robots.txtは@ sejournalを介したAIトレーニングではなく、クロールをカバーしています、@ MattGS",
+  "summary": "Googleの新しいrobots.txtビデオによると、この標準はコンテンツの使用方法ではなくクロールをカバーしており、英語以外のrobots.txtパスをパーセントエンコードすることを推奨しています。",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-robots-txt-featured.jpg",
+  "published": "2026-10-22T19:58+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Google’s Illyes: Robots.txt Covers Crawling, Not AI Training via @sejournal, @MattGSouthern",
+  "summary_orig": "Google's new robots.txt video says the standard covers crawling, not how content gets used, and recommends percent-encoding non-English robots.txt paths. The po"
  },
  {
   "id": "d0a3a6d0b4af",
@@ -878,6 +1127,56 @@
   "summary_orig": "An interview with Craig Moffett about SpaceX, from launch to broadband to mobile, plus how he is applying the lessons of the dot-com bubble to today."
  },
  {
+  "id": "58fe41da7be4",
+  "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+  "title": "コンテキストアウェアAIの事例を作成する",
+  "summary": "エンタープライズAIは、推奨事項の生成、タスクの自動化、組織の意思決定の迅速化を支援します。しかし、ビジネスがどのように行動するかを理解していないと、",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
+  "published": "2026-10-22T19:00+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Making the case for context-aware AI",
+  "summary_orig": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actuall"
+ },
+ {
+  "id": "f54d367bec64",
+  "url": "https://www.socialmediaexaminer.com/the-secrets-of-human-behavior-applied-to-social-ads/",
+  "title": "ソーシャル広告に適用される人間の行動の秘密",
+  "summary": "Facebook、Instagram、またはTikTokの広告を作成して、人々があなたから購入するのに十分な長さを覚えているのに苦労していますか？消費者心理学がなぜあなたが",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-22T19:00+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "The Secrets of Human Behavior Applied to Social Ads",
+  "summary_orig": "Struggling to create Facebook, Instagram, or TikTok ads that people remember long enough to buy from you? Wondering how consumer psychology can tell you why you"
+ },
+ {
+  "id": "911fe646ae05",
+  "url": "https://www.socialmediaexaminer.com/task-automation-tips-ai-build-landing-pages-and-industry-news/",
+  "title": "タスク自動化のヒント、AIビルドランディングページ、業界ニュース",
+  "summary": "もうすぐ金曜日です！プラグを抜く前に、最後にインサイトとアップデートをご紹介します。今読んでも、後で保存しても、見逃すことはありません",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-22T18:30+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Task Automation Tips, AI-Build Landing Pages, and Industry News",
+  "summary_orig": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to mis"
+ },
+ {
   "id": "e64f4075f727",
   "url": "https://realsound.jp/tech/2026/10/post-2561189.html",
   "title": "Anthropic、能動型AIエージェント『Claude Duet』発表 Claude Opus 5.5を基盤に先回りして操作",
@@ -890,6 +1189,66 @@
   "thumbnail": "https://realsound.jp/wp-content/uploads/2026/10/20261022-claudeduet-99.jpg",
   "published": "2026-10-22T18:20+09:00",
   "collected": "2026-10-23T08:59+09:00"
+ },
+ {
+  "id": "82d78f1e164c",
+  "url": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-views-search-absorbed-into-agentic-layer/593923/",
+  "title": "Google CEO Sundar Pichaiが@ sejournal、@ martinibusterを介してAgentic Layerに吸収された検索を表示",
+  "summary": "Googleの最高経営責任者（ CEO ）であるSundar Pichai氏は、検索の未来は、Googleの検索とAIエクスペリエンスを統合するエージェント層であると述べています。Googleの最高経営責任者（ CEO ） Sundar Pichai氏のコメント",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-sundar-pichai-931.jpg",
+  "published": "2026-10-22T18:17+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer via @sejournal, @martinibuster",
+  "summary_orig": "Google CEO Sundar Pichai says the future of Search is an agentic layer that unifies Google's Search and AI experiences. The post Google CEO Sundar Pichai Views"
+ },
+ {
+  "id": "7e9d4be984db",
+  "url": "https://www.itmedia.co.jp/news/article/2610/22/2000002510/",
+  "title": "手のひらサイズの“宇宙AIデータセンター”？ JAXA後押しの国内新興が実現目指す 南極・高山での利用も視野",
+  "summary": "宇宙で取得したデータをその場で小型のAIに処理させ、軽量化してから地上に下ろす──という仕組みの実現を目指す日本初ベンチャー、技術開発の進捗は。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/22/2000002510/10010169/2048",
+  "published": "2026-10-22T18:00+09:00",
+  "collected": "2026-10-23T09:10+09:00"
+ },
+ {
+  "id": "1ab6b1fbef69",
+  "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+  "title": "AIの隠されたストレージ法案：推論が残すもの",
+  "summary": "ほとんどのエグゼクティブにAIのコストを描写するように依頼すると、GPU （ギガワットの電力を持つアクセラレータのラック）とシリコンのウェイティングリストが表示される可能性があります。しかし、その写真は",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png?resize=1200,600",
+  "published": "2026-10-22T17:41+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "AI’s hidden storage bill: What inference leaves behind",
+  "summary_orig": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that pic"
+ },
+ {
+  "id": "fde88ccf1698",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002521/",
+  "title": "「長い目で見れば防御側が有利」はなぜ？ 守る側のAI活用法、本命は Webセキュリティ専門家に聞く",
+  "summary": "AIエージェントによるWebサイト攻撃を観測したビットフォレスト。同社のWAF開発責任者は「AIは新しい攻撃ジャンルを生んでいない」と語る。守る側のAI活用の本命と「防御側が有利」の理由を聞いた。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/22/2000002521/10010206/2048",
+  "published": "2026-10-22T17:13+09:00",
+  "collected": "2026-10-23T09:10+09:00"
  },
  {
   "id": "5d118fadbe79",
@@ -924,6 +1283,20 @@
   "summary_orig": "The Big Hardening begins"
  },
  {
+  "id": "f81a60cd5359",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002518/",
+  "title": "チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」 デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け",
+  "summary": "チームみらいの党首、安野貴博氏はAIを使ったサイバー攻撃に「一刻も早く対策を講じるべき」と警鐘を鳴らした。（1/2 ページ）",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/22/2000002518/10010194/2048",
+  "published": "2026-10-22T16:20+09:00",
+  "collected": "2026-10-23T09:10+09:00"
+ },
+ {
   "id": "18ee01a9c111",
   "url": "https://pc.watch.impress.co.jp/docs/news/2150390.html",
   "title": "Anthropic、離席中もタスクをこなす自律型AI「Claude Duet」発表",
@@ -936,6 +1309,20 @@
   "thumbnail": "https://pc.watch.impress.co.jp/img/pcw/list/2150/390/001.jpg",
   "published": "2026-10-22T16:14+09:00",
   "collected": "2026-10-23T08:59+09:00"
+ },
+ {
+  "id": "226ab3ff2610",
+  "url": "https://www.iza.ne.jp/pressrelease/prtimes/63MYAJSQEBKAFHMNAEZ7VJQCS4/",
+  "title": "メソドロジック、現場におけるAI活用の「自由」とIT部門の「統制」を両立する「Tines 3B」の導入支援を開始",
+  "summary": "『メソドロジック、現場におけるAI活用の「自由」とIT部門の「統制」を両立する「Tines 3B」の導入支援を開始』の記事ページです。",
+  "source": "イザ！",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.iza.ne.jp/common/images/ogp_default_iza.png",
+  "published": "2026-10-22T15:30+09:00",
+  "collected": "2026-10-23T09:10+09:00"
  },
  {
   "id": "bb493e91492f",
@@ -964,6 +1351,20 @@
   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00000017-impwfw-000-1-view.jpg?exp=10800",
   "published": "2026-10-22T15:00+09:00",
   "collected": "2026-10-23T08:59+09:00"
+ },
+ {
+  "id": "4a6f34a6408d",
+  "url": "https://www.advertimes.com/20261022/article561251/?utm_source=feed",
+  "title": "たくろう “M-1のない年末” は10年ぶり「旅行でもする？」JTB動画で秋冬旅への駆け込みを喚起",
+  "summary": "JTBは9月25日、お笑いコンビのたくろうが出演するWeb動画「今年は、行けちゃう人へ。」篇、「忙しい人へ。」篇をYouTubeやXで公開した。「かけこめ！2026秋冬旅」と題した秋冬シーズンの旅行プロモーションの一環で、昨年末に「M-1グランプリ」で優勝した2人が今年の年末の予定に思いを馳せる内容だ。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/jtb_takuro_cm_ogp.jpg",
+  "published": "2026-10-22T14:07+09:00",
+  "collected": "2026-10-23T09:10+09:00"
  },
  {
   "id": "e12302cd4e2c",
@@ -1062,6 +1463,35 @@
   "summary_orig": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting gover"
  },
  {
+  "id": "da69b5d317d1",
+  "url": "https://www.itmedia.co.jp/business/articles/2610/22/news053.html",
+  "title": "“緊急メンテの夜”までの一部始終は？ 8月にAIで「PHPの重大な脆弱性」発見→OpenAIが即応チームを招集",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/22/cover_news053.jpg",
+  "published": "2026-10-22T13:30+09:00",
+  "collected": "2026-10-23T09:10+09:00"
+ },
+ {
+  "id": "295a11220732",
+  "url": "https://markezine.jp/article/detail/77734",
+  "title": "顧客がAIに質問したとき、あなたのブランドは適切に表示されていますか？",
+  "summary": "消費者が情報を検索・収集するプロセスは、AIの登場で劇的に変化している。こうした中、企業は従来のSEOから、AIの回答を最適化するAEO（Answer Engine Optimization）へ焦点を移していく必要がある。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-22T12:00+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "d14040b233f8",
   "url": "https://news.yahoo.co.jp/articles/05ac23a1d711f0a2ffd6abcc5652b755802efafc",
   "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献",
@@ -1074,6 +1504,20 @@
   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00000036-zdn_n-000-1-view.jpg?exp=10800",
   "published": "2026-10-22T11:52+09:00",
   "collected": "2026-10-23T08:59+09:00"
+ },
+ {
+  "id": "628998be3ddf",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002494/",
+  "title": "漢検運営が「AIで生成」画像で漢字ミス→謝罪 「これを出そうって神経が分からない」の声も",
+  "summary": "日本漢字能力検定協会は、公式Xで投稿したAI生成とみられる画像について「誤字があった」と謝罪した。同画像を巡っては、Xユーザーから誤りの指摘が相次いでいた。（1/2 ページ）",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/22/2000002494/10010144/2048",
+  "published": "2026-10-22T11:32+09:00",
+  "collected": "2026-10-23T09:10+09:00"
  },
  {
   "id": "885c726cc705",
@@ -1176,7 +1620,7 @@
   "thumbnail": null,
   "published": "2026-10-22T09:00+09:00",
   "collected": "2026-10-23T08:59+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Uber brings ChatGPT Work to all employees with OpenAI",
   "summary_orig": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
  },
@@ -1341,6 +1785,22 @@
   "collected": "2026-10-22T09:01+09:00",
   "title_orig": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
   "summary_orig": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+ },
+ {
+  "id": "f7403dc55170",
+  "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+  "title": "Metaは、新しく作成されたクラスの株式で、その広範なAI構築の費用を支払いたいと考えています",
+  "summary": "このソーシャルメディア大手は、AIモデルとサービスへの幅広い投資を支援するための新しい株式戦略を計画している。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+  "published": "2026-10-22T07:45+09:00",
+  "collected": "2026-10-23T09:10+09:00",
+  "title_orig": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+  "summary_orig": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
  },
  {
   "id": "eaa3fbf80042",
@@ -3247,7 +3707,7 @@
   "id": "20865beac534",
   "url": "https://marketing.itmedia.co.jp/mm/articles/2610/21/news006.html",
   "title": "期待の新星「ChatGPT広告」 しかし“広告だけで効果が出る”とは言い切れない、そのワケは？",
-  "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððððððððúÒÅ «éÍ © BÜ ½ A",
+  "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððððððððúÒÅ «éÍ © BÜ ½ A",
   "source": "ITmedia マーケティング",
   "type": "article",
   "tier": "media",
@@ -3256,7 +3716,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mm/articles/2610/21/cover_news006.jpg",
   "published": "2026-10-21T07:00+09:00",
   "collected": "2026-10-21T08:55+09:00",
-  "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððððððúÒÅ «éÍ © BÜ ½ A"
+  "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððððððððúÒÅ «éÍ © BÜ ½ A"
  },
  {
   "id": "329fc72597e2",
