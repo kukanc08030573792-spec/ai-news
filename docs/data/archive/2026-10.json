@@ -1,5 +1,34 @@
 [
  {
+  "id": "0738a62b471c",
+  "url": "https://prtimes.jp/main/html/rd/p/000000046.000066814.html",
+  "title": "【導入事例】福井県が議事録AI「YOMEL」を約5,400人規模で全庁展開。導入2ヵ月で400時間以上の議事録作成時間削減を実現",
+  "summary": "【導入事例】福井県が議事録AI「YOMEL」を約5,400人規模で全庁展開。導入2ヵ月で400時間以上の議事録作成時間削減を実現",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/66814/46/66814-46-0ebe61f0310f5d7c26345914dfd872e0-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-23T10:10+09:00",
+  "collected": "2026-10-23T10:30+09:00"
+ },
+ {
+  "id": "ff9c2be738d8",
+  "url": "https://webtan.impress.co.jp/q/2026/10/53497",
+  "title": "自分専用AIを使いこなす『Gemini Notebook推し技大全 自分の情報が武器になる！ 活用アイデア100選』を3名様にプレゼント",
+  "summary": "自分専用AIを使いこなす『Gemini Notebook推し技大全 自分の情報が武器になる！ 活用アイデア100選』を3名様にプレゼント 読者プレゼント webtan 2026年10月23日 【申込は10/30まで】書籍『Gemini Notebook推し技大全 自分の情報が武器になる！ 活用アイデア100選』を3名様",
+  "source": "Web担当者フォーラム",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-23T10:00+09:00",
+  "collected": "2026-10-23T10:30+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "8937fd9c8277",
   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
   "title": "何もすることがなく、AIエージェントがプレイし始めました",
@@ -70,7 +99,7 @@
   "thumbnail": null,
   "published": "2026-10-23T09:00+09:00",
   "collected": "2026-10-23T09:10+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "87a563b67372",
@@ -379,6 +408,22 @@
   "collected": "2026-10-23T08:59+09:00"
  },
  {
+  "id": "d12e83488652",
+  "url": "https://www.youtube.com/shorts/RLQR5_5fJDA",
+  "title": "メッシはChatGPTにチェスのオープニングを教えるよう依頼する",
+  "summary": "メッシはChatGPTに、彼のスタイルに合ったチェスのオープニングを教えるよう依頼しました。ヤギの角を示唆していました。ChatGPTのインテリジェントUIを自分で🐐🤘試してみてください。",
+  "source": "OpenAI",
+  "type": "video",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/RLQR5_5fJDA/hqdefault.jpg",
+  "published": "2026-10-23T06:58+09:00",
+  "collected": "2026-10-23T10:30+09:00",
+  "title_orig": "Messi asks ChatGPT to teach him a chess opening",
+  "summary_orig": "Messi asked ChatGPT to teach him a chess opening that matched his style. It suggested Goat Horns. 🐐🤘 Try ChatGPT's Intelligent UI yourself: “Based on what you k"
+ },
+ {
   "id": "1437b0ebe886",
   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
   "title": "Canvaの最初のAI画像モデルは、デザインを生成する前にデザインを計画します",
@@ -471,6 +516,22 @@
   "collected": "2026-10-23T08:59+09:00",
   "title_orig": "Meta’s AI could still scrape news sites, legal experts say",
   "summary_orig": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say"
+ },
+ {
+  "id": "2f61aa35d4a9",
+  "url": "https://www.youtube.com/shorts/G8NkX0LQl6M",
+  "title": "新機能！カスタムフィードと更新されたサブフィードナビゲーション",
+  "summary": "カスタムフィードを使用して、探している正確なトピックやバイブレーションを説明することで、YouTubeホームページを完全に見直すことができます。3通常のアカウントでは、",
+  "source": "Creator Insider（YouTube公式）",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/G8NkX0LQl6M/hqdefault.jpg",
+  "published": "2026-10-23T05:11+09:00",
+  "collected": "2026-10-23T10:30+09:00",
+  "title_orig": "New! Custom Feeds & Updated Subs Feed Navigation",
+  "summary_orig": "You can completely reimagine your YouTube Home page by describing the exact topics or vibes you’re looking for - with custom feeds! 3 for regular accounts, up t"
  },
  {
   "id": "9c6552bd6dc0",
@@ -697,6 +758,22 @@
   "collected": "2026-10-23T08:59+09:00",
   "title_orig": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
   "summary_orig": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft A"
+ },
+ {
+  "id": "ab41ce0092ec",
+  "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
+  "title": "UberがChatGPT Workを3万人以上の従業員に展開",
+  "summary": "1,000人のパイロットに続いて、Uberはエージェントプラットフォーの最初の全社展開で、ChatGPT Workを世界中の30,000人以上の従業員に提供しています",
+  "source": "OpenAI",
+  "type": "video",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/l16Gw7oVLNQ/hqdefault.jpg",
+  "published": "2026-10-23T03:00+09:00",
+  "collected": "2026-10-23T10:30+09:00",
+  "title_orig": "Uber rolls out ChatGPT Work to 30,000+ employees",
+  "summary_orig": "Following a 1,000-person pilot, Uber is bringing ChatGPT Work to more than 30,000 employees worldwide in its first company-wide deployment of an agentic platfor"
  },
  {
   "id": "1fc68e0e835e",
@@ -1171,7 +1248,7 @@
   "thumbnail": null,
   "published": "2026-10-22T19:00+09:00",
   "collected": "2026-10-23T09:10+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "The Secrets of Human Behavior Applied to Social Ads",
   "summary_orig": "Struggling to create Facebook, Instagram, or TikTok ads that people remember long enough to buy from you? Wondering how consumer psychology can tell you why you"
  },
@@ -1188,7 +1265,7 @@
   "thumbnail": null,
   "published": "2026-10-22T18:30+09:00",
   "collected": "2026-10-23T09:10+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Task Automation Tips, AI-Build Landing Pages, and Industry News",
   "summary_orig": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to mis"
  },
@@ -1381,7 +1458,7 @@
   "thumbnail": null,
   "published": "2026-10-22T15:00+09:00",
   "collected": "2026-10-23T09:56+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "What FDE means at OpenAI",
   "summary_orig": "What forward deployed engineering means at OpenAI"
  },
@@ -1536,7 +1613,7 @@
   "thumbnail": null,
   "published": "2026-10-22T12:00+09:00",
   "collected": "2026-10-23T09:10+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d14040b233f8",
@@ -1881,6 +1958,22 @@
   "_thumb_tries": 3,
   "title_orig": "Meta adds users and revenue as AI costs climb",
   "summary_orig": "Third-quarter revenue rose 26% year over year to nearly $65 billion, but expenses were up 68% due to capital expenditures."
+ },
+ {
+  "id": "ddb41a087627",
+  "url": "https://www.youtube.com/watch?v=20IRGgQwPkc",
+  "title": "V 7はGPT ‑ 5.6 Lunaで精度を高めながらコストを78 ％削減",
+  "summary": "V 7 Goは、エージェントが投資取引をスクリーニングし、保険引受をサポートするためにクエリできるコンテキストグラフに会社ファイルを整理します。V 7の最も難しいグラフでは、",
+  "source": "OpenAI",
+  "type": "video",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/20IRGgQwPkc/hqdefault.jpg",
+  "published": "2026-10-22T07:05+09:00",
+  "collected": "2026-10-23T10:30+09:00",
+  "title_orig": "V7 cuts costs 78% while boosting accuracy with GPT‑5.6 Luna",
+  "summary_orig": "V7 Go organizes company files into a Context Graph that agents can query to screen investment deals and support insurance underwriting. On V7’s hardest graph-qu"
  },
  {
   "id": "21997431c174",
