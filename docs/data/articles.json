@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-23T09:10+09:00",
+  "last_updated": "2026-10-23T09:56+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,22 @@
   ]
  },
  "items": [
+  {
+   "id": "8937fd9c8277",
+   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+   "title": "何もすることがなく、AIエージェントがプレイし始めました",
+   "summary": "MITの研究者は13人のAIをバーチャルアイランドに置き去りにし、ゲームを発明し、失われた指輪を悼み、最終的には仕事を上達させることで対応しました。",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+   "published": "2026-10-23T09:45+09:00",
+   "collected": "2026-10-23T09:56+09:00",
+   "title_orig": "Left alone with nothing to do, AI agents started playing",
+   "summary_orig": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+  },
   {
    "id": "86ffa5772e91",
    "url": "https://ascii.jp/elem/000/004/445/4445106/?rss",
@@ -100,7 +116,7 @@
    "thumbnail": null,
    "published": "2026-10-23T09:00+09:00",
    "collected": "2026-10-23T09:10+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "87a563b67372",
@@ -245,7 +261,7 @@
    "thumbnail": null,
    "published": "2026-10-23T08:00+09:00",
    "collected": "2026-10-23T08:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "882f39312267",
@@ -260,7 +276,7 @@
    "thumbnail": null,
    "published": "2026-10-23T08:00+09:00",
    "collected": "2026-10-23T08:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5012f4ba5e97",
@@ -336,7 +352,7 @@
    "thumbnail": null,
    "published": "2026-10-23T07:05+09:00",
    "collected": "2026-10-23T08:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "27f987c59c4f",
@@ -547,7 +563,7 @@
    "thumbnail": null,
    "published": "2026-10-23T04:00+09:00",
    "collected": "2026-10-23T08:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Build more responsive apps with the Decisions API",
    "summary_orig": "Fast, focused, low-cost decisions for any application."
   },
@@ -644,7 +660,7 @@
    "thumbnail": null,
    "published": "2026-10-23T03:09+09:00",
    "collected": "2026-10-23T08:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Donating Agent Skills to the Agentic AI Foundation",
    "summary_orig": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral"
   },
@@ -947,7 +963,7 @@
    "thumbnail": null,
    "published": "2026-10-23T00:34+09:00",
    "collected": "2026-10-23T08:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting Armin Ronacher",
    "summary_orig": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , gene"
   },
@@ -1138,7 +1154,7 @@
    "thumbnail": null,
    "published": "2026-10-22T20:11+09:00",
    "collected": "2026-10-23T08:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "48bb15f5555c",
@@ -1185,7 +1201,7 @@
    "thumbnail": null,
    "published": "2026-10-22T19:00+09:00",
    "collected": "2026-10-23T09:10+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "The Secrets of Human Behavior Applied to Social Ads",
    "summary_orig": "Struggling to create Facebook, Instagram, or TikTok ads that people remember long enough to buy from you? Wondering how consumer psychology can tell you why you"
   },
@@ -1218,7 +1234,7 @@
    "thumbnail": null,
    "published": "2026-10-22T18:30+09:00",
    "collected": "2026-10-23T09:10+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Task Automation Tips, AI-Build Landing Pages, and Industry News",
    "summary_orig": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to mis"
   },
@@ -1385,6 +1401,23 @@
    "collected": "2026-10-23T08:59+09:00"
   },
   {
+   "id": "63c31ca523f9",
+   "url": "https://openai.com/index/forward-deployed-engineering-means",
+   "title": "OpenAIにおけるFDEの意味",
+   "summary": "OpenAIでの前方デプロイされたエンジニアリングの意味",
+   "source": "OpenAI",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-22T15:00+09:00",
+   "collected": "2026-10-23T09:56+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "What FDE means at OpenAI",
+   "summary_orig": "What forward deployed engineering means at OpenAI"
+  },
+  {
    "id": "f7e36a3fd862",
    "url": "https://news.yahoo.co.jp/articles/49bba63c3e153f254193c80e4ef36f809dbdab9d",
    "title": "Anthropic、先回りしてユーザーを助ける秘書エージェント「Claude Duet」を発表（窓の杜）",
@@ -1523,6 +1556,20 @@
    "collected": "2026-10-23T09:10+09:00"
   },
   {
+   "id": "1f3e9174825b",
+   "url": "https://prtimes.jp/main/html/rd/p/000000009.000184951.html",
+   "title": "サイオニックエーアイ、AIと対話しながら業務用AIエージェントを構築・改善できる「STORM Act」を日本で正式提供開始",
+   "summary": "サイオニックエーアイ、AIと対話しながら業務用AIエージェントを構築・改善できる「STORM Act」を日本で正式提供開始",
+   "source": "PR TIMES",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/184951/9/184951-9-1489044ab255310d4310892ba61a8849-1400x867.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-22T13:00+09:00",
+   "collected": "2026-10-23T09:56+09:00"
+  },
+  {
    "id": "295a11220732",
    "url": "https://markezine.jp/article/detail/77734",
    "title": "顧客がAIに質問したとき、あなたのブランドは適切に表示されていますか？",
@@ -1535,7 +1582,7 @@
    "thumbnail": null,
    "published": "2026-10-22T12:00+09:00",
    "collected": "2026-10-23T09:10+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "d14040b233f8",
@@ -1651,7 +1698,7 @@
    "thumbnail": null,
    "published": "2026-10-22T09:00+09:00",
    "collected": "2026-10-23T08:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Uber brings ChatGPT Work to all employees with OpenAI",
    "summary_orig": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
   },
@@ -3753,7 +3800,7 @@
    "id": "20865beac534",
    "url": "https://marketing.itmedia.co.jp/mm/articles/2610/21/news006.html",
    "title": "期待の新星「ChatGPT広告」 しかし“広告だけで効果が出る”とは言い切れない、そのワケは？",
-   "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððððððððúÒÅ «éÍ © BÜ ½ A",
+   "summary": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððððððððúÒÅ «éÍ © BÜ ½ A",
    "source": "ITmedia マーケティング",
    "type": "article",
    "tier": "media",
@@ -3762,7 +3809,7 @@
    "thumbnail": "https://image.itmedia.co.jp/mm/articles/2610/21/cover_news006.jpg",
    "published": "2026-10-21T07:00+09:00",
    "collected": "2026-10-21T08:55+09:00",
-   "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøðððððððððúÒÅ «éÍ © BÜ ½ A"
+   "summary_orig": "2026 N 6 © çuChatGPTLvªú {ÅàX ^[ g µ½ BChatGPTLÍAõA ®^ LâSNSLÆ ¢ Á ½] Í ^ p ^ LÆ ½ ªá ¢ AÇñÈøððððððððððúÒÅ «éÍ © BÜ ½ A"
   },
   {
    "id": "329fc72597e2",
@@ -9191,52 +9238,6 @@
    "collected": "2026-10-16T09:45+09:00",
    "title_orig": "TikTok shares holiday sales data",
    "summary_orig": "The company said in-app sales surpassed $500 million between Black Friday Cyber Monday last year and users are currently looking for holiday inspiration."
-  },
-  {
-   "id": "ead7e2d522ef",
-   "url": "https://webtan.impress.co.jp/e/2026/10/16/53452",
-   "title": "「脱オムニチャネル」「リアルの熱狂体験」―EC売上160億円超のイズミセ、「Yodobloom」の事例に学ぶAI時代のEC・店舗戦略",
-   "summary": "「脱オムニチャネル」「リアルの熱狂体験」―EC売上160億円超のイズミセ、「Yodobloom」の事例に学ぶAI時代のEC・店舗戦略 fujita-h 2026年10月16日 ネットショップ担当者フォーラム 特選記事 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 この記事は、姉妹サイト ネットシ",
-   "source": "Web担当者フォーラム",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-16T06:55+09:00",
-   "collected": "2026-10-16T08:41+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "d86dae2ca61e",
-   "url": "https://webtan.impress.co.jp/e/2026/10/16/53451",
-   "title": "AIでECマーケはどう変わる？ アスクルの最新事例＆AI検索を味方につける集客の新常識【11/5＋6 リアルセミナー開催】",
-   "summary": "AIでECマーケはどう変わる？ アスクルの最新事例＆AI検索を味方につける集客の新常識【11/5＋6 リアルセミナー開催】 fujita-h 2026年10月16日 ネットショップ担当者フォーラム 特選記事 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 この記事は、姉妹サイト ネットショップ担当",
-   "source": "Web担当者フォーラム",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-16T06:50+09:00",
-   "collected": "2026-10-16T08:41+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "54d7a618ecd3",
-   "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-   "title": "トランプ大統領、ホワイトハウスの修復作業を自慢するためにAI編集された写真を投稿",
-   "summary": "ドナルド・トランプ大統領は、ホワイトハウスの改装を紹介する一連の写真をTruth Socialに投稿しましたが、そのうちの1つはAIで変更されているようです。",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200",
-   "published": "2026-10-16T06:09+09:00",
-   "collected": "2026-10-16T08:41+09:00",
-   "title_orig": "Trump posts AI-edited photo to brag about White House restoration work",
-   "summary_orig": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. Th"
   }
  ]
 }
