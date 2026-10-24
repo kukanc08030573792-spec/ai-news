@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-24T09:01+09:00",
+  "last_updated": "2026-10-24T10:03+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -119,6 +119,20 @@
    "collected": "2026-10-24T08:52+09:00",
    "title_orig": "Hunt bugs with your dot",
    "summary_orig": "We’re using dots to build better dots. Rennie Song, an engineer at OpenAI, uses her dot to gather feedback from social media and user reports, update a live tra"
+  },
+  {
+   "id": "2c3355d8bfbd",
+   "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/3035310?display=1",
+   "title": "【Meta“ナンバー2”が語る「Muse」日本上陸】GPT・Claudeに挑む「パーソナル超知能」の勝算／ザッカーバーグ氏と二人三脚／“29歳”最高AI責任者アレクサンダー・ワン【1on1 Tech】",
+   "summary": "最先端のテックストーリーをわかりやすくお届けする番組「1on1 Tech」。今回のテーマは【AIエージェント「Muse」日本で登場 Meta最高AI責任者に直撃】です。",
+   "source": "TBS NEWS DIG",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://newsdig.ismcdn.jp/mwimgs/d/0/1200w/img_d0d1a8cbed579765794c4aa2d953fd931011766.jpg",
+   "published": "2026-10-24T07:00+09:00",
+   "collected": "2026-10-24T10:03+09:00"
   },
   {
    "id": "18216b018fb1",
@@ -404,7 +418,7 @@
    "thumbnail": null,
    "published": "2026-10-24T02:00+09:00",
    "collected": "2026-10-24T08:52+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
    "summary_orig": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
   },
@@ -689,7 +703,7 @@
    "thumbnail": null,
    "published": "2026-10-23T19:00+09:00",
    "collected": "2026-10-24T08:52+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Securing our frontier model training environment",
    "summary_orig": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
   },
@@ -738,7 +752,7 @@
    "thumbnail": null,
    "published": "2026-10-23T18:00+09:00",
    "collected": "2026-10-24T09:01+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "c32dd352347b",
@@ -781,7 +795,7 @@
    "thumbnail": null,
    "published": "2026-10-23T16:30+09:00",
    "collected": "2026-10-24T09:01+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "429faeb672da",
@@ -866,7 +880,7 @@
    "thumbnail": null,
    "published": "2026-10-23T14:45+09:00",
    "collected": "2026-10-24T09:01+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "6c920b5e57e0",
@@ -1060,7 +1074,7 @@
    "thumbnail": null,
    "published": "2026-10-23T09:00+09:00",
    "collected": "2026-10-24T08:52+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "OpenAI and Poland’s NASK partner to advance AI safety and security",
    "summary_orig": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
   },
@@ -1324,7 +1338,7 @@
    "thumbnail": null,
    "published": "2026-10-23T07:30+09:00",
    "collected": "2026-10-24T09:01+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Meta offers insights on individual platform growth",
    "summary_orig": "Alongside its third quarter earnings, the company revealed usage notes and engagement data for Facebook, Instagram and Threads."
   },
@@ -1505,7 +1519,7 @@
    "thumbnail": null,
    "published": "2026-10-23T06:22+09:00",
    "collected": "2026-10-24T09:01+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Snapchat says some AI users are willing to trade privacy for utility",
    "summary_orig": "A new study examines the evolving attitudes about artificial intelligence tools and data collection."
   },
@@ -1632,7 +1646,7 @@
    "thumbnail": null,
    "published": "2026-10-23T04:25+09:00",
    "collected": "2026-10-24T09:01+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Google adds brand management tools to Gemini",
    "summary_orig": "The artificial intelligence-powered platform now includes a refreshed landing page, support for third-party apps and more image generation abilities."
   },
@@ -1649,7 +1663,7 @@
    "thumbnail": null,
    "published": "2026-10-23T04:22+09:00",
    "collected": "2026-10-24T09:01+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "LinkedIn publishes new guide to B2B conversion tracking",
    "summary_orig": "The overview offers information on gauging promotional performance and includes a clear step-by-step breakdown of what to do."
   },
@@ -4020,22 +4034,6 @@
    "summary_orig": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the huma"
   },
   {
-   "id": "0fff47054cc3",
-   "url": "https://www.latent.space/p/claude-mods",
-   "title": "クロードモッド：ハーネスを裏返す",
-   "summary": "Claude Modsは、Attention Interfaceの初期の形です。エージェントハーネスパラダイムをマシンに面したハーネスからヒューマに面したハーネスに反転させます",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!Kjjn!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc61f4d99-31a9-4e4c-aa02-65e5b5db1799_1280x720.png",
-   "published": "2026-10-21T22:04+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "title_orig": "Claude Mods: Flipping the Harness Inside Out",
-   "summary_orig": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the huma"
-  },
-  {
    "id": "74fcf21eca7a",
    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
    "title": "10万人以上の広告主がこのプラットフォームを使用しているため、ChatGPT Adsは26か国に新たに拡大しました",
@@ -4433,22 +4431,6 @@
    "summary_orig": "An open source “bomb” drops from China"
   },
   {
-   "id": "7dadac6a0582",
-   "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-   "title": "[AINews] DeepSeek DeepInfer ：オープンソースのSOTA Inferenceは1日155 Tトークン/クラスターを実行し、81日間の投資回収で約80 ％のマージンで2200万$/日を達成",
-   "summary": "中国からのオープンソースの「爆弾」投下",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!tu5N!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07a949cd-f727-48e2-9bd4-c4d110bf94e9_1326x1362.png",
-   "published": "2026-10-21T15:54+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "title_orig": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-   "summary_orig": "An open source “bomb” drops from China"
-  },
-  {
    "id": "22b8bad1d400",
    "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/",
    "title": "OpenAIの常時稼働エージェント「dots」、日本のユーザー数は「世界2位」 「仕事の在り方を大きく変える可能性」と長?社長",
@@ -4519,22 +4501,6 @@
    "collected": "2026-10-24T08:52+09:00",
    "title_orig": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
    "summary_orig": "Paying for outcomes, building with agents, and the last mile of enterprise AI adoption"
-  },
-  {
-   "id": "a6e1fb4e076b",
-   "url": "https://www.latent.space/p/tenex",
-   "title": "フォーチュン2000のためのAI ： TenexがAIネイティブSDLCを構築する方法— Alex LiebermanとCJ Hess",
-   "summary": "今すぐ聴く（ 44分） |成果の支払い、エージェントとの構築、エンタープライズAI採用の最後の1マイル",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!pIOZ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e7a898f-f3ec-4ab5-bf13-fb5d76fff9cb_1672x941.png",
-   "published": "2026-10-21T14:01+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "title_orig": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-   "summary_orig": "Listen now (44 mins) | Paying for outcomes, building with agents, and the last mile of enterprise AI adoption"
   },
   {
    "id": "1de8e62ff715",
@@ -5408,22 +5374,6 @@
    "thumbnail": "https://latent.space/og/card/post/sfcompute2/d89cc15816ba950ed64335cad4600581b70a52fb0b08a528cd1bdb75a11addf9.png",
    "published": "2026-10-21T04:31+09:00",
    "collected": "2026-10-24T08:52+09:00",
-   "title_orig": "The Programmable Data Center — Evan Conrad, SF Compute",
-   "summary_orig": "From GPU trading to physical settlement, independent markets, and programmable compute"
-  },
-  {
-   "id": "b88101e5b9e0",
-   "url": "https://www.latent.space/p/sfcompute2",
-   "title": "プログラマブルデータセンター— Evan Conrad、SF Compute",
-   "summary": "GPU取引から物理的な決済、独立市場、プログラム可能なコンピューティングまで",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!uXAL!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F221372257%2F628fa070-efc0-490c-a5b8-048f7daa656e%2Ftranscoded-1792523882.png",
-   "published": "2026-10-21T04:31+09:00",
-   "collected": "2026-10-21T08:55+09:00",
    "title_orig": "The Programmable Data Center — Evan Conrad, SF Compute",
    "summary_orig": "From GPU trading to physical settlement, independent markets, and programmable compute"
   },
@@ -6591,22 +6541,6 @@
    "thumbnail": "https://latent.space/og/card/post/ainews-not-much-happened-today-f09/525c7342dd7c0ac2675863803c0cc0d2d7bdb640f3b611cf31bc54fd60188443.png",
    "published": "2026-10-20T14:21+09:00",
    "collected": "2026-10-24T08:52+09:00",
-   "title_orig": "[AINews] not much happened today",
-   "summary_orig": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet."
-  },
-  {
-   "id": "fb236cc542ed",
-   "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
-   "title": "[AINews]今日はあまり起こりませんでした",
-   "summary": "DeepSeek V4.1 Flash 1017、MiniMax M3.1 Flash、Mercury 3 （詳細は以下）におめでとうございますが、まだ超広く使用される予定はありません。",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://substackcdn.com/image/fetch/$s_!otPo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHVBPHSjWcAAHoHt.jpg",
-   "published": "2026-10-20T14:21+09:00",
-   "collected": "2026-10-21T08:55+09:00",
    "title_orig": "[AINews] not much happened today",
    "summary_orig": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet."
   },
