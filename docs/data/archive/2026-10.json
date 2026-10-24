@@ -3,7 +3,7 @@
   "id": "87ba85982be9",
   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
   "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
-  "summary": "GartnerÍAFDEiForward Deployed EngineeringjÉæÁÄ\\ z ³ ê ½ G [WFg ^ AIÉÂ ¢ ÄA 2028 NÜÅÉÉÆÍ7ªúü · éÆÍÍ\\ ªð ­\\µ½ BÇ ¤ ¢ ¤± Æ © B",
+  "summary": "GartnerÍAFDEiForward Deployed EngineeringjÉæÁÄ\\ z ³ ê ½ G [WFg ^ AIÉÂ ¢ ÄA 2028 NÜÅÉÉÆÍ7ªúü · éÍÍÍ\\ ªð ­\\µ½ BÇ ¤ ¢ ¤± Æ © B",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -12,7 +12,7 @@
   "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/24/cover_news006.jpg",
   "published": "2026-10-24T08:15+09:00",
   "collected": "2026-10-24T08:52+09:00",
-  "summary_orig": "GartnerÍAFDEiForward Deployed EngineeringjÉæÁÄ\\z³ê½G[WFg^AIÉÂ¢ÄA2028NÜÅÉéÆÌ7ªúü·éÆÌ\\ªð­\\µ½BÇ¤¢¤±Æ©B"
+  "summary_orig": "GartnerÍAFDEiForward Deployed EngineeringjÉæÁÄ\\ z ³ ê ½ G [WFg ^ AIÉÂ ¢ ÄA 2028 NÜÅÉÉÆÍ7ªúü · éÆÍÍ\\ ªð ­\\µ½ BÇ ¤ ¢ ¤± Æ © B"
  },
  {
   "id": "f699a3e5cdaf",
@@ -358,7 +358,7 @@
   "thumbnail": null,
   "published": "2026-10-24T02:00+09:00",
   "collected": "2026-10-24T08:52+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
   "summary_orig": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
  },
@@ -643,7 +643,7 @@
   "thumbnail": null,
   "published": "2026-10-23T19:00+09:00",
   "collected": "2026-10-24T08:52+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Securing our frontier model training environment",
   "summary_orig": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
  },
@@ -664,6 +664,94 @@
   "summary_orig": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery"
  },
  {
+  "id": "78d366adf144",
+  "url": "https://buffer.com/resources/instagram-algorithms/",
+  "title": "Instagramアルゴリズムの仕組み： 2026年最新ガイド",
+  "summary": "Instagramアルゴリズムがフィード、ストーリー、リール、エクスプローラーをどのようにランク付けしているか、さらにAdam Mosseri氏が最も重要だと言っている3つのシグナルについて学びましょう。",
+  "source": "Buffer",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2026/03/Instagram-algorithm.png",
+  "published": "2026-10-23T18:00+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "title_orig": "How the Instagram Algorithm Works: Your Up-to-Date 2026 Guide",
+  "summary_orig": "Learn how the Instagram algorithm ranks feed, stories, reels, and explore, plus the three signals Adam Mosseri says matter most."
+ },
+ {
+  "id": "b82a961d663a",
+  "url": "https://markezine.jp/article/detail/77913",
+  "title": "Magic Moment、営業情報をClaude・ChatGPTで参照できるMCPサーバー提供",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-23T18:00+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "c32dd352347b",
+  "url": "https://www.advertimes.com/20261023/article561454/?utm_source=feed",
+  "title": "「大阪ええところ」「こっちでもええですやん」関西新世代クリエイターのキャリア戦略 来春から大阪で働く内定者が取材",
+  "summary": "虎ノ門広告祭2日目の10月10日に「この企画、関西だったらいけるかも～関西クリエイティブに狙いをつけた 新世代クリエイターたちの戦略的キャリア～」が開催された。 The post 「大阪ええところ」「こっちでもええですやん」関西新世代クリエイターのキャリア戦略 来春から大阪で働く内定者が取材 first appeare",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/toradfes-osaka-ogp-1.jpg",
+  "published": "2026-10-23T17:56+09:00",
+  "collected": "2026-10-24T09:01+09:00"
+ },
+ {
+  "id": "26fe6c4063c0",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/",
+  "title": "サイバー攻撃AIツール「ARTEX」とは 中国政府と連携する攻撃者も使用、各国で悪用確認",
+  "summary": "中国語話者の開発者が「学習と研究目的」で公開したAI自律型侵入テストツール「ARTEX」。MicrosoftやCrowdStrikeが悪用例を報告し、日本企業約20社への攻撃にも使われた。作者は公開を停止したが、改変版が増殖している。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/23/2000002552/10010299/2048",
+  "published": "2026-10-23T17:37+09:00",
+  "collected": "2026-10-24T09:01+09:00"
+ },
+ {
+  "id": "269839719791",
+  "url": "https://markezine.jp/article/detail/77906",
+  "title": "「Synergy!」、企業ごとのメール・架電文面をAIが作成する「商談化AI（β）」を提供開始",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-23T16:30+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "429faeb672da",
+  "url": "https://www.advertimes.com/20261023/article561516/?utm_source=feed",
+  "title": "今年の「ディグダ」は“個体差”どうなる？ 2年前の大騒動で実は「製造再指導」、ミスドが明かした「アローラディグダ」の舞台裏",
+  "summary": "ミスタードーナツが10月20日に発表した新商品「ポン・デ・アローラディグダ」が、発売前からSNSで話題となった。 The post 今年の「ディグダ」は“個体差”どうなる？ 2年前の大騒動で実は「製造再指導」、ミスドが明かした「アローラディグダ」の舞台裏 first appeared on AdverTimes.（アド",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/digda-ogp.jpg",
+  "published": "2026-10-23T16:17+09:00",
+  "collected": "2026-10-24T09:01+09:00"
+ },
+ {
   "id": "975d6ba9f571",
   "url": "https://prtimes.jp/main/html/rd/p/000000135.000077879.html",
   "title": "Stripe と Anthropic、Claude Duet 内でビジネス運営を支援 | ストライプジャパン株式会社のプレスリリース",
@@ -676,6 +764,151 @@
   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/77879/135/77879-135-517062902719305f5603a2d561f68ddb-1024x512.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "published": "2026-10-23T15:30+09:00",
   "collected": "2026-10-24T08:52+09:00"
+ },
+ {
+  "id": "db1bef4053ee",
+  "url": "https://www.commercepick.com/archives/105411",
+  "title": "チャネルトークのAIエージェント「ALF」、サムザップストアで問い合わせ対応自動化を実現し81%を無人対応に成功",
+  "summary": "チャネルトークのAIエージェント「ALF」、サムザップストアで問い合わせ対応自動化を実現し81%を無人対応に成功",
+  "source": "コマースピック",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.commercepick.com/wp-content/uploads/2026/10/29184-194-195bd6dce9d7cda0f722c383cd1eefee-1920x1080-1.webp",
+  "published": "2026-10-23T15:27+09:00",
+  "collected": "2026-10-24T09:01+09:00"
+ },
+ {
+  "id": "25c58b1c445f",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/",
+  "title": "「エージェント向け1Password」発表 AIにパスワード渡さずアクセス権限付与可能に",
+  "summary": "1PasswordはAIエージェントにパスワードを渡さずにアクセス権限を付与できるサービス「1Password for Agents」を発表した。（1/2 ページ）",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/23/2000002545/10010275/2048",
+  "published": "2026-10-23T15:24+09:00",
+  "collected": "2026-10-24T09:01+09:00"
+ },
+ {
+  "id": "6a3f4975305f",
+  "url": "https://prtimes.jp/main/html/rd/p/000000201.000121022.html",
+  "title": "Elithとアプライドオンプレミス生成AI GENFLUX Local の販売・導入支援で業務提携",
+  "summary": "Elithとアプライドオンプレミス生成AI GENFLUX Local の販売・導入支援で業務提携",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/121022/201/121022-201-62eacfd58dba4412a42e234e513b5614-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-23T15:00+09:00",
+  "collected": "2026-10-24T09:01+09:00"
+ },
+ {
+  "id": "cad626c2a1e9",
+  "url": "https://markezine.jp/article/detail/77877",
+  "title": "博報堂とビザスク、AIリサーチからコンサルティングまで事業開発を一気通貫で支援",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-23T14:45+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "6c920b5e57e0",
+  "url": "https://prtimes.jp/main/html/rd/p/000000019.000149931.html",
+  "title": "「1日の業務がリアルに1〜2時間減った」元リクルートの不動産会社社長が、FDEと8業務を2日で自動化。査定書・freee登録・判例botまで。YouTube「出張AI顧問」第2回を公開",
+  "summary": "「1日の業務がリアルに1〜2時間減った」元リクルートの不動産会社社長が、FDEと8業務を2日で自動化。査定書・freee登録・判例botまで。YouTube「出張AI顧問」第2回を公開",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/149931/19/149931-19-6cb4adf45af91fac41a6b4c19e12cd33-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-23T13:33+09:00",
+  "collected": "2026-10-24T09:01+09:00"
+ },
+ {
+  "id": "3602c8887bef",
+  "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+  "title": "UberのライバルであるInDrive Eyes 2027、中央アジアでPony AIとNVIDIAによるロボットタクシーのテスト",
+  "summary": "同社は、2027年前半にカザフスタンの首都でPony.aiのロボットタクシーのテストを開始する予定だ。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+  "published": "2026-10-23T13:00+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "title_orig": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+  "summary_orig": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+ },
+ {
+  "id": "097c1d813a7c",
+  "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html",
+  "title": "プロンプトガチャはもう古い――「ハーネスの父」が明かす、AI駆動開発の極意",
+  "summary": "GoogleÍAAIG [WFgÉæéJ ­ ðe [} Éµ ½ ðà ® æuThe Agent Factoryvðvñµ ½ LðöJµ ½ BGoogleÍGWjAªG [WFgn [lXÍdv «ðêÁÄ",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/23/cover_news030.jpg",
+  "published": "2026-10-23T12:45+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "summary_orig": "GoogleÍAAIG[WFgÉæéJ­ðe[}Éµ½ðà®æuThe Agent Factoryvðvñµ½LðöJµ½BGoogleÌGWjAªG[WFgn[lXÌdv«ðêÁÄ"
+ },
+ {
+  "id": "925d5f2c3d11",
+  "url": "https://www.advertimes.com/20261023/article561395/?utm_source=feed",
+  "title": "「無関心層を振り向かせる主役へ」――縦型動画とSNSバズの裏にある緻密なクリエイティブ設計",
+  "summary": "10月9日から開催中の「虎ノ門広告祭2026」では、現代の広告コミュニケーションをめぐる多様なセッションが展開されている。 The post 「無関心層を振り向かせる主役へ」――縦型動画とSNSバズの裏にある緻密なクリエイティブ設計 first appeared on AdverTimes.（アドタイ） by 宣伝会議",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/toranomon-creative-ogp.jpg",
+  "published": "2026-10-23T12:32+09:00",
+  "collected": "2026-10-24T09:01+09:00"
+ },
+ {
+  "id": "e523a0665c2f",
+  "url": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
+  "title": "“あいまいな指示”を入力されたAIは安全なコーディングができない？ 香港科技大などが調査",
+  "summary": "香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/23/2000002513/10010180/2048",
+  "published": "2026-10-23T12:00+09:00",
+  "collected": "2026-10-24T09:01+09:00"
+ },
+ {
+  "id": "9493eb30068c",
+  "url": "https://www.itmedia.co.jp/enterprise/articles/2610/22/news077.html",
+  "title": "1バイト違えば不合格のCOBOL移行、OpenAI新モデルの正解率は？",
+  "summary": "wK \\[ XÍ ­ È ¢ COBOLâFortranðAAIÍÇ ± ÜÅµ ¦ éÍ © BOpenAIÍA 20 ¾ êÅf [^ x [XGWð\\ z · éeXgÅAVfÍ ½ Åi ¦ª] fÍ26.8",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2610/22/cover_news077.jpg",
+  "published": "2026-10-23T11:30+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "summary_orig": "wK\\[XÌ­È¢COBOLâFortranðAAIÍÇ±ÜÅµ¦éÌ©BOpenAIÍA20¾êÅf[^x[XGWð\\z·éeXgÅAVfÌ½Ïi¦ª]fÌ26.8"
  },
  {
   "id": "822412740c4f",
@@ -720,7 +953,7 @@
   "thumbnail": null,
   "published": "2026-10-23T10:00+09:00",
   "collected": "2026-10-23T10:30+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "8937fd9c8277",
@@ -824,7 +1057,7 @@
   "thumbnail": null,
   "published": "2026-10-23T09:00+09:00",
   "collected": "2026-10-24T08:52+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "OpenAI and Poland’s NASK partner to advance AI safety and security",
   "summary_orig": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
  },
@@ -843,6 +1076,20 @@
   "collected": "2026-10-24T08:52+09:00",
   "title_orig": "Does Your Model Run on AWS Trainium? Look It Up",
   "summary_orig": "We’re on a journey to advance and democratize artificial intelligence through open source and open science."
+ },
+ {
+  "id": "dd3af8a46b5c",
+  "url": "https://cloud.watch.impress.co.jp/docs/news/2149952.html",
+  "title": "パーソルビジネスプロセスデザイン、採用業務の運用・自動化・データ分析を一気通貫で支援する「AI RPO by 採用のゼロ化」",
+  "summary": "パーソルビジネスプロセスデザイン株式会社は21日、採用業務の負荷増大や属人化、データを活用した改善に課題を抱える企業を対象に、採用業務の運用からAI・自動化技術の活用、データ分析に基づく改善提案までを一気通貫で支援するサービス「AI RPO by 採用のゼロ化」を提供開始すると発表した。",
+  "source": "クラウド Watch",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cloud.watch.impress.co.jp/img/clw/list/2149/952/01.jpg",
+  "published": "2026-10-23T09:00+09:00",
+  "collected": "2026-10-24T09:01+09:00"
  },
  {
   "id": "87a563b67372",
@@ -1034,6 +1281,23 @@
   "summary_orig": "xm\\ tgÆ_Ch [ÍA ¦­ {bgü ¯ utBWJAIX ^[ gpbP [Wvð ¤ ¯ ÅJ µ A 2027 N 1 © ç {iIÉó ® ðJn · éB"
  },
  {
+  "id": "6a75c90af370",
+  "url": "https://www.socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807/",
+  "title": "Metaは、個々のプラットフォームの成長に関する洞察を提供します",
+  "summary": "第3四半期の収益に加えて、同社はFacebook、Instagram、Threadsの使用状況メモとエンゲージメントデータを公開しました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-23T07:30+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Meta offers insights on individual platform growth",
+  "summary_orig": "Alongside its third quarter earnings, the company revealed usage notes and engagement data for Facebook, Instagram and Threads."
+ },
+ {
   "id": "95eb6975ad24",
   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
   "title": "データベースグレーディングをRL報酬に変える： ThinkingBoxを使用したポストトレーニングエージェント",
@@ -1199,6 +1463,23 @@
   "summary_orig": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond"
  },
  {
+  "id": "2cdfa47ce7d8",
+  "url": "https://www.socialmediatoday.com/news/snapchat-says-some-ai-users-are-willing-to-trade-privacy-for-utility/833803/",
+  "title": "Snapchatによると、一部のAIユーザーはプライバシーをユーティリティと交換したいと言っている",
+  "summary": "新しい研究では、人工知能ツールとデータ収集に関する進化する態度を調べています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-23T06:22+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Snapchat says some AI users are willing to trade privacy for utility",
+  "summary_orig": "A new study examines the evolving attitudes about artificial intelligence tools and data collection."
+ },
+ {
   "id": "6401c720abcc",
   "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
   "title": "長持ちするように構築されたAIサービングハーネスの設計",
@@ -1291,6 +1572,40 @@
   "collected": "2026-10-23T08:59+09:00",
   "title_orig": "DE STAAT - FREEDOM (Official Music Video)",
   "summary_orig": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visua"
+ },
+ {
+  "id": "a5525c6be060",
+  "url": "https://www.socialmediatoday.com/news/google-adds-brand-management-tools-to-gemini/833790/",
+  "title": "GoogleがGeminiにブランド管理ツールを追加",
+  "summary": "人工知能を搭載したプラットフォームには、更新されたランディングページ、サードパーティアプリのサポート、およびより多くの画像生成機能が含まれるようになりました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-23T04:25+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Google adds brand management tools to Gemini",
+  "summary_orig": "The artificial intelligence-powered platform now includes a refreshed landing page, support for third-party apps and more image generation abilities."
+ },
+ {
+  "id": "c3e5df98a2ce",
+  "url": "https://www.socialmediatoday.com/news/linkedin-publishes-new-guide-to-b2b-conversion-tracking/833776/",
+  "title": "LinkedIn、B 2 Bコンバージョントラッキングに関する新しいガイドを公開",
+  "summary": "概要には、プロモーションの実績を測定するための情報が記載されており、すべきことの明確なステップバイステップの内訳が含まれています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-23T04:22+09:00",
+  "collected": "2026-10-24T09:01+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "LinkedIn publishes new guide to B2B conversion tracking",
+  "summary_orig": "The overview offers information on gauging promotional performance and includes a clear step-by-step breakdown of what to do."
  },
  {
   "id": "fe52d49759b6",
@@ -1549,22 +1864,6 @@
   "collected": "2026-10-23T08:59+09:00",
   "title_orig": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
   "summary_orig": "Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each se"
- },
- {
-  "id": "d636564ee5d9",
-  "url": "https://www.latent.space/p/modal-d",
-  "title": "AIコンピューティングが長方形になる理由— Erik Bernhardsson、Modal CEO",
-  "summary": "Elastic GPU、サンドボックスの成長、エージェントクラウドの経済性",
-  "source": "Latent Space",
-  "type": "article",
-  "tier": "voice",
-  "topic": "ai",
-  "proxy_for": null,
-  "thumbnail": "https://substackcdn.com/image/fetch/$s_!le3e!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F221647996%2F673aa54c-dde5-4192-be14-189872df655b%2Ftranscoded-1792686563.png",
-  "published": "2026-10-23T02:40+09:00",
-  "collected": "2026-10-23T08:59+09:00",
-  "title_orig": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-  "summary_orig": "Elastic GPUs, sandbox growth, and the economics of the agent cloud"
  },
  {
   "id": "a4d3526d3b30",
@@ -1852,22 +2151,6 @@
   "collected": "2026-10-24T08:52+09:00",
   "title_orig": "In my annual letter, I share how we’re building a frontier ecosystem to turn technological progress into real-world outcomes and economic opportunity for people, organizations, and communities everywh",
   "summary_orig": "The post In my annual letter, I share how we’re building a frontier ecosystem to turn technological progress into real-world outcomes and economic opportunity f"
- },
- {
-  "id": "40a420c5a611",
-  "url": "https://www.latent.space/p/moshi",
-  "title": "あなたはチームです— Anekha Sokhalさん、Moshiさん",
-  "summary": "Moshiが市場データを実用的な洞察に変換する方法と、AIツールがトレーダーのワークフローに適合する必要がある理由。",
-  "source": "Latent Space",
-  "type": "article",
-  "tier": "voice",
-  "topic": "ai",
-  "proxy_for": null,
-  "thumbnail": "https://substackcdn.com/image/fetch/$s_!U_nh!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F221404681%2F7532ee0a-716c-45b3-8a1a-8f6a791659de%2Ftranscoded-1792540372.png",
-  "published": "2026-10-22T23:03+09:00",
-  "collected": "2026-10-23T08:59+09:00",
-  "title_orig": "You are the Team — Anekha Sokhal, Moshi",
-  "summary_orig": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow."
  },
  {
   "id": "d15a17ff1fda",
@@ -2195,22 +2478,6 @@
   "collected": "2026-10-23T08:59+09:00",
   "title_orig": "Ensemble forecasting with IBM Granite time-series models",
   "summary_orig": "A Blog post by IBM Research on Hugging Face"
- },
- {
-  "id": "4e2ec0dca813",
-  "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
-  "title": "[AINews] OpenAIのPatch the Planetプログラムは、GPT-5.6 SOLを使用して、Webの70 ％に影響を与えるコアPHPのPHP 2 Shell脆弱性を発見する2つの当事者の1つです。2か月にわたって調整された対応",
-  "summary": "ビッグ・ハーディングが始まる",
-  "source": "Latent Space",
-  "type": "article",
-  "tier": "voice",
-  "topic": "ai",
-  "proxy_for": null,
-  "thumbnail": "https://substackcdn.com/image/fetch/$s_!Ak4o!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f193200-5a32-4d16-8cef-d36ab44b0848_1440x1290.png",
-  "published": "2026-10-22T16:42+09:00",
-  "collected": "2026-10-23T08:59+09:00",
-  "title_orig": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-  "summary_orig": "The Big Hardening begins"
  },
  {
   "id": "dc028fea27bb",
@@ -3709,8 +3976,8 @@
  {
   "id": "5c33d37c37b5",
   "url": "https://latent.space/p/claude-mods/",
-  "title": "Claude Mods: Flipping the Harness Inside Out",
-  "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the huma",
+  "title": "クロードモッド：ハーネスを裏返す",
+  "summary": "Claude Modsは、Attention Interfaceの初期の形です。エージェントハーネスパラダイムをマシンに面したハーネスからヒューマに面したハーネスに反転させます",
   "source": "Latent Space",
   "type": "article",
   "tier": "voice",
@@ -3718,7 +3985,9 @@
   "proxy_for": null,
   "thumbnail": "https://latent.space/og/card/post/claude-mods/4cfacd2135def61b863cc0fe39addb016bf58b39a706d03fac09b0841200cbb0.png",
   "published": "2026-10-21T22:04+09:00",
-  "collected": "2026-10-24T08:52+09:00"
+  "collected": "2026-10-24T08:52+09:00",
+  "title_orig": "Claude Mods: Flipping the Harness Inside Out",
+  "summary_orig": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the huma"
  },
  {
   "id": "74fcf21eca7a",
@@ -4120,8 +4389,8 @@
  {
   "id": "f8078d89c26a",
   "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
-  "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-  "summary": "An open source “bomb” drops from China",
+  "title": "[AINews] DeepSeek DeepInfer ：オープンソースのSOTA Inferenceは1日155 Tトークン/クラスターを実行し、81日間の投資回収で約80 ％のマージンで2200万$/日を達成",
+  "summary": "中国からのオープンソースの「爆弾」投下",
   "source": "Latent Space",
   "type": "article",
   "tier": "voice",
@@ -4129,7 +4398,9 @@
   "proxy_for": null,
   "thumbnail": "https://latent.space/og/card/post/ainews-deepseek-deepinfer-open-source/e2ec3166004a50ebfcec2ce52cac8f66cdb76bd1a975d7ee44e0186ff4a3e426.png",
   "published": "2026-10-21T15:54+09:00",
-  "collected": "2026-10-24T08:52+09:00"
+  "collected": "2026-10-24T08:52+09:00",
+  "title_orig": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+  "summary_orig": "An open source “bomb” drops from China"
  },
  {
   "id": "22b8bad1d400",
@@ -4206,8 +4477,8 @@
  {
   "id": "27ced8676a26",
   "url": "https://latent.space/p/tenex/",
-  "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-  "summary": "Paying for outcomes, building with agents, and the last mile of enterprise AI adoption",
+  "title": "フォーチュン2000のためのAI ： TenexがAIネイティブSDLCを構築する方法— Alex LiebermanとCJ Hess",
+  "summary": "成果に対する支払い、エージェントとの構築、そしてエンタープライズAI採用の最後の1マイル",
   "source": "Latent Space",
   "type": "article",
   "tier": "voice",
@@ -4215,7 +4486,9 @@
   "proxy_for": null,
   "thumbnail": "https://latent.space/og/card/post/tenex/afff902de37985f8aa286fa49efcd3214df506476b9cb14802704bed04032e18.png",
   "published": "2026-10-21T14:01+09:00",
-  "collected": "2026-10-24T08:52+09:00"
+  "collected": "2026-10-24T08:52+09:00",
+  "title_orig": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+  "summary_orig": "Paying for outcomes, building with agents, and the last mile of enterprise AI adoption"
  },
  {
   "id": "1de8e62ff715",
@@ -5095,8 +5368,8 @@
  {
   "id": "977d926a0cb6",
   "url": "https://latent.space/p/sfcompute2/",
-  "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-  "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
+  "title": "プログラマブルデータセンター— Evan Conrad、SF Compute",
+  "summary": "GPU取引から物理的な決済、独立市場、プログラム可能なコンピューティングまで",
   "source": "Latent Space",
   "type": "article",
   "tier": "voice",
@@ -5104,7 +5377,9 @@
   "proxy_for": null,
   "thumbnail": "https://latent.space/og/card/post/sfcompute2/d89cc15816ba950ed64335cad4600581b70a52fb0b08a528cd1bdb75a11addf9.png",
   "published": "2026-10-21T04:31+09:00",
-  "collected": "2026-10-24T08:52+09:00"
+  "collected": "2026-10-24T08:52+09:00",
+  "title_orig": "The Programmable Data Center — Evan Conrad, SF Compute",
+  "summary_orig": "From GPU trading to physical settlement, independent markets, and programmable compute"
  },
  {
   "id": "89c3a087248b",
@@ -6276,8 +6551,8 @@
  {
   "id": "4d5d66fe73af",
   "url": "https://latent.space/p/ainews-not-much-happened-today-f09/",
-  "title": "[AINews] not much happened today",
-  "summary": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet.",
+  "title": "[AINews]今日はあまり起こりませんでした",
+  "summary": "DeepSeek V4.1 Flash 1017、MiniMax M3.1 Flash、Mercury 3 （詳細は以下）におめでとうございますが、まだ超広く使用される予定はありません。",
   "source": "Latent Space",
   "type": "article",
   "tier": "voice",
@@ -6285,7 +6560,9 @@
   "proxy_for": null,
   "thumbnail": "https://latent.space/og/card/post/ainews-not-much-happened-today-f09/525c7342dd7c0ac2675863803c0cc0d2d7bdb640f3b611cf31bc54fd60188443.png",
   "published": "2026-10-20T14:21+09:00",
-  "collected": "2026-10-24T08:52+09:00"
+  "collected": "2026-10-24T08:52+09:00",
+  "title_orig": "[AINews] not much happened today",
+  "summary_orig": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet."
  },
  {
   "id": "50c5a1dde19b",
