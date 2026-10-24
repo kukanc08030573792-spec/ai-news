@@ -1,5 +1,19 @@
 [
  {
+  "id": "c1b5bf9ba952",
+  "url": "https://prtimes.jp/main/html/rd/p/000001390.000059144.html",
+  "title": "【講演レポート】東京都トラック協会様にて「運送事業における生成AI活用事例」をテーマに講演しました",
+  "summary": "【講演レポート】東京都トラック協会様にて「運送事業における生成AI活用事例」をテーマに講演しました",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/59144/1390/59144-1390-3d5fc25caf1d473bba7800b11fd89cee-1114x628.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-24T10:10+09:00",
+  "collected": "2026-10-24T10:34+09:00"
+ },
+ {
   "id": "87ba85982be9",
   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
   "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
@@ -706,7 +720,7 @@
   "thumbnail": null,
   "published": "2026-10-23T18:00+09:00",
   "collected": "2026-10-24T09:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "c32dd352347b",
@@ -749,7 +763,7 @@
   "thumbnail": null,
   "published": "2026-10-23T16:30+09:00",
   "collected": "2026-10-24T09:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "429faeb672da",
@@ -834,7 +848,7 @@
   "thumbnail": null,
   "published": "2026-10-23T14:45+09:00",
   "collected": "2026-10-24T09:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "6c920b5e57e0",
@@ -1307,7 +1321,7 @@
   "thumbnail": null,
   "published": "2026-10-23T07:30+09:00",
   "collected": "2026-10-24T09:01+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Meta offers insights on individual platform growth",
   "summary_orig": "Alongside its third quarter earnings, the company revealed usage notes and engagement data for Facebook, Instagram and Threads."
  },
@@ -1489,7 +1503,7 @@
   "thumbnail": null,
   "published": "2026-10-23T06:22+09:00",
   "collected": "2026-10-24T09:01+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Snapchat says some AI users are willing to trade privacy for utility",
   "summary_orig": "A new study examines the evolving attitudes about artificial intelligence tools and data collection."
  },
@@ -1600,7 +1614,7 @@
   "thumbnail": null,
   "published": "2026-10-23T04:25+09:00",
   "collected": "2026-10-24T09:01+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Google adds brand management tools to Gemini",
   "summary_orig": "The artificial intelligence-powered platform now includes a refreshed landing page, support for third-party apps and more image generation abilities."
  },
@@ -1617,7 +1631,7 @@
   "thumbnail": null,
   "published": "2026-10-23T04:22+09:00",
   "collected": "2026-10-24T09:01+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "LinkedIn publishes new guide to B2B conversion tracking",
   "summary_orig": "The overview offers information on gauging promotional performance and includes a clear step-by-step breakdown of what to do."
  },
