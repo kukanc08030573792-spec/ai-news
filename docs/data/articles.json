@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-25T09:31+09:00",
+  "last_updated": "2026-10-25T10:09+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -124,6 +124,20 @@
    "collected": "2026-10-25T08:17+09:00",
    "title_orig": "Here are the top AI agents that can live in your text messages",
    "summary_orig": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
+   "id": "b7d1ed2ea979",
+   "url": "https://ascii.jp/elem/000/004/445/4445511/?rss",
+   "title": "パソコン操作を完全自動化するRPAエージェント「Cowork」、エクセルなどM365アプリの操作をさらに高速化",
+   "summary": "パソコン操作を完全自動化するRPAエージェント「Cowork」、エクセルなどM365アプリの操作をさらに高速化",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-24T18:03+09:00",
+   "collected": "2026-10-25T10:09+09:00"
   },
   {
    "id": "c1ad71a16e1f",
@@ -9252,22 +9266,6 @@
    "thumbnail": "https://img.biggo.com/17CXfug3-7rkk2K1n_KqCwzMT68xmkVtykXG5sa0nfE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzljZmE3NzJkLTBmMzktNDAzNy1iYzA1LTZmYjI2YzYyMTEyNV8xNzkyMjYwNjU0X2RlZmF1bHQuanBn.jpg",
    "published": "2026-10-18T03:05+09:00",
    "collected": "2026-10-18T08:08+09:00"
-  },
-  {
-   "id": "ac0eba5f3991",
-   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-   "title": "Metaは、ニュースサイトをスクレイピングすることを可能にした可能性のある言語を削除します",
-   "summary": "反発の後、MetaはAIを訓練するためにニュースサイトを含むサイトからコンテンツをスクレイピングする可能性があることを示唆する言語を削除するために、条件を再度更新しています。Sp",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "published": "2026-10-18T00:04+09:00",
-   "collected": "2026-10-18T08:08+09:00",
-   "title_orig": "Meta removes language that may have allowed it to scrape news sites",
-   "summary_orig": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Sp"
   }
  ]
 }
