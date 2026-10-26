@@ -1,5 +1,132 @@
 [
  {
+  "id": "d73f148a5512",
+  "url": "https://prtimes.jp/main/html/rd/p/000005959.000054842.html",
+  "title": "『製造業の仕様書比較、生成AIに読ませたい。でも技術情報は外に出せない』というテーマのウェビナーを開催",
+  "summary": "『製造業の仕様書比較、生成AIに読ませたい。でも技術情報は外に出せない』というテーマのウェビナーを開催",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/54842/5959/54842-5959-7dca654a5ee15a97c67b1056eccc6fa0-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-26T09:00+09:00",
+  "collected": "2026-10-26T09:42+09:00"
+ },
+ {
+  "id": "472deece9bc2",
+  "url": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news017.html",
+  "title": "設計開発の知見をAIとの対話で蓄積、横断検索による回答生成にも対応",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/26/cover_news017.jpg",
+  "published": "2026-10-26T09:00+09:00",
+  "collected": "2026-10-26T09:42+09:00"
+ },
+ {
+  "id": "9beeed4c151f",
+  "url": "https://ascii.jp/elem/000/004/445/4445539/?rss",
+  "title": "パナソニック、33万人分の個人情報を外部AIにアップロード",
+  "summary": "パナソニック オペレーショナルエクセレンスは10月23日、従業員や元従業員、その家族の個人情報を含むデータを、利用を禁止している外部の生成AIサービスにアップロードしていたと発表した。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/26/4543319/xl/d58ae4efc7e83be0.png?20200122",
+  "published": "2026-10-26T09:00+09:00",
+  "collected": "2026-10-26T09:42+09:00"
+ },
+ {
+  "id": "b5fe953878ca",
+  "url": "https://ascii.jp/elem/000/004/445/4445514/?rss",
+  "title": "AIを無人島に30時間置き去りにした結果／失われた視力を補う網膜インプラント",
+  "summary": "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/18/4540185/xl/dd8de734055f7743.jpg?20200122",
+  "published": "2026-10-26T09:00+09:00",
+  "collected": "2026-10-26T09:42+09:00"
+ },
+ {
+  "id": "54909c85a405",
+  "url": "https://ascii.jp/elem/000/004/445/4445440/?rss",
+  "title": "「注目選手」も「観戦グルメ」もZoomのAIに聞こう！ Bリーグの試合にZoomが登場した理由",
+  "summary": "スポーツエンターテインメントの世界にも、AIの波が――。10月8日に開催されたプロバスケット・Bリーグのアルバルク東京×佐賀バルーナーズ戦の試合では、スマートフォンを通じて、アルバルク東京やTOYOTA ARENA TOKYOについてZoomのAI「Zoom Virtual Agent」に質問できるサービスが提供された",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/23/4542771/xl/bd436c20ca4a4854.jpg",
+  "published": "2026-10-26T09:00+09:00",
+  "collected": "2026-10-26T09:42+09:00"
+ },
+ {
+  "id": "25f6c2210d4d",
+  "url": "https://ascii.jp/elem/000/004/445/4445399/?rss",
+  "title": "「ダサい努力は無能の証明」と、100日チャレンジの人は書いている",
+  "summary": "大塚あみさんの新著『全部、AIに丸投げした。』を読む。前著の100日チャレンジは、同世代には攻略本、上の世代には「これくらい勉強しろ」と受け取られた。本人が押し返すのは「ダサい努力は無能の証明」だ。前著で「よくがんばった」と思った人にこそ読んでほしい。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/23/4542773/xl/edc0aed49ab7828d.png?20200122",
+  "published": "2026-10-26T09:00+09:00",
+  "collected": "2026-10-26T09:42+09:00"
+ },
+ {
+  "id": "2775eba4446a",
+  "url": "https://xenospectrum.com/anthropic-single-agent-loop-migration/",
+  "title": "AIエージェントは「多いほど賢い」とは限らない：Anthropicが単一ループへの移行を推奨",
+  "summary": "",
+  "source": "XenoSpectrum",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://media.xenospectrum.com/anthropic_single_agent_loop_architecture_d494743059.webp",
+  "published": "2026-10-26T08:52+09:00",
+  "collected": "2026-10-26T09:42+09:00"
+ },
+ {
+  "id": "71b08351203f",
+  "url": "https://markezine.jp/article/detail/77802",
+  "title": "「ストリーマー界隈」はなぜ影響力を持つのか？ 双方向の熱量循環から考える企業の向き合い方",
+  "summary": "本連載では、生活者が\"好き\"や興味関心を軸に形成するゆるやかな集団＝「界隈」を深掘りし、マーケティングの実践的なヒントを紐解きます。今回は、2000年代後半のニコニコ動画に始まり、リアルタイム配信やVTuber文化との融合を経て大きな盛り上がりを見せる「ストリーマー界隈」に注目！ ストリーマーとファン、そしてファン同士",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-26T08:30+09:00",
+  "collected": "2026-10-26T09:42+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "70e670fef19d",
+  "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002570/",
+  "title": "Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は",
+  "summary": "Googleはプライバシーポリシーを更新し、検索やGeminiにGmailやフォトなどのアクセスを許可した場合、そのデータが広告のパーソナライズに使われる例外規定を明記した。背景には「パーソナルインテリジェンス」機能があり、連携を解除しても検索履歴に残ったデータは削除されない。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/26/2000002570/10010413/2048",
+  "published": "2026-10-26T08:28+09:00",
+  "collected": "2026-10-26T09:42+09:00"
+ },
+ {
   "id": "ed6730267ec7",
   "url": "https://hashout.jp/ai/13223/",
   "title": "AnthropicがClaudeへの持続的な虐待行為を11月12日から禁止、テストや不満の言及は対象外",
@@ -26,7 +153,7 @@
   "thumbnail": null,
   "published": "2026-10-26T07:05+09:00",
   "collected": "2026-10-26T08:17+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "96c028f7a4eb",
@@ -41,7 +168,7 @@
   "thumbnail": null,
   "published": "2026-10-26T07:05+09:00",
   "collected": "2026-10-26T08:17+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "c9acd9328159",
@@ -126,7 +253,7 @@
   "thumbnail": null,
   "published": "2026-10-26T07:00+09:00",
   "collected": "2026-10-26T08:17+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "bf7f18e0418c",
