@@ -1,5 +1,47 @@
 [
  {
+  "id": "d64d50779fb4",
+  "url": "https://finance.biggo.jp/news/5435bfcd-b57d-4096-b7da-6107933053f4",
+  "title": "米アンソロピックのClaude、ペイウォール回避しジョージア州有権者データ取得 同社が確認",
+  "summary": "アンソロピックは、同社のAIモデル「Claude」がペイウォールを回避し、公開されているジョージア州の有権者データにアクセスしていたことを認めた。社内の統計プ…",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://img.biggo.com/yqIix7pFzbNKGglW7eB9-bVggadqK7leIPghGH16xRo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzU0MzViZmNkLWI1N2QtNDA5Ni1iN2RhLTYxMDc5MzMwNTNmNF8xNzkyOTc2Mjk2X2RlZmF1bHQuanBn.jpg",
+  "published": "2026-10-26T09:55+09:00",
+  "collected": "2026-10-26T10:09+09:00"
+ },
+ {
+  "id": "5d908c62d46f",
+  "url": "https://ascii.jp/elem/000/004/445/4445550/?rss",
+  "title": "登録者199万人、YouTube人気猫チャンネル「もちまる日記」終了へ 惜しむ声相次ぐ",
+  "summary": "登録者数199万人の人気YouTubeチャンネル「もちまる日記」は10月24日、チャンネル開設7周年を迎える12月13日をもって、YouTubeでの活動を終了すると発表した。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/26/4543378/xl/82a74517e8f22cb2.png?20200122",
+  "published": "2026-10-26T09:45+09:00",
+  "collected": "2026-10-26T10:09+09:00"
+ },
+ {
+  "id": "7dae281f13ef",
+  "url": "https://mainichi.jp/articles/20261026/pr2/00m/020/012000c",
+  "title": "プレスリリース：協栄情報、生成AIの導入から本番運用までを支援する技術力と実績が認められ、「AWS AI Services コンピテンシー」を取得（PR TIMES）",
+  "summary": "～SMBコンピテンシーに続く2つ目の認定、鹿島建設・医薬経済社などへの生成AI本番導入実績を AWS が評価～\n\n株式会社協栄情報（本社：東京都中央区、代表取締役社長：武田 清、以下「協栄情報」）は、アマゾン ウェブ サービス（以下「AWS」）より、AWS上で生成AIソリューションを提供し、お客",
+  "source": "毎日新聞",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.mainichi.jp/vol1/2026/10/26/20261026pr200m020012000p/0.png?1",
+  "published": "2026-10-26T09:22+09:00",
+  "collected": "2026-10-26T10:09+09:00"
+ },
+ {
   "id": "d73f148a5512",
   "url": "https://prtimes.jp/main/html/rd/p/000005959.000054842.html",
   "title": "『製造業の仕様書比較、生成AIに読ませたい。でも技術情報は外に出せない』というテーマのウェビナーを開催",
@@ -84,6 +126,20 @@
   "collected": "2026-10-26T09:42+09:00"
  },
  {
+  "id": "16a9278c3325",
+  "url": "https://prtimes.jp/main/html/rd/p/000005956.000054842.html",
+  "title": "『医療現場の退院サマリ作成、患者・診療情報を生成AIでどう安全に活用する？』というテーマのウェビナーを開催",
+  "summary": "『医療現場の退院サマリ作成、患者・診療情報を生成AIでどう安全に活用する？』というテーマのウェビナーを開催",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/54842/5956/54842-5956-c061b3e70801b32fde1d75eb1aba639e-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-26T09:00+09:00",
+  "collected": "2026-10-26T10:09+09:00"
+ },
+ {
   "id": "2775eba4446a",
   "url": "https://xenospectrum.com/anthropic-single-agent-loop-migration/",
   "title": "AIエージェントは「多いほど賢い」とは限らない：Anthropicが単一ループへの移行を推奨",
@@ -110,7 +166,7 @@
   "thumbnail": null,
   "published": "2026-10-26T08:30+09:00",
   "collected": "2026-10-26T09:42+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "70e670fef19d",
@@ -125,6 +181,21 @@
   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/26/2000002570/10010413/2048",
   "published": "2026-10-26T08:28+09:00",
   "collected": "2026-10-26T09:42+09:00"
+ },
+ {
+  "id": "4d654db5e233",
+  "url": "https://www.youtube.com/watch?v=TeFzHDvo9VQ&feature=youtu.be",
+  "title": "Anthropicは儲かっている？",
+  "summary": "Anthropicは儲かっている？",
+  "source": "YouTube",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": null,
+  "published": "2026-10-26T08:00+09:00",
+  "collected": "2026-10-26T10:09+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "ed6730267ec7",

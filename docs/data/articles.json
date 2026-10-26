@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-26T09:42+09:00",
+  "last_updated": "2026-10-26T10:09+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,62 @@
   ]
  },
  "items": [
+  {
+   "id": "d64d50779fb4",
+   "url": "https://finance.biggo.jp/news/5435bfcd-b57d-4096-b7da-6107933053f4",
+   "title": "米アンソロピックのClaude、ペイウォール回避しジョージア州有権者データ取得 同社が確認",
+   "summary": "アンソロピックは、同社のAIモデル「Claude」がペイウォールを回避し、公開されているジョージア州の有権者データにアクセスしていたことを認めた。社内の統計プ…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://img.biggo.com/yqIix7pFzbNKGglW7eB9-bVggadqK7leIPghGH16xRo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzU0MzViZmNkLWI1N2QtNDA5Ni1iN2RhLTYxMDc5MzMwNTNmNF8xNzkyOTc2Mjk2X2RlZmF1bHQuanBn.jpg",
+   "published": "2026-10-26T09:55+09:00",
+   "collected": "2026-10-26T10:09+09:00"
+  },
+  {
+   "id": "5d908c62d46f",
+   "url": "https://ascii.jp/elem/000/004/445/4445550/?rss",
+   "title": "登録者199万人、YouTube人気猫チャンネル「もちまる日記」終了へ 惜しむ声相次ぐ",
+   "summary": "登録者数199万人の人気YouTubeチャンネル「もちまる日記」は10月24日、チャンネル開設7周年を迎える12月13日をもって、YouTubeでの活動を終了すると発表した。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/26/4543378/xl/82a74517e8f22cb2.png?20200122",
+   "published": "2026-10-26T09:45+09:00",
+   "collected": "2026-10-26T10:09+09:00"
+  },
+  {
+   "id": "7dae281f13ef",
+   "url": "https://mainichi.jp/articles/20261026/pr2/00m/020/012000c",
+   "title": "プレスリリース：協栄情報、生成AIの導入から本番運用までを支援する技術力と実績が認められ、「AWS AI Services コンピテンシー」を取得（PR TIMES）",
+   "summary": "～SMBコンピテンシーに続く2つ目の認定、鹿島建設・医薬経済社などへの生成AI本番導入実績を AWS が評価～\n\n株式会社協栄情報（本社：東京都中央区、代表取締役社長：武田 清、以下「協栄情報」）は、アマゾン ウェブ サービス（以下「AWS」）より、AWS上で生成AIソリューションを提供し、お客",
+   "source": "毎日新聞",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.mainichi.jp/vol1/2026/10/26/20261026pr200m020012000p/0.png?1",
+   "published": "2026-10-26T09:22+09:00",
+   "collected": "2026-10-26T10:09+09:00"
+  },
+  {
+   "id": "16a9278c3325",
+   "url": "https://prtimes.jp/main/html/rd/p/000005956.000054842.html",
+   "title": "『医療現場の退院サマリ作成、患者・診療情報を生成AIでどう安全に活用する？』というテーマのウェビナーを開催",
+   "summary": "『医療現場の退院サマリ作成、患者・診療情報を生成AIでどう安全に活用する？』というテーマのウェビナーを開催",
+   "source": "PR TIMES",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/54842/5956/54842-5956-c061b3e70801b32fde1d75eb1aba639e-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-26T09:00+09:00",
+   "collected": "2026-10-26T10:09+09:00"
+  },
   {
    "id": "d73f148a5512",
    "url": "https://prtimes.jp/main/html/rd/p/000005959.000054842.html",
@@ -156,7 +212,7 @@
    "thumbnail": null,
    "published": "2026-10-26T08:30+09:00",
    "collected": "2026-10-26T09:42+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "70e670fef19d",
@@ -171,6 +227,21 @@
    "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/26/2000002570/10010413/2048",
    "published": "2026-10-26T08:28+09:00",
    "collected": "2026-10-26T09:42+09:00"
+  },
+  {
+   "id": "4d654db5e233",
+   "url": "https://www.youtube.com/watch?v=TeFzHDvo9VQ&feature=youtu.be",
+   "title": "Anthropicは儲かっている？",
+   "summary": "Anthropicは儲かっている？",
+   "source": "YouTube",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": null,
+   "published": "2026-10-26T08:00+09:00",
+   "collected": "2026-10-26T10:09+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "ed6730267ec7",
@@ -9177,78 +9248,6 @@
    "proxy_for": null,
    "thumbnail": "https://ascii.jp/img/2026/10/19/4540209/xl/fe64dc2fecf516dc.png?20200122",
    "published": "2026-10-19T07:30+09:00",
-   "collected": "2026-10-19T08:15+09:00"
-  },
-  {
-   "id": "f35e5106e926",
-   "url": "https://ascii.jp/elem/000/004/443/4443113/?rss",
-   "title": "日本企業の「AI業務実装の壁」を打ち破る ― RPAのパイオニアが「AI×RPA×人」の統合基盤を国内展開",
-   "summary": "SS&C Blue Prismは、2026年10月7日、業務自動化プラットフォーム「WorkHQ」の日本語版を提供開始した。これは、AIエージェントやRPA、人を適材適所でつなぎ、部分最適な自動化を全体最適へと発展させるための基盤である。",
-   "source": "ASCII.jp",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://ascii.jp/img/2026/10/16/4539306/xl/cbdfa1bff3b69bde.jpg?20200122",
-   "published": "2026-10-19T07:30+09:00",
-   "collected": "2026-10-19T08:15+09:00"
-  },
-  {
-   "id": "6b01c4141459",
-   "url": "https://webtan.impress.co.jp/e/2026/10/19/53447",
-   "title": "AIで自社ブランドを引用してもらうには？ 押さえておきたい3つのステップ",
-   "summary": "「AIサイテーション」を構築し、ChatGPTやGeminiで表示されるようにする方法を学ぼう。 「AIサイテーションとは何か」から始め、「プロンプトの調査」「ソースの分析」「積極的アウトリーチ」により、AIの回答で自分のブランドが参照されるようにする方法をチャーリー・マーチャント氏が解説する。",
-   "source": "Web担当者フォーラム",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-19T07:05+09:00",
-   "collected": "2026-10-19T08:15+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "219b0eb9923b",
-   "url": "https://webtan.impress.co.jp/n/2026/10/19/53466",
-   "title": "Brazeが「2026年度グッドデザイン賞」受賞、量から質に転換したマーケプラットフォームを評価",
-   "summary": "Brazeが「2026年度グッドデザイン賞」受賞、量から質に転換したマーケプラットフォームを評価 システム・サービス分野、リアルタイムなデータ処理とマルチチャネルの体験設計 noboru.kojima 2026年10月19日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 顧客エンゲージメントプラ",
-   "source": "Web担当者フォーラム",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-19T07:01+09:00",
-   "collected": "2026-10-19T08:15+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "0267a55682ce",
-   "url": "https://realsound.jp/tech/2026/10/post-2556950.html",
-   "title": "Anthropic、技術職の新規採用に占める若手が27％から9％に AI導入後の社内変化を報告",
-   "summary": "Anthropicが10月16日、AI導入後の社内における仕事や採用の変化を分析した報告を公開。技術職の新規採用に占める若手の比率が27％から9％へ低下した一方、採用人数自体は増加しているという。",
-   "source": "リアルサウンド",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://realsound.jp/wp-content/uploads/2026/10/20261019-anthropic-employment-99.jpg",
-   "published": "2026-10-19T07:00+09:00",
-   "collected": "2026-10-19T08:15+09:00"
-  },
-  {
-   "id": "56271b8bf615",
-   "url": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
-   "title": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則",
-   "summary": "生成AIを実業務に定着させるには、明確な目的設定とデータの整備・統合が不可欠だ。NECと東京都足立区の事例を通じて、AIエージェントによるデータ分析・施策立案の実践と、統合的なAI基盤を活用した持続的な業務変革の要点を解説する。",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://kn.itmedia.co.jp/kn/article/ogp/2610/19/2000002342/10008885/2048",
-   "published": "2026-10-19T07:00+09:00",
    "collected": "2026-10-19T08:15+09:00"
   }
  ]
