@@ -1,5 +1,35 @@
 [
  {
+  "id": "fe6288f42a04",
+  "url": "https://news.nicovideo.jp/watch/nw19921964?news_ref=watch_60_nw10335",
+  "title": "『大学・学校法人の理事会、会議情報を外部に出さず生成AIで議事録を作成するには？』というテーマのウェビナーを開催",
+  "summary": "『大学・学校法人の理事会、会議情報を外部に出さず生成AIで議事録を作成するには？』というテーマのウェビナーを開催",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T10:45+09:00",
+  "collected": "2026-10-27T11:04+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "5d90d6b24c4b",
+  "url": "https://markezine.jp/article/detail/77928",
+  "title": "エン、PeopleXのAI面接・AI面談・AIロープレを導入 若手営業の商品提案件数が約2倍に",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T10:30+09:00",
+  "collected": "2026-10-27T11:04+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "000b1eb55596",
   "url": "https://news.nicovideo.jp/watch/nw19921827?news_ref=watch_20_nw19780912",
   "title": "【11/13（金）開催】AIエージェント時代のカスタマーサポート【EC編】成功・失敗事例に学ぶ、配送・返品の問い合わせ",
@@ -12,7 +42,7 @@
   "thumbnail": null,
   "published": "2026-10-27T10:15+09:00",
   "collected": "2026-10-27T10:36+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "9af0a1a0b387",
@@ -45,6 +75,79 @@
   "collected": "2026-10-27T10:36+09:00",
   "title_orig": "The evolution of web series on YouTube: Microdramas",
   "summary_orig": "Creators are turning YouTube Shorts into episodic microdramas. Discover how channels build multi-part mini-series and use new tools to publish serialized shows."
+ },
+ {
+  "id": "dd0032617e60",
+  "url": "https://ascii.jp/elem/000/004/445/4445891/?rss",
+  "title": "HubSpotのデータを毎日解析し、営業アクションを自動提案するAIエージェント「LisCore」が特許3件を取得。10社限定でβ版の申込受付を開始",
+  "summary": "HubSpotのデータを毎日解析し、営業アクションを自動提案するAIエージェント「LisCore」が特許3件を取得。10社限定でβ版の申込受付を開始",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-27T10:00+09:00",
+  "collected": "2026-10-27T11:04+09:00"
+ },
+ {
+  "id": "ff9d8e6e1f3b",
+  "url": "https://ascii.jp/elem/000/004/445/4445889/?rss",
+  "title": "DroR、AIと人的資本・国富会計を扱うワーキングペーパー「AI調整済み包括的富（AIW）」の日本語による要約と解説を公開",
+  "summary": "DroR、AIと人的資本・国富会計を扱うワーキングペーパー「AI調整済み包括的富（AIW）」の日本語による要約と解説を公開",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-27T10:00+09:00",
+  "collected": "2026-10-27T11:04+09:00"
+ },
+ {
+  "id": "58e2278f69fd",
+  "url": "https://ascii.jp/elem/000/004/445/4445888/?rss",
+  "title": "トラベル・レジャー特化のSNSクリエイティブスタジオ「EDIT:」を提供開始。",
+  "summary": "トラベル・レジャー特化のSNSクリエイティブスタジオ「EDIT:」を提供開始。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-27T10:00+09:00",
+  "collected": "2026-10-27T11:04+09:00"
+ },
+ {
+  "id": "24bfc9d8cd89",
+  "url": "https://www.socialmediatoday.com/news/australias-proposed-algorithmic-opt-out-gets-pushback/872830/",
+  "title": "オーストラリアの提案されたアルゴリズムによるオプトアウトが却下される",
+  "summary": "Instagramの最高責任者であるAdam Mosseri氏と保守派のコメンテーターであるMichael Shellenberger氏は、別々に規制の側面に反対している。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T09:43+09:00",
+  "collected": "2026-10-27T11:04+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Australia’s proposed algorithmic opt-out gets pushback",
+  "summary_orig": "Instagram Chief Adam Mosseri and conservative commentator Michael Shellenberger have separately opposed aspects of the regulations."
+ },
+ {
+  "id": "2d9aaafeb311",
+  "url": "https://ascii.jp/elem/000/004/445/4445897/?rss",
+  "title": "【ITエンジニアが見た「勧めない助言」】8割以上が「転職しない方がよいなら勧めないエージェントを信頼できる」と回答 実際にその助言を受けた人の約7割が、担当者への信頼は「高まった」と回答",
+  "summary": "【ITエンジニアが見た「勧めない助言」】8割以上が「転職しない方がよいなら勧めないエージェントを信頼できる」と回答 実際にその助言を受けた人の約7割が、担当者への信頼は「高まった」と回答",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-27T09:30+09:00",
+  "collected": "2026-10-27T11:04+09:00"
  },
  {
   "id": "e86d15bb7cc7",
@@ -208,7 +311,7 @@
   "thumbnail": null,
   "published": "2026-10-27T08:14+09:00",
   "collected": "2026-10-27T10:36+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "0189957cdb24",
@@ -268,6 +371,23 @@
   "_thumb_tries": 3
  },
  {
+  "id": "4075de97e994",
+  "url": "https://www.socialmediatoday.com/news/more-than-half-of-us-adults-use-social-media-to-get-their-news/872828/",
+  "title": "米国の成人の半数以上がソーシャルメディアを使用してニュースを入手しています",
+  "summary": "Pewの新しいレポートによると、現在のイベントに接続し続けるためにアプリを使用しているアメリカ人の割合は、過去4年間で急激に増加しています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T07:56+09:00",
+  "collected": "2026-10-27T11:04+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "More than half of US adults use social media to get their news",
+  "summary_orig": "A new report from Pew found that the percentage of Americans who use apps to stay connected to current events has risen sharply over the last four years."
+ },
+ {
   "id": "7ecb5b7b8d5d",
   "url": "https://ascii.jp/elem/000/004/445/4445865/?rss",
   "title": "アップルから、一気に「iOS 27.2」が登場 Siri AIの日本語対応＆iPhone Duoでペンが利用可能に",
@@ -280,6 +400,23 @@
   "thumbnail": "https://ascii.jp/img/2026/10/27/4543983/xl/455bc37afa910ece.png?20200122",
   "published": "2026-10-27T07:55+09:00",
   "collected": "2026-10-27T09:27+09:00"
+ },
+ {
+  "id": "7d03240978d4",
+  "url": "https://www.socialmediatoday.com/news/tiktok-playbook-outlines-the-value-of-its-high-end-ad-options/872827/",
+  "title": "TikTokプレイブックは、ハイエンド広告オプションの価値を概説しています",
+  "summary": "アプリのトップビューとパルスプレミアオプションは、ピーク視聴イベント中にプレミアムプレースメントの機会を提供します。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T07:26+09:00",
+  "collected": "2026-10-27T11:04+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "TikTok playbook outlines the value of its high-end ad options",
+  "summary_orig": "The app’s Top View and Pulse Premiere options provide premium placement opportunities during peak viewing events."
  },
  {
   "id": "e1561b35daa6",
@@ -656,6 +793,23 @@
   "collected": "2026-10-27T09:27+09:00",
   "title_orig": "Instagram features every marketer needs to know in 2026",
   "summary_orig": "From music on carousels to Instagram Checkout, here are 32 Instagram features to help you grow your presence and engage your audience. The post Instagram featur"
+ },
+ {
+  "id": "c90d48baf528",
+  "url": "https://www.socialmediatoday.com/news/instagram-rolls-out-limited-features-test-in-the-us/872825/",
+  "title": "Instagramが米国で限定機能テストを展開",
+  "summary": "新しい長編動画フォーマットは、クリエイターが視聴者と関わる方法を広げます。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T04:05+09:00",
+  "collected": "2026-10-27T11:04+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Instagram rolls out limited Features test in the US",
+  "summary_orig": "New long-form video formats will provide expanded ways for creators to engage with their audiences."
  },
  {
   "id": "b521cb6b48c6",
@@ -1169,7 +1323,7 @@
   "thumbnail": null,
   "published": "2026-10-26T18:51+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "67160bc1e72b",
@@ -1293,7 +1447,7 @@
   "thumbnail": null,
   "published": "2026-10-26T15:00+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "6e4b50ac28f7",
@@ -1350,7 +1504,7 @@
   "thumbnail": null,
   "published": "2026-10-26T14:03+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "8dc2b02c4398",
@@ -1421,7 +1575,7 @@
   "thumbnail": null,
   "published": "2026-10-26T12:00+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "a944b39ec683",
@@ -1436,7 +1590,7 @@
   "thumbnail": null,
   "published": "2026-10-26T11:30+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "ee53d737d426",
@@ -1466,7 +1620,7 @@
   "thumbnail": null,
   "published": "2026-10-26T11:15+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "561c76471c4c",
@@ -1481,7 +1635,7 @@
   "thumbnail": null,
   "published": "2026-10-26T11:15+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "675172558da9",
@@ -1525,7 +1679,7 @@
   "thumbnail": null,
   "published": "2026-10-26T11:00+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "9d13518c6d4a",
@@ -1540,7 +1694,7 @@
   "thumbnail": null,
   "published": "2026-10-26T10:30+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f4ca0af5f961",
@@ -1798,8 +1952,25 @@
   "thumbnail": null,
   "published": "2026-10-26T07:13+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "TikTok US shares second-quarter account enforcement data",
+  "summary_orig": "The platform said it removed more than 14 million fake accounts and prevented nearly 65 million spam accounts from being created."
+ },
+ {
+  "id": "f677fc1bbac6",
+  "url": "https://www.socialmediatoday.com/news/tiktok-us-shares-q2-account-enforcement-data/833907/",
+  "title": "TikTok USが第2四半期のアカウント執行データを共有",
+  "summary": "同プラットフォームは、1400万件以上の偽アカウントを削除し、6500万件近くのスパムアカウントが作成されるのを防いだと述べた。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-26T07:13+09:00",
+  "collected": "2026-10-27T11:04+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "TikTok US shares Q2 account enforcement data",
   "summary_orig": "The platform said it removed more than 14 million fake accounts and prevented nearly 65 million spam accounts from being created."
  },
  {
