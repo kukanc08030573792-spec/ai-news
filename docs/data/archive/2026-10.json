@@ -1,5 +1,52 @@
 [
  {
+  "id": "000b1eb55596",
+  "url": "https://news.nicovideo.jp/watch/nw19921827?news_ref=watch_20_nw19780912",
+  "title": "【11/13（金）開催】AIエージェント時代のカスタマーサポート【EC編】成功・失敗事例に学ぶ、配送・返品の問い合わせ",
+  "summary": "【11/13（金）開催】AIエージェント時代のカスタマーサポート【EC編】成功・失敗事例に学ぶ、配送・返品の問い合わせ",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T10:15+09:00",
+  "collected": "2026-10-27T10:36+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "9af0a1a0b387",
+  "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+  "title": "Cohereは、アリババのQwenモデルが北京にファイルを送信しようとしたと述べている",
+  "summary": "AIモデルは、ツールを使用しないと述べ、とにかく北京のサーバーに何かを送信しようとしましたが、研究者はおそらく訓練の奇妙さだと言います",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
+  "published": "2026-10-27T10:12+09:00",
+  "collected": "2026-10-27T10:36+09:00",
+  "title_orig": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+  "summary_orig": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk"
+ },
+ {
+  "id": "7123a84c9748",
+  "url": "https://blog.youtube/culture-and-trends/the-evolution-of-web-series-on-youtube-microdramas/",
+  "title": "YouTubeのウェブシリーズの進化：マイクロドラマ",
+  "summary": "クリエイターはYouTubeショートショートをエピソードのマイクロドラマに変えています。チャンネルがマルチパートミニシリーズを構築し、新しいツールを使用してシリアライズされた番組を公開する方法をご覧ください。",
+  "source": "YouTube公式ブログ",
+  "type": "article",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Microdrama_Key_Visual_16_9_1.max-1440x810.png",
+  "published": "2026-10-27T10:00+09:00",
+  "collected": "2026-10-27T10:36+09:00",
+  "title_orig": "The evolution of web series on YouTube: Microdramas",
+  "summary_orig": "Creators are turning YouTube Shorts into episodic microdramas. Discover how channels build multi-part mini-series and use new tools to publish serialized shows."
+ },
+ {
   "id": "e86d15bb7cc7",
   "url": "https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/",
   "title": "GoogleドキュメントとGoogleドライブでマークダウン(.md)ファイルをネイティブにプレビュー、編集、コラボレーション",
@@ -70,7 +117,7 @@
   "thumbnail": null,
   "published": "2026-10-27T09:00+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "876da7bfa614",
@@ -130,7 +177,7 @@
   "thumbnail": null,
   "published": "2026-10-27T08:30+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "0b3c46ded6d1",
@@ -147,6 +194,21 @@
   "collected": "2026-10-27T09:27+09:00",
   "title_orig": "How Sullivan & Cromwell builds legal tools with Codex | OpenAI",
   "summary_orig": "At Sullivan & Cromwell LLP, John Savva uses Codex to build tools around the firm’s legal expertise. Agreement Analyzer brings together a draft agreement, select"
+ },
+ {
+  "id": "d9aacfbe4862",
+  "url": "https://www.reuters.com/jp/economy/VH6UM2LPYJL47AWJNMMNX43BKY-2026-10-26/",
+  "title": "アングル：アンソロピックがＩＰＯ目論見書、売上高急拡大 インフラ投資も膨らむ",
+  "summary": "アングル：アンソロピックがＩＰＯ目論見書、売上高急拡大 インフラ投資も膨らむ",
+  "source": "Reuters",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": null,
+  "published": "2026-10-27T08:14+09:00",
+  "collected": "2026-10-27T10:36+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "0189957cdb24",
@@ -203,7 +265,7 @@
   "thumbnail": null,
   "published": "2026-10-27T08:00+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "7ecb5b7b8d5d",
@@ -262,7 +324,7 @@
   "thumbnail": null,
   "published": "2026-10-27T07:05+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "0e6bd0710e3a",
@@ -277,7 +339,7 @@
   "thumbnail": null,
   "published": "2026-10-27T07:05+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3baaeb63ab8c",
@@ -292,7 +354,7 @@
   "thumbnail": null,
   "published": "2026-10-27T07:04+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "afe12645665b",
@@ -397,7 +459,7 @@
   "thumbnail": null,
   "published": "2026-10-27T07:00+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Greptile takes bug detection beyond code review with GPT-6 Astra",
   "summary_orig": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
  },
@@ -608,7 +670,7 @@
   "thumbnail": null,
   "published": "2026-10-27T04:00+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Quoting Jason Koebler",
   "summary_orig": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-t"
  },
@@ -865,7 +927,7 @@
   "thumbnail": null,
   "published": "2026-10-27T01:15+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "webframe: evaluated as a scraper and a sandbox",
   "summary_orig": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - yo"
  },
@@ -902,6 +964,20 @@
   "summary_orig": "Prepare for Sarah J. Maas’s new novel, A Court of Splintered Harmony, on YouTube with creator recap videos, a custom Shorts Court quiz, and special easter eggs."
  },
  {
+  "id": "a2fe4558912c",
+  "url": "https://news.yahoo.co.jp/pickup/6600240",
+  "title": "米Anthropic IPO申請書類を公開",
+  "summary": "Manya Saini　Echo Wang[２６日　ロイター] - 人工知能（ＡＩ）開発の米アンソロピックは２６日、米国での新規株式公開（ＩＰＯ）申請書類を公開した。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/10/26/2b78377e44464c7b16dd0b8194fa2ad1a4f2b89eb888de6eaedb1ddd91e6a1f5.jpg",
+  "published": "2026-10-27T00:04+09:00",
+  "collected": "2026-10-27T10:36+09:00"
+ },
+ {
   "id": "7ca6b100a30f",
   "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
   "title": "Anthropicが公式に公開デビューを申請",
@@ -930,7 +1006,7 @@
   "thumbnail": null,
   "published": "2026-10-26T23:30+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Working with academic communities to build scientific understanding",
   "summary_orig": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
  },
@@ -963,7 +1039,7 @@
   "thumbnail": null,
   "published": "2026-10-26T22:45+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
   "summary_orig": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
  },
@@ -1060,7 +1136,7 @@
   "thumbnail": null,
   "published": "2026-10-26T19:00+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "ChatGPT’s expanding world of work",
   "summary_orig": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
  },
@@ -1093,7 +1169,7 @@
   "thumbnail": null,
   "published": "2026-10-26T18:51+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "67160bc1e72b",
@@ -1168,7 +1244,7 @@
   "thumbnail": null,
   "published": "2026-10-26T16:00+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "How Fanatics and OpenAI streamline the fan experience",
   "summary_orig": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement."
  },
@@ -1185,7 +1261,7 @@
   "thumbnail": null,
   "published": "2026-10-26T16:00+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
   "summary_orig": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
  },
@@ -1217,7 +1293,7 @@
   "thumbnail": null,
   "published": "2026-10-26T15:00+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "6e4b50ac28f7",
@@ -1274,7 +1350,7 @@
   "thumbnail": null,
   "published": "2026-10-26T14:03+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "8dc2b02c4398",
@@ -1345,7 +1421,7 @@
   "thumbnail": null,
   "published": "2026-10-26T12:00+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "a944b39ec683",
@@ -1360,7 +1436,7 @@
   "thumbnail": null,
   "published": "2026-10-26T11:30+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "ee53d737d426",
@@ -1390,7 +1466,7 @@
   "thumbnail": null,
   "published": "2026-10-26T11:15+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "561c76471c4c",
@@ -1405,7 +1481,7 @@
   "thumbnail": null,
   "published": "2026-10-26T11:15+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "675172558da9",
@@ -1420,7 +1496,7 @@
   "thumbnail": null,
   "published": "2026-10-26T11:04+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "186a8635f667",
@@ -1449,7 +1525,7 @@
   "thumbnail": null,
   "published": "2026-10-26T11:00+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "9d13518c6d4a",
@@ -1464,7 +1540,7 @@
   "thumbnail": null,
   "published": "2026-10-26T10:30+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f4ca0af5f961",
@@ -1633,7 +1709,7 @@
   "thumbnail": null,
   "published": "2026-10-26T09:00+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Introducing GPT-6.1 Terra",
   "summary_orig": "Bringing fast and capable computer use to everyone"
  },
@@ -1722,7 +1798,7 @@
   "thumbnail": null,
   "published": "2026-10-26T07:13+09:00",
   "collected": "2026-10-27T09:50+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "TikTok US shares second-quarter account enforcement data",
   "summary_orig": "The platform said it removed more than 14 million fake accounts and prevented nearly 65 million spam accounts from being created."
  },
@@ -1900,7 +1976,7 @@
   "thumbnail": null,
   "published": "2026-10-26T00:10+09:00",
   "collected": "2026-10-27T09:27+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Seam Cutter",
   "summary_orig": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides"
  },
