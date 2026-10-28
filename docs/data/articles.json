@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-28T09:44+09:00",
+  "last_updated": "2026-10-28T10:42+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,64 @@
   ]
  },
  "items": [
+  {
+   "id": "914e39d0167e",
+   "url": "https://ascii.jp/elem/000/004/446/4446249/?rss",
+   "title": "Core Ultra 9×RTX 5070搭載、16型ゲーミングノート「GAMING A16」が32万円で登場",
+   "summary": "GIGABYTEの16型ゲーミングノートPC「GAMING A16」が10月30日、Amazon限定で発売。Core Ultra 9 185HとGeForce RTX 5070 Laptop GPU、165Hz液晶を搭載し、ゲームやAI生成、4K動画編集を想定。価格は32万円。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/28/4544546/xl/7b13d30e5de1778a.jpg",
+   "published": "2026-10-28T10:30+09:00",
+   "collected": "2026-10-28T10:42+09:00"
+  },
+  {
+   "id": "1b16f2a2a47a",
+   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "title": "ベンチャーキャピタルはAnthropicのIPOで数十億ドルを稼ぐが、Amazonはもっと（はるかに）多くを稼ぐように設定されている",
+   "summary": "大量のノートの変換は、アマゾンがAnthropicで所有している本当の範囲を明らかにします。",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+   "published": "2026-10-28T10:15+09:00",
+   "collected": "2026-10-28T10:42+09:00",
+   "title_orig": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "summary_orig": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+  },
+  {
+   "id": "92ea9c477438",
+   "url": "https://ascii.jp/elem/000/004/446/4446220/?rss",
+   "title": "【KDDI SUMMIT 2026】AIは人の仕事を奪うのか？ ロボット・自動運転・アバター接客がもたらす「AI前提社会」の衝撃",
+   "summary": "「KDDI SUMMIT 2026」のレポートです。AIと通信が融合する「AI前提社会」に向け、KDDIは接客や通信品質向上にAIを活用する方針を発表。自動運転タクシーやドローン配送などの社会実装、さらにユニバーサル ミュージックと共同でオーディション事業も始動します。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/27/4544400/xl/427929109c9a5ef2.jpg?20200122",
+   "published": "2026-10-28T10:00+09:00",
+   "collected": "2026-10-28T10:42+09:00"
+  },
+  {
+   "id": "4ee61663f1fd",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/",
+   "title": "PFNの国産フラッグシップモデル「PLaMo 3.1 Prime」発表 オンプレでDeep Research対応 API無料プランも開始",
+   "summary": "Preferred Networksが国産の生成AI基盤モデル「PLaMo 3.1 Prime」を提供開始。オンプレミスでも使える「Deep Research」を搭載し、ハルシネーションも抑えたという。API無料プランで試せる。",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/28/2000002652/10010657/2048",
+   "published": "2026-10-28T09:48+09:00",
+   "collected": "2026-10-28T10:42+09:00"
+  },
   {
    "id": "f515afb7dcdd",
    "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
@@ -148,7 +206,7 @@
    "thumbnail": null,
    "published": "2026-10-28T09:00+09:00",
    "collected": "2026-10-28T09:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "58d2e2651349",
@@ -209,7 +267,7 @@
    "thumbnail": null,
    "published": "2026-10-28T07:05+09:00",
    "collected": "2026-10-28T09:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "f7ae401869c0",
@@ -224,7 +282,7 @@
    "thumbnail": null,
    "published": "2026-10-28T07:05+09:00",
    "collected": "2026-10-28T09:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "521ce8123faa",
@@ -368,7 +426,7 @@
    "thumbnail": null,
    "published": "2026-10-28T06:50+09:00",
    "collected": "2026-10-28T09:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7afb98bf1433",
@@ -847,7 +905,7 @@
    "thumbnail": null,
    "published": "2026-10-28T00:00+09:00",
    "collected": "2026-10-28T09:32+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Retell uses OpenAI models to help power 100M monthly calls",
    "summary_orig": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
   },
@@ -1006,7 +1064,7 @@
    "thumbnail": null,
    "published": "2026-10-27T19:00+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Autonomous AI: How to Get AI to Manage Itself",
    "summary_orig": "Wondering how to set up autonomous AI agents that complete work in the background without constant babysitting? Want a step-by-step process for training AI to r"
   },
@@ -1023,7 +1081,7 @@
    "thumbnail": null,
    "published": "2026-10-27T18:30+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Content Strategy, Behavior-Backed Ads, and Industry News",
    "summary_orig": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
   },
@@ -1040,7 +1098,7 @@
    "thumbnail": null,
    "published": "2026-10-27T18:00+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "057e8e7a801e",
@@ -1055,7 +1113,7 @@
    "thumbnail": null,
    "published": "2026-10-27T18:00+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "1043a55bbf7f",
@@ -1156,7 +1214,7 @@
    "thumbnail": null,
    "published": "2026-10-27T16:00+09:00",
    "collected": "2026-10-28T09:32+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
    "summary_orig": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
   },
@@ -1173,7 +1231,7 @@
    "thumbnail": null,
    "published": "2026-10-27T15:30+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "40903ddc57fd",
@@ -1272,7 +1330,7 @@
    "thumbnail": null,
    "published": "2026-10-27T12:00+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "5927b5187ca5",
@@ -1317,7 +1375,7 @@
    "thumbnail": null,
    "published": "2026-10-27T11:00+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "0249967d0cf3",
@@ -1554,7 +1612,7 @@
    "thumbnail": null,
    "published": "2026-10-27T09:00+09:00",
    "collected": "2026-10-28T09:32+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "How Check Point accelerates vulnerability research with Daybreak",
    "summary_orig": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer"
   },
@@ -9177,69 +9235,6 @@
    "collected": "2026-10-24T08:52+09:00",
    "title_orig": "The Programmable Data Center — Evan Conrad, SF Compute",
    "summary_orig": "From GPU trading to physical settlement, independent markets, and programmable compute"
-  },
-  {
-   "id": "89c3a087248b",
-   "url": "https://www.socialmediatoday.com/news/reddit-adds-ai-powered-ad-guidance-tools/833532/",
-   "title": "RedditがAIを活用した広告ガイダンスツールを追加",
-   "summary": "このプラットフォームには、新しいキャンペーンプランナー要素と、ブランドがカスタマイズされた推奨事項を使用して最適化スコアを向上させる方法があります。",
-   "source": "Social Media Today",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-21T04:26+09:00",
-   "collected": "2026-10-21T09:56+09:00",
-   "_thumb_tries": 3,
-   "title_orig": "Reddit adds AI-powered ad guidance tools",
-   "summary_orig": "The platform has a new campaign planner element and a way for brands to improve their optimization scores using customized recommendations."
-  },
-  {
-   "id": "2651ea2d400f",
-   "url": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
-   "title": "あなたのオーディエンスはAIを使用していますが、それを信頼していません– @ sejournal、@ gregjarboeを介してギャップのためのコンテンツを構築する",
-   "summary": "より明確なソーシング、オーディエンスセグメンテーション、正直な製品制限を備えた、AIを使用しているが信頼できないオーディエンスのためのSEOとコンテンツ戦略を構築します。",
-   "source": "Search Engine Journal",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/build-content-981.png",
-   "published": "2026-10-21T04:00+09:00",
-   "collected": "2026-10-21T09:08+09:00",
-   "title_orig": "Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap via @sejournal, @gregjarboe",
-   "summary_orig": "Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits. The post Yo"
-  },
-  {
-   "id": "2e553dc45565",
-   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-   "title": "GoogleがAmazonに加わり、AIアプリ開発者によるNVIDIAの拠点を攻撃",
-   "summary": "GoogleはAmazonと共に、PyTorchユーザーがNvidia GPUからアプリを簡単に移動できるようにする開発者ツールをリリースした。",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-   "published": "2026-10-21T03:38+09:00",
-   "collected": "2026-10-21T09:08+09:00",
-   "title_orig": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-   "summary_orig": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs."
-  },
-  {
-   "id": "2c6e68252b81",
-   "url": "https://finance.biggo.jp/news/90588430-f428-4eea-8b20-1f53bdcbaafd",
-   "title": "ズーム、会議の文脈をAIに開放 Claude・ChatGPTから業務起動へ",
-   "summary": "ズーム・コミュニケーションズは年次イベントZoomtopia 2026で、会議や通話、チャットの会話情報をAIの業務遂行に結び付ける基盤「Unified Context Layer」を発…",
-   "source": "BigGo ファイナンス",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://img.biggo.com/RpxHzZKIT72pNFnlbQ4BFx3T3KrgMd0PJUHS2XlKqXA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzkwNTg4NDMwLWY0MjgtNGVlYS04YjIwLTFmNTNiZGNiYWFmZF8xNzkyNTIzMjMyX2RlZmF1bHQuanBn.jpg",
-   "published": "2026-10-21T03:35+09:00",
-   "collected": "2026-10-21T09:56+09:00"
   }
  ]
 }
