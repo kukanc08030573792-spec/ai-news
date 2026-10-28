@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-28T10:42+09:00",
+  "last_updated": "2026-10-28T11:14+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,35 @@
   ]
  },
  "items": [
+  {
+   "id": "888bb248631e",
+   "url": "https://prtimes.jp/main/html/rd/p/000000407.000053429.html",
+   "title": "レガシーシステムを含むPC業務を丸ごと任せられるAIエージェント「Opnova」を国内初提供",
+   "summary": "レガシーシステムを含むPC業務を丸ごと任せられるAIエージェント「Opnova」を国内初提供",
+   "source": "PR TIMES",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/53429/407/53429-407-10e19f49ac56f27c75bfbf3ac2fa2115-2000x801.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-28T11:00+09:00",
+   "collected": "2026-10-28T11:14+09:00"
+  },
+  {
+   "id": "d1ff3525b248",
+   "url": "https://markezine.jp/article/detail/77416",
+   "title": "CTR2.8倍・CPA10%減の事例も！TikTok Symphonyが変える動画広告の「量と質」",
+   "summary": "動画広告の需要が高まる一方、「制作コストが重い」「クリエイティブがすぐ摩耗する」といった悩みに頭を抱えるマーケターは少なくありません。そうした中、広告代理店のココラブルは生成AIを活用したクリエイティブツール「TikTok Symphony」を本格導入。",
+   "source": "MarkeZine",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-28T10:30+09:00",
+   "collected": "2026-10-28T11:14+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "914e39d0167e",
    "url": "https://ascii.jp/elem/000/004/446/4446249/?rss",
@@ -102,6 +131,20 @@
    "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/28/2000002652/10010657/2048",
    "published": "2026-10-28T09:48+09:00",
    "collected": "2026-10-28T10:42+09:00"
+  },
+  {
+   "id": "bd64d35e731b",
+   "url": "https://ascii.jp/elem/000/004/446/4446262/?rss",
+   "title": "【TechSuite株式会社】TechSuite株式会社のAI検索最適化（LLMO/AIO/GEO/AEO）支援サービス「AI検索パートナーズ」、「DX総合EXPO 2026 秋」に出展",
+   "summary": "【TechSuite株式会社】TechSuite株式会社のAI検索最適化（LLMO/AIO/GEO/AEO）支援サービス「AI検索パートナーズ」、「DX総合EXPO 2026 秋」に出展",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+   "published": "2026-10-28T09:47+09:00",
+   "collected": "2026-10-28T11:14+09:00"
   },
   {
    "id": "f515afb7dcdd",
@@ -1064,7 +1107,7 @@
    "thumbnail": null,
    "published": "2026-10-27T19:00+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Autonomous AI: How to Get AI to Manage Itself",
    "summary_orig": "Wondering how to set up autonomous AI agents that complete work in the background without constant babysitting? Want a step-by-step process for training AI to r"
   },
@@ -1081,7 +1124,7 @@
    "thumbnail": null,
    "published": "2026-10-27T18:30+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Content Strategy, Behavior-Backed Ads, and Industry News",
    "summary_orig": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
   },
@@ -1098,7 +1141,7 @@
    "thumbnail": null,
    "published": "2026-10-27T18:00+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "057e8e7a801e",
@@ -1113,7 +1156,7 @@
    "thumbnail": null,
    "published": "2026-10-27T18:00+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "1043a55bbf7f",
@@ -1231,7 +1274,7 @@
    "thumbnail": null,
    "published": "2026-10-27T15:30+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "40903ddc57fd",
@@ -1330,7 +1373,7 @@
    "thumbnail": null,
    "published": "2026-10-27T12:00+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5927b5187ca5",
@@ -1375,7 +1418,7 @@
    "thumbnail": null,
    "published": "2026-10-27T11:00+09:00",
    "collected": "2026-10-28T09:44+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "0249967d0cf3",
@@ -2651,6 +2694,20 @@
    "collected": "2026-10-27T09:27+09:00",
    "title_orig": "Ads Super Burst, First Impression Ads, and Aggregated View Time",
    "summary_orig": "During the recent Brand Building Summit, Meta shared several updates. Here are the details of three new ad features… 1. Ads Super Burst Ads Super Burst allows a"
+  },
+  {
+   "id": "2ec602ae6165",
+   "url": "https://xpert.digital/ja/%E7%8F%BE%E5%9C%A8%E3%80%81%E5%85%B7%E4%BD%93%E7%9A%84%E3%81%AA%E4%BA%8B%E6%A5%AD%E3%81%8C%E8%A8%AD%E7%AB%8B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E5%A0%B4%E6%89%80/",
+   "title": "LinkedIn Sales Navigator zeigt, wer relevant sein könnte. XMedia zeigt, wo gerade ein konkretes Geschäft entsteht - Xpert.Digital",
+   "summary": "🌍 LinkedIn Sales Navigator は、関連性の高い連絡先を見つけるのに役立ちます。📊 XMedia モニタリングは、経済の変化を特定します。🔍 国際営業チームは、シグナルに迅速に対応できます。📈 早期の情報により、戦略的な意思決定が可能になります。",
+   "source": "Konrad Wolfenstein",
+   "type": "article",
+   "tier": "official",
+   "topic": "sns",
+   "proxy_for": "LinkedIn",
+   "thumbnail": "https://xpert.digital/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2026/10/wo-gerade-ein-konkretes-geschaeft-entsteht-Xpert-Digital.png.webp",
+   "published": "2026-10-26T22:25+09:00",
+   "collected": "2026-10-28T11:14+09:00"
   },
   {
    "id": "9c0a98fa46a8",
@@ -9173,68 +9230,6 @@
    "thumbnail": "https://techtarget.itmedia.co.jp/tt/article/ogp/2610/21/2000002436/10009957/2048",
    "published": "2026-10-21T05:00+09:00",
    "collected": "2026-10-22T09:14+09:00"
-  },
-  {
-   "id": "938ea47a6b58",
-   "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-   "title": "ジェミニのパーソナルインテリジェンスが車に登場",
-   "summary": "Geminiの設定を監査する時期かもしれません。",
-   "source": "Ars Technica AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-1152x648.png",
-   "published": "2026-10-21T05:00+09:00",
-   "collected": "2026-10-21T08:55+09:00",
-   "title_orig": "Gemini's Personal Intelligence is coming to cars",
-   "summary_orig": "It's probably time to audit your Gemini settings."
-  },
-  {
-   "id": "e07350494931",
-   "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/21/news011.html",
-   "title": "AIコーディングのAPIキーが狙われている OpenCodeのキー流出とインフォスティーラー「Aoki」から学ぶ対策",
-   "summary": "",
-   "source": "ITmedia AI+",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://image.itmedia.co.jp/ait/articles/2610/21/cover_news011.jpg",
-   "published": "2026-10-21T05:00+09:00",
-   "collected": "2026-10-21T08:55+09:00"
-  },
-  {
-   "id": "4dc8a56e0373",
-   "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-   "title": "バトルドローン-オーディオベースマルチプレイヤーを備えたバイブコーディングされたRTS",
-   "summary": "私の最新のバイブコードゲーム実験は、バトルドローン（ここでプレイ）と呼ばれるコマンド＆コンカースタイルのRTS （リアルタイム戦略）ゲームです。以前の経験とは異なり",
-   "source": "Simon Willison",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://static.simonwillison.net/static/2026/battle-drones-card.webp",
-   "published": "2026-10-21T04:34+09:00",
-   "collected": "2026-10-21T08:55+09:00",
-   "title_orig": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-   "summary_orig": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experi"
-  },
-  {
-   "id": "977d926a0cb6",
-   "url": "https://latent.space/p/sfcompute2/",
-   "title": "プログラマブルデータセンター— Evan Conrad、SF Compute",
-   "summary": "GPU取引から物理的な決済、独立市場、プログラム可能なコンピューティングまで",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://latent.space/og/card/post/sfcompute2/d89cc15816ba950ed64335cad4600581b70a52fb0b08a528cd1bdb75a11addf9.png",
-   "published": "2026-10-21T04:31+09:00",
-   "collected": "2026-10-24T08:52+09:00",
-   "title_orig": "The Programmable Data Center — Evan Conrad, SF Compute",
-   "summary_orig": "From GPU trading to physical settlement, independent markets, and programmable compute"
   }
  ]
 }
