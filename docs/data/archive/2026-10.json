@@ -88,7 +88,35 @@
   "thumbnail": null,
   "published": "2026-10-28T09:00+09:00",
   "collected": "2026-10-28T09:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
+ },
+ {
+  "id": "fe04a7e0dbfa",
+  "url": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news009.html",
+  "title": "360度カメラの映像から高精細な3Dモデルを生成、東電PGの建物保全業務に導入",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/28/cover_news009.jpg",
+  "published": "2026-10-28T09:00+09:00",
+  "collected": "2026-10-28T09:44+09:00"
+ },
+ {
+  "id": "58d2e2651349",
+  "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+  "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表 「Muse」の強化や次世代インフラ構築で協力",
+  "summary": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Metaは自社チップ開発と外部調達の両輪でインフラを強化する。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/28/2000002651/10010651/2048",
+  "published": "2026-10-28T08:55+09:00",
+  "collected": "2026-10-28T09:44+09:00"
  },
  {
   "id": "a2f907c053da",
@@ -135,7 +163,7 @@
   "thumbnail": null,
   "published": "2026-10-28T07:05+09:00",
   "collected": "2026-10-28T09:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f7ae401869c0",
@@ -150,7 +178,7 @@
   "thumbnail": null,
   "published": "2026-10-28T07:05+09:00",
   "collected": "2026-10-28T09:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "521ce8123faa",
@@ -184,7 +212,7 @@
   "id": "76878a8727ad",
   "url": "https://www.itmedia.co.jp/business/articles/2610/28/news039.html",
   "title": "「AIデータセンター」どこに作る？ 工場跡地、廃校、洋上、宇宙――ユニークな立地戦略の狙いは",
-  "summary": "à ÅuAIf [^ Z ^[ v Í the ¢ Å ¢ éB »Í § nÍAHêÕnApZAmãÈÇ ³ Ü ´ Ü ¾ Bj [NÈ § níªª_¢ ðl @ · éB",
+  "summary": "à ÅuAIf [^ Z ^[ v Í the ¢ Å ¢ éB »Í § nÍAHêÕnApZAmãÈÇ ³ Ü ´ Ü ¾ Bj [NÈ § níªª_ ¢ ðl @ · éB",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -193,7 +221,7 @@
   "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/28/cover_news039.jpg",
   "published": "2026-10-28T07:00+09:00",
   "collected": "2026-10-28T09:32+09:00",
-  "summary_orig": "àÅuAIf[^Z^[vÌÝª¢Å¢éB»Ì§nÍAHêÕnApZAmãÈÇ³Ü´Ü¾Bj[NÈ§níªÌ_¢ðl@·éB"
+  "summary_orig": "à ÅuAIf [^ Z ^[ v Í the ¢ Å ¢ éB »Í § nÍAHêÕnApZAmãÈÇ ³ Ü ´ Ü ¾ Bj [NÈ § níªª_¢ ðl @ · éB"
  },
  {
   "id": "a711e6c08e5f",
@@ -294,7 +322,7 @@
   "thumbnail": null,
   "published": "2026-10-28T06:50+09:00",
   "collected": "2026-10-28T09:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "7afb98bf1433",
@@ -773,7 +801,7 @@
   "thumbnail": null,
   "published": "2026-10-28T00:00+09:00",
   "collected": "2026-10-28T09:32+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Retell uses OpenAI models to help power 100M monthly calls",
   "summary_orig": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
  },
@@ -888,9 +916,25 @@
   "collected": "2026-10-28T09:32+09:00"
  },
  {
+  "id": "02c774ec5299",
+  "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+  "title": "NVIDIAは、より少ないGPUでAIモデルを実行する企業を支援するインドのスタートアップを支援",
+  "summary": "Simplismartは、年間収益ランレートが6か月で14倍に成長し、米国がその収益の半分以上を占めていると述べています。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
+  "published": "2026-10-27T20:00+09:00",
+  "collected": "2026-10-28T09:44+09:00",
+  "title_orig": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+  "summary_orig": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue."
+ },
+ {
   "id": "6098b1e3a8d8",
   "url": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
-  "title": "Anthropic S -1「The Cost of Compute, Who Is Paying?",
+  "title": "Anthropic S -1「 The Cost of Compute, Who Is Paying?",
   "summary": "AnthropicのIPOがついに到来しました。コアビジネスは非常に収益性が高いですが、投資家が無限の希薄化のために設定されている場合でも、競争がすべての利益を奪う可能性があります",
   "source": "Ben Thompson（Stratechery）",
   "type": "article",
@@ -900,8 +944,86 @@
   "thumbnail": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
   "published": "2026-10-27T19:32+09:00",
   "collected": "2026-10-28T09:32+09:00",
-  "title_orig": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
+  "title_orig": "Anthropic S -1「The Cost of Compute, Who Is Paying?",
   "summary_orig": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilu"
+ },
+ {
+  "id": "c606300d30ad",
+  "url": "https://www.socialmediaexaminer.com/autonomous-ai-how-to-get-ai-to-manage-itself/",
+  "title": "自律型AI ： AIに自分自身を管理させる方法",
+  "summary": "常にベビーシッターをしなくてもバックグラウンドで作業を完了する自律型AIエージェントを設定するにはどうすればよいですか？ AIをトレーニングするためのステップバイステップのプロセスが必要です",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T19:00+09:00",
+  "collected": "2026-10-28T09:44+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Autonomous AI: How to Get AI to Manage Itself",
+  "summary_orig": "Wondering how to set up autonomous AI agents that complete work in the background without constant babysitting? Want a step-by-step process for training AI to r"
+ },
+ {
+  "id": "1b537838e8f2",
+  "url": "https://www.socialmediaexaminer.com/280684-2/",
+  "title": "コンテンツ戦略、行動に基づく広告、業界ニュース",
+  "summary": "ここでは、今日知っておくべき最も重要な洞察、傾向、最新情報を要約します。数分で追いつき、準備を整えて週の残りの時間を過ごしましょう。",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T18:30+09:00",
+  "collected": "2026-10-28T09:44+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Content Strategy, Behavior-Backed Ads, and Industry News",
+  "summary_orig": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
+ },
+ {
+  "id": "2f3be613952d",
+  "url": "https://markezine.jp/article/detail/77947",
+  "title": "ファンケルが肌専門AI「FANCL SKIN MATE」提供、店頭と手元で顧客に寄り添い「不」を解消",
+  "summary": "2026年10月27日、株式会社ファンケルは公式アプリ「ファンケルメンバーズ」にて、肌専門AI「FANCL SKIN MATE（ファンケル スキンメイト）」の無料提供を開始した。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T18:00+09:00",
+  "collected": "2026-10-28T09:44+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "057e8e7a801e",
+  "url": "https://markezine.jp/article/detail/77949",
+  "title": "TikTokがブランドセーフティ戦略を公開 プラットフォーム保護と広告主支援の両面を提示",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T18:00+09:00",
+  "collected": "2026-10-28T09:44+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "1043a55bbf7f",
+  "url": "https://www.advertimes.com/20261027/article562075/?utm_source=feed",
+  "title": "「AI検索で流入・接点喪失」企業の9割が危機感 全社共有は2割未満",
+  "summary": "GMO NIKKOは9月 29日、AI検索時代における企業のAIO／LLMO（生成AI最適化／大規模言語モデル最適化）対応の実態と課題について調査した結果を発表した。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/gmo-nikko_survey-results_aio-llmo-efforts_ogp.jpg",
+  "published": "2026-10-27T17:51+09:00",
+  "collected": "2026-10-28T09:44+09:00"
  },
  {
   "id": "47e0c9ebc3a6",
@@ -916,6 +1038,20 @@
   "thumbnail": "https://exawizards.com/column/wp-content/uploads/2026/10/スクリーンショット-2026-10-27-17.38.17-1024x563.png",
   "published": "2026-10-27T17:41+09:00",
   "collected": "2026-10-28T09:32+09:00"
+ },
+ {
+  "id": "6195f35be25f",
+  "url": "https://www.advertimes.com/20261027/article562039/?utm_source=feed",
+  "title": "ストッキングを開封したら、まさかの「男性の更年期」解説文 女性ユーザーから怒り噴出も「理解は必要」と擁護の声 アツギの狙いとは",
+  "summary": "アツギが販売する女性向けストッキングに、男性の更年期症状への理解を促す文章が掲載されていたとして、SNSで物議を醸している。 The post ストッキングを開封したら、まさかの「男性の更年期」解説文 女性ユーザーから怒り噴出も「理解は必要」と擁護の声 アツギの狙いとは first appeared on AdverT",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/atsugi-ogp.jpg",
+  "published": "2026-10-27T17:01+09:00",
+  "collected": "2026-10-28T09:44+09:00"
  },
  {
   "id": "c0169790cfc0",
@@ -948,6 +1084,20 @@
   "summary_orig": "The S-1, the numbers, and the reactions."
  },
  {
+  "id": "e49f2f3cdc2e",
+  "url": "https://www.advertimes.com/20261027/article562018/?utm_source=feed",
+  "title": "店舗新規120％増からアプリへ ファンケルが肌専門AI発表、Mrs. GREEN APPLEが実演体験も",
+  "summary": "ファンケルは10月27日、同日から提供を開始した肌専門のAI「FANCL SKIN MATE」のローンチ発表会を開催。発表会には、ファンケル 代表取締役 社長執行役員 三橋英記氏と、新テレビCMに出演するMrs. GREEN APPLEの3人がゲストとして登壇した。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/fanclai04-ogp.jpg",
+  "published": "2026-10-27T16:23+09:00",
+  "collected": "2026-10-28T09:44+09:00"
+ },
+ {
   "id": "a3a879144b29",
   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
   "title": "OpenAIがオラクルとのパートナーシップを拡大し、ChatGPTにアプリを導入",
@@ -960,9 +1110,24 @@
   "thumbnail": null,
   "published": "2026-10-27T16:00+09:00",
   "collected": "2026-10-28T09:32+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
   "summary_orig": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+ },
+ {
+  "id": "55c255706370",
+  "url": "https://markezine.jp/article/detail/77936",
+  "title": "エクサウィザーズとスタジアム、営業組織の型化・AI導入から定着・効果測定まで伴走支援を開始",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T15:30+09:00",
+  "collected": "2026-10-28T09:44+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "40903ddc57fd",
@@ -979,6 +1144,164 @@
   "collected": "2026-10-28T09:32+09:00"
  },
  {
+  "id": "b25d5112f32c",
+  "url": "https://www.advertimes.com/20261027/article561854/?utm_source=feed",
+  "title": "生成AIに選ばれる企業は何が違う？生成AIの回答を左右する「メディア露出」と「一貫性」",
+  "summary": "電通デジタルと電通PRコンサルティングは10月2日、メディア露出と生成AI言及の相関分析に関する調査結果を発表した。 The post 生成AIに選ばれる企業は何が違う？生成AIの回答を左右する「メディア露出」と「一貫性」 first appeared on AdverTimes.（アドタイ） by 宣伝会議 .",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/aichoicecompany-ogp.jpg",
+  "published": "2026-10-27T12:33+09:00",
+  "collected": "2026-10-28T09:44+09:00"
+ },
+ {
+  "id": "c48631ae982d",
+  "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002550/",
+  "title": "メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に 7000人以上で実験",
+  "summary": "ドイツのベルリン工科大学などに所属する研究者らが発表した論文「A Large-Scale Study of Personalized Phishing using Large Language Models」は、AIが生成するスピアフィッシング攻撃の有効性を検証した研究報告だ。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/27/2000002550/10010293/2048",
+  "published": "2026-10-27T12:00+09:00",
+  "collected": "2026-10-28T09:44+09:00"
+ },
+ {
+  "id": "b3a4d82b4cf0",
+  "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news033.html",
+  "title": "HISが月100時間を削減 AIエージェントで法人出張の見積もり、どう自動化した？",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2610/26/cover_news033.jpg",
+  "published": "2026-10-27T12:00+09:00",
+  "collected": "2026-10-28T09:44+09:00"
+ },
+ {
+  "id": "66f24e47fcb7",
+  "url": "https://www.itmedia.co.jp/news/article/2610/27/2000002585/",
+  "title": "「若手はAI使うな」は“老害”なのか？ 新人教育で「AI禁止」した企業の1年後",
+  "summary": "約1年前、新人教育を目的にAI禁止施策を採用したいえらぶGROUP。現在の状況は……？（1/2 ページ）",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/27/2000002585/10010455/2048",
+  "published": "2026-10-27T12:00+09:00",
+  "collected": "2026-10-28T09:44+09:00"
+ },
+ {
+  "id": "b6d58e48b312",
+  "url": "https://monoist.itmedia.co.jp/mn/articles/2610/27/news017.html",
+  "title": "AI活用が進むほど、物理シミュレーションの重要性は高まる",
+  "summary": "HÍACOx_[Ìú{ü¯Cxgª±«Ü·ËB",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/ee/articles/1407/02/tt140702kobore_icon120.jpg",
+  "published": "2026-10-27T12:00+09:00",
+  "collected": "2026-10-28T09:44+09:00"
+ },
+ {
+  "id": "fe626013a7df",
+  "url": "https://markezine.jp/article/detail/77681",
+  "title": "内製と外注の結節点を探る。大手企業マネジメント層300人調査が映す、自走するマーケティング組織の条件",
+  "summary": "複雑化するデジタルマーケティングやAIの進化など、マーケティングを取り巻く環境は劇的に変化している。そうしたなか、CMOやCDOの頭を悩ませているのが、これらの変化に柔軟に対応し、成果を出し続ける組織づくりだ。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T12:00+09:00",
+  "collected": "2026-10-28T09:44+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "5927b5187ca5",
+  "url": "https://www.advertimes.com/20261027/article561923/?utm_source=feed",
+  "title": "マックも航空会社も続々便乗 「空飛ぶクルマ」で大喜利状態に テスラの動画パロディーに世界の企業が参戦",
+  "summary": "大きくカーブしたスロープを駆け上がり、逆さまになって飛び出し、空中でロケットの噴射装置から空気を噴射しながら着陸する——。テスラが発表した「空飛ぶクルマ」の映像は、世界に衝撃を与えた。そのSF映画のような映像が注目を集める中、様々な企業がパロディーを作り、SNSに投稿している。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/tesla01.jpg",
+  "published": "2026-10-27T11:12+09:00",
+  "collected": "2026-10-28T09:44+09:00"
+ },
+ {
+  "id": "62ecc12b68be",
+  "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+  "title": "OpenAIがコーディングツールを常時稼働のパーソナルアシスタントであるドットに変えた方法",
+  "summary": "DOTを担当するOpenAI幹部のAlexander Embiricosは、他の誰かのAIエージェントとのミーティングを望んでいません。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+  "published": "2026-10-27T11:00+09:00",
+  "collected": "2026-10-28T09:44+09:00",
+  "title_orig": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+  "summary_orig": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+ },
+ {
+  "id": "51a74fcfb3b9",
+  "url": "https://markezine.jp/article/detail/77597",
+  "title": "商品探索は「検索」から「相談」へ 博報堂が提唱するAI時代のIMCプランニングと独自エージェント論",
+  "summary": "生活者が日常的にAIを活用し、購買プロセスの入り口は「検索」から「相談」へと激変している。接点がAIに集約される中、企業はマーケティングをどう刷新すべきなのか。博報堂の専門組織「CXクリエイティブ局」では、全接点を生活者の問いから再設計する「AI IMC」や、動的エージェント「Branded AI Agent」など、次",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-27T11:00+09:00",
+  "collected": "2026-10-28T09:44+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "0249967d0cf3",
+  "url": "https://jbpress.ismedia.jp/articles/-/97729",
+  "title": "「AIの安全を評価するAI」を誰が評価するのか？Anthropicの上場申請書が示したAI開発ループの構造的矛盾",
+  "summary": "「2026年9月、当社のコードベース（製品やシステムを構成するソースコード一式）への貢献の90％超はClaudeが書いたものだった」。米国で大きな注目を集めるIPO（新規株式公開）に(1/5)",
+  "source": "JBpress",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://jbpress.ismcdn.jp/mwimgs/4/d/1200mw/img_4d026db5440cdeaa188bdcbf5e8ae9831243296.jpg",
+  "published": "2026-10-27T11:00+09:00",
+  "collected": "2026-10-28T09:44+09:00"
+ },
+ {
+  "id": "bdee51f9a328",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/27/2000002611/",
+  "title": "コスパ重視の「GPT-6.1 Terra」新登場 コスト10分の1で一部Astraと同等性能うたう",
+  "summary": "OpenAIがコスパ重視の新モデル「GPT-6.1 Terra」を発表。最上位の「GPT-6 Astra」と一部同等の性能を、10分の1のコストで実現するとうたう。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/27/2000002611/10010528/2048",
+  "published": "2026-10-27T10:48+09:00",
+  "collected": "2026-10-28T09:44+09:00"
+ },
+ {
   "id": "fe6288f42a04",
   "url": "https://news.nicovideo.jp/watch/nw19921964?news_ref=watch_60_nw10335",
   "title": "『大学・学校法人の理事会、会議情報を外部に出さず生成AIで議事録を作成するには？』というテーマのウェビナーを開催",
@@ -991,7 +1314,7 @@
   "thumbnail": null,
   "published": "2026-10-27T10:45+09:00",
   "collected": "2026-10-27T11:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "5d90d6b24c4b",
@@ -1006,7 +1329,7 @@
   "thumbnail": null,
   "published": "2026-10-27T10:30+09:00",
   "collected": "2026-10-27T11:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "000b1eb55596",
@@ -1110,7 +1433,7 @@
   "thumbnail": null,
   "published": "2026-10-27T09:43+09:00",
   "collected": "2026-10-27T11:04+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Australia’s proposed algorithmic opt-out gets pushback",
   "summary_orig": "Instagram Chief Adam Mosseri and conservative commentator Michael Shellenberger have separately opposed aspects of the regulations."
  },
@@ -1228,7 +1551,7 @@
   "thumbnail": null,
   "published": "2026-10-27T09:00+09:00",
   "collected": "2026-10-28T09:32+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "How Check Point accelerates vulnerability research with Daybreak",
   "summary_orig": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer"
  },
@@ -1379,7 +1702,7 @@
   "thumbnail": null,
   "published": "2026-10-27T07:56+09:00",
   "collected": "2026-10-27T11:04+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "More than half of US adults use social media to get their news",
   "summary_orig": "A new report from Pew found that the percentage of Americans who use apps to stay connected to current events has risen sharply over the last four years."
  },
@@ -1410,7 +1733,7 @@
   "thumbnail": null,
   "published": "2026-10-27T07:26+09:00",
   "collected": "2026-10-27T11:04+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "TikTok playbook outlines the value of its high-end ad options",
   "summary_orig": "The app’s Top View and Pulse Premiere options provide premium placement opportunities during peak viewing events."
  },
@@ -1803,7 +2126,7 @@
   "thumbnail": null,
   "published": "2026-10-27T04:05+09:00",
   "collected": "2026-10-27T11:04+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Instagram rolls out limited Features test in the US",
   "summary_orig": "New long-form video formats will provide expanded ways for creators to engage with their audiences."
  },
@@ -2272,6 +2595,22 @@
   "collected": "2026-10-27T09:50+09:00",
   "title_orig": "Anthropic Goes for the Public Markets as Revenue Jumps Nearly 15-Fold",
   "summary_orig": "A 335-page IPO plan shows a profitable second quarter, a concentrated customer base, and compute deals that send hundreds of billions to Google and Amazon."
+ },
+ {
+  "id": "0f2419d13e3b",
+  "url": "https://buffer.com/resources/how-to-schedule-facebook-posts/",
+  "title": "Facebookで投稿をスケジュールする方法—ページ、プロフィール、グループ",
+  "summary": "ページ、プロフェッショナルプロフィール、またはグループからFacebookで投稿をスケジュールする方法と、スケジュールされた投稿を検索、編集、または削除し、スケジュールが不足している問題を修正する方法",
+  "source": "Buffer",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2026/07/Schedule-on-facebook.png",
+  "published": "2026-10-26T20:00+09:00",
+  "collected": "2026-10-28T09:44+09:00",
+  "title_orig": "How to Schedule a Post on Facebook — for Pages, Profiles + Groups",
+  "summary_orig": "How to schedule a post on Facebook from a Page, professional profile, or Group, plus how to find, edit, or delete scheduled posts and fix a missing schedule but"
  },
  {
   "id": "64d59b55a8fb",
@@ -2948,7 +3287,7 @@
   "thumbnail": null,
   "published": "2026-10-26T07:13+09:00",
   "collected": "2026-10-27T11:04+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "TikTok US shares Q2 account enforcement data",
   "summary_orig": "The platform said it removed more than 14 million fake accounts and prevented nearly 65 million spam accounts from being created."
  },
