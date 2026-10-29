@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-29T10:56+09:00",
+  "last_updated": "2026-10-29T11:26+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -46,6 +46,49 @@
  },
  "items": [
   {
+   "id": "f71d1a6cfd40",
+   "url": "https://news.nicovideo.jp/watch/nw19931987?news_ref=watch_20_nw19213942",
+   "title": "矢野経済研究所とJAPAN AI、生成AIで市場調査を支援する新サービス「YDBエージェント」を発表",
+   "summary": "矢野経済研究所とJAPAN AI、生成AIで市場調査を支援する新サービス「YDBエージェント」を発表",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-29T11:06+09:00",
+   "collected": "2026-10-29T11:26+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "d9d5f8fad6f4",
+   "url": "https://prtimes.jp/main/html/rd/p/000000078.000044120.html",
+   "title": "システムエグゼ、厚生労働省の情報公開等業務におけるRAG型生成AI・AI-OCRの活用事例を公開",
+   "summary": "システムエグゼ、厚生労働省の情報公開等業務におけるRAG型生成AI・AI-OCRの活用事例を公開",
+   "source": "PR TIMES",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/44120/78/44120-78-15ef5d135a571d56c30bc3c4df189ad3-652x156.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-29T11:00+09:00",
+   "collected": "2026-10-29T11:26+09:00"
+  },
+  {
+   "id": "f41027b67322",
+   "url": "https://ascii.jp/elem/000/004/446/4446684/?rss",
+   "title": "16型で約1.68kg、RTX 5060搭載モデルも クリエイター向けノート「DAIV Z6」発売",
+   "summary": "マウスコンピューターが、薄型軽量と高性能を両立した16.0型クリエイター向けノートパソコン「DAIV Z6」を10月29日に発売する。Core Ultra 7 255HとRTX 50シリーズ、DCI-P3 100%対応ディスプレイを搭載し、写真・映像編集や3D制作を支える。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/29/4545512/xl/49b12dcc309949e6.jpg",
+   "published": "2026-10-29T11:00+09:00",
+   "collected": "2026-10-29T11:26+09:00"
+  },
+  {
    "id": "962c7969833f",
    "url": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html",
    "title": "AI半導体市場「メガサイクル局面だ」 アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク",
@@ -58,6 +101,20 @@
    "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/29/cover_news050.jpg",
    "published": "2026-10-29T10:05+09:00",
    "collected": "2026-10-29T10:56+09:00"
+  },
+  {
+   "id": "ec5af3a61032",
+   "url": "https://it.impress.co.jp/articles/-/29946",
+   "title": "日立ソリューションズ、画面を認識してPCを自動で操作するAIエージェント「Opnova」を販売",
+   "summary": "日立ソリューションズは2026年10月28日、PC操作を自動化するAIエージェント「Opnova」を発表した。同年10月29日から提供する。人間のようにPC画面の状態を認識したうえで自律的に操作するAIエージェントを作成できるツールである。複数システムにまたがった業務を既存の手順のまま代行できる。",
+   "source": "IT Leaders",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://it.impress.co.jp/mwimgs/0/f/400/img_0f257b53515c00017c93eaab48a81d3b143830.jpg",
+   "published": "2026-10-29T10:01+09:00",
+   "collected": "2026-10-29T11:26+09:00"
   },
   {
    "id": "04a31a6865ba",
@@ -327,7 +384,7 @@
    "thumbnail": null,
    "published": "2026-10-29T07:39+09:00",
    "collected": "2026-10-29T10:56+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Meta’s Muse AI agents are now available to users in Singapore",
    "summary_orig": "The expansion marks the next step in Meta's plan to get billions of people using its AI agents."
   },
@@ -564,7 +621,7 @@
    "thumbnail": null,
    "published": "2026-10-29T05:54+09:00",
    "collected": "2026-10-29T10:56+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "TikTok adds in-app restaurant guide",
    "summary_orig": "The local dining list, called Must Eat, is designed to showcase community-sourced spots in the U.S."
   },
@@ -614,7 +671,7 @@
    "thumbnail": null,
    "published": "2026-10-29T05:41+09:00",
    "collected": "2026-10-29T10:56+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Meta launches two new AI apps, including one aimed at kids",
    "summary_orig": "Waddle World is designed to offer children a “Tamagotchi-style pet raising” experience, while Style Sketch creates outfits from uploaded images of users’ clothe"
   },
@@ -760,7 +817,7 @@
    "thumbnail": null,
    "published": "2026-10-29T03:59+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "X lets users share credit on reposted images",
    "summary_orig": "The app’s Original Content Rewards Program now ensures that more users benefit from engagement on linked graphics."
   },
@@ -1478,6 +1535,20 @@
    "summary_orig": "Since coding is solved, why code for the job?"
   },
   {
+   "id": "ba2a239e4ac6",
+   "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity?hl=ja",
+   "title": "Google Antigravity で Claude Opus 5.5 と Claude Sonnet 5.5 が利用可能に",
+   "summary": "オープンなエコシステムへの取り組み、そしてあらゆるタスクに最適なモデルを開発者に提供するという Google Cloud のコミットメントに基づき、Google Antigravity で Claude Opus 5.5 と Claude Sonnet 5.5 が利用可能になりました。",
+   "source": "Google Cloud",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/01_-_AI__Machine_Learning_H1ZyZG8.max-2600x2600.jpg",
+   "published": "2026-10-28T17:42+09:00",
+   "collected": "2026-10-29T11:26+09:00"
+  },
+  {
    "id": "ac1d52f2ae86",
    "url": "https://japan.cnet.com/article/35254099/",
    "title": "Anthropic、1人社長の創薬企業を買収 「Claude」で小児難病の治療研究",
@@ -1546,7 +1617,7 @@
    "thumbnail": null,
    "published": "2026-10-28T16:15+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d25e21898cc1",
@@ -1646,7 +1717,7 @@
    "thumbnail": null,
    "published": "2026-10-28T13:00+09:00",
    "collected": "2026-10-29T10:56+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "eb11c821f016",
@@ -1953,7 +2024,7 @@
    "thumbnail": null,
    "published": "2026-10-28T07:59+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "YouTube adds microdrama subscriptions",
    "summary_orig": "The format garnered more than 6.5 billion views in the first half of 2026, according to the company."
   },
@@ -2208,7 +2279,7 @@
    "thumbnail": null,
    "published": "2026-10-28T05:59+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "LinkedIn launches data insights hub",
    "summary_orig": "The platform’s Economic Graph has been renamed LinkedIn Pulse and reimagined as a channel for global labor market analysis."
   },
@@ -2241,7 +2312,7 @@
    "thumbnail": null,
    "published": "2026-10-28T05:42+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "LinkedIn tests simplified UI",
    "summary_orig": "Menus on both desktop and mobile have been consolidated and some posts will see longer lead-ins as the platform experiments with new navigation options."
   },
@@ -2290,7 +2361,7 @@
    "thumbnail": null,
    "published": "2026-10-28T04:19+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "YouTube tests reduced payment threshold for creators",
    "summary_orig": "The platform is experimenting with a cash-out option set at $20 rather than the current $100, which could open doors to more video producers."
   },
@@ -9148,85 +9219,6 @@
    "_thumb_tries": 3,
    "title_orig": "Broad access through consistent standards",
    "summary_orig": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
-  },
-  {
-   "id": "f61653464fe3",
-   "url": "https://blog.hootsuite.com/measure-employee-advocacy-success/",
-   "title": "2026年の従業員擁護の成功を測定する方法",
-   "summary": "従業員のアドボカシーを測定する方法がわからない場合は、KPI、ベンチマーク、ROI式を取得して、プログラムがリード、採用、節約を促進していることを証明します。How to meaの投稿",
-   "source": "Hootsuite",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/10/BLOG-13.png",
-   "published": "2026-10-22T05:49+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "title_orig": "How to measure employee advocacy success in 2026",
-   "summary_orig": "Not sure how to measure employee advocacy? Get the KPIs, benchmarks, and ROI formula to prove your program drives leads, hires, and savings. The post How to mea"
-  },
-  {
-   "id": "8f2265fbbc7a",
-   "url": "https://blog.hootsuite.com/social-media-healthcare/",
-   "title": "医療におけるソーシャルメディア： 2026年のコンプライアンスガイド",
-   "summary": "ヘルスケアでソーシャルメディアを使用していますか？費用のかかるHIPAAの誤りを避け、適切なポリシー、プラットフォーム、指標を使用してオーディエンスを増やすソーシャルメディアの投稿",
-   "source": "Hootsuite",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/10/healthcare-1.png",
-   "published": "2026-10-22T05:27+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "title_orig": "Social media in healthcare: A compliance guide for 2026",
-   "summary_orig": "Using social media in healthcare? Avoid costly HIPAA slip-ups and still grow your audience with the right policy, platforms, and metrics The post Social media i"
-  },
-  {
-   "id": "d777d785a3ac",
-   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-   "title": "リカーシブは、主にAIによって構築されたと言われているラップトップコーディングモデルであるフリントを発売",
-   "summary": "Startup Recursiveは、主に独自のAI研究システムによって構築された無料のノートパソコンサイズのコーディングモデルであるFlintを、自己改善するAIの早期テストとしてリリースしました",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
-   "published": "2026-10-22T05:27+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "title_orig": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-   "summary_orig": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself"
-  },
-  {
-   "id": "8c70ab92e5b9",
-   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/101502126/?P=2&i_cid=nbpnxt_nextpage_child_a",
-   "title": "Anthropic「物理AI版MCP」を米量子QuEraが実証、エラーの復旧成功率99％（2ページ目）",
-   "summary": "米Anthropicが公開したAIエージェント接続の共通規格「MCP」が誕生からまもなく2年を迎えようとしている。従来ばらばらだった接続仕様を統一したことで、開発の現場に浸透した。そのAnthropicが次の一手を打っている。「MHS（Model Hardware Standard）」だ。",
-   "source": "日経クロステック",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/101502126/topm.jpg?20220512",
-   "published": "2026-10-22T05:00+09:00",
-   "collected": "2026-10-23T08:59+09:00"
-  },
-  {
-   "id": "1f5762a18919",
-   "url": "https://www.socialmediatoday.com/news/youtube-shares-data-on-how-creators-are-using-ai/833657/",
-   "title": "YouTubeは、クリエイターがAIをどのように使用しているかに関するデータを共有します",
-   "summary": "プラットフォームが委託した新しい調査によると、動画を投稿する人の3分の2近くが、人工知能を使用してコンテンツに自分自身を挿入したいと考えていることがわかりました。",
-   "source": "Social Media Today",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-22T05:00+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 3,
-   "title_orig": "YouTube shares data on how creators are using AI",
-   "summary_orig": "A new study commissioned by the platform found that nearly two-thirds of people posting videos wanted to insert themselves into the content using artificial int"
   }
  ]
 }

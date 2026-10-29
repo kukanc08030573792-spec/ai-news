@@ -1,5 +1,48 @@
 [
  {
+  "id": "f71d1a6cfd40",
+  "url": "https://news.nicovideo.jp/watch/nw19931987?news_ref=watch_20_nw19213942",
+  "title": "矢野経済研究所とJAPAN AI、生成AIで市場調査を支援する新サービス「YDBエージェント」を発表",
+  "summary": "矢野経済研究所とJAPAN AI、生成AIで市場調査を支援する新サービス「YDBエージェント」を発表",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-29T11:06+09:00",
+  "collected": "2026-10-29T11:26+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "d9d5f8fad6f4",
+  "url": "https://prtimes.jp/main/html/rd/p/000000078.000044120.html",
+  "title": "システムエグゼ、厚生労働省の情報公開等業務におけるRAG型生成AI・AI-OCRの活用事例を公開",
+  "summary": "システムエグゼ、厚生労働省の情報公開等業務におけるRAG型生成AI・AI-OCRの活用事例を公開",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/44120/78/44120-78-15ef5d135a571d56c30bc3c4df189ad3-652x156.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-29T11:00+09:00",
+  "collected": "2026-10-29T11:26+09:00"
+ },
+ {
+  "id": "f41027b67322",
+  "url": "https://ascii.jp/elem/000/004/446/4446684/?rss",
+  "title": "16型で約1.68kg、RTX 5060搭載モデルも クリエイター向けノート「DAIV Z6」発売",
+  "summary": "マウスコンピューターが、薄型軽量と高性能を両立した16.0型クリエイター向けノートパソコン「DAIV Z6」を10月29日に発売する。Core Ultra 7 255HとRTX 50シリーズ、DCI-P3 100%対応ディスプレイを搭載し、写真・映像編集や3D制作を支える。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/29/4545512/xl/49b12dcc309949e6.jpg",
+  "published": "2026-10-29T11:00+09:00",
+  "collected": "2026-10-29T11:26+09:00"
+ },
+ {
   "id": "962c7969833f",
   "url": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html",
   "title": "AI半導体市場「メガサイクル局面だ」 アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク",
@@ -12,6 +55,20 @@
   "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/29/cover_news050.jpg",
   "published": "2026-10-29T10:05+09:00",
   "collected": "2026-10-29T10:56+09:00"
+ },
+ {
+  "id": "ec5af3a61032",
+  "url": "https://it.impress.co.jp/articles/-/29946",
+  "title": "日立ソリューションズ、画面を認識してPCを自動で操作するAIエージェント「Opnova」を販売",
+  "summary": "日立ソリューションズは2026年10月28日、PC操作を自動化するAIエージェント「Opnova」を発表した。同年10月29日から提供する。人間のようにPC画面の状態を認識したうえで自律的に操作するAIエージェントを作成できるツールである。複数システムにまたがった業務を既存の手順のまま代行できる。",
+  "source": "IT Leaders",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://it.impress.co.jp/mwimgs/0/f/400/img_0f257b53515c00017c93eaab48a81d3b143830.jpg",
+  "published": "2026-10-29T10:01+09:00",
+  "collected": "2026-10-29T11:26+09:00"
  },
  {
   "id": "04a31a6865ba",
@@ -281,7 +338,7 @@
   "thumbnail": null,
   "published": "2026-10-29T07:39+09:00",
   "collected": "2026-10-29T10:56+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Meta’s Muse AI agents are now available to users in Singapore",
   "summary_orig": "The expansion marks the next step in Meta's plan to get billions of people using its AI agents."
  },
@@ -518,7 +575,7 @@
   "thumbnail": null,
   "published": "2026-10-29T05:54+09:00",
   "collected": "2026-10-29T10:56+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "TikTok adds in-app restaurant guide",
   "summary_orig": "The local dining list, called Must Eat, is designed to showcase community-sourced spots in the U.S."
  },
@@ -568,7 +625,7 @@
   "thumbnail": null,
   "published": "2026-10-29T05:41+09:00",
   "collected": "2026-10-29T10:56+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Meta launches two new AI apps, including one aimed at kids",
   "summary_orig": "Waddle World is designed to offer children a “Tamagotchi-style pet raising” experience, while Style Sketch creates outfits from uploaded images of users’ clothe"
  },
@@ -714,7 +771,7 @@
   "thumbnail": null,
   "published": "2026-10-29T03:59+09:00",
   "collected": "2026-10-29T10:14+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "X lets users share credit on reposted images",
   "summary_orig": "The app’s Original Content Rewards Program now ensures that more users benefit from engagement on linked graphics."
  },
@@ -1432,6 +1489,20 @@
   "summary_orig": "Since coding is solved, why code for the job?"
  },
  {
+  "id": "ba2a239e4ac6",
+  "url": "https://cloud.google.com/blog/ja/products/ai-machine-learning/claude-opus-55-and-claude-sonnet-55-available-in-antigravity?hl=ja",
+  "title": "Google Antigravity で Claude Opus 5.5 と Claude Sonnet 5.5 が利用可能に",
+  "summary": "オープンなエコシステムへの取り組み、そしてあらゆるタスクに最適なモデルを開発者に提供するという Google Cloud のコミットメントに基づき、Google Antigravity で Claude Opus 5.5 と Claude Sonnet 5.5 が利用可能になりました。",
+  "source": "Google Cloud",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://storage.googleapis.com/gweb-cloudblog-publish/images/01_-_AI__Machine_Learning_H1ZyZG8.max-2600x2600.jpg",
+  "published": "2026-10-28T17:42+09:00",
+  "collected": "2026-10-29T11:26+09:00"
+ },
+ {
   "id": "ac1d52f2ae86",
   "url": "https://japan.cnet.com/article/35254099/",
   "title": "Anthropic、1人社長の創薬企業を買収 「Claude」で小児難病の治療研究",
@@ -1500,7 +1571,7 @@
   "thumbnail": null,
   "published": "2026-10-28T16:15+09:00",
   "collected": "2026-10-29T10:14+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d25e21898cc1",
@@ -1600,7 +1671,7 @@
   "thumbnail": null,
   "published": "2026-10-28T13:00+09:00",
   "collected": "2026-10-29T10:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "eb11c821f016",
@@ -1907,7 +1978,7 @@
   "thumbnail": null,
   "published": "2026-10-28T07:59+09:00",
   "collected": "2026-10-29T10:14+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "YouTube adds microdrama subscriptions",
   "summary_orig": "The format garnered more than 6.5 billion views in the first half of 2026, according to the company."
  },
@@ -2162,7 +2233,7 @@
   "thumbnail": null,
   "published": "2026-10-28T05:59+09:00",
   "collected": "2026-10-29T10:14+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "LinkedIn launches data insights hub",
   "summary_orig": "The platform’s Economic Graph has been renamed LinkedIn Pulse and reimagined as a channel for global labor market analysis."
  },
@@ -2195,7 +2266,7 @@
   "thumbnail": null,
   "published": "2026-10-28T05:42+09:00",
   "collected": "2026-10-29T10:14+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "LinkedIn tests simplified UI",
   "summary_orig": "Menus on both desktop and mobile have been consolidated and some posts will see longer lead-ins as the platform experiments with new navigation options."
  },
@@ -2244,7 +2315,7 @@
   "thumbnail": null,
   "published": "2026-10-28T04:19+09:00",
   "collected": "2026-10-29T10:14+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "YouTube tests reduced payment threshold for creators",
   "summary_orig": "The platform is experimenting with a cash-out option set at $20 rather than the current $100, which could open doors to more video producers."
  },
