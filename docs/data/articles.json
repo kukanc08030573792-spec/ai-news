@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-29T10:14+09:00",
+  "last_updated": "2026-10-29T10:56+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,20 @@
   ]
  },
  "items": [
+  {
+   "id": "962c7969833f",
+   "url": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html",
+   "title": "AI半導体市場「メガサイクル局面だ」 アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク",
+   "summary": "",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/29/cover_news050.jpg",
+   "published": "2026-10-29T10:05+09:00",
+   "collected": "2026-10-29T10:56+09:00"
+  },
   {
    "id": "04a31a6865ba",
    "url": "https://ascii.jp/elem/000/004/446/4446229/?rss",
@@ -118,7 +132,7 @@
    "thumbnail": null,
    "published": "2026-10-29T09:51+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "415ea6135067",
@@ -133,7 +147,7 @@
    "thumbnail": null,
    "published": "2026-10-29T09:00+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "e59c1ac4a994",
@@ -178,7 +192,7 @@
    "thumbnail": null,
    "published": "2026-10-29T08:23+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting Ted Sanders",
    "summary_orig": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that"
   },
@@ -283,7 +297,7 @@
    "thumbnail": null,
    "published": "2026-10-29T08:00+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "2d9cbafd257c",
@@ -298,7 +312,24 @@
    "thumbnail": null,
    "published": "2026-10-29T08:00+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
+  },
+  {
+   "id": "74ab77332ca3",
+   "url": "https://www.socialmediatoday.com/news/metas-muse-ai-agents-are-now-available-to-users-in-singapore/873131/",
+   "title": "MetaのMuse AIエージェントがシンガポールのユーザーに利用可能になりました",
+   "summary": "この拡張は、何十億人もの人々がAIエージェントを使用できるようにするメタの計画の次のステップを示しています。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-29T07:39+09:00",
+   "collected": "2026-10-29T10:56+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Meta’s Muse AI agents are now available to users in Singapore",
+   "summary_orig": "The expansion marks the next step in Meta's plan to get billions of people using its AI agents."
   },
   {
    "id": "7e24956ce2f2",
@@ -313,7 +344,7 @@
    "thumbnail": null,
    "published": "2026-10-29T07:30+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "6cbafc283653",
@@ -398,7 +429,7 @@
    "thumbnail": null,
    "published": "2026-10-29T07:00+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "9b7dd4a7a685",
@@ -521,6 +552,23 @@
    "collected": "2026-10-29T09:59+09:00"
   },
   {
+   "id": "9a754c80f644",
+   "url": "https://www.socialmediatoday.com/news/tiktok-adds-in-app-restaurant-guide/873122/",
+   "title": "TikTokがアプリ内レストランガイドを追加",
+   "summary": "Must Eatと呼ばれる地元のダイニングリストは、米国のコミュニティソースのスポットを紹介するように設計されています。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-29T05:54+09:00",
+   "collected": "2026-10-29T10:56+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "TikTok adds in-app restaurant guide",
+   "summary_orig": "The local dining list, called Must Eat, is designed to showcase community-sourced spots in the U.S."
+  },
+  {
    "id": "58e1050fdf11",
    "url": "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/",
    "title": "マイクロソフト、第1四半期の業績を発表",
@@ -533,7 +581,7 @@
    "thumbnail": null,
    "published": "2026-10-29T05:47+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Microsoft announces first quarter results",
    "summary_orig": "The post Microsoft announces first quarter results appeared first on Source ."
   },
@@ -552,6 +600,23 @@
    "collected": "2026-10-29T09:59+09:00",
    "title_orig": "AI-Cited Pages More Often Got Straight To The Answer via @sejournal, @MattGSouthern",
    "summary_orig": "Pages cited by AI often answered a question in their first lines, though the gap was smaller against pages AI pulled up but didn’t cite. The post AI-Cited Pages"
+  },
+  {
+   "id": "fa135bc325fd",
+   "url": "https://www.socialmediatoday.com/news/meta-launches-two-new-ai-apps-including-one-aimed-at-kids/873118/",
+   "title": "Meta、子供向けアプリを含む2つの新しいAIアプリをリリース",
+   "summary": "Waddle Worldは、子供たちに「たまごっち風のペット飼育」体験を提供するように設計されており、Style Sketchはユーザーの服のアップロードされた画像から衣装を作成します",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-29T05:41+09:00",
+   "collected": "2026-10-29T10:56+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "Meta launches two new AI apps, including one aimed at kids",
+   "summary_orig": "Waddle World is designed to offer children a “Tamagotchi-style pet raising” experience, while Style Sketch creates outfits from uploaded images of users’ clothe"
   },
   {
    "id": "e164bf48fa23",
@@ -582,7 +647,7 @@
    "thumbnail": null,
    "published": "2026-10-29T05:08+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Microsoft earnings press release available on Investor Relations website",
    "summary_orig": "The post Microsoft earnings press release available on Investor Relations website appeared first on Source ."
   },
@@ -695,7 +760,7 @@
    "thumbnail": null,
    "published": "2026-10-29T03:59+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "X lets users share credit on reposted images",
    "summary_orig": "The app’s Original Content Rewards Program now ensures that more users benefit from engagement on linked graphics."
   },
@@ -822,7 +887,7 @@
    "thumbnail": null,
    "published": "2026-10-29T02:16+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5e4098babe95",
@@ -901,7 +966,7 @@
    "thumbnail": null,
    "published": "2026-10-29T01:45+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "summary_orig": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year'"
   },
   {
@@ -1105,7 +1170,7 @@
    "thumbnail": null,
    "published": "2026-10-28T22:15+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "OpenAI and ServiceNow expand partnership across enterprise workflows",
    "summary_orig": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
   },
@@ -1248,7 +1313,7 @@
    "thumbnail": null,
    "published": "2026-10-28T19:09+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting Terk Terkowitz",
    "summary_orig": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your m"
   },
@@ -1281,7 +1346,7 @@
    "thumbnail": null,
    "published": "2026-10-28T19:00+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "The future of the firm",
    "summary_orig": "How AI might enter the org chart—beneath, beside, and between us."
   },
@@ -1362,7 +1427,7 @@
    "thumbnail": null,
    "published": "2026-10-28T18:30+09:00",
    "collected": "2026-10-29T09:59+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Legora is building the agentic operating system for legal work",
    "summary_orig": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
   },
@@ -1481,7 +1546,7 @@
    "thumbnail": null,
    "published": "2026-10-28T16:15+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "d25e21898cc1",
@@ -1567,6 +1632,21 @@
    "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/28/2000002661/10010686/2048",
    "published": "2026-10-28T13:07+09:00",
    "collected": "2026-10-29T10:14+09:00"
+  },
+  {
+   "id": "d69343f0832c",
+   "url": "https://news.nicovideo.jp/watch/nw19927632?news_ref=tag",
+   "title": "AIは「導入」だけでは成果につながらない【secondz AI活用レポート Vol.1】",
+   "summary": "AIは「導入」だけでは成果につながらない【secondz AI活用レポート Vol.1】",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-28T13:00+09:00",
+   "collected": "2026-10-29T10:56+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "eb11c821f016",
@@ -1873,7 +1953,7 @@
    "thumbnail": null,
    "published": "2026-10-28T07:59+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "YouTube adds microdrama subscriptions",
    "summary_orig": "The format garnered more than 6.5 billion views in the first half of 2026, according to the company."
   },
@@ -2128,7 +2208,7 @@
    "thumbnail": null,
    "published": "2026-10-28T05:59+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "LinkedIn launches data insights hub",
    "summary_orig": "The platform’s Economic Graph has been renamed LinkedIn Pulse and reimagined as a channel for global labor market analysis."
   },
@@ -2161,7 +2241,7 @@
    "thumbnail": null,
    "published": "2026-10-28T05:42+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "LinkedIn tests simplified UI",
    "summary_orig": "Menus on both desktop and mobile have been consolidated and some posts will see longer lead-ins as the platform experiments with new navigation options."
   },
@@ -2210,7 +2290,7 @@
    "thumbnail": null,
    "published": "2026-10-28T04:19+09:00",
    "collected": "2026-10-29T10:14+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "YouTube tests reduced payment threshold for creators",
    "summary_orig": "The platform is experimenting with a cash-out option set at $20 rather than the current $100, which could open doors to more video producers."
   },
@@ -9147,71 +9227,6 @@
    "_thumb_tries": 3,
    "title_orig": "YouTube shares data on how creators are using AI",
    "summary_orig": "A new study commissioned by the platform found that nearly two-thirds of people posting videos wanted to insert themselves into the content using artificial int"
-  },
-  {
-   "id": "ff2a2ed5c225",
-   "url": "https://aws.amazon.com/blogs/machine-learning/train-qwen3-on-aws-trainium-with-torchtitan/",
-   "title": "Torchtitanを使用してAWS TrainiumでQwen 3をトレーニングする",
-   "summary": "1つのtrn2.48xlargeでtorchtitanを使用してAWS TrainiumでQwen 3をトレーニングする： Hugging Face Transformers v 5モデリングバックエンド、torchtitanのネイティブQwen 3、",
-   "source": "AWS Machine Learning Blog",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/20/ML-22120-featured-image.png",
-   "published": "2026-10-22T05:00+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "title_orig": "Train Qwen3 on AWS Trainium with torchtitan",
-   "summary_orig": "Train Qwen3 on AWS Trainium with torchtitan three ways on a single trn2.48xlarge: the Hugging Face Transformers v5 modeling backend, torchtitan's native Qwen3,"
-  },
-  {
-   "id": "0d8d03379584",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-   "title": "Anthropicは、新しいAIエージェントであるClaude DuetとMuseと対戦します",
-   "summary": "Anthropicは、MetaのMuseとOpenAIのDots: Claude Duetに対するAIエージェントの競合を発表した。専門家や中小企業所有者向けに設計された新しいエージェント",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "published": "2026-10-22T04:53+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "title_orig": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-   "summary_orig": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owne"
-  },
-  {
-   "id": "939258c0eb55",
-   "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-   "title": "新しい人間が作ったApple Musicブランドは、AIの世界で重要です",
-   "summary": "意見： AIスロップの世界では、人間の手が物を作っていることを示すことが役立ちます。",
-   "source": "Ars Technica AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg",
-   "published": "2026-10-22T04:44+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "title_orig": "The new human-crafted Apple Music brand matters in an AI world",
-   "summary_orig": "Opinion: In a world of AI slop, showing the human hands making things helps."
-  },
-  {
-   "id": "ba5ef87da982",
-   "url": "https://www.socialmediatoday.com/news/youtube-adds-temporary-pause-for-hacked-accounts/833651/",
-   "title": "YouTube、ハッキングされたアカウントの一時停止を追加",
-   "summary": "新しいセキュリティ機能は、悪意のあるアクターがコンテンツをアップロードしたり、ライブストリーミングを開始したりするのを防ぐことで、クリエイターチャンネルを安全に保つように設計されています。",
-   "source": "Social Media Today",
-   "type": "article",
-   "tier": "media",
-   "topic": "sns",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-22T04:37+09:00",
-   "collected": "2026-10-22T09:01+09:00",
-   "_thumb_tries": 3,
-   "title_orig": "YouTube adds temporary pause for hacked accounts",
-   "summary_orig": "The new security feature is designed to keep creator channels safe by preventing bad actors from uploading content or starting livestreams."
   }
  ]
 }
