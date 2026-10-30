@@ -1,5 +1,35 @@
 [
  {
+  "id": "3f421dfac052",
+  "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+  "title": "職場でAIを使用することから宗教的免除を得るために、神を信じる必要はありません",
+  "summary": "ケンタッキー大学の管理者であるデビッド・ダーマン氏は、最近、職場でAIを使用することを宗教的に免除されました。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+  "published": "2026-10-30T10:20+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+  "summary_orig": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+ },
+ {
+  "id": "9841a036f4a8",
+  "url": "https://ascii.jp/elem/000/004/447/4447029/?rss",
+  "title": "映画監督も絶賛する作業効率。MSI、クリエイター向け最新AIステーション＆34インチQD-OLEDモニターを発表",
+  "summary": "エムエスアイコンピュータージャパン（MSI）は10月28日、新製品発表会を開催した。本発表会では、急速に拡大するローカルAI需要とプロのクリエイティブワークに応える最新ハードウェアがお披露目された。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/29/4545836/xl/fe76f18914d2d9b1.png",
+  "published": "2026-10-30T10:15+09:00",
+  "collected": "2026-10-30T10:21+09:00"
+ },
+ {
   "id": "b0d16b78d77a",
   "url": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
   "title": "A 2 UIとCopilotKitエージェントを使用して生成UIアプリを構築する",
@@ -30,6 +60,20 @@
   "collected": "2026-10-30T10:02+09:00"
  },
  {
+  "id": "adb87dc37fab",
+  "url": "https://it.impress.co.jp/articles/-/29953",
+  "title": "厚生労働省、情報公開の事務にRAG型生成AIを導入、紙の申請書はAI-OCRでテキスト化",
+  "summary": "厚生労働省の公文書監理・情報公開室は、開示請求や審査請求を処理する負担を軽減するため、紙の申請書をテキスト化するAI-OCRと、過去の事例や関連文書を検索して回答を生成するRAG型の生成AIを導入した。システムの構築を担ったシステムエグゼが2026年10月29日に発表した。",
+  "source": "IT Leaders",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://it.impress.co.jp/mwimgs/e/9/400/img_e922fdf1cbb4e21ba08e8de703e7ddb0474465.png",
+  "published": "2026-10-30T10:02+09:00",
+  "collected": "2026-10-30T10:21+09:00"
+ },
+ {
   "id": "62c19e2fe6ad",
   "url": "https://webtan.impress.co.jp/q/2026/10/53528",
   "title": "AI基盤を体系理解『AIエージェント導入を任されたら読む本』を3名様にプレゼント",
@@ -42,6 +86,49 @@
   "thumbnail": null,
   "published": "2026-10-30T10:00+09:00",
   "collected": "2026-10-30T10:02+09:00",
+  "_thumb_tries": 2
+ },
+ {
+  "id": "92b8b8b0d404",
+  "url": "https://ascii.jp/elem/000/004/447/4447103/?rss",
+  "title": "Linuxに深刻度9.8の脆弱性、認証なしでroot権限奪取 AnthropicのAIが攻撃を実証",
+  "summary": "Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/30/4546021/xl/9ed2e843c6a56a5a.png?20200122",
+  "published": "2026-10-30T10:00+09:00",
+  "collected": "2026-10-30T10:21+09:00"
+ },
+ {
+  "id": "0eca94a7f9c7",
+  "url": "https://ascii.jp/elem/000/004/447/4447093/?rss",
+  "title": "遅延最大34％低減をうたうWi-Fi 8ルーター ASUS「ROG Rapture GT-BN98」がAmazon限定発売",
+  "summary": "ASUSのWi-Fi 8ゲーミングルーター「ROG Rapture GT-BN98」がAmazon限定発売。遅延を最大34％低減するとうたうAI Game Boostやデュアル10Gポートを搭載し、対戦ゲームや配信時の安定した通信を追求する。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/30/4545991/xl/1ebf8244206d8fa3.jpg?20200122",
+  "published": "2026-10-30T10:00+09:00",
+  "collected": "2026-10-30T10:21+09:00"
+ },
+ {
+  "id": "d0e4e939d40f",
+  "url": "https://markezine.jp/article/detail/77975",
+  "title": "Amazon、生成AI搭載の「Alexa+」早期アクセスを国内で開始 プライム会員は追加料金なし",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-30T10:00+09:00",
+  "collected": "2026-10-30T10:21+09:00",
   "_thumb_tries": 1
  },
  {
@@ -71,7 +158,7 @@
   "thumbnail": null,
   "published": "2026-10-30T09:04+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Microsoft announces debt offerings",
   "summary_orig": "The post Microsoft announces debt offerings appeared first on Source ."
  },
@@ -161,7 +248,7 @@
   "thumbnail": null,
   "published": "2026-10-30T07:48+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "API credits benefit for eligible ChatGPT subscriptions",
   "summary_orig": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100,"
  },
@@ -194,7 +281,7 @@
   "thumbnail": null,
   "published": "2026-10-30T07:30+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "e5781a2c6b7b",
@@ -209,7 +296,7 @@
   "thumbnail": null,
   "published": "2026-10-30T07:05+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "991e3a9ec72d",
@@ -224,7 +311,7 @@
   "thumbnail": null,
   "published": "2026-10-30T07:05+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "ae705de94e90",
@@ -244,7 +331,7 @@
   "id": "f50dc82f68c8",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html",
   "title": "物理ソルバーからMODSIM、AIへ SIMULIAが描く次世代の設計／シミュレーション",
-  "summary": "_b \\[ EVXeYÍuSIMULIA Community Conference Japan 2026 vðJÃµ½ Bî ² uÅÍASIMULIAuhÍíªðx ¦ é ¨\\ o [AMODSIMAAIÍ3w\\ ¢ ðÐî",
+  "summary": "_b \\[ EVXeYÍuSIMULIA Community Conference Japan 2026 vðJÃµ½ Bî ² uÅÍASIMULIAuhÍíªðx ¦ é ¨\\ o [AMODSIMAAIÍ 3 w\\ ¢ ðÐî",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -253,7 +340,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/30/cover_news004.jpg",
   "published": "2026-10-30T07:00+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "summary_orig": "_b\\[EVXeYÍuSIMULIA Community Conference Japan 2026vðJÃµ½Bî²uÅÍASIMULIAuhÌíªðx¦é¨\\o[AMODSIMAAIÌ3w\\¢ðÐî"
+  "summary_orig": "_b \\[ EVXeYÍuSIMULIA Community Conference Japan 2026 vðJÃµ½ Bî ² uÅÍASIMULIAuhÍíªðx ¦ é ¨\\ o [AMODSIMAAIÍ3w\\ ¢ ðÐî"
  },
  {
   "id": "07ba3119a732",
@@ -282,7 +369,7 @@
   "thumbnail": null,
   "published": "2026-10-30T07:00+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "8aba1be1b00e",
@@ -539,7 +626,7 @@
  {
   "id": "2086f4350315",
   "url": "https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/",
-  "title": "L 'avenir appartient à tous: Meta et INCA s' associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+  "title": "L 'avenir appartient à tous: Meta et INCA's associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
   "summary": "Nous croyons que l 'avenir appartient à tous. C' est pourquoi Meta s 'associe à INCA, un organisme à but non lucratif fondé en 1918 qui aide les personnes atteinte",
   "source": "Meta Newsroom",
   "type": "article",
@@ -549,7 +636,7 @@
   "thumbnail": "https://about.fb.com/wp-content/uploads/2021/10/meta-social-16x9-1.jpg?w=1200",
   "published": "2026-10-30T02:00+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "title_orig": "L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
+  "title_orig": "L 'avenir appartient à tous: Meta et INCA s' associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada",
   "summary_orig": "Nous croyons que l’avenir appartient à tous. C’est pourquoi Meta s’associe à INCA, un organisme à but non lucratif fondé en 1918 qui aide les personnes atteinte"
  },
  {
@@ -597,7 +684,7 @@
   "thumbnail": null,
   "published": "2026-10-30T02:00+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "An updated Model Spec for more capable and beneficial AI",
   "summary_orig": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
  },
@@ -762,6 +849,38 @@
   "summary_orig": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI"
  },
  {
+  "id": "9d92d4ec6e5e",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+  "title": "NYTクッキングアプリは、AIレシピの変更をテストしています",
+  "summary": "ニューヨークタイムズは、ユーザーがレシピを変更するのに役立つクッキングアプリの新しいAI機能をテストしており、ユーザーの間でいくつかのドラマを引き起こしています。先週金曜日、N",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-10-29T23:39+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "The NYT Cooking app is testing AI recipe modifications",
+  "summary_orig": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, N"
+ },
+ {
+  "id": "5c450d9a985f",
+  "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+  "title": "ミニアプリを構築するAIエージェントのワビは、最新のラウンド後に12.5億$で評価されました",
+  "summary": "木曜日、AIアプリWabi （現在は「パーソナルエージェント」と自称）は、12億5000万ドルの評価額で5500万ドルを調達したと発表した。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
+  "published": "2026-10-29T23:35+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+  "summary_orig": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+ },
+ {
   "id": "502de87809f2",
   "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
   "title": "ベン・ハイラクの名言を引用しよう",
@@ -774,9 +893,41 @@
   "thumbnail": null,
   "published": "2026-10-29T23:06+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Quoting Ben Hylak",
   "summary_orig": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of c"
+ },
+ {
+  "id": "84c95f89178d",
+  "url": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
+  "title": "OpenAIのAura Safety Checkは、@ sejournal、@ TaylorDanRWを介したChatGPTブラウジングからサイトをブロックすることができます",
+  "summary": "エージェントがサイトを開くのを防ぐOpenAI Auraブロックを特定し、レビューをリクエストするための証拠を収集します。POST OpenAIのAura Safety Checkは、",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/block-website-793.png",
+  "published": "2026-10-29T23:00+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
+  "summary_orig": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review. The post OpenAI’s Aura Safety Check Can Block Your"
+ },
+ {
+  "id": "079251699e8e",
+  "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+  "title": "Anthropicは、ウォール街にAGIを信じるよう求めています",
+  "summary": "今日のDecoderでは、チップおよびAIリサーチ会社SemiAnalysisのアナリストであるJoey Brookhartと一緒に、",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-10-29T23:00+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "Anthropic is asking Wall Street to believe in AGI",
+  "summary_orig": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of th"
  },
  {
   "id": "f3538b6fb36f",
@@ -795,6 +946,22 @@
   "summary_orig": "A Blog post by IBM Granite on Hugging Face"
  },
  {
+  "id": "0b3918620b86",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+  "title": "Anthropicのビジネスプラン：神を建てるか、死ぬか",
+  "summary": "Anthropic S -1は、会社がコンピューティングにできるだけ多くを費やすための財務上の正当な理由を提供したようです。あなたがPERSのようなものであれば",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_dario-amodei_money.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-10-29T22:30+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "Anthropic’s business plan: Build God or die trying",
+  "summary_orig": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of pers"
+ },
+ {
   "id": "bf30529fb59d",
   "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
   "title": "GFN木曜日にスライス：「Phantom Blade Zero」がGeForce NOWに登場",
@@ -809,6 +976,22 @@
   "collected": "2026-10-30T10:02+09:00",
   "title_orig": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
   "summary_orig": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeFor"
+ },
+ {
+  "id": "d0e2301d55a3",
+  "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+  "title": "Deepgram、音声AIインフラストラクチャを強化するためにPipecatメーカーDailyを買収",
+  "summary": "Pipecatを使用することで、Deepgramはリアルタイムの音声およびビデオインフラストラクチャをより深く理解できるようになります。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Scott-Kwin-1.jpg?resize=1200,800",
+  "published": "2026-10-29T22:00+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+  "summary_orig": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure."
  },
  {
   "id": "8ccea7e89b70",
@@ -827,6 +1010,38 @@
   "summary_orig": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe."
  },
  {
+  "id": "f3d1a88426cc",
+  "url": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
+  "title": "HubSpotはトラフィックの80 ％を失いました– CMO Kipp Bodnarは、@ sejournal、@ gregjarboeを介して収益が成長し続けた理由を説明します",
+  "summary": "HubSpotのトラフィック崩壊は、SEOが訪問あたりの収益を測定し、AIの紹介コンバージョンを追跡し、Google以外のオーディエンスを構築する必要がある理由を示しています。HubSpotの投稿",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/husbpot-traffic-93.png",
+  "published": "2026-10-29T21:00+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
+  "summary_orig": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. The post HubSpot"
+ },
+ {
+  "id": "12b93050116d",
+  "url": "https://buffer.com/resources/social-media-engagement-tools/",
+  "title": "2026年にコミュニティを構築するための12のベストソーシャルメディアエンゲージメントツール",
+  "summary": "ソロクリエイターからエンタープライズチームまで、2026年に最適なソーシャルメディアエンゲージメントツール12種を比較してみましょう。価格設定、無料プラン、それぞれが誰に合うかをご紹介します。",
+  "source": "Buffer",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2026/08/social-media-engagement-tools.png",
+  "published": "2026-10-29T20:00+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "The 12 Best Social Media Engagement Tools to Build Your Community in 2026",
+  "summary_orig": "Compare 12 of the best social media engagement tools for 2026, with pricing, free plans, and who each one suits, from solo creators to enterprise teams."
+ },
+ {
   "id": "a39662989096",
   "url": "https://gigazine.net/news/20261029-anthropic-stanford-professors/",
   "title": "AnthropicがAIの訓練のために海賊版書籍を使用していた中にスタンフォード大学教授の書籍も含まれていたと主張して教授らは和解から離脱し訴訟を提起",
@@ -839,6 +1054,22 @@
   "thumbnail": "https://i.gzn.jp/img/2026/10/29/anthropic-stanford-professors/00.jpg",
   "published": "2026-10-29T19:22+09:00",
   "collected": "2026-10-30T10:02+09:00"
+ },
+ {
+  "id": "24f676feeb3a",
+  "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+  "title": "AIエージェントの行動をリアルタイムでモニタリングする必要があります",
+  "summary": "この夏、何百人ものOpenAIエージェントがサイバーセキュリティテストで不正行為を試みました。彼らはテスト環境から脱出し、ハグしている顔をハッキングすることに成功しました。",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.jpg?resize=1200,600",
+  "published": "2026-10-29T19:11+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "We urgently need to monitor AI agents’ actions in real time",
+  "summary_orig": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a"
  },
  {
   "id": "8afab2320caa",
@@ -871,6 +1102,56 @@
   "summary_orig": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about."
  },
  {
+  "id": "9cd5509199bf",
+  "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+  "title": "AIがアリゾナの水を狙いにやってきた",
+  "summary": "巨大な灰色の巨人が砂漠から立ち上がる。内部では、エンジニアが携帯電話、コンピューター、アプライアンス、ストリーミングサービス、検索の背後にある力を作り出しています",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-10-29T19:00+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "AI has come for Arizona’s water",
+  "summary_orig": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search"
+ },
+ {
+  "id": "edbc5d681637",
+  "url": "https://www.socialmediaexaminer.com/getting-youtube-views-is-changing-what-marketers-need-to-know/",
+  "title": "YouTubeの再生回数が変わりつつある：マーケティング担当者が知っておくべきこと",
+  "summary": "見込み客と売り上げが動かなかったにもかかわらず、なぜYouTubeの再生回数が急増したのでしょうか？今実際に重要なYouTubeの指標とその方法を知りたい",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-29T19:00+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Getting YouTube Views Is Changing: What Marketers Need to Know",
+  "summary_orig": "Wondering why your YouTube view counts jumped even though your leads and sales didn’t move? Want to know which YouTube metrics actually matter now and how to ge"
+ },
+ {
+  "id": "862c63c092bc",
+  "url": "https://www.socialmediaexaminer.com/ai-generated-sops-product-mentions-from-ai-and-industry-news/",
+  "title": "AI生成SOP、AIからの製品言及、業界ニュース",
+  "summary": "もうすぐ金曜日です！プラグを抜く前に、最後にインサイトとアップデートをご紹介します。今読んでも、後で保存しても、見逃すことはありません",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-29T18:30+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "AI-Generated SOPs, Product Mentions From AI, and Industry News",
+  "summary_orig": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to mis"
+ },
+ {
   "id": "d28967fce9c6",
   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
   "title": "フロンティアモデルのミスアライメントを検出する方法",
@@ -883,9 +1164,96 @@
   "thumbnail": null,
   "published": "2026-10-29T18:00+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "How we detect frontier model misalignment",
   "summary_orig": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+ },
+ {
+  "id": "445ae9589fd4",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
+  "title": "ChatGPTのPro・Businessプランで「API利用」可能に 月最大500ドル分",
+  "summary": "米OpenAIは「ChatGPT」のProおよびBusinessプランに、同社のAPIを利用できる特典を追加すると発表した。月最大500ドル分（約7万9000円、1ドル158円換算）の利用枠を付与する。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/29/2000002728/10010924/2048",
+  "published": "2026-10-29T17:46+09:00",
+  "collected": "2026-10-30T10:21+09:00"
+ },
+ {
+  "id": "3edcf3b1e9a2",
+  "url": "https://www.advertimes.com/20261029/article562471/?utm_source=feed",
+  "title": "ローソンで見かける「揚げ物セルフ」、なぜコンビニ業界で広がらない？ 約9600店に導入したローソンが明かす「全店展開しない理由」",
+  "summary": "セルフレジの導入が進む一方、コンビニのレジ横に並ぶ揚げ物（フライドフーズ）は、今も店員に注文して商品を受け取る販売方式が主流だ。そんな中、ローソンが「からあげクン」などのフライドフーズを客自身で取り出せるようにしたセルフ販売方式が、SNS上で改めて注目を集めている。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/lawson_self-checkout-system_fried-food_ogp2.jpg",
+  "published": "2026-10-29T17:20+09:00",
+  "collected": "2026-10-30T10:21+09:00"
+ },
+ {
+  "id": "f1d256d1ee20",
+  "url": "https://www.advertimes.com/20261029/article562450/?utm_source=feed",
+  "title": "広報の成果は「何人に届いたか」だけではない──ナイジェリアの経済改革を動かすPR戦略",
+  "summary": "広報・PRの成果を測るとき、私たちは何を重視しているでしょうか。記事掲載数、メディア露出、SNSのリーチ数など、情報がどれだけ広がったかを示す数字は、今も重要な評価指標です。しかし、情報が広く届いたことと、社会に影響を与えたことは、必ずしも同じではありません。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/col10_iwasawa_ogp.jpg",
+  "published": "2026-10-29T17:08+09:00",
+  "collected": "2026-10-30T10:21+09:00"
+ },
+ {
+  "id": "88316504a017",
+  "url": "https://markezine.jp/article/detail/77970",
+  "title": "dotData、大東建託で「AI営業サポートプラットフォーム」の構築プロジェクトを開始",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-29T17:00+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "9ca208593eaa",
+  "url": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
+  "title": "AI検索のためのテクニカルSEO監査： @ sejournal、@ hethr_campbellでDo It Live [ウェビナー]をご覧ください",
+  "summary": "当社のチームがLoren BakerとVahan Petrosyanと一緒に実際のウェブサイトをライブで監査し、どの技術的なSEOとAIの準備があなたの監査ニーズをチェックするかを学びます。POST Te",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/technical-seo-audit-ai-search-announcement-sej.png",
+  "published": "2026-10-29T16:45+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
+  "summary_orig": "Watch our team audit a real website live with Loren Baker and Vahan Petrosyan, and learn which technical SEO & AI-readiness checks your audit needs. The post Te"
+ },
+ {
+  "id": "4095f4854197",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
+  "title": "今、最も使われているプログラミング言語は？ AIコーディングでPython超えて急成長",
+  "summary": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。（1/2 ページ）",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/29/2000002719/10010896/2048",
+  "published": "2026-10-29T16:16+09:00",
+  "collected": "2026-10-30T10:21+09:00"
  },
  {
   "id": "2d9928289658",
@@ -900,7 +1268,7 @@
   "thumbnail": null,
   "published": "2026-10-29T16:00+09:00",
   "collected": "2026-10-30T10:02+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "How Ropes & Gray is developing AI for transactional diligence",
   "summary_orig": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
  },
@@ -919,6 +1287,79 @@
   "collected": "2026-10-30T10:02+09:00",
   "title_orig": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
   "summary_orig": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders."
+ },
+ {
+  "id": "cfe95d5cc58e",
+  "url": "https://thebridge.jp/2026/10/hyphenate-series-a-autonomous-finance-ai-agents-nexus",
+  "title": "1年で売上86倍、財務業務をAIエージェントで自動化するHyphenateが4,500万ドル調達",
+  "summary": "1年で売上86倍、財務業務をAIエージェントで自動化するHyphenateが4,500万ドル調達",
+  "source": "BRIDGE（ブリッジ）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-29T14:13+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "4fa3d78c8fa7",
+  "url": "https://markezine.jp/article/detail/77961",
+  "title": "足利銀行、「ナレッジワークAI商談記録」を導入 渉外担当者の交渉履歴作成に活用",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-29T12:30+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "7d0e7daf5db5",
+  "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002680/",
+  "title": "AIチャットが勧める広告商品、選択率が約3倍に こっそり他商品けなし誘導 米研究者らが検証",
+  "summary": "米プリンストン大学に所属する研究者らが4月に発表した論文「Commercial Persuasion in AI-Mediated Conversations」は、オンラインショッピングなどにおける対話型AIによる説得が消費者の選択をどれほど操作できるかを検証した研究報告だ。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002680/10010743/2048",
+  "published": "2026-10-29T12:00+09:00",
+  "collected": "2026-10-30T10:21+09:00"
+ },
+ {
+  "id": "9f754228b6bc",
+  "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
+  "title": "AIが人間に“闇バイト”を発注？ AIが物理的労働を買う求人サイト「RentAHuman」の実態",
+  "summary": "独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は、2026年2月に開設した、AIエージェントが人間を雇うことを目的に設計された人",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002679/10010739/2048",
+  "published": "2026-10-29T12:00+09:00",
+  "collected": "2026-10-30T10:21+09:00"
+ },
+ {
+  "id": "bcbd9acd1e0e",
+  "url": "https://markezine.jp/article/detail/77950",
+  "title": "LINEヤフー、法人向け基盤「Business OS」を発表 「AIモード」含む新プロダクトを紹介",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-29T12:00+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "836a2770da57",
@@ -947,7 +1388,7 @@
   "thumbnail": null,
   "published": "2026-10-29T11:06+09:00",
   "collected": "2026-10-29T11:26+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d9d5f8fad6f4",
@@ -3318,6 +3759,22 @@
   "summary_orig": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I"
  },
  {
+  "id": "c6d1845765f2",
+  "url": "https://www.youtube.com/shorts/PQw9vOA6pFI",
+  "title": "オーディエンスが夢中になっているブランドを選ぶ— HopeScope # CreatorAdvice",
+  "summary": "クリエイターの@ hopescopeさんがYouTubeクリエイターのLiaison @ ReneRitchieさんと、フルタイムへの道のりについて話しています。彼女は繰り返し可能なコンテンツシリーズの構築を分解します、MAK",
+  "source": "Creator Insider（YouTube公式）",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/PQw9vOA6pFI/hqdefault.jpg",
+  "published": "2026-10-28T04:25+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "Pick Brands Your Audience Is Obsessed With — HopeScope #CreatorAdvice",
+  "summary_orig": "Creator @hopescope talks with YouTube Creator Liaison @ReneRitchie about her journey to going full-time. She breaks down building repeatable content series, mak"
+ },
+ {
   "id": "6c8ee59d2a54",
   "url": "https://www.socialmediatoday.com/news/youtube-tests-reduced-payment-threshold-for-creators/872965/",
   "title": "YouTubeがクリエイターの支払い基準額の引き下げをテスト",
@@ -3685,6 +4142,22 @@
   "collected": "2026-10-28T09:32+09:00",
   "title_orig": "Google’s next Genie AI model generates more realistic experiences",
   "summary_orig": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for"
+ },
+ {
+  "id": "db0375ad1866",
+  "url": "https://www.youtube.com/watch?v=Au_x7IRClH4",
+  "title": "ダイナミックサムネイル、ビデオA/B、YouTubeアルゴリズムのChucky （ MrBeast ）",
+  "summary": "@ MrBeastのバイラリティ責任者であるChuckyは、@ YouTubeのディスカバリー＆グロースのシニアディレクターであるTodd BeaupréとCreator Liaison @ ReneRitchieと共に、すべてについて話し合います",
+  "source": "Creator Insider（YouTube公式）",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/Au_x7IRClH4/hqdefault.jpg",
+  "published": "2026-10-28T00:42+09:00",
+  "collected": "2026-10-30T10:21+09:00",
+  "title_orig": "Chucky (MrBeast) on Dynamic Thumbnails, Video A/B, and the YouTube Algorithm",
+  "summary_orig": "Chucky, head of virality for @MrBeast joins Todd Beaupré, Senior Director of Discovery & Growth for @YouTube and Creator Liaison @ReneRitchie to talk all about"
  },
  {
   "id": "406c21cb8d5e",
@@ -5865,6 +6338,20 @@
   "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_ede59c60b4/6d4a0d28992ade92d6fa63646fd9c9d318245c6c_2400x1260_ede59c60b4.jpg",
   "published": "2026-10-26T16:00+09:00",
   "collected": "2026-10-30T10:02+09:00"
+ },
+ {
+  "id": "4a6701640ec8",
+  "url": "https://www.nttpc.co.jp/focusinsight/interview/interview06/",
+  "title": "AI時代の大学教育——なぜ今、コミュニケーション能力が問われるのか。北海道情報大学が挑む「情報イノベーター」の育成",
+  "summary": "AI時代、なぜコミュニケーション能力が重要なのか。北海道情報大学は2027年4月に情報理工学科を新設し、「情報イノベーター」の育成を推進。渡部学長と越野教授への取材を通じて、AI時代の教育に求められる「問う力」と大学教育のあり方に迫る。",
+  "source": "NTTPCコミュニケーションズ",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.nttpc.co.jp/focusinsight/assets/nttpc/img/common/ogp.webp",
+  "published": "2026-10-26T16:00+09:00",
+  "collected": "2026-10-30T10:21+09:00"
  },
  {
   "id": "724eb2dac964",
