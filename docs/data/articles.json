@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-30T11:08+09:00",
+  "last_updated": "2026-10-30T11:36+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,20 @@
   ]
  },
  "items": [
+  {
+   "id": "1e17fe1f1df1",
+   "url": "https://www.advertimes.com/20261030/article562582/?utm_source=feed",
+   "title": "TIME誌が選ぶ「2026年最高の発明品」 富士フイルムやニコンの製品を選出 電通ラボのサービスも",
+   "summary": "米タイム誌は2026年10月26日号で、「Best Inventions of 2026」を発表した。日本企業からは、富士フイルムのハイブリッドインスタントカメラ、ニコンが開発した子どもの近視進行抑制をサポートする特殊な眼鏡レンズなどが選ばれた。",
+   "source": "宣伝会議 AdverTimes",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/time2026-ogp.jpg",
+   "published": "2026-10-30T11:33+09:00",
+   "collected": "2026-10-30T11:36+09:00"
+  },
   {
    "id": "6fbdee1d7dae",
    "url": "https://ascii.jp/elem/000/004/447/4447143/?rss",
@@ -216,7 +230,7 @@
    "thumbnail": null,
    "published": "2026-10-30T10:00+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "62c19e2fe6ad",
@@ -1202,7 +1216,7 @@
    "thumbnail": null,
    "published": "2026-10-29T19:00+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Getting YouTube Views Is Changing: What Marketers Need to Know",
    "summary_orig": "Wondering why your YouTube view counts jumped even though your leads and sales didn’t move? Want to know which YouTube metrics actually matter now and how to ge"
   },
@@ -1249,7 +1263,7 @@
    "thumbnail": null,
    "published": "2026-10-29T18:30+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "AI-Generated SOPs, Product Mentions From AI, and Industry News",
    "summary_orig": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to mis"
   },
@@ -1325,7 +1339,7 @@
    "thumbnail": null,
    "published": "2026-10-29T17:00+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "9ca208593eaa",
@@ -1356,7 +1370,7 @@
    "thumbnail": null,
    "published": "2026-10-29T16:42+09:00",
    "collected": "2026-10-30T11:08+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "4095f4854197",
@@ -1418,7 +1432,7 @@
    "thumbnail": null,
    "published": "2026-10-29T14:13+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "133673938983",
@@ -1433,7 +1447,7 @@
    "thumbnail": null,
    "published": "2026-10-29T13:45+09:00",
    "collected": "2026-10-30T11:08+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "4fa3d78c8fa7",
@@ -1448,7 +1462,7 @@
    "thumbnail": null,
    "published": "2026-10-29T12:30+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7d0e7daf5db5",
@@ -1491,7 +1505,7 @@
    "thumbnail": null,
    "published": "2026-10-29T12:00+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "836a2770da57",
@@ -9201,22 +9215,6 @@
    "collected": "2026-10-23T08:59+09:00",
    "title_orig": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
    "summary_orig": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-  },
-  {
-   "id": "6dc97b2e6ae2",
-   "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-   "title": "DiscordがMarkdownのプレビューを適切にフォーマットするようになりました",
-   "summary": "本日リリースされたDiscordの最新アップデートでは、マークダウンプレビューが大幅に改善されました。「シンボルの束」ではなく、正しくレンダリングされるようになりました。",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "published": "2026-10-23T03:58+09:00",
-   "collected": "2026-10-23T08:59+09:00",
-   "title_orig": "Discord now formats Markdown previews right",
-   "summary_orig": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" accor"
   }
  ]
 }
