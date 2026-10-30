@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-30T10:21+09:00",
+  "last_updated": "2026-10-30T11:08+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,48 @@
   ]
  },
  "items": [
+  {
+   "id": "6fbdee1d7dae",
+   "url": "https://ascii.jp/elem/000/004/447/4447143/?rss",
+   "title": "バキ童チャンネル、故・晋平太さん制作のED曲を変更へ YouTubeの楽曲判定で使用困難に",
+   "summary": "登録者205万人のYouTubeチャンネル「バキ童チャンネル【ぐんぴぃ】」は10月29日、11月以降、エンディング部分を変更するとXで発表した。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2026/10/30/4546049/xl/9031104de97d14ec.jpg?20200122",
+   "published": "2026-10-30T11:00+09:00",
+   "collected": "2026-10-30T11:08+09:00"
+  },
+  {
+   "id": "715553130941",
+   "url": "https://cloud.watch.impress.co.jp/docs/news/2151985.html",
+   "title": "日立ソリューションズ、PC画面の状態を認識して自律的に操作を行うAIエージェントを作成できる「Opnova」を提供",
+   "summary": "株式会社日立ソリューションズは28日、米Opnovaと国内初の販売代理店契約を締結したと発表した。これにより、人間のようにPC画面の状態を認識して自律的に操作を行うAIエージェントを、専門知識がなくても作成できるプラットフォーム「Opnova」を10月29日に提供開始する。",
+   "source": "クラウド Watch",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://cloud.watch.impress.co.jp/img/clw/list/2151/985/hisol.png",
+   "published": "2026-10-30T11:00+09:00",
+   "collected": "2026-10-30T11:08+09:00"
+  },
+  {
+   "id": "6c0faa129b90",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/",
+   "title": "ChatGPT Pro 100／500プランの利用上限を「倍」に Pro 200プランの「半減」は撤回 経緯まとめ",
+   "summary": "OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は全てのProおよびBusiness Premiumプランの利用制限を倍にすると発表した。（1/2 ページ）",
+   "source": "ITmedia AI+",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/30/2000002738/10010966/2048",
+   "published": "2026-10-30T10:22+09:00",
+   "collected": "2026-10-30T11:08+09:00"
+  },
   {
    "id": "3f421dfac052",
    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
@@ -120,6 +162,20 @@
    "collected": "2026-10-30T10:02+09:00"
   },
   {
+   "id": "54ea41baa76e",
+   "url": "https://ascii.jp/elem/000/004/447/4447106/?rss",
+   "title": "AIは「道具」から「資本」へ。Laboro.AIが描く次の10年 [PR]",
+   "summary": "2010年代前半のディープラーニングの実用化から、2022年の生成AIの登場まで、この10年でAI技術は劇的な進化を遂げた。その10年をAIベンチャーの経営者として走り、400を超えるカスタムAIのプロジェクトを手がけてきたのが、Laboro.AIの椎橋徹夫CEOだ。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/xl/ed8de61ce6796246.png?20200122",
+   "published": "2026-10-30T10:00+09:00",
+   "collected": "2026-10-30T11:08+09:00"
+  },
+  {
    "id": "92b8b8b0d404",
    "url": "https://ascii.jp/elem/000/004/447/4447103/?rss",
    "title": "Linuxに深刻度9.8の脆弱性、認証なしでroot権限奪取 AnthropicのAIが攻撃を実証",
@@ -160,7 +216,7 @@
    "thumbnail": null,
    "published": "2026-10-30T10:00+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "62c19e2fe6ad",
@@ -175,7 +231,7 @@
    "thumbnail": null,
    "published": "2026-10-30T10:00+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7f9b1f197c31",
@@ -204,7 +260,7 @@
    "thumbnail": null,
    "published": "2026-10-30T09:04+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Microsoft announces debt offerings",
    "summary_orig": "The post Microsoft announces debt offerings appeared first on Source ."
   },
@@ -294,7 +350,7 @@
    "thumbnail": null,
    "published": "2026-10-30T07:48+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "API credits benefit for eligible ChatGPT subscriptions",
    "summary_orig": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100,"
   },
@@ -327,7 +383,7 @@
    "thumbnail": null,
    "published": "2026-10-30T07:30+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "e5781a2c6b7b",
@@ -342,7 +398,7 @@
    "thumbnail": null,
    "published": "2026-10-30T07:05+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "991e3a9ec72d",
@@ -357,7 +413,7 @@
    "thumbnail": null,
    "published": "2026-10-30T07:05+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "ae705de94e90",
@@ -415,7 +471,7 @@
    "thumbnail": null,
    "published": "2026-10-30T07:00+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "8aba1be1b00e",
@@ -730,7 +786,7 @@
    "thumbnail": null,
    "published": "2026-10-30T02:00+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "An updated Model Spec for more capable and beneficial AI",
    "summary_orig": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
   },
@@ -939,7 +995,7 @@
    "thumbnail": null,
    "published": "2026-10-29T23:06+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Quoting Ben Hylak",
    "summary_orig": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of c"
   },
@@ -1146,7 +1202,7 @@
    "thumbnail": null,
    "published": "2026-10-29T19:00+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Getting YouTube Views Is Changing: What Marketers Need to Know",
    "summary_orig": "Wondering why your YouTube view counts jumped even though your leads and sales didn’t move? Want to know which YouTube metrics actually matter now and how to ge"
   },
@@ -1193,7 +1249,7 @@
    "thumbnail": null,
    "published": "2026-10-29T18:30+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "AI-Generated SOPs, Product Mentions From AI, and Industry News",
    "summary_orig": "Friday is almost here! Before you unplug, here’s one last round of insights and updates. Whether you read them now or save them for later, you won’t want to mis"
   },
@@ -1210,7 +1266,7 @@
    "thumbnail": null,
    "published": "2026-10-29T18:00+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "How we detect frontier model misalignment",
    "summary_orig": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
   },
@@ -1269,7 +1325,7 @@
    "thumbnail": null,
    "published": "2026-10-29T17:00+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "9ca208593eaa",
@@ -1286,6 +1342,21 @@
    "collected": "2026-10-30T10:21+09:00",
    "title_orig": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
    "summary_orig": "Watch our team audit a real website live with Loren Baker and Vahan Petrosyan, and learn which technical SEO & AI-readiness checks your audit needs. The post Te"
+  },
+  {
+   "id": "96e6c1ffcb53",
+   "url": "https://voix.jp/business-cards/system-exe-ai-implementation-case/",
+   "title": "システムエグゼ、厚生労働省向けRAG型生成AIとAI-OCR活用の成功事例を発表",
+   "summary": "システムエグゼ、厚生労働省向けRAG型AI導入事例を公開 株式会社システムエグゼは、厚生労働省の情報公開業務において、RAG型生成AIとAI-OCRを活用した業務システムの導入事例を公開しました。",
+   "source": "ニュースメディアVOIX",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-29T16:42+09:00",
+   "collected": "2026-10-30T11:08+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "4095f4854197",
@@ -1314,7 +1385,7 @@
    "thumbnail": null,
    "published": "2026-10-29T16:00+09:00",
    "collected": "2026-10-30T10:02+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "How Ropes & Gray is developing AI for transactional diligence",
    "summary_orig": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
   },
@@ -1347,6 +1418,21 @@
    "thumbnail": null,
    "published": "2026-10-29T14:13+09:00",
    "collected": "2026-10-30T10:21+09:00",
+   "_thumb_tries": 2
+  },
+  {
+   "id": "133673938983",
+   "url": "https://www.hrpro.co.jp/seminar_detail.php?ccd=00253&pcd=6045",
+   "title": "【2027年最新】今年もどこよりもいち早く公開！「2027年SNS戦略トレンド」 株式会社タナベコンサルティング | セミナー",
+   "summary": "【2027年最新】今年もどこよりもいち早く公開！「2027年SNS戦略トレンド」 株式会社タナベコンサルティング | セミナー",
+   "source": "HRプロ",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-29T13:45+09:00",
+   "collected": "2026-10-30T11:08+09:00",
    "_thumb_tries": 1
   },
   {
@@ -1362,7 +1448,7 @@
    "thumbnail": null,
    "published": "2026-10-29T12:30+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "7d0e7daf5db5",
@@ -1405,7 +1491,7 @@
    "thumbnail": null,
    "published": "2026-10-29T12:00+09:00",
    "collected": "2026-10-30T10:21+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "836a2770da57",
@@ -4627,6 +4713,20 @@
    "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/atsugi-ogp.jpg",
    "published": "2026-10-27T17:01+09:00",
    "collected": "2026-10-28T09:44+09:00"
+  },
+  {
+   "id": "21c48bdd28da",
+   "url": "https://news.yahoo.co.jp/articles/fb4c69c80c5b045b7c8cb34fb64eee5acfc170fa",
+   "title": "「高度なAIは人類滅亡のリスクをもたらす」──米国の生成AI大手が投資家向けの資料で言及（KAI-YOU）",
+   "summary": "生成AI「Claude」を開発する米Anthropicが10月26日、米国証券取引委員会（SEC）に新規株式公開（IPO）に向けた届出書「Form S-1」を提出した。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-00096972-kaiyou-000-1-view.jpg?exp=10800",
+   "published": "2026-10-27T17:00+09:00",
+   "collected": "2026-10-30T11:08+09:00"
   },
   {
    "id": "c0169790cfc0",
@@ -9117,119 +9217,6 @@
    "collected": "2026-10-23T08:59+09:00",
    "title_orig": "Discord now formats Markdown previews right",
    "summary_orig": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" accor"
-  },
-  {
-   "id": "de6d0ccac2bc",
-   "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-   "title": "スケーラブルなAIの基盤",
-   "summary": "スケーラブルなAIシステムには、強力な基盤が必要です。データ、エンジニアリング、プラットフォーム、運用モデル、ガバナンスを1つにまとめる必要があります。",
-   "source": "MIT Technology Review AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EmTech_092926_084.jpg?resize=1200,600",
-   "published": "2026-10-23T03:48+09:00",
-   "collected": "2026-10-23T08:59+09:00",
-   "title_orig": "The Foundations of Scalable AI",
-   "summary_orig": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session fro"
-  },
-  {
-   "id": "d26ae9b2d9ce",
-   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-   "title": "マイクロソフトのMustafa Suleyman氏は、「医療のスーパーインテリジェンス」を追求しているため、AIは難しいケースで医師よりも優れていると述べています",
-   "summary": "サイエンス誌の研究によると、マイクロソフトの新しいAI診断システムは、難しい症例でジェネラリストの医師を打ち負かす。しかし、ほとんどの改善は",
-   "source": "TechCrunch AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
-   "published": "2026-10-23T03:43+09:00",
-   "collected": "2026-10-23T08:59+09:00",
-   "title_orig": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-   "summary_orig": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the"
-  },
-  {
-   "id": "2c1b17b37189",
-   "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-   "title": "メタの未来のバージョンでは、私は私のMuseにあなたのMuseに電話させます",
-   "summary": "マーク・ザッカーバーグは、私たちのために買い物をし、私たちのために働き、他の人と話すという、AIエージェントの自律的なネットワークが私たちの生活を運営する未来に向かって進んでいます。",
-   "source": "The Verge AI",
-   "type": "article",
-   "tier": "media",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-   "published": "2026-10-23T03:15+09:00",
-   "collected": "2026-10-23T08:59+09:00",
-   "title_orig": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-   "summary_orig": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other"
-  },
-  {
-   "id": "f29afd156725",
-   "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-   "title": "エージェントスキルをエージェントAI財団に寄付する",
-   "summary": "AnthropicからのAgentic AI Foundationニュースへのエージェントスキルの寄付：私たちは、エージェントスキルをオープン、コミュニティ主導、ベンダーニュートラルに保つことにコミットしています",
-   "source": "Simon Willison",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-23T03:09+09:00",
-   "collected": "2026-10-23T08:59+09:00",
-   "_thumb_tries": 3,
-   "title_orig": "Donating Agent Skills to the Agentic AI Foundation",
-   "summary_orig": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral"
-  },
-  {
-   "id": "ad44bdcab03f",
-   "url": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/",
-   "title": "Amazon Pollyがジェネレーティブエンジンに大幅なアップグレードを提供",
-   "summary": "Amazon Polly Generativeエンジンが大幅にアップグレードされました。低レイテンシでより表現力があり、より正確な音声に加えて、9つのロケールと一般的な14の新しい音声が追加されました。",
-   "source": "AWS Machine Learning Blog",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/21/ML-22197-featured-image.png",
-   "published": "2026-10-23T03:06+09:00",
-   "collected": "2026-10-23T08:59+09:00",
-   "title_orig": "Amazon Polly delivers a major upgrade to its Generative engine",
-   "summary_orig": "The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general"
-  },
-  {
-   "id": "762687ac4e57",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/",
-   "title": "IskayPetがAmazon Bedrock Managed Knowledge Basesで企業知識を統合する方法",
-   "summary": "イベリアの大手ペットケア会社IskayPetが、Amazon Bedrock Managed Knowledge Basesで多言語の企業ナレッジアシスタントを構築した方法を学びましょう。ASSI",
-   "source": "AWS Machine Learning Blog",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/16/ML-21903-featured-image.png",
-   "published": "2026-10-23T03:01+09:00",
-   "collected": "2026-10-23T08:59+09:00",
-   "title_orig": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
-   "summary_orig": "Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assi"
-  },
-  {
-   "id": "ab41ce0092ec",
-   "url": "https://www.youtube.com/watch?v=l16Gw7oVLNQ",
-   "title": "UberがChatGPT Workを3万人以上の従業員に展開",
-   "summary": "1,000人のパイロットに続いて、Uberはエージェントプラットフォーの最初の全社展開で、ChatGPT Workを世界中の30,000人以上の従業員に提供しています",
-   "source": "OpenAI",
-   "type": "video",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://i.ytimg.com/vi/l16Gw7oVLNQ/hqdefault.jpg",
-   "published": "2026-10-23T03:00+09:00",
-   "collected": "2026-10-23T10:30+09:00",
-   "title_orig": "Uber rolls out ChatGPT Work to 30,000+ employees",
-   "summary_orig": "Following a 1,000-person pilot, Uber is bringing ChatGPT Work to more than 30,000 employees worldwide in its first company-wide deployment of an agentic platfor"
   }
  ]
 }
