@@ -145,7 +145,7 @@
   "thumbnail": null,
   "published": "2026-10-31T06:59+09:00",
   "collected": "2026-10-31T09:48+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "summary_orig": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weight"
  },
  {
@@ -309,6 +309,21 @@
   "summary_orig": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Se"
  },
  {
+  "id": "959f3bc27116",
+  "url": "https://www.youtube.com/watch?v=o4D1J1YWjhg",
+  "title": "未来はたくさんあります。どちらを建造しますか？",
+  "summary": "",
+  "source": "OpenAI",
+  "type": "video",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/o4D1J1YWjhg/hqdefault.jpg",
+  "published": "2026-10-31T05:17+09:00",
+  "collected": "2026-10-31T10:03+09:00",
+  "title_orig": "There are many futures. Which do you want to build?"
+ },
+ {
   "id": "8bfb68b0f792",
   "url": "https://www.searchenginejournal.com/reddit-to-test-login-only-mode-as-google-search-traffic-drops/595270/",
   "title": "RedditのCEO、@ sejournalを介してGoogleのAIモードが「トラフィックを増やさない」と語る",
@@ -375,7 +390,7 @@
  {
   "id": "b2263e9f8412",
   "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-  "title": "nemotron - halloween",
+  "title": "ネモトロン-ハロウィーン",
   "summary": "Hugging Faceに関するNVIDIAのブログ記事",
   "source": "Hugging Face",
   "type": "article",
@@ -385,7 +400,7 @@
   "thumbnail": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png",
   "published": "2026-10-31T02:57+09:00",
   "collected": "2026-10-31T09:48+09:00",
-  "title_orig": "nemotron-halloween",
+  "title_orig": "nemotron - halloween",
   "summary_orig": "A Blog post by NVIDIA on Hugging Face"
  },
  {
@@ -597,6 +612,22 @@
   "summary_orig": "Shopify’s catalog returns a commission next to each promoted product’s price and reviews. What an AI agent does with that number depends on its developer. The p"
  },
  {
+  "id": "59fa43cbb1dd",
+  "url": "https://www.youtube.com/shorts/7TtGMileCus",
+  "title": "GenがChatGPT Workを使用してデータを意思決定に変換する方法| OpenAI",
+  "summary": "「ChatGPT Work以前、私たちは歩いていました。ChatGPT Workを使用して、実行しています。「GenのHowie Xuにとって、それは新製品のオンボーディングエクスペリエンスを理解することを意味します",
+  "source": "OpenAI",
+  "type": "video",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/7TtGMileCus/hqdefault.jpg",
+  "published": "2026-10-31T00:24+09:00",
+  "collected": "2026-10-31T10:03+09:00",
+  "title_orig": "How Gen uses ChatGPT Work to turn data Into decisions | OpenAI",
+  "summary_orig": "“Before ChatGPT Work, we were walking. Now with ChatGPT Work, we are running.” For Gen's Howie Xu, that means understanding how a new product’s onboarding exper"
+ },
+ {
   "id": "691aeb39c444",
   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
   "title": "夜中にビープ音を鳴らすもの：エージェントAIが地球外信号の探索に加わる",
@@ -767,6 +798,34 @@
   "collected": "2026-10-31T09:48+09:00"
  },
  {
+  "id": "09fe19f471c7",
+  "url": "https://ascii.jp/elem/000/004/447/4447477/?rss",
+  "title": "Aurora Mobileの「Modellix.ai」、ComfyUIに対応 複数の画像・動画・音声AIモデルをビジュアルワークフローから利用可能に",
+  "summary": "Aurora Mobileの「Modellix.ai」、ComfyUIに対応 複数の画像・動画・音声AIモデルをビジュアルワークフローから利用可能に",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-30T19:39+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "5394e8f3ca7b",
+  "url": "https://aismiley.co.jp/ai_news/use-claude-in-copilot/",
+  "title": "CopilotでClaudeが使える？仕組みと設定方法を解説",
+  "summary": "本記事では、CopilotでClaudeを使う具体的な設定手順、使えないときの対処法、両ツールの使い分け方までをまとめて解説します。CopilotとClaudeの違いを知りたい方や、社内のCopilot管理を任されている方が、自分の環境に合った使い方を判断できるようになります。",
+  "source": "AIsmiley",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://aismiley.co.jp/wp-content/uploads/2026/08/claudeincopilot.png",
+  "published": "2026-10-30T19:15+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
   "id": "ad293b845478",
   "url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
   "title": "ビデオ上のシャープテック： AnthropicのS -1とそれがメタとミューズにとって何を意味するのか、あなたはすべてを見ることができます、そして醸造家！",
@@ -795,7 +854,7 @@
   "thumbnail": null,
   "published": "2026-10-30T18:30+09:00",
   "collected": "2026-10-31T09:48+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Making it easier for websites to express AI training preferences",
   "summary_orig": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
  },
@@ -812,7 +871,7 @@
   "thumbnail": null,
   "published": "2026-10-30T18:30+09:00",
   "collected": "2026-10-31T09:48+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "7dd665763b12",
@@ -855,7 +914,7 @@
   "thumbnail": null,
   "published": "2026-10-30T18:00+09:00",
   "collected": "2026-10-31T09:48+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Community safety report and new protections for teens",
   "summary_orig": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
  },
@@ -906,6 +965,161 @@
   "summary_orig": "Mistral’s open-weight release, frontier monitoring, and the day’s AI Twitter and Reddit recaps."
  },
  {
+  "id": "89bb9b51a3bb",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
+  "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に 米国・インドの出版社提供 日本でも利用可",
+  "summary": "Googleは、米国とインドのプロバイダーが提供する数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるようになったと発表した。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/30/2000002760/10011027/2048",
+  "published": "2026-10-30T17:17+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "b2bca5c6731e",
+  "url": "https://www.advertimes.com/20261030/article562896/?utm_source=feed",
+  "title": "世界最高のトイレあります 「外便所」と侮辱されたノルウェー 粋な返しで絶賛浴びる",
+  "summary": "「うちのトイレは最高！」。トランプ米大統領に「外便所のような国」と侮辱されたノルウェーだが、同国の政府観光局はその暴言を逆手にとり、自国のすばらしいトイレをWebサイトやSNSで紹介している。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/norge02.jpg",
+  "published": "2026-10-30T17:08+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "dc2b9f3f53e2",
+  "url": "https://www.advertimes.com/20261030/article562912/?utm_source=feed",
+  "title": "投資家の4割がIR対話の質を「低い」と評価、企業側の8割は質問が「表面的」 ウィルズとパンハウスが調査",
+  "summary": "IR支援を手がけるウィルズとAI関連事業を展開するパンハウスは10月15日、企業と投資家の対話（IR活動）に関する調査結果を発表した。 The post 投資家の4割がIR対話の質を「低い」と評価、企業側の8割は質問が「表面的」 ウィルズとパンハウスが調査 first appeared on AdverTimes.（ア",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/wills-ogp.jpg",
+  "published": "2026-10-30T16:52+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "138212151e08",
+  "url": "https://prtimes.jp/main/html/rd/p/000000796.000088829.html",
+  "title": "QommonsAI提供開始2周年記念「行政AX全国サミット 2026」を開催 — 全国の自治体職員とともに、生成AIハッカソンや導入自治体の活用事例紹介、最新アップデートを発表",
+  "summary": "QommonsAI提供開始2周年記念「行政AX全国サミット 2026」を開催 — 全国の自治体職員とともに、生成AIハッカソンや導入自治体の活用事例紹介、最新アップデートを発表",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/88829/796/88829-796-3c49036be9515840d6832056da77ad9c-1672x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-30T16:20+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "042ef75fa713",
+  "url": "https://www.advertimes.com/20261030/article562887/?utm_source=feed",
+  "title": "AIを「組織のOS」に kubellが描く広報の新たな役割",
+  "summary": "生成AIを一部の社員が使うツールではなく、「組織のOS」にすることを目指すkubell。その出発点となったのは、CEOによる全社員へのメッセージだ。 The post AIを「組織のOS」に kubellが描く広報の新たな役割 first appeared on AdverTimes.（アドタイ） by 宣伝会議 .",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/kubell-ogp.jpg",
+  "published": "2026-10-30T16:17+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "c15d4eefcbf7",
+  "url": "https://www.advertimes.com/20261030/article562810/?utm_source=feed",
+  "title": "生成AIでつくられたキャラクターの物語「PRAY TO GACHA」インディペンデントIPの戦略とは",
+  "summary": "映像制作会社のUnplugとAIクリエイターのICOさんによる共同プロジェクト「PRAY TO GACHA」が4月に始動した。自分たちの「好き」とグッズ展開も見据えた、AI時代のIP設計とは。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/pray-to-gacha01.jpg",
+  "published": "2026-10-30T15:51+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "f44ec8877ffb",
+  "url": "https://news.infoseek.co.jp/article/prtimes_000000047_000141002/",
+  "title": "プライベートAIスタートアップAthena、一般社団法人金融データ活用推進協会(FDUA) に加盟",
+  "summary": "プライベートAIスタートアップAthena、一般社団法人金融データ活用推進協会(FDUA) に加盟",
+  "source": "Infoseek",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+  "published": "2026-10-30T15:45+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "5d1ac6ed0e58",
+  "url": "https://www.advertimes.com/20261030/article562803/?utm_source=feed",
+  "title": "「チロリアンがなくなる？」 千鳥屋本家の破産報道で風評懸念、別の会社が釈明 過去にも同様の騒動、複雑なブランドの歴史",
+  "summary": "福岡銘菓「チロリアン」がなくなってしまうのか。老舗菓子メーカー「千鳥屋本家」（福岡県飯塚市）が破産手続きに移行する見通しとなったことを受け、SNSでは商品の販売継続を心配する声が上がっている。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/tirolian.jpg",
+  "published": "2026-10-30T15:43+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "c63e60b06706",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002757/",
+  "title": "Geminiで生成したPDFやスライドを「チャット上で直接編集」可能に 個人プランとGoogle Workspaceで試してみた",
+  "summary": "Geminiとのチャット内で直接、PDFやスライドなどを生成、プレビュー、編集できるようになった。ITmedia AI＋編集部の環境で同機能を試した結果をお届けする。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/30/2000002757/10011018/2048",
+  "published": "2026-10-30T15:31+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "f0daf7a4c428",
+  "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002684/",
+  "title": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
+  "summary": "イスラエルのテルアビブ大学に所属する研究者らが発表した論文「Watch and Crack: Password Inference from Smart-Glasses Video」は、スマートグラスで撮影された指の動きから、パスワードを解読する手法を実証した研究報告だ。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2610/30/2000002684/10010757/2048",
+  "published": "2026-10-30T12:00+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
+  "id": "ba34d02233ca",
+  "url": "https://www.itmedia.co.jp/business/articles/2610/30/news064.html",
+  "title": "なぜ「半導体の供給はデータセンター優先」に見えるのか AIブームの実像、東京エレクトロン デバイス幹部が明かす",
+  "summary": "AIu [ÍA ¼± ÍÍs «ª © ÎêÄ ¢ éBuf [^ Z ^[ ÉDæIÉ ³ êÄ ¢ évÆ ¢ ¤ © ûà é ª AGNg foCX ² Í» êð时· éBAIu",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/business/articles/2610/30/cover_news064.jpg",
+  "published": "2026-10-30T12:00+09:00",
+  "collected": "2026-10-31T10:03+09:00",
+  "summary_orig": "AIu[ÌA¼±ÌÌs«ª©ÎêÄ¢éBuf[^Z^[ÉDæIÉ³êÄ¢évÆ¢¤©ûà éªAGNg foCX²Í»êðÛè·éBAIu"
+ },
+ {
   "id": "1e17fe1f1df1",
   "url": "https://www.advertimes.com/20261030/article562582/?utm_source=feed",
   "title": "TIME誌が選ぶ「2026年最高の発明品」 富士フイルムやニコンの製品を選出 電通ラボのサービスも",
@@ -918,6 +1132,20 @@
   "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/time2026-ogp.jpg",
   "published": "2026-10-30T11:33+09:00",
   "collected": "2026-10-30T11:36+09:00"
+ },
+ {
+  "id": "afd224fa1632",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
+  "title": "国産LLM「Sarashina」に初の「思考モデル」 ツール呼び出しやWeb検索性能が向上 APIで提供",
+  "summary": "ソフトバンク傘下のAI開発企業であるSB Intuitionsは、AIモデル「Sarashina3.2 mini thinking」を発表した。同社がフルスクラッチで開発する「Sarashina」シリーズ初の「思考モデル」（回答の精度を高めるため、出力に時間をかけるモデル）となる。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/30/2000002743/10010977/2048",
+  "published": "2026-10-30T11:11+09:00",
+  "collected": "2026-10-31T10:03+09:00"
  },
  {
   "id": "6fbdee1d7dae",
@@ -1165,9 +1393,26 @@
   "thumbnail": null,
   "published": "2026-10-30T09:00+09:00",
   "collected": "2026-10-31T09:48+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Fair use benefits everyone",
   "summary_orig": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training"
+ },
+ {
+  "id": "2384d83df707",
+  "url": "https://www.socialmediatoday.com/news/youtube-subscriptions-are-rising-as-more-users-turn-to-connected-tv/873272/",
+  "title": "より多くのユーザーが接続されたテレビに頼るにつれて、YouTubeのサブスクリプションは増加しています",
+  "summary": "親会社のAlphabetによると、広告の成長は2026年度第3四半期に鈍化したが、それでも110億$以上の収益をもたらした。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-30T08:59+09:00",
+  "collected": "2026-10-31T10:03+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "YouTube subscriptions are rising as more users turn to connected TV",
+  "summary_orig": "Ad growth slowed in the third quarter of fiscal 2026 but still brought in more than $11 billion in revenue, according to parent company Alphabet."
  },
  {
   "id": "720b04b8c5b9",
@@ -1214,6 +1459,23 @@
   "collected": "2026-10-30T10:02+09:00"
  },
  {
+  "id": "dae7350d25be",
+  "url": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/",
+  "title": "スレッドは小グループ共有オプションをテストします",
+  "summary": "このプラットフォームのThreads Friendsグループは、InstagramのClose Friends機能に似ており、ユーザーは最大50件の接続を追加できます。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-30T08:07+09:00",
+  "collected": "2026-10-31T10:03+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Threads tests smaller group sharing option",
+  "summary_orig": "The platform’s Threads Friends group is similar to Instagram’s Close Friends feature, and allows users to add up to 50 connections."
+ },
+ {
   "id": "52e5010e7e9f",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news053.html",
   "title": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化",
@@ -1227,6 +1489,23 @@
   "published": "2026-10-30T08:00+09:00",
   "collected": "2026-10-30T10:02+09:00",
   "summary_orig": "pi\\jbN z[fBOXÅÍA2026N4ÉO[vCAIOiChief AI OfficerjÉACµ½A·sðõ å´²ª¯æÞÉ¶AO[vàÌAIpÌW]ÉÂ¢Äà"
+ },
+ {
+  "id": "74c72e91e3d1",
+  "url": "https://www.socialmediatoday.com/news/youtube-is-testing-new-fixes-for-spam-violations/873269/",
+  "title": "YouTubeはスパム違反の新しい修正をテストしています",
+  "summary": "プラットフォームでは、コンテンツを確認したり、ポリシーに違反する可能性のある動画を編集または削除したりするオプションをチャンネルに提供しています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-30T07:50+09:00",
+  "collected": "2026-10-31T10:03+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "YouTube is testing new fixes for spam violations",
+  "summary_orig": "The platform is offering channels the option to review content, and edit or delete videos that may go against policy."
  },
  {
   "id": "32e3919a0587",
@@ -1363,6 +1642,23 @@
   "published": "2026-10-30T07:00+09:00",
   "collected": "2026-10-30T10:02+09:00",
   "_thumb_tries": 3
+ },
+ {
+  "id": "1d18fc02e35f",
+  "url": "https://www.socialmediatoday.com/news/threads-launches-custom-like-buttons/873267/",
+  "title": "スレッドはカスタムのようなボタンを起動します",
+  "summary": "スレッドユーザーは、画像やアニメーションで投稿への反応をパーソナライズできるようになりました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-30T06:57+09:00",
+  "collected": "2026-10-31T10:03+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Threads launches custom like buttons",
+  "summary_orig": "Threads users will now be able to personalize reactions to their posts with images or animations."
  },
  {
   "id": "8aba1be1b00e",
@@ -1535,6 +1831,23 @@
   "collected": "2026-10-30T10:02+09:00",
   "title_orig": "Amazon Says External AI Agents Aren’t Hurting Its Ad Business",
   "summary_orig": "The company reported its highest-ever operating margin in Q3 of 13.9%"
+ },
+ {
+  "id": "4508b42e15c7",
+  "url": "https://www.socialmediatoday.com/news/linkedin-increases-user-time-members-and-creator-ads/873266/",
+  "title": "LinkedInがユーザーの時間、メンバー、クリエイターの広告を増やす",
+  "summary": "プラットフォームの所有者であるマイクロソフトの2027会計年度第1四半期の収益は、複数の指標にわたるアプリの成長に関する洞察を提供しました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-30T03:49+09:00",
+  "collected": "2026-10-31T10:03+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "LinkedIn increases user time, members and creator ads",
+  "summary_orig": "Platform owner Microsoft’s earnings for the first quarter of fiscal 2027 offered insight in the app’s growth across multiple metrics."
  },
  {
   "id": "2a1a8a7c88a0",
@@ -2281,6 +2594,20 @@
   "summary_orig": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
  },
  {
+  "id": "7147917ccea8",
+  "url": "https://aismiley.co.jp/ai_news/what-is-text-generative-ai-12/",
+  "title": "文章生成AIとは？活用事例からおすすめアプリ12選まで詳しくご紹介",
+  "summary": "文章生成AIとは？活用事例からおすすめアプリ12選まで詳しくご紹介",
+  "source": "AIsmiley",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://aismiley.co.jp/wp-content/uploads/2024/08/ns16.png",
+  "published": "2026-10-29T16:00+09:00",
+  "collected": "2026-10-31T10:03+09:00"
+ },
+ {
   "id": "8266ea920e51",
   "url": "https://latent.space/p/ainews-gemini-4-carbon/",
   "title": "[AINews]ジェミニ4カーボンがリーダーボードを上回り、サイバーディフェンダー向けに発売",
@@ -2440,6 +2767,21 @@
   "thumbnail": "https://ascii.jp/img/2026/10/29/4545512/xl/49b12dcc309949e6.jpg",
   "published": "2026-10-29T11:00+09:00",
   "collected": "2026-10-29T11:26+09:00"
+ },
+ {
+  "id": "c4af668f01e8",
+  "url": "https://finance.biggo.jp/news/dbcdfb81-728e-4078-86f9-c7b4553851e0",
+  "title": "エムロ、GSカルテックスから小額調達をAIエージェントで自動化する案件を受注",
+  "summary": "エムロ、GSカルテックスから小額調達をAIエージェントで自動化する案件を受注    BigGo ファイナンス",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-29T10:26+09:00",
+  "collected": "2026-10-31T10:03+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "962c7969833f",
@@ -2620,7 +2962,7 @@
   "thumbnail": null,
   "published": "2026-10-29T09:00+09:00",
   "collected": "2026-10-31T09:48+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
   "summary_orig": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
  },
@@ -4914,8 +5256,8 @@
  {
   "id": "20e0c61e46a0",
   "url": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
-  "title": "The platform approach to becoming Frontier",
-  "summary": "Last year at Ignite, we introduced the concept of Frontier Transformation and how it is different from any technology-led pursuit, because it requires us to foc",
+  "title": "Frontierになるためのプラットフォームアプローチ",
+  "summary": "昨年のIgniteでは、フロンティア・トランスフォーメーションのコンセプトと、テクノロジー主導の追求との違いを紹介しました。",
   "source": "Microsoft Source",
   "type": "article",
   "tier": "official",
@@ -4923,7 +5265,9 @@
   "proxy_for": null,
   "thumbnail": "https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-FY27Q1-Hero-Final-1024x576.png",
   "published": "2026-10-28T03:24+09:00",
-  "collected": "2026-10-31T09:48+09:00"
+  "collected": "2026-10-31T09:48+09:00",
+  "title_orig": "The platform approach to becoming Frontier",
+  "summary_orig": "Last year at Ignite, we introduced the concept of Frontier Transformation and how it is different from any technology-led pursuit, because it requires us to foc"
  },
  {
   "id": "685f0df653a9",
@@ -4976,8 +5320,8 @@
  {
   "id": "fe3141148cc5",
   "url": "https://www.microsoft.com/en-us/copilot/blog/2026/10/27/the-ai-advantage-your-company-can-keep/",
-  "title": "How companies can help their AI agents learn from one another",
-  "summary": "New research from Microsoft and Keystone looks across more than 200 enterprises to see how shared knowledge can help companies coordinate their agents.",
+  "title": "企業がAIエージェントがお互いから学ぶのを助ける方法",
+  "summary": "マイクロソフトとKeystoneの新しい調査では、200社以上の企業を調査し、共有された知識が企業がエージェントを調整するのにどのように役立つかを確認しています。",
   "source": "Microsoft Source",
   "type": "article",
   "tier": "official",
@@ -4985,7 +5329,9 @@
   "proxy_for": null,
   "thumbnail": "https://www.microsoft.com/en-us/copilot/blog/wp-content/uploads/sites/2/2026/10/Helix-Hero-art-.png",
   "published": "2026-10-28T02:34+09:00",
-  "collected": "2026-10-31T09:48+09:00"
+  "collected": "2026-10-31T09:48+09:00",
+  "title_orig": "How companies can help their AI agents learn from one another",
+  "summary_orig": "New research from Microsoft and Keystone looks across more than 200 enterprises to see how shared knowledge can help companies coordinate their agents."
  },
  {
   "id": "d8c87d0b4457",
