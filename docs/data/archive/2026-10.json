@@ -46,6 +46,20 @@
   "collected": "2026-10-31T09:48+09:00"
  },
  {
+  "id": "d55ad15f5937",
+  "url": "https://ascii.jp/elem/000/004/447/4447489/?rss",
+  "title": "求人8.9万件の「JobLinks」、企業は求人票づくりをAIで、求職者は応募から面談予約・書類作成まで最短で 採用する側と探す側の両方の手間を減らす仕組みを公開",
+  "summary": "求人8.9万件の「JobLinks」、企業は求人票づくりをAIで、求職者は応募から面談予約・書類作成まで最短で 採用する側と探す側の両方の手間を減らす仕組みを公開",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-31T09:00+09:00",
+  "collected": "2026-10-31T11:22+09:00"
+ },
+ {
   "id": "5c9ac0ff019c",
   "url": "https://news.yahoo.co.jp/articles/cb9e548d54f28ecbeb8628de04843f27fbd8fe72",
   "title": "Claude利用8割のGMO、AI人材の評価軸が「トークン管理」に変わった（TechTargetジャパン）",
@@ -88,6 +102,20 @@
   "collected": "2026-10-31T09:48+09:00",
   "title_orig": "Ollie, a privacy-focused AI assistant, is shutting down",
   "summary_orig": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down i"
+ },
+ {
+  "id": "40b2d753bda3",
+  "url": "https://ascii.jp/elem/000/004/447/4447491/?rss",
+  "title": "【本の日・全9冊無料】NFTから生成AIまで、農業の未来を読む。Metagriシリーズを期間限定で無料提供",
+  "summary": "【本の日・全9冊無料】NFTから生成AIまで、農業の未来を読む。Metagriシリーズを期間限定で無料提供",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-10-31T07:50+09:00",
+  "collected": "2026-10-31T11:22+09:00"
  },
  {
   "id": "feb912e225e8",
@@ -1426,7 +1454,7 @@
   "thumbnail": null,
   "published": "2026-10-30T08:59+09:00",
   "collected": "2026-10-31T10:03+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "YouTube subscriptions are rising as more users turn to connected TV",
   "summary_orig": "Ad growth slowed in the third quarter of fiscal 2026 but still brought in more than $11 billion in revenue, according to parent company Alphabet."
  },
@@ -1443,7 +1471,7 @@
   "thumbnail": null,
   "published": "2026-10-30T08:59+09:00",
   "collected": "2026-10-31T10:47+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "YouTube subscriptions are rising as more users turn to CTV",
   "summary_orig": "Ad growth slowed in the third quarter of 2026 but still brought in more than $11 billion in revenue, according to parent company Alphabet."
  },
@@ -1504,7 +1532,7 @@
   "thumbnail": null,
   "published": "2026-10-30T08:07+09:00",
   "collected": "2026-10-31T10:03+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Threads tests smaller group sharing option",
   "summary_orig": "The platform’s Threads Friends group is similar to Instagram’s Close Friends feature, and allows users to add up to 50 connections."
  },
@@ -1536,7 +1564,7 @@
   "thumbnail": null,
   "published": "2026-10-30T07:50+09:00",
   "collected": "2026-10-31T10:03+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "YouTube is testing new fixes for spam violations",
   "summary_orig": "The platform is offering channels the option to review content, and edit or delete videos that may go against policy."
  },
@@ -1689,7 +1717,7 @@
   "thumbnail": null,
   "published": "2026-10-30T06:57+09:00",
   "collected": "2026-10-31T10:03+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Threads launches custom like buttons",
   "summary_orig": "Threads users will now be able to personalize reactions to their posts with images or animations."
  },
@@ -1878,7 +1906,7 @@
   "thumbnail": null,
   "published": "2026-10-30T03:49+09:00",
   "collected": "2026-10-31T10:03+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "LinkedIn increases user time, members and creator ads",
   "summary_orig": "Platform owner Microsoft’s earnings for the first quarter of fiscal 2027 offered insight in the app’s growth across multiple metrics."
  },
@@ -4442,6 +4470,21 @@
   "published": "2026-10-28T16:15+09:00",
   "collected": "2026-10-29T10:14+09:00",
   "_thumb_tries": 3
+ },
+ {
+  "id": "0634e2c67a0a",
+  "url": "https://www.ntt.com/bizon/ai-cyberattack.html",
+  "title": "AIを悪用したサイバー攻撃とは？「AIで守る」対策から、手口・事例まで完全ガイド",
+  "summary": "AIを悪用したサイバー攻撃とは？「AIで守る」対策から、手口・事例まで完全ガイド",
+  "source": "NTTドコモビジネス",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-10-28T16:00+09:00",
+  "collected": "2026-10-31T11:22+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "d25e21898cc1",
