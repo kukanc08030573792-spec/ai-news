@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-31T10:03+09:00",
+  "last_updated": "2026-10-31T10:47+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-10",
@@ -45,6 +45,22 @@
   ]
  },
  "items": [
+  {
+   "id": "c6b2d3ea7917",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "title": "Nvidia、ウェストバージニア州にあるNscaleのAIデータセンターの共同署名者を務める",
+   "summary": "投資家がAIの支出に緊張すると、チップを販売するチップメーカーがローンの共同署名を申し出るのに役立ちます。",
+   "source": "TechCrunch AI",
+   "type": "article",
+   "tier": "media",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+   "published": "2026-10-31T10:20+09:00",
+   "collected": "2026-10-31T10:47+09:00",
+   "title_orig": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "summary_orig": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan."
+  },
   {
    "id": "d56ce964f320",
    "url": "https://developers.googleblog.com/devfest-is-back/",
@@ -191,7 +207,7 @@
    "thumbnail": null,
    "published": "2026-10-31T06:59+09:00",
    "collected": "2026-10-31T09:48+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "summary_orig": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weight"
   },
   {
@@ -900,7 +916,7 @@
    "thumbnail": null,
    "published": "2026-10-30T18:30+09:00",
    "collected": "2026-10-31T09:48+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Making it easier for websites to express AI training preferences",
    "summary_orig": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
   },
@@ -917,7 +933,7 @@
    "thumbnail": null,
    "published": "2026-10-30T18:30+09:00",
    "collected": "2026-10-31T09:48+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7dd665763b12",
@@ -960,7 +976,7 @@
    "thumbnail": null,
    "published": "2026-10-30T18:00+09:00",
    "collected": "2026-10-31T09:48+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Community safety report and new protections for teens",
    "summary_orig": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
   },
@@ -1425,7 +1441,7 @@
    "thumbnail": null,
    "published": "2026-10-30T09:00+09:00",
    "collected": "2026-10-31T09:48+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Fair use benefits everyone",
    "summary_orig": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training"
   },
@@ -1444,6 +1460,23 @@
    "collected": "2026-10-30T10:02+09:00"
   },
   {
+   "id": "da3e46b0ab1e",
+   "url": "https://www.socialmediatoday.com/news/youtube-subscriptions-are-rising-as-more-users-turn-to-ctv/873272/",
+   "title": "より多くのユーザーがCTVを利用するにつれて、YouTubeのサブスクリプションは増加しています",
+   "summary": "親会社のアルファベットによると、広告の成長は2026年第3四半期に鈍化したが、それでも110億$以上の収益をもたらした。",
+   "source": "Social Media Today",
+   "type": "article",
+   "tier": "media",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-10-30T08:59+09:00",
+   "collected": "2026-10-31T10:47+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "YouTube subscriptions are rising as more users turn to CTV",
+   "summary_orig": "Ad growth slowed in the third quarter of 2026 but still brought in more than $11 billion in revenue, according to parent company Alphabet."
+  },
+  {
    "id": "2384d83df707",
    "url": "https://www.socialmediatoday.com/news/youtube-subscriptions-are-rising-as-more-users-turn-to-connected-tv/873272/",
    "title": "より多くのユーザーが接続されたテレビに頼るにつれて、YouTubeのサブスクリプションは増加しています",
@@ -1456,7 +1489,7 @@
    "thumbnail": null,
    "published": "2026-10-30T08:59+09:00",
    "collected": "2026-10-31T10:03+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "YouTube subscriptions are rising as more users turn to connected TV",
    "summary_orig": "Ad growth slowed in the third quarter of fiscal 2026 but still brought in more than $11 billion in revenue, according to parent company Alphabet."
   },
@@ -1517,7 +1550,7 @@
    "thumbnail": null,
    "published": "2026-10-30T08:07+09:00",
    "collected": "2026-10-31T10:03+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Threads tests smaller group sharing option",
    "summary_orig": "The platform’s Threads Friends group is similar to Instagram’s Close Friends feature, and allows users to add up to 50 connections."
   },
@@ -1549,7 +1582,7 @@
    "thumbnail": null,
    "published": "2026-10-30T07:50+09:00",
    "collected": "2026-10-31T10:03+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "YouTube is testing new fixes for spam violations",
    "summary_orig": "The platform is offering channels the option to review content, and edit or delete videos that may go against policy."
   },
@@ -1702,7 +1735,7 @@
    "thumbnail": null,
    "published": "2026-10-30T06:57+09:00",
    "collected": "2026-10-31T10:03+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "Threads launches custom like buttons",
    "summary_orig": "Threads users will now be able to personalize reactions to their posts with images or animations."
   },
@@ -1891,7 +1924,7 @@
    "thumbnail": null,
    "published": "2026-10-30T03:49+09:00",
    "collected": "2026-10-31T10:03+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "LinkedIn increases user time, members and creator ads",
    "summary_orig": "Platform owner Microsoft’s earnings for the first quarter of fiscal 2027 offered insight in the app’s growth across multiple metrics."
   },
@@ -2824,10 +2857,9 @@
    "tier": "media",
    "topic": "ai",
    "proxy_for": null,
-   "thumbnail": null,
+   "thumbnail": "https://img.biggo.com/Z4VK1MrGTmXDOJjSmrHB1Ul3mCh4XEMbS4STQYvRPVs/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2RiY2RmYjgxLTcyOGUtNDA3OC04NmY5LWM3YjQ1NTM4NTFlMF8xNzkzMjM3Mzk0X2RlZmF1bHQuanBn.jpg",
    "published": "2026-10-29T10:26+09:00",
-   "collected": "2026-10-31T10:03+09:00",
-   "_thumb_tries": 1
+   "collected": "2026-10-31T10:03+09:00"
   },
   {
    "id": "962c7969833f",
@@ -2945,7 +2977,7 @@
    "thumbnail": null,
    "published": "2026-10-29T09:00+09:00",
    "collected": "2026-10-31T09:48+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
    "summary_orig": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
   },
@@ -9204,39 +9236,6 @@
    "collected": "2026-10-24T08:52+09:00",
    "title_orig": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
    "summary_orig": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on"
-  },
-  {
-   "id": "298c8de07d18",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "title": "10億人以上のChatGPTユーザーにサービスを提供するためにオンラインストレージを迅速に拡張（パートII ）",
-   "summary": "OpenAIが信頼性の高いマルチテナンシー、グローバルキャッシュ、Azure Cosmos DBを使用してHabitatをスケーリングし、ChatGPTの12倍高速な読み取りを実現した方法をご紹介します。",
-   "source": "OpenAI",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": null,
-   "published": "2026-10-24T02:00+09:00",
-   "collected": "2026-10-24T08:52+09:00",
-   "_thumb_tries": 3,
-   "title_orig": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "summary_orig": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-  },
-  {
-   "id": "7badc5b97336",
-   "url": "https://stratechery.com/2026/a-new-era/",
-   "title": "2026.43 ：新時代",
-   "summary": "2026年10月19日の週の最高のストラテジーコンテンツには、最高のiPadだが最悪の携帯電話、嵐の中のSSサランドス、そしてすべてを見ることができます。",
-   "source": "Ben Thompson（Stratechery）",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
-   "published": "2026-10-24T02:00+09:00",
-   "collected": "2026-10-24T08:52+09:00",
-   "title_orig": "2026.43: A New Era",
-   "summary_orig": "The best Stratechery content from the week of October 19, 2026, including the best iPad but worst phone, SS Sarandos in a storm, and You Can See Everything."
   }
  ]
 }
