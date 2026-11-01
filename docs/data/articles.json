@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-11-01T10:27+09:00",
+  "last_updated": "2026-11-01T11:13+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-11",
@@ -104,7 +104,7 @@
    "thumbnail": null,
    "published": "2026-11-01T07:10+09:00",
    "collected": "2026-11-01T09:26+09:00",
-   "_thumb_tries": 2,
+   "_thumb_tries": 3,
    "title_orig": "datasette-llm 0.1a9",
    "summary_orig": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the u"
   },
