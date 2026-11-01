@@ -1,5 +1,21 @@
 [
  {
+  "id": "353b2ca81af3",
+  "url": "https://www.youtube.com/shorts/UhXxrc76q_c",
+  "title": "メタ・アット・フューチャー・フォーラム・ロンドン2026 |キングス・クロスでの3日間",
+  "summary": "Metaは、2026年10月13〜15日にキングス・クロスで開催されたFuture Forum Londonの創設パートナーでした。約1,500人が3日間にわたって出席し、",
+  "source": "Meta",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/UhXxrc76q_c/hqdefault.jpg",
+  "published": "2026-10-31T22:40+09:00",
+  "collected": "2026-11-01T09:26+09:00",
+  "title_orig": "Meta at Future Forum London 2026 | Three Days in King's Cross",
+  "summary_orig": "Meta was a founding partner of Future Forum London, held October 13–15, 2026 in King's Cross. Approximately 1,500 people attended across three days, and more th"
+ },
+ {
   "id": "6771e1cf5381",
   "url": "https://ascii.jp/elem/000/004/447/4447339/?rss",
   "title": "16GB→32GBへの変更が9696円！ ドスパラのブラックフライデー先取りキャンペーンが熱い",
@@ -42,6 +58,20 @@
   "thumbnail": "https://img.biggo.com/3SkvCwgEHMAkgeDMByRVZVD0H1Z5I4CFzMus7yrkOQM/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2E4NDhhZWE0LTBjNDUtNGY5Ny1iODZmLWJhMmYxZjMyMGUwM18xNzkzNDM4OTkyX2RlZmF1bHQuanBn.jpg",
   "published": "2026-10-31T18:25+09:00",
   "collected": "2026-11-01T09:08+09:00"
+ },
+ {
+  "id": "716f6555bd59",
+  "url": "https://finance.biggo.jp/news/f4f55fa1-ced0-47fe-a03e-4b431f2c1006",
+  "title": "GPT、Claude相手にAI対決で圧勝…戦略は「攻撃」対「合意」",
+  "summary": "Y CombinatorのYC LabsとOlam Labsの研究チームが、Minecraftのミニゲーム「Bed Wars」と戦略ゲーム「Mindustry」でOpenAIのGPT-6.1 SolとAnthropicのClaude…",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://img.biggo.com/cfuT0XE1VNjT3EdWBucsoI1TVL-0_9xF_vuAiMHSwtc/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2Y0ZjU1ZmExLWNlZDAtNDdmZS1hMDNlLTRiNDMxZjJjMTAwNl8xNzkzNDM5MDc5X2RlZmF1bHQuanBn.jpg",
+  "published": "2026-10-31T18:25+09:00",
+  "collected": "2026-11-01T09:26+09:00"
  },
  {
   "id": "70fc88bcbc02",
@@ -4704,7 +4734,7 @@
   "thumbnail": null,
   "published": "2026-10-28T16:00+09:00",
   "collected": "2026-10-31T11:22+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d25e21898cc1",

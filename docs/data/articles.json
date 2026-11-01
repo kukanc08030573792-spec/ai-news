@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-11-01T09:08+09:00",
+  "last_updated": "2026-11-01T09:26+09:00",
   "repo": "kukanc08030573792-spec/ai-news",
   "archive_months": [
    "2026-11",
@@ -73,9 +73,26 @@
    "thumbnail": null,
    "published": "2026-11-01T08:15+09:00",
    "collected": "2026-11-01T09:08+09:00",
-   "_thumb_tries": 1,
+   "_thumb_tries": 2,
    "title_orig": "How We Took Over ChatGPT Accounts",
    "summary_orig": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call t"
+  },
+  {
+   "id": "4c77a0dfd633",
+   "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+   "title": "datasette - lllm 0.1a9",
+   "summary": "リリース： datasette - lll 0.1a9データセットエージェントにいくつかの大きなアップグレードがありますが、その間にユーザーエクスペリエンスの小さな改善があります",
+   "source": "Simon Willison",
+   "type": "article",
+   "tier": "voice",
+   "topic": "ai",
+   "proxy_for": null,
+   "thumbnail": null,
+   "published": "2026-11-01T07:10+09:00",
+   "collected": "2026-11-01T09:26+09:00",
+   "_thumb_tries": 1,
+   "title_orig": "datasette-llm 0.1a9",
+   "summary_orig": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the u"
   },
   {
    "id": "9f56e268b05e",
@@ -173,6 +190,22 @@
    "summary_orig": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can"
   },
   {
+   "id": "353b2ca81af3",
+   "url": "https://www.youtube.com/shorts/UhXxrc76q_c",
+   "title": "メタ・アット・フューチャー・フォーラム・ロンドン2026 |キングス・クロスでの3日間",
+   "summary": "Metaは、2026年10月13〜15日にキングス・クロスで開催されたFuture Forum Londonの創設パートナーでした。約1,500人が3日間にわたって出席し、",
+   "source": "Meta",
+   "type": "video",
+   "tier": "official",
+   "topic": "sns",
+   "proxy_for": null,
+   "thumbnail": "https://i.ytimg.com/vi/UhXxrc76q_c/hqdefault.jpg",
+   "published": "2026-10-31T22:40+09:00",
+   "collected": "2026-11-01T09:26+09:00",
+   "title_orig": "Meta at Future Forum London 2026 | Three Days in King's Cross",
+   "summary_orig": "Meta was a founding partner of Future Forum London, held October 13–15, 2026 in King's Cross. Approximately 1,500 people attended across three days, and more th"
+  },
+  {
    "id": "6771e1cf5381",
    "url": "https://ascii.jp/elem/000/004/447/4447339/?rss",
    "title": "16GB→32GBへの変更が9696円！ ドスパラのブラックフライデー先取りキャンペーンが熱い",
@@ -201,6 +234,20 @@
    "collected": "2026-11-01T09:08+09:00",
    "title_orig": "Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern",
    "summary_orig": "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue. The pos"
+  },
+  {
+   "id": "716f6555bd59",
+   "url": "https://finance.biggo.jp/news/f4f55fa1-ced0-47fe-a03e-4b431f2c1006",
+   "title": "GPT、Claude相手にAI対決で圧勝…戦略は「攻撃」対「合意」",
+   "summary": "Y CombinatorのYC LabsとOlam Labsの研究チームが、Minecraftのミニゲーム「Bed Wars」と戦略ゲーム「Mindustry」でOpenAIのGPT-6.1 SolとAnthropicのClaude…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "tier": "official",
+   "topic": "ai",
+   "proxy_for": "Anthropic",
+   "thumbnail": "https://img.biggo.com/cfuT0XE1VNjT3EdWBucsoI1TVL-0_9xF_vuAiMHSwtc/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2Y0ZjU1ZmExLWNlZDAtNDdmZS1hMDNlLTRiNDMxZjJjMTAwNl8xNzkzNDM5MDc5X2RlZmF1bHQuanBn.jpg",
+   "published": "2026-10-31T18:25+09:00",
+   "collected": "2026-11-01T09:26+09:00"
   },
   {
    "id": "7e17b1af5760",
@@ -4877,7 +4924,7 @@
    "thumbnail": null,
    "published": "2026-10-28T16:00+09:00",
    "collected": "2026-10-31T11:22+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d25e21898cc1",
@@ -9178,52 +9225,6 @@
    "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
    "published": "2026-10-24T18:03+09:00",
    "collected": "2026-10-25T10:09+09:00"
-  },
-  {
-   "id": "c1ad71a16e1f",
-   "url": "https://latent.space/p/ainews-kimi-31/",
-   "title": "【AINews】Kimi 3.1 Pro 104BA-2.8T: Fable-5.1クラスオープンウェイトがクローズドAIリードを1ヶ月に絞り込む…そしてPro Highspeed APIを2 ～ 3倍速で",
-   "summary": "我が家にはフェイブルがいます...そうでなければ、私たちは支払われたシルによって知らされています",
-   "source": "Latent Space",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://latent.space/og/card/post/ainews-kimi-31/4da802572e7369acdf4cbdee535f934d70a599942d61e7d15b8168b70aeb7a84.png",
-   "published": "2026-10-24T16:18+09:00",
-   "collected": "2026-10-25T08:17+09:00",
-   "title_orig": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-   "summary_orig": "We have Fable at home... or so we are being told by paid shills"
-  },
-  {
-   "id": "4cf286f1477e",
-   "url": "https://news.infoseek.co.jp/article/itmedia_bizmakoto_20261020023/",
-   "title": "年間1500億円の利用費に悲鳴？ MicrosoftとMetaがClaude利用を「急激に減らした」ワケ｜Infoseekニュース",
-   "summary": "年間1500億円の利用費に悲鳴？ MicrosoftとMetaがClaude利用を「急激に減らした」ワケ｜Infoseekニュース",
-   "source": "Infoseek",
-   "type": "article",
-   "tier": "official",
-   "topic": "ai",
-   "proxy_for": "Anthropic",
-   "thumbnail": "https://media.image.infoseek.co.jp/isnews/photos/itmedia_bizmakoto/itmedia_bizmakoto_20261020023_0.jpg",
-   "published": "2026-10-24T15:04+09:00",
-   "collected": "2026-10-25T08:17+09:00"
-  },
-  {
-   "id": "5699208333bf",
-   "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-   "title": "battledrones v 14 ：コンパスローズ、4人用マップ",
-   "summary": "リリース：バトルドローンズv 14 ：コンパスローズ、バトルドローンズに4人用オンラインモードを追加した4人用マップ-以前のマップは2つに制限されていました。これがイニシエーションです",
-   "source": "Simon Willison",
-   "type": "article",
-   "tier": "voice",
-   "topic": "ai",
-   "proxy_for": null,
-   "thumbnail": "https://raw.githubusercontent.com/simonw/battledrones/v14/progress-shots/v14/compass-rose.jpg",
-   "published": "2026-10-24T12:59+09:00",
-   "collected": "2026-10-25T08:17+09:00",
-   "title_orig": "battledrones v14: Compass Rose, a four player map",
-   "summary_orig": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initi"
   }
  ]
 }
