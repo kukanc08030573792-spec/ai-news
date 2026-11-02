@@ -82,7 +82,7 @@
   "thumbnail": null,
   "published": "2026-11-02T08:24+09:00",
   "collected": "2026-11-02T09:46+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "If in doubt, delete the uv.lock file",
   "summary_orig": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, dele"
  },
@@ -113,7 +113,7 @@
   "thumbnail": null,
   "published": "2026-11-02T08:00+09:00",
   "collected": "2026-11-02T09:46+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "2a1f008d1248",
@@ -142,7 +142,7 @@
   "thumbnail": null,
   "published": "2026-11-02T07:15+09:00",
   "collected": "2026-11-02T09:46+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "4270fee2c54e",
@@ -157,7 +157,7 @@
   "thumbnail": null,
   "published": "2026-11-02T07:05+09:00",
   "collected": "2026-11-02T09:46+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "60f81b73e01d",
@@ -286,6 +286,20 @@
   "collected": "2026-11-02T09:46+09:00"
  },
  {
+  "id": "99f7a724383f",
+  "url": "https://ascii.jp/elem/000/004/447/4447619/?rss",
+  "title": "アンドドットの営業担当者が自社AIハーネスを活用し、日本青年会議所（JC）の防災アプリ「マモルカ」を開発",
+  "summary": "アンドドットの営業担当者が自社AIハーネスを活用し、日本青年会議所（JC）の防災アプリ「マモルカ」を開発",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-11-02T07:00+09:00",
+  "collected": "2026-11-02T10:01+09:00"
+ },
+ {
   "id": "0dbf0226aa90",
   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
   "title": "OpenAIはデータセンターを「AIコンピューティングキャンパス」としてブランド変更する可能性がある",
@@ -314,7 +328,7 @@
   "thumbnail": null,
   "published": "2026-11-02T06:50+09:00",
   "collected": "2026-11-02T09:46+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "bb2642061f37",
@@ -345,7 +359,7 @@
   "thumbnail": null,
   "published": "2026-11-02T01:49+09:00",
   "collected": "2026-11-02T09:46+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Quoting Kyle Kingsbury",
   "summary_orig": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any"
  },
