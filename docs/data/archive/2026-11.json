@@ -1,5 +1,76 @@
 [
  {
+  "id": "1ed8d4269d75",
+  "url": "https://article.auone.jp/c2440028-deed-4830-a60a-d59c1a7c41a9",
+  "title": "Anthropicが11月3日から旧バージョンのClaudeにもテキスト透かしを追加する",
+  "summary": "Anthropicが2026年11月3日から、古いAIモデルでもテキスト透かしを追加すると発表しました。\nAnthropic expands text watermarking to older Cl",
+  "source": "au Webポータル",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/11/02/https___gigazine_net_news_20261102-anthropic-expands-text-watermarking-older-claude-november-3__w560.webp",
+  "published": "2026-11-02T11:24+09:00",
+  "collected": "2026-11-02T11:30+09:00"
+ },
+ {
+  "id": "a418908dc557",
+  "url": "https://ascii.jp/elem/000/004/443/4443972/?rss",
+  "title": "CapCutで夢を仕事に変えた人たち、シンガポールで見た創作とAIの熱狂",
+  "summary": "2026年9月5日、シンガポール・セントーサ島の高級リゾートホテル「カペラ・シンガポール」で「CapCut World」が開催された。このCapCut初のグローバルコミュニティイベントには、クリエイターや業界関係者、運営チームなど300人以上が参加。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2026/10/20/4540841/xl/a6566abb59d8f7e8.jpg?20200122",
+  "published": "2026-11-02T11:00+09:00",
+  "collected": "2026-11-02T11:30+09:00"
+ },
+ {
+  "id": "809a8369b461",
+  "url": "https://markezine.jp/article/detail/77716",
+  "title": "「筋のいいCEP」を発掘し戦略策定に繋げるには？理想の調査サイクルと既存戦略との繋げ方",
+  "summary": "カテゴリーエントリーポイント（CEP）の重要性を理解しても、「どう見つけ、どう定義し、戦略に落とすか」でつまずく企業は少なくない。9月に開催されたMarkeZine Day 2026 Autumnには、suswork 代表取締役の田岡凌氏が登壇。",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-02T11:00+09:00",
+  "collected": "2026-11-02T11:30+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "ac2d96df5d9c",
+  "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261102562298/",
+  "title": "オープングループ[6572]：オープン、クラウドRPA「BizteX cobit」事業を譲受 ～AUTOROに続くM&A第2弾、自動化市場の再編とAIエージェント領域の強化へ～ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+  "summary": "2026年11月2日 オープングループ[6572]の開示資料「オープン、クラウドRPA「BizteX cobit」事業を譲受 ～AUTOROに続くM&A第2弾、自動化市場の再編とAIエージェント領域の強化へ～」 が閲覧できます。",
+  "source": "日本経済新聞",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.nikkei.com/nkd/disclosure/tdnr/20261102562298/thumbnail/?ttype=ogp",
+  "published": "2026-11-02T11:00+09:00",
+  "collected": "2026-11-02T11:30+09:00"
+ },
+ {
+  "id": "37f1f2de5a1a",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2611/02/2000002781/",
+  "title": "ChatGPTの「Chat」と「Work」統合へ 利用制限はCodexと共通化",
+  "summary": "OpenAIはChatGPT Workのエージェント機能をChatGPTに統合する予定とし、CodexとChatGPTで有料プランの利用量制限が共通化されると発表した。",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/02/2000002781/10011117/2048",
+  "published": "2026-11-02T10:50+09:00",
+  "collected": "2026-11-02T11:30+09:00"
+ },
+ {
   "id": "a57b38bc83fc",
   "url": "https://webtan.impress.co.jp/e/2026/11/02/53554",
   "title": "なぜAI検索では表示されない？ 地元では認知度が高い東北電力がGEOに取り組む理由【1週間まとめ】",
@@ -12,7 +83,7 @@
   "thumbnail": null,
   "published": "2026-11-02T10:15+09:00",
   "collected": "2026-11-02T10:48+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "e484dbe5ce7a",
@@ -27,6 +98,48 @@
   "thumbnail": "https://ascii.jp/img/2019/11/06/1510916/xl/ed8de61ce6796246.png?20200122",
   "published": "2026-11-02T10:00+09:00",
   "collected": "2026-11-02T10:48+09:00"
+ },
+ {
+  "id": "36285de3d1a4",
+  "url": "https://ascii.jp/elem/000/004/447/4447640/?rss",
+  "title": "28社創業・9社売却の経営ノウハウと外資コンサルの知見を融合 AIで「社長に依存しない経営」を支援する中小企業向け新サービスを提供開始｜シンパステクノロジー",
+  "summary": "28社創業・9社売却の経営ノウハウと外資コンサルの知見を融合 AIで「社長に依存しない経営」を支援する中小企業向け新サービスを提供開始｜シンパステクノロジー",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-11-02T10:00+09:00",
+  "collected": "2026-11-02T11:30+09:00"
+ },
+ {
+  "id": "14e07ec787bc",
+  "url": "https://ascii.jp/elem/000/004/447/4447643/?rss",
+  "title": "中小企業の事務作業をAIで自動化する新サービスを提供開始",
+  "summary": "中小企業の事務作業をAIで自動化する新サービスを提供開始",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-11-02T09:50+09:00",
+  "collected": "2026-11-02T11:30+09:00"
+ },
+ {
+  "id": "f3c9b60549a9",
+  "url": "https://ascii.jp/elem/000/004/447/4447642/?rss",
+  "title": "ライブリークリニック、AIコンシェルジュを導入｜美容医療の疑問をいつでも相談",
+  "summary": "ライブリークリニック、AIコンシェルジュを導入｜美容医療の疑問をいつでも相談",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-11-02T09:50+09:00",
+  "collected": "2026-11-02T11:30+09:00"
  },
  {
   "id": "6ac2776a9409",
@@ -97,6 +210,20 @@
   "thumbnail": "https://ascii.jp/img/2026/10/30/4545987/xl/63cb1903960c45ea.jpg",
   "published": "2026-11-02T09:00+09:00",
   "collected": "2026-11-02T09:46+09:00"
+ },
+ {
+  "id": "9d232b79ac10",
+  "url": "https://prtimes.jp/main/html/rd/p/000006002.000054842.html",
+  "title": "『生成AI×BI活用に向けた、データ整備・定着の課題』というテーマのウェビナーを開催",
+  "summary": "『生成AI×BI活用に向けた、データ整備・定着の課題』というテーマのウェビナーを開催",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/54842/6002/54842-6002-5169ccfefde5269780290381243f1cd6-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-11-02T09:00+09:00",
+  "collected": "2026-11-02T11:30+09:00"
  },
  {
   "id": "7d7291538279",
