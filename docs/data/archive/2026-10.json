@@ -46,6 +46,20 @@
   "summary_orig": "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue. The pos"
  },
  {
+  "id": "9b9ffc824d8b",
+  "url": "https://news.yahoo.co.jp/articles/1995c69746eb5510a75f1bd13320ca09113a289e",
+  "title": "「もうプロンプトは書かない」 Claude Code生みの親が明かす“ループエンジニアリング”の衝撃（ITmedia ビジネスオンライン）",
+  "summary": "「私はもうClaudeにプロンプトを打っていない。ループが走っていて、そのループがClaudeにプロンプトを打ち、何をすべきか判断している。私の仕事はループを書くことだ」――。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00000020-zdn_mkt-000-1-view.jpg?exp=10800",
+  "published": "2026-10-31T20:47+09:00",
+  "collected": "2026-11-03T11:55+09:00"
+ },
+ {
   "id": "7e17b1af5760",
   "url": "https://finance.biggo.jp/news/a848aea4-0c45-4f97-b86f-ba2f1f320e03",
   "title": "Anthropicのエンジニア責任者が提言：AIに専門家役を設定するのはもう古い、一部のSkillは削除した方が効果的",
@@ -884,6 +898,22 @@
   "collected": "2026-10-31T09:48+09:00",
   "title_orig": "What are the latest Hootsuite product features? [September 2026]",
   "summary_orig": "Track how AI assistants represent your brand, Connect WhatsApp, and more. Here's everything Hootsuite shipped in September. The post What are the latest Hootsui"
+ },
+ {
+  "id": "ea66f5a34808",
+  "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+  "title": "AIで計画決定をスピードアップ",
+  "summary": "英国政府と共同で開発されたPlanAssistは、定期的な計画チェックを処理し、地方自治体全体で世帯主の評価時間を最大58 ％短縮します。",
+  "source": "Google DeepMind",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w1200-h630-n-nu-rw",
+  "published": "2026-10-30T23:18+09:00",
+  "collected": "2026-11-03T11:55+09:00",
+  "title_orig": "Speeding up planning decisions with AI",
+  "summary_orig": "PlanAssist, developed with the UK government, handles routine planning checks to reduce householder assessment times by up to 58% across local authorities."
  },
  {
   "id": "e9e7beb52b83",
