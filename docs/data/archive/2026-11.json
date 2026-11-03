@@ -1,5 +1,21 @@
 [
  {
+  "id": "4ed35bdfdb65",
+  "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+  "title": "AIが生み出す個人的なストーリーを大衆に届けるために、GoogleはDreambeansをインドに持ち込む",
+  "summary": "最新のAI実験であるGoogleのDreambeansは、現在13のインド言語をサポートしています。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+  "published": "2026-11-03T12:30+09:00",
+  "collected": "2026-11-03T12:41+09:00",
+  "title_orig": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+  "summary_orig": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+ },
+ {
   "id": "701c592bed28",
   "url": "https://ascii.jp/elem/000/004/444/4444030/?rss",
   "title": "AIでデザインが簡単になっても残る仕事 AIで変わる4人のクリエイターの仕事と人生",
@@ -42,7 +58,7 @@
   "thumbnail": null,
   "published": "2026-11-03T10:03+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "793a736581dc",
@@ -87,7 +103,7 @@
   "thumbnail": null,
   "published": "2026-11-03T08:49+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "summary_orig": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and f"
  },
  {
@@ -163,7 +179,7 @@
   "thumbnail": null,
   "published": "2026-11-03T08:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "e33216d0e243",
@@ -392,7 +408,7 @@
   "thumbnail": null,
   "published": "2026-11-03T04:36+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "157ed519c87e",
@@ -501,7 +517,7 @@
   "thumbnail": null,
   "published": "2026-11-03T03:00+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Rewarding defenders with bigger bug bounties",
   "summary_orig": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
  },
@@ -518,7 +534,7 @@
   "thumbnail": null,
   "published": "2026-11-03T03:00+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Preparing our next security sprint to harden OpenAI",
   "summary_orig": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
  },
@@ -709,7 +725,7 @@
   "thumbnail": null,
   "published": "2026-11-03T00:30+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Scaling Git at OpenAI",
   "summary_orig": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
  },
@@ -726,7 +742,7 @@
   "thumbnail": null,
   "published": "2026-11-03T00:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Introducing the Grid Protectors Program",
   "summary_orig": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
  },
@@ -917,7 +933,7 @@
   "thumbnail": null,
   "published": "2026-11-02T18:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "summary_orig": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwor"
  },
  {
@@ -975,7 +991,7 @@
   "thumbnail": null,
   "published": "2026-11-02T15:00+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f5ae961802f8",
@@ -1004,7 +1020,7 @@
   "thumbnail": null,
   "published": "2026-11-02T14:00+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "c0ac7ba74b58",
@@ -1047,7 +1063,7 @@
   "thumbnail": null,
   "published": "2026-11-02T11:45+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "131d7c1515f2",
@@ -1076,7 +1092,7 @@
   "thumbnail": null,
   "published": "2026-11-02T11:30+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "1ed8d4269d75",
@@ -1317,7 +1333,7 @@
   "thumbnail": null,
   "published": "2026-11-02T09:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Qodo builds context into AI code review with Codex",
   "summary_orig": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
  },
@@ -1334,7 +1350,7 @@
   "thumbnail": null,
   "published": "2026-11-02T09:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
   "summary_orig": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
  },
@@ -1411,7 +1427,7 @@
   "thumbnail": null,
   "published": "2026-11-02T07:29+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Instagram offers to pay creators for long-form content",
   "summary_orig": "Business Insider reported that creators were offered as much as $500,000 to post video to Meta’s new Features product."
  },
@@ -1645,7 +1661,7 @@
   "thumbnail": null,
   "published": "2026-11-02T05:42+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Google says AI chatbots are hurting its bottom line",
   "summary_orig": "The company may be losing its stronghold on discovery as more users turn to tools such as ChatGPT and Claude for answers."
  },
