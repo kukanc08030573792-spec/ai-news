@@ -517,7 +517,7 @@
   "thumbnail": null,
   "published": "2026-11-03T03:00+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Rewarding defenders with bigger bug bounties",
   "summary_orig": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
  },
@@ -534,7 +534,7 @@
   "thumbnail": null,
   "published": "2026-11-03T03:00+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Preparing our next security sprint to harden OpenAI",
   "summary_orig": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
  },
@@ -991,7 +991,7 @@
   "thumbnail": null,
   "published": "2026-11-02T15:00+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f5ae961802f8",
@@ -1020,7 +1020,7 @@
   "thumbnail": null,
   "published": "2026-11-02T14:00+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "c0ac7ba74b58",
@@ -1063,7 +1063,7 @@
   "thumbnail": null,
   "published": "2026-11-02T11:45+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "131d7c1515f2",
@@ -1092,7 +1092,7 @@
   "thumbnail": null,
   "published": "2026-11-02T11:30+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "1ed8d4269d75",
@@ -1427,7 +1427,7 @@
   "thumbnail": null,
   "published": "2026-11-02T07:29+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Instagram offers to pay creators for long-form content",
   "summary_orig": "Business Insider reported that creators were offered as much as $500,000 to post video to Meta’s new Features product."
  },
@@ -1661,7 +1661,7 @@
   "thumbnail": null,
   "published": "2026-11-02T05:42+09:00",
   "collected": "2026-11-03T12:04+09:00",
-  "_thumb_tries": 2,
+  "_thumb_tries": 3,
   "title_orig": "Google says AI chatbots are hurting its bottom line",
   "summary_orig": "The company may be losing its stronghold on discovery as more users turn to tools such as ChatGPT and Claude for answers."
  },
