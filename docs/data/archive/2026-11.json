@@ -42,7 +42,7 @@
   "thumbnail": null,
   "published": "2026-11-03T10:03+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "793a736581dc",
@@ -61,6 +61,20 @@
   "summary_orig": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with hi"
  },
  {
+  "id": "4b34d3e03fce",
+  "url": "https://ascii.jp/elem/000/004/448/4448013/?rss",
+  "title": "ハッピーPR、「第7回 マーケティングWeek -大阪 2026-」に出展！会社に広報の戦略と判断軸を残す「PRイネーブルメント」を提案【2号館 KS3】",
+  "summary": "ハッピーPR、「第7回 マーケティングWeek -大阪 2026-」に出展！会社に広報の戦略と判断軸を残す「PRイネーブルメント」を提案【2号館 KS3】",
+  "source": "ASCII.jp",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg",
+  "published": "2026-11-03T09:00+09:00",
+  "collected": "2026-11-03T12:04+09:00"
+ },
+ {
   "id": "db8b36c17fea",
   "url": "https://simonwillison.net/2026/Nov/2/llm/",
   "title": "llm 0.37",
@@ -73,7 +87,7 @@
   "thumbnail": null,
   "published": "2026-11-03T08:49+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "summary_orig": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and f"
  },
  {
@@ -149,7 +163,7 @@
   "thumbnail": null,
   "published": "2026-11-03T08:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "e33216d0e243",
@@ -258,6 +272,20 @@
   "collected": "2026-11-03T11:55+09:00"
  },
  {
+  "id": "fa9e6f64531d",
+  "url": "https://xenospectrum.com/gdpx-ai-work-benchmark/",
+  "title": "AIエージェントの実務能力を測る新指標「GDPx」公開、Claude Opus 5.5が首位も成功率は12%",
+  "summary": "",
+  "source": "XenoSpectrum",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://media.xenospectrum.com/semianalysis_gdpx_ai_agent_benchmark_b3e05254ce.webp",
+  "published": "2026-11-03T06:06+09:00",
+  "collected": "2026-11-03T12:04+09:00"
+ },
+ {
   "id": "081fc2efbdd8",
   "url": "https://www.businessinsider.jp/article/2611-anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens/",
   "title": "アンソロピック、社内のAI利用額が従業員の給与を上回る。IPO書類が明かした「AI革命の節目」",
@@ -364,7 +392,7 @@
   "thumbnail": null,
   "published": "2026-11-03T04:36+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "157ed519c87e",
@@ -381,6 +409,20 @@
   "collected": "2026-11-03T11:55+09:00",
   "title_orig": "Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline via @sejournal, @MattGSouthern",
   "summary_orig": "Google says it has nothing to announce on adding more AI search data to Search Console, ahead of a UK compliance date. The post Google Says No AI Click Reportin"
+ },
+ {
+  "id": "3764ff8aa3d8",
+  "url": "https://www.unite.ai/ja/anthropic-launches-message-threads-beta-for-long-running-agents/",
+  "title": "Anthropic、長時間稼働するエージェント向けメッセージスレッドのベータ版を公開",
+  "summary": "Anthropicは2026年11月2日、メッセージスレッドをパブリックベータとして導入し、Claude Platform上のMessages APIを利用するアプリケーションが、最初に会話全体を送信した後は新しいメッセージだけを送信できるようにしました。",
+  "source": "Unite.AI",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://www.unite.ai/wp-content/uploads/2026/11/anthropic-message-threads-beta-cover.jpg",
+  "published": "2026-11-03T04:21+09:00",
+  "collected": "2026-11-03T12:04+09:00"
  },
  {
   "id": "a437782712b7",
@@ -445,6 +487,40 @@
   "collected": "2026-11-03T11:55+09:00",
   "title_orig": "OpenAI pitches data center power plants as a way to protect nearby areas",
   "summary_orig": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company"
+ },
+ {
+  "id": "6fd6ad7938fa",
+  "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+  "title": "より大きなバグ報奨金で防衛者に報酬を与える",
+  "summary": "OpenAIは、セキュリティバグバウンティ報酬を引き上げ、独立したセキュリティ研究者向けにレポートの品質、ロイヤルティ、優先キャンペーンボーナスを導入しています。",
+  "source": "OpenAI",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-03T03:00+09:00",
+  "collected": "2026-11-03T12:04+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Rewarding defenders with bigger bug bounties",
+  "summary_orig": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
+ },
+ {
+  "id": "262cfa35f430",
+  "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+  "title": "OpenAIを強化するための次のセキュリティスプリントの準備",
+  "summary": "OpenAIは、AIを使用した防御をテストおよび強化するために、Cathedral Systemsとの次の内部セキュリティスプリントを準備しています。",
+  "source": "OpenAI",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-03T03:00+09:00",
+  "collected": "2026-11-03T12:04+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Preparing our next security sprint to harden OpenAI",
+  "summary_orig": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI."
  },
  {
   "id": "dc6c7ef2ed74",
@@ -633,7 +709,7 @@
   "thumbnail": null,
   "published": "2026-11-03T00:30+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Scaling Git at OpenAI",
   "summary_orig": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible."
  },
@@ -650,7 +726,7 @@
   "thumbnail": null,
   "published": "2026-11-03T00:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Introducing the Grid Protectors Program",
   "summary_orig": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
  },
@@ -785,7 +861,7 @@
  {
   "id": "98f352b18956",
   "url": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
-  "title": "Google Earnings、Facebook Déjà Vu、The Agent Play",
+  "title": "Google Earnings、 Facebook Déjà、 Vuエージェントプレイ",
   "summary": "Googleの収益ミスはFacebookによく似ています。これはGoogleのクレジットです。会社は、彼らが信用を得ている以上に積極的になっています。",
   "source": "Ben Thompson（Stratechery）",
   "type": "article",
@@ -795,7 +871,7 @@
   "thumbnail": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
   "published": "2026-11-02T20:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "title_orig": "Google Earnings, Facebook Déjà Vu, The Agent Play",
+  "title_orig": "Google Earnings、Facebook Déjà Vu、The Agent Play",
   "summary_orig": "Google's earnings miss looks a lot like Facebook's, and that's a credit to Google. The company is being more aggressive than they get credit for."
  },
  {
@@ -815,6 +891,20 @@
   "summary_orig": "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant. The post Google Says"
  },
  {
+  "id": "9fd96b336da9",
+  "url": "https://www.advertimes.com/20261102/article563033/?utm_source=feed",
+  "title": "GMO熊谷社長、謝罪会見で涙 「31年間、儲けると言ったことはない」 情報漏えい多発は「AIの発展が原因」と主張",
+  "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、傘下のGMOインターネットが提供する「お名前.com デスクトップクラウド」への不正アクセス問題に関する記者会見で、言葉を詰まらせ、涙を流しながら自身の経営理念を語った。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/11/person_gmo_kumagai261102.jpg",
+  "published": "2026-11-02T18:18+09:00",
+  "collected": "2026-11-03T12:04+09:00"
+ },
+ {
   "id": "ed4b58253682",
   "url": "https://openai.com/index/lifeval",
   "title": "LifeVal",
@@ -827,7 +917,7 @@
   "thumbnail": null,
   "published": "2026-11-02T18:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "summary_orig": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwor"
  },
  {
@@ -859,6 +949,35 @@
   "collected": "2026-11-03T11:55+09:00"
  },
  {
+  "id": "d1682afdf855",
+  "url": "https://www.itmedia.co.jp/enterprise/articles/2611/02/news053.html",
+  "title": "富士通とNECのCFOが語る、2026年下期以降の「ITサービス需要動向」",
+  "summary": "",
+  "source": "ITmedia AI+",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://image.itmedia.co.jp/enterprise/articles/2611/02/cover_news053.jpg",
+  "published": "2026-11-02T15:00+09:00",
+  "collected": "2026-11-03T12:04+09:00"
+ },
+ {
+  "id": "77fef6e6d598",
+  "url": "https://markezine.jp/article/detail/77997",
+  "title": "【11/9〆切】フォーム提出の書類審査のみ！MarkeZine主催のマーケティングアワード応募受付中",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-02T15:00+09:00",
+  "collected": "2026-11-03T12:04+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "f5ae961802f8",
   "url": "https://pc.watch.impress.co.jp/docs/news/2153104.html",
   "title": "Claudeの「Max 20x」が「Ultra」に改称。認証後は5時間制限なし",
@@ -873,6 +992,35 @@
   "collected": "2026-11-03T11:55+09:00"
  },
  {
+  "id": "9e0b83b3cf8f",
+  "url": "https://markezine.jp/article/detail/77992",
+  "title": "いよいよ来週〆切！MarkeZineのマーケティングアワード応募受付中【今からでも間に合う】",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-02T14:00+09:00",
+  "collected": "2026-11-03T12:04+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "c0ac7ba74b58",
+  "url": "https://www.advertimes.com/20261102/article562967/?utm_source=feed",
+  "title": "貸会議室のTKPがコンテンツIP事業に参入、その狙いは？ アニメ音楽制作「懐刀」と新会社設立",
+  "summary": "TKPは10月30日、音楽制作やクリエイターのマネジメントを手がける懐刀（ふところがたな）と、合弁会社「響咲（ひさき）」を12月1日に設立すると発表した。ボイスコミックアプリの制作を皮切りに、漫画作品のアニメ化に向けた権利取得やライセンス展開など、コンテンツIP事業に参入する。",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/11/tkp_futokorogatana_hisaki_ogp.jpg",
+  "published": "2026-11-02T13:23+09:00",
+  "collected": "2026-11-03T12:04+09:00"
+ },
+ {
   "id": "03f44c4daae5",
   "url": "https://news.yahoo.co.jp/expert/articles/f763492adc24a53ba581c0cd92aa56681723afa6",
   "title": "米Anthropicが社員1人のバイオ企業を買収 AIが入った創薬の4つの工程を整理（いけとも） - エキスパート",
@@ -885,6 +1033,50 @@
   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/10017249/02756498/title-1793513537516.jpeg?exp=10800",
   "published": "2026-11-02T12:01+09:00",
   "collected": "2026-11-03T11:55+09:00"
+ },
+ {
+  "id": "913581e1d30f",
+  "url": "https://markezine.jp/article/detail/77971",
+  "title": "LINEヤフー、広告・販促運用を支援する法人向けAIエージェント「Agent i Biz」提供開始",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-02T11:45+09:00",
+  "collected": "2026-11-03T12:04+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "131d7c1515f2",
+  "url": "https://www.advertimes.com/20261102/article562651/?utm_source=feed",
+  "title": "「買うのは店頭、比べるのはAI」 電通デジタルの購買調査に見る「買い方の最適化」とシニア層の生成AIシフト",
+  "summary": "電通デジタルは、生活者のオンライン（EC）とオフライン（店頭）を横断した「EC・店頭をまたぐ購買行動実態調査2026」の結果を発表した。 The post 「買うのは店頭、比べるのはAI」 電通デジタルの購買調査に見る「買い方の最適化」とシニア層の生成AIシフト first appeared on AdverTimes",
+  "source": "宣伝会議 AdverTimes",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.advertimes.com/wp-content/uploads/2026/10/dentsudigital-survey-ogp.jpg",
+  "published": "2026-11-02T11:35+09:00",
+  "collected": "2026-11-03T12:04+09:00"
+ },
+ {
+  "id": "b290173f4ff3",
+  "url": "https://markezine.jp/article/detail/77959",
+  "title": "インテージ、対話型AI基盤「i-Dialogue」を開発しAIチャットインタビューの提供を開始",
+  "summary": "",
+  "source": "MarkeZine",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-02T11:30+09:00",
+  "collected": "2026-11-03T12:04+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "1ed8d4269d75",
@@ -927,7 +1119,7 @@
   "thumbnail": null,
   "published": "2026-11-02T11:00+09:00",
   "collected": "2026-11-02T11:30+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "ac2d96df5d9c",
@@ -1125,7 +1317,7 @@
   "thumbnail": null,
   "published": "2026-11-02T09:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Qodo builds context into AI code review with Codex",
   "summary_orig": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
  },
@@ -1142,7 +1334,7 @@
   "thumbnail": null,
   "published": "2026-11-02T09:00+09:00",
   "collected": "2026-11-03T11:55+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
   "summary_orig": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies."
  },
@@ -1205,6 +1397,23 @@
   "thumbnail": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HUKhnZRakAAnmLc.jpg",
   "published": "2026-11-02T07:33+09:00",
   "collected": "2026-11-02T09:46+09:00"
+ },
+ {
+  "id": "8ea8b2f5de7f",
+  "url": "https://www.socialmediatoday.com/news/instagram-offers-to-pay-creators-for-long-form-content/873402/",
+  "title": "Instagramは長い形式のコンテンツに対してクリエイターに支払いを提供しています",
+  "summary": "Business Insiderによると、クリエイターはMetaの新機能製品に動画を投稿するために最大50万$のオファーを受けたという。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-02T07:29+09:00",
+  "collected": "2026-11-03T12:04+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Instagram offers to pay creators for long-form content",
+  "summary_orig": "Business Insider reported that creators were offered as much as $500,000 to post video to Meta’s new Features product."
  },
  {
   "id": "f92181999bd7",
@@ -1424,6 +1633,23 @@
   "summary_orig": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
  },
  {
+  "id": "8313d8c777a8",
+  "url": "https://www.socialmediatoday.com/news/google-says-ai-chatbots-are-hurting-its-bottom-line/873401/",
+  "title": "Googleは、AIチャットボットが収益を損なっていると述べています",
+  "summary": "回答をChatGPTやClaudeなどのツールを利用するユーザーが増えているため、同社はディスカバリーの拠点を失っている可能性があります。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-02T05:42+09:00",
+  "collected": "2026-11-03T12:04+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Google says AI chatbots are hurting its bottom line",
+  "summary_orig": "The company may be losing its stronghold on discovery as more users turn to tools such as ChatGPT and Claude for answers."
+ },
+ {
   "id": "7a06514023fd",
   "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
   "title": "カイル・キングスベリーの引用",
@@ -1511,6 +1737,22 @@
   "thumbnail": "https://exawizards.com/column/wp-content/uploads/2026/11/スクリーンショット-2026-11-01-14.37.56-1024x557.png",
   "published": "2026-11-01T14:40+09:00",
   "collected": "2026-11-02T09:46+09:00"
+ },
+ {
+  "id": "8a042d77f1d6",
+  "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+  "title": "ブルックリンでさえ、データセンターは今や中間的な問題になっています",
+  "summary": "選挙日の5日前に開催されたブルックリンの中間選挙パーティーでは、評議会メンバーの炉辺のおしゃべりから民主党についての議論まで、あらゆる会話が行われました。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
+  "published": "2026-11-01T11:22+09:00",
+  "collected": "2026-11-03T12:04+09:00",
+  "title_orig": "Data centers are now a midterm issue, even in Brooklyn",
+  "summary_orig": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kep"
  },
  {
   "id": "8225c0e8c4e0",
