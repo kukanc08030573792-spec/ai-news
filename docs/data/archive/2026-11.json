@@ -16,6 +16,20 @@
   "summary_orig": "Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing...."
  },
  {
+  "id": "02e8f8278d60",
+  "url": "https://www.unite.ai/ja/cat-wu-steps-down-as-claude-code-product-chief-after-two-years/",
+  "title": "Cat Wu、Claude Codeのプロダクト責任者を2年務めた後に退任",
+  "summary": "Cat Wuは2026年11月3日、Anthropicを退社したとXで発表した。同社ではClaude Codeのプロダクト責任者を務めていた。コーディングツールが社内実験から、より自律的なソフトウェア開発へと進化した2年間に幕を下ろした。",
+  "source": "Unite.AI",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://www.unite.ai/wp-content/uploads/2026/11/claude-code-product-leader-cat-wu-announces-anthropic-departure.jpg",
+  "published": "2026-11-04T10:11+09:00",
+  "collected": "2026-11-04T10:39+09:00"
+ },
+ {
   "id": "7ffe9912fe72",
   "url": "https://news.yahoo.co.jp/articles/27ccef39a64b149a6be64b180ca2c62cfb324bac",
   "title": "Anthropic 、「Claude Code」によるゲームの複製を制限",
@@ -42,7 +56,7 @@
   "thumbnail": null,
   "published": "2026-11-04T10:00+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "fbe1d460f8ae",
@@ -85,7 +99,35 @@
   "thumbnail": null,
   "published": "2026-11-04T10:00+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
+ },
+ {
+  "id": "62091c7cb997",
+  "url": "https://robotstart.info/article/2026/11/04/382590.html",
+  "title": "小中学生が双腕ロボットアームとClaudeで課題解決に挑戦「フィジカルAIハッカソン」を11/7・8に開催 Scramble",
+  "summary": "一般社団法人次世代ロボットエンジニア支援機構（Scramble）は、全国の小中学生を対象とした「小中学生フィジカルAIハッカソン＠TEPIA先端技術館」を、2026年11月7日・8日に開催する。",
+  "source": "ロボスタ",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/108813.jpg",
+  "published": "2026-11-04T10:00+09:00",
+  "collected": "2026-11-04T10:39+09:00"
+ },
+ {
+  "id": "d66947cc742e",
+  "url": "https://prtimes.jp/main/html/rd/p/000000025.000185093.html",
+  "title": "ゴムマリの業務AIエージェント、『CRM入力』を提供開始",
+  "summary": "ゴムマリの業務AIエージェント、『CRM入力』を提供開始",
+  "source": "PR TIMES",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/185093/25/185093-25-783853a5948f17631c4dd1f612d050ad-2400x1260.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-11-04T10:00+09:00",
+  "collected": "2026-11-04T10:39+09:00"
  },
  {
   "id": "5d47252e76d4",
@@ -159,7 +201,7 @@
   "thumbnail": null,
   "published": "2026-11-04T09:00+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "fe42393239e4",
@@ -174,7 +216,7 @@
   "thumbnail": null,
   "published": "2026-11-04T08:45+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "64fbdbf83ed1",
@@ -205,7 +247,7 @@
   "thumbnail": null,
   "published": "2026-11-04T08:30+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "45552dea0e59",
@@ -220,7 +262,7 @@
   "thumbnail": null,
   "published": "2026-11-04T08:30+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f15e4348d872",
@@ -294,7 +336,7 @@
   "thumbnail": null,
   "published": "2026-11-04T07:15+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f9a5468cfb1f",
@@ -309,7 +351,7 @@
   "thumbnail": null,
   "published": "2026-11-04T07:04+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "a61d3e45fcac",
@@ -380,7 +422,7 @@
   "thumbnail": null,
   "published": "2026-11-04T07:00+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "cb2d33fb2813",
@@ -395,7 +437,7 @@
   "thumbnail": null,
   "published": "2026-11-04T06:50+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "37542749a37b",
@@ -415,7 +457,7 @@
   "id": "123eda57c5a7",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2611/04/news046.html",
   "title": "東北大とアイシンがSTT-MRAM搭載AIチップを開発、16nmプロセスでは世界初",
-  "summary": "kåwÆACVÍAsö «Å éSTT - MRAMðÚ · éAI 'bvðJ µ ½ Æ ­\\µ ½ BußRs [eBOiNMCv ^ ÍAI' bvÅ èA] äÅd ¹",
+  "summary": "kåwÆACVÍAsö «Å éSTT - MRAMðÚ · éAI 'bvðJ µ½ Æ \\µ ½ BußRs [eBOiNMCv ^ ÍAI' bvÅ èA] äÅd ¹",
   "source": "ITmedia AI+",
   "type": "article",
   "tier": "media",
@@ -424,7 +466,7 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2611/04/cover_news046.jpg",
   "published": "2026-11-04T06:45+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "summary_orig": "kåwÆACVÍAsö­«Å éSTT-MRAMðÚ·éAI`bvðJ­µ½Æ­\\µ½BußRs[eBOiNMCv^ÌAI`bvÅ èA]äÅd¹"
+  "summary_orig": "kåwÆACVÍAsö «Å éSTT - MRAMðÚ · éAI 'bvðJ µ ½ Æ ­\\µ ½ BußRs [eBOiNMCv ^ ÍAI' bvÅ èA] äÅd ¹"
  },
  {
   "id": "f7b02949050d",
@@ -565,6 +607,20 @@
   "summary_orig": "SEOs, buckle up. Google says expect rapid improvement from recursive self-improvement, and Search is becoming an agent manager. The post Google’s Q3 2026 Earnin"
  },
  {
+  "id": "bdfe9bb2efd7",
+  "url": "https://active.nikkeibp.co.jp/atcl/act/19/00818/100700002/?i_cid=nbpnxta_sied_pickup",
+  "title": "NECとAnthropic協業の裏に「7人の侍」、全員AIの新組織で自己変革",
+  "summary": "従来のシステムインテグレーター（SIer）から、AI（人工知能）を駆使して企業価値向上に貢献する「AIインテグレーター（AIer）」へ。NECが自身の変革を急いでいる。AI大手、米アンソロピックとの協業は、その重要な一手だ。電撃的な協業の背景には、知られざる「7人の侍」の存在があった。",
+  "source": "日経クロステック Active",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://active.nikkeibp.co.jp/atcl/act/19/00818/100700002/topm.jpg",
+  "published": "2026-11-04T05:00+09:00",
+  "collected": "2026-11-04T10:39+09:00"
+ },
+ {
   "id": "42ec3b43220b",
   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
   "title": "AI推論スタートアップFAL、需要急増に伴い評価額を160億$に倍増",
@@ -611,6 +667,20 @@
   "collected": "2026-11-04T10:24+09:00",
   "title_orig": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
   "summary_orig": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+ },
+ {
+  "id": "214743417d39",
+  "url": "https://finance.biggo.jp/news/7e512c58-e359-4dcc-b3c5-c83e1f96736e",
+  "title": "Snowflake、OpenAI・Anthropicのモデルを自社基盤に取り込み企業データの関門を狙う",
+  "summary": "Snowflakeは「Expedition 2026」でAIエージェント管理機能と新たなボットを公開した。OpenAI・Anthropicのモデルを自社のセキュリティ境界内で活用する一方、企…",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "tier": "official",
+  "topic": "ai",
+  "proxy_for": "Anthropic",
+  "thumbnail": "https://img.biggo.com/rSoBbbyhpex8R7GO9MBF_D_nH06GyTAT44lXHW5qHlc/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzdlNTEyYzU4LWUzNTktNGRjYy1iM2M1LWM4M2UxZjk2NzM2ZV8xNzkzNzMxMzY2X2RlZmF1bHQuanBn.jpg",
+  "published": "2026-11-04T03:35+09:00",
+  "collected": "2026-11-04T10:39+09:00"
  },
  {
   "id": "662bf89dbff2",
@@ -661,6 +731,22 @@
   "summary_orig": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch"
  },
  {
+  "id": "f3b71b18e198",
+  "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+  "title": "Googleは学校がAIツールをスキップできるようにしますが、検索もあきらめなければなりません",
+  "summary": "Googleは、答えを与えないと言われているAIツールを学校に提供します。",
+  "source": "Ars Technica AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
+  "published": "2026-11-04T02:54+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Google will let schools skip AI tools, but they have to give up search, too",
+  "summary_orig": "Google will offer schools AI tools that purportedly don't give away the answers."
+ },
+ {
   "id": "a55665cf4895",
   "url": "https://huggingface.co/blog/allenai/statebench",
   "title": "StateBench ：言語モデルが長いドキュメントで状態の変化を追跡する方法をテストする",
@@ -677,6 +763,22 @@
   "summary_orig": "A Blog post by Ai2 on Hugging Face"
  },
  {
+  "id": "a4abd1e2a1c1",
+  "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+  "title": "Anthropicはまだコンピューティングの経済性に取り組んでいます",
+  "summary": "Anthropicの計算マージンが改善されるべき瞬間に、彼らは悪化しています。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
+  "published": "2026-11-04T02:07+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Anthropic is still grappling with the economics of compute",
+  "summary_orig": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
+ },
+ {
   "id": "adafdd4764cb",
   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
   "title": "Google Antigravityのエージェント化学情報学",
@@ -691,6 +793,22 @@
   "collected": "2026-11-04T10:24+09:00",
   "title_orig": "Agentic cheminformatics with Google Antigravity",
   "summary_orig": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+ },
+ {
+  "id": "0eaf3e3a7544",
+  "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+  "title": "Googleは、AIを必要としない学校で検索を完全に無効にしています",
+  "summary": "Googleは、AI機能を拒否する学校で検索を完全にオフにしていると、同社はニューヨーク・タイムズ紙に語った。この決定はまた、より広範なeで共有されました",
+  "source": "The Verge AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "published": "2026-11-04T02:00+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Google is entirely disabling Search in schools that don’t want AI",
+  "summary_orig": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader e"
  },
  {
   "id": "81baaaf3b2d1",
@@ -805,6 +923,22 @@
   "summary_orig": "Amazon Bedrock now offers in-country inference in India for Kimi K3, keeping processing within the Mumbai and Hyderabad Regions. This post explains the global a"
  },
  {
+  "id": "ba273efe94ab",
+  "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+  "title": "Googleは、学校がAIツールを無効にすることを許可しますが、検索を犠牲にすることなくではありません",
+  "summary": "AIを完全に制限することを選択した学校は、AI機能が検索エンジンに統合されたため、Google検索にアクセスできなくなります。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+  "published": "2026-11-04T01:30+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Google will let schools disable its AI tools, but not without sacrificing Search",
+  "summary_orig": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
+ },
+ {
   "id": "9b0f1b3870f8",
   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
   "title": "私のノートパソコンのQwen 3.8 27 Bは、モデルの重みも解釈できます",
@@ -817,9 +951,25 @@
   "thumbnail": null,
   "published": "2026-11-04T01:29+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Qwen 3.8 27B on my laptop can interpret model weights, too",
   "summary_orig": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, a"
+ },
+ {
+  "id": "01cf27ad3693",
+  "url": "https://www.adweek.com/brand-marketing/respect-over-authenticity-whalar-group-rewrites-the-brand-creator-partnership/",
+  "title": "信頼性を超えた尊重： Whalar Groupがブランドとクリエイターのパートナーシップを書き換える",
+  "summary": "ニール・ウォーラーが、信頼、クリエイターの所有権、運用規律、AIがクリエイターの経済をどのように変革しているかについて語ります。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/11/speed-of-culture-whalar-group-Neil-Waller.png?w=600&h=315&crop=1",
+  "published": "2026-11-04T01:06+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Respect Over Authenticity: Whalar Group Rewrites the Brand-Creator Partnership",
+  "summary_orig": "Neil Waller on how trust, creator ownership, operational discipline, and AI are reshaping the creator economy."
  },
  {
   "id": "5813bfa508a3",
@@ -854,6 +1004,102 @@
   "summary_orig": "Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding h"
  },
  {
+  "id": "3f3a4d71b47e",
+  "url": "https://www.adweek.com/media/martech-entrepreneur-adam-robinson-among-nine-dead-in-florida-plane-crash/",
+  "title": "マーテック起業家アダム・ロビンソン、フロリダ州の飛行機事故で9人死亡",
+  "summary": "同僚は、16万人のLinkedInフォロワーを集め、スマートで思いやりのある起業家精神への「ブートストラップ」アプローチを支持したロビンソンを覚えています",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/11/adam-robinson-obit-2026.png?w=600&h=315&crop=1",
+  "published": "2026-11-04T00:40+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Martech Entrepreneur Adam Robinson Among Nine Dead in Florida Plane Crash",
+  "summary_orig": "Peers remember Robinson, who amassed 160,000 LinkedIn followers and endorsed a “bootstrap” approach to entrepreneurship, as smart and caring"
+ },
+ {
+  "id": "b20c657114df",
+  "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+  "title": "Appleは、出会い系アプリとAIコンパニオンを18歳以上のユーザーに制限しています",
+  "summary": "Appleの新しいApp Storeルールでは、性的またはロマンチックなコンテンツを提供する出会い系アプリやAIコンパニオンに18以上の評価が必要になります。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
+  "published": "2026-11-04T00:38+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Apple restricts dating apps and AI companions to users 18 and up",
+  "summary_orig": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
+ },
+ {
+  "id": "6cebf3ebac42",
+  "url": "https://blog.hootsuite.com/ai-disclosure-policy-for-tiktok/",
+  "title": "TikTok AI開示ポリシー：ラベルを付ける内容（オーガニック+広告）",
+  "summary": "TikTokにAIをラベル付けする限り、AIは歓迎されています。ここでは、ラベルが必要なもの、必要ないもの、TikTokがあなたのためにラベルを追加する前にラベルを追加する方法について説明します。POST TikTok AI",
+  "source": "Hootsuite",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/11/tiktok-ai-disclosure.png",
+  "published": "2026-11-04T00:08+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "TikTok AI disclosure policy: What to label (organic + ads)",
+  "summary_orig": "AI is welcome on TikTok, as long as you label it. Here’s what needs a label, what doesn’t, and how to add one before TikTok does it for you. The post TikTok AI"
+ },
+ {
+  "id": "e6219ecf64cb",
+  "url": "https://www.youtube.com/watch?v=UoIml3ppg08",
+  "title": "Emily D. Bakerが語るライブストリーミングとメンバーシップの力",
+  "summary": "元プロセッサーで現在のライブクリエイター@ TheEmilyDBakerが、YouTubeのライブ用pproductマネージャー、@ BarbaraEMac、YouTubeクリエイターのリエゾン@ ReneRitcと対談",
+  "source": "Creator Insider（YouTube公式）",
+  "type": "video",
+  "tier": "official",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://i.ytimg.com/vi/UoIml3ppg08/hqdefault.jpg",
+  "published": "2026-11-04T00:07+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Emily D. Baker on the power of Live Streaming & Memberships",
+  "summary_orig": "Former prosector and current live creator @TheEmilyDBaker sits down with YouTube's pproduct manager for live, @BarbaraEMac and YouTube creator liaison @ReneRitc"
+ },
+ {
+  "id": "3b3422e07671",
+  "url": "https://www.adweek.com/programmatic/the-trade-desk-brings-back-dave-pickles-amid-growing-pains/",
+  "title": "トレードデスクは成長する痛みの中でデイブ・ピクルスを連れ戻す",
+  "summary": "2023年に辞任した共同創業者で元CTOは、AIエージェントを含む同社のテクノロジーロードマップを監督する新しいCTO評議会を率いる。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/11/ttd-repricing-stock-options-2026.webp?w=600&h=315&crop=1",
+  "published": "2026-11-03T23:54+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "The Trade Desk Brings Back Dave Pickles Amid Growing Pains",
+  "summary_orig": "The co-founder and former CTO, who stepped down in 2023, will lead a new CTO Council overseeing the company's technology roadmap, including AI agents."
+ },
+ {
+  "id": "61590e3c4761",
+  "url": "https://www.searchenginejournal.com/building-a-global-content-factory-with-ai-without-losing-the-human-touch/593904/",
+  "title": "@ sejournal、@ motokohuntを介してAIでグローバルコンテンツファクトリーを構築する（人間のタッチを失うことなく）",
+  "summary": "承認された事実、現地の証拠、および人間の判断に基づいて各市場のページを基礎づけることで、ローカルの関連性を消去することなく、AIコンテンツファクトリーをスケーリングします。POST BUI",
+  "source": "Search Engine Journal",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/global-content-661.png",
+  "published": "2026-11-03T22:00+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Building A Global Content Factory With AI (Without Losing The Human Touch) via @sejournal, @motokohunt",
+  "summary_orig": "Scale an AI content factory without erasing local relevance by grounding each market's pages in approved facts, local evidence, and human judgment. The post Bui"
+ },
+ {
   "id": "26c6032e1d26",
   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
   "title": "物理的な世界のためのエンジニアリングの加速",
@@ -866,9 +1112,25 @@
   "thumbnail": null,
   "published": "2026-11-03T21:00+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Accelerating engineering for the physical world",
   "summary_orig": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+ },
+ {
+  "id": "5888f219fe27",
+  "url": "https://blog.hootsuite.com/google-analytics-social-media/",
+  "title": "ソーシャルメディアでGoogleアナリティクスを使用する方法（ GA 4設定+レポート）",
+  "summary": "ソーシャルがクリックされました。しかし、それは顧客を変換しましたか？ソーシャルメディア向けにGoogleアナリティクスを設定する方法は次のとおりです。投稿ソーシャルメディアでGoogleアナリティクスを使用する方法",
+  "source": "Hootsuite",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": "https://blog.hootsuite.com/wp-content/uploads/2026/10/Google-Analytics-for-social-media.png",
+  "published": "2026-11-03T20:48+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "How to use Google Analytics for social media (GA4 setup + reports)",
+  "summary_orig": "Social got the click. But did it convert the customer? Here’s how to set up Google Analytics for social media. The post How to use Google Analytics for social m"
  },
  {
   "id": "ba71d565e84d",
@@ -885,6 +1147,72 @@
   "collected": "2026-11-04T10:24+09:00",
   "title_orig": "Apple Earnings, Memory Problems, The Hardware Company Regression",
   "summary_orig": "Apple's earnings suggest that the company's hardware business is doing better than ever, even in the face of memory challenges. Does the software story help or"
+ },
+ {
+  "id": "499184c64f82",
+  "url": "https://www.socialmediaexaminer.com/persistent-ai-agents-how-to-get-started-and-what-to-watch-out-for/",
+  "title": "永続的なAIエージェント：開始方法（および注意事項）",
+  "summary": "永続的なAIエージェントは、ChatGPT、Claude、その他のAIチャットツールとどのように異なりますか？メール、カレンダー、タスクを管理する常時稼働のAIエージェントが欲しい",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-03T20:00+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Persistent AI Agents: How to Get Started (and What to Watch Out For)",
+  "summary_orig": "Wondering how persistent AI agents differ from ChatGPT, Claude, and other AI chat tools? Want an always-on AI agent that manages your email, calendar, and tasks"
+ },
+ {
+  "id": "0e022216c2cb",
+  "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+  "title": "「リバースゲーム理論」がAIエージェントを抑制する方法",
+  "summary": "「リバースゲーム理論」と呼ばれる新しいアプローチは、強力なAIモデルを制御するために、ルールに固執するようにインセンティブを与えるシステムを設計することを目的としています。",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/cake.jpg?resize=1200,600",
+  "published": "2026-11-03T19:43+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "How “reverse game theory” could keep AI agents in check",
+  "summary_orig": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models"
+ },
+ {
+  "id": "794e3da0587c",
+  "url": "https://www.adweek.com/commerce/shopify-stores-face-suspected-ai-driven-attacks/",
+  "title": "Shopifyストアは、AI主導の攻撃の疑いに直面しています",
+  "summary": "ドイツを拠点とするソフトウェアエンジニアのローマン・ジップは、先月、Shopifyを搭載した店舗からメカニカルキーボードを購入していたところ、一連のeコマースを発見しました。",
+  "source": "Adweek（ソーシャル）",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://static-www.adweek.com/wp-content/uploads/2026/10/Shopify.jpg?w=600&h=315&crop=1",
+  "published": "2026-11-03T19:38+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Shopify Stores Face Suspected AI-Driven Attacks",
+  "summary_orig": "German-based software engineer Roman Zipp was buying a mechanical keyboard from a Shopify-powered storefront last month, when he discovered a series of ecommerc"
+ },
+ {
+  "id": "f9d2596304b7",
+  "url": "https://www.socialmediaexaminer.com/meta-ads-testing-youtube-analysis-and-industry-news/",
+  "title": "メタ広告テスト、YouTube分析、業界ニュース",
+  "summary": "ここでは、今日知っておくべき最も重要な洞察、傾向、最新情報を要約します。数分で追いつき、準備を整えて週の残りの時間を過ごしましょう。",
+  "source": "Social Media Examiner",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-03T19:30+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Meta Ads Testing, YouTube Analysis, and Industry News",
+  "summary_orig": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared."
  },
  {
   "id": "c3ba65025815",
@@ -913,7 +1241,7 @@
   "thumbnail": null,
   "published": "2026-11-03T17:00+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "How Cisco defends at machine speed with OpenAI",
   "summary_orig": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
  },
@@ -930,9 +1258,25 @@
   "thumbnail": null,
   "published": "2026-11-03T17:00+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "Heimstaden is changing residential real estate management with AI",
   "summary_orig": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+ },
+ {
+  "id": "0947affcb4cc",
+  "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+  "title": "会話の巻き戻しとキャッピングのためのApple WatchのAI機能がベータテストを開始",
+  "summary": "ベータ版が登場： Appleの新しいオーディオインテリジェンス機能は、誰かが何を言ったかを覚えたり、会話にメモを取ったりするのに役立ちます。",
+  "source": "TechCrunch AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+  "published": "2026-11-03T16:20+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+  "summary_orig": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
  },
  {
   "id": "4d836f21a02f",
@@ -979,7 +1323,7 @@
   "thumbnail": null,
   "published": "2026-11-03T14:32+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
   "summary_orig": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost im"
  },
@@ -996,9 +1340,25 @@
   "thumbnail": null,
   "published": "2026-11-03T14:28+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "October sponsors-only newsletter",
   "summary_orig": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: T"
+ },
+ {
+  "id": "a6e20d8d1eb1",
+  "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+  "title": "トランプ氏の「スーパーインテリジェンス」ロイヤリティテストの順番に並んでいるのは誰か",
+  "summary": "このストーリーは、もともとAIに関する毎週のニュースレターであるThe Algorithmに掲載されました。このようなストーリーを受信トレイで受け取るには、まずこちらから登録してください。9月の終わりに",
+  "source": "MIT Technology Review AI",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/superai-trump.jpg?resize=1200,600",
+  "published": "2026-11-03T13:18+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "title_orig": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+  "summary_orig": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of Septembe"
  },
  {
   "id": "4ed35bdfdb65",
@@ -1104,7 +1464,7 @@
   "thumbnail": null,
   "published": "2026-11-03T09:00+09:00",
   "collected": "2026-11-04T10:24+09:00",
-  "_thumb_tries": 1,
+  "_thumb_tries": 2,
   "title_orig": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
   "summary_orig": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
  },
@@ -1246,6 +1606,74 @@
   "collected": "2026-11-03T11:55+09:00",
   "title_orig": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
   "summary_orig": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you ca"
+ },
+ {
+  "id": "b88be35eed48",
+  "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-brand-safety-resources/873529/",
+  "title": "TikTokが新しいブランドセーフティリソースを追加",
+  "summary": "同社は、著作権や偽造品検出ツールなど、潜在的なリスクを特定するのに役立つように設計されたブランド保護機能を提供しています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-03T07:51+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "TikTok adds new brand safety resources",
+  "summary_orig": "The company offered brands protection features designed to help identify potential risks, including copyright and counterfeit detection tools."
+ },
+ {
+  "id": "f7ae5052b3d0",
+  "url": "https://www.socialmediatoday.com/news/companies-may-need-to-restrict-ai-use-to-manage-costs/873527/",
+  "title": "企業は、コストを管理するためにAIの使用を制限する必要があるかもしれません",
+  "summary": "Anthropic、OpenAI、xAI、Metaはすべて、人工知能プロジェクトを構築するために膨大な金額を費やしてきましたが、まだ見返りはありません。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "ai",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-03T07:30+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Companies may need to restrict AI use to manage costs",
+  "summary_orig": "Anthropic, OpenAI, xAI and Meta have all spent enormous amounts of money to build out their artificial intelligence projects, but have yet to see returns."
+ },
+ {
+  "id": "191acab8da52",
+  "url": "https://www.socialmediatoday.com/news/meta-updates-creator-assistant-chatbot/873524/",
+  "title": "メタアップデートクリエイターアシスタントチャットボット",
+  "summary": "同社の人工知能を搭載したツールには、機会アラート、コンテンツ作成のためのより良いヘルプ、自動返信が含まれるようになりました。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-03T07:25+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Meta updates creator assistant chatbot",
+  "summary_orig": "The company’s artificial intelligence-powered tool now features opportunity alerts, better help for content creation and automated replies."
+ },
+ {
+  "id": "8e5f0b3909b8",
+  "url": "https://www.socialmediatoday.com/news/threads-adds-more-community-champion-badges/873523/",
+  "title": "スレッドにコミュニティチャンピオンバッジが追加されます",
+  "summary": "デジタルディスプレイカードは、局所サブグループの主要な貢献者になったユーザーを強調するように設計されています。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-03T07:21+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "Threads adds more community champion badges",
+  "summary_orig": "The digital display cards are designed to highlight users who have become key contributors in their topical subgroups."
  },
  {
   "id": "855688c450b2",
@@ -1444,6 +1872,23 @@
   "collected": "2026-11-03T11:55+09:00",
   "title_orig": "New accessibility tags come to YouTube Playables",
   "summary_orig": "See supported controls, visuals, and audio settings before hitting start with new tags on YouTube Playables."
+ },
+ {
+  "id": "80fe962f87b3",
+  "url": "https://www.socialmediatoday.com/news/tiktok-inks-new-content-deal-with-wta/873502/",
+  "title": "TikTok、WTAと新しいコンテンツ契約を締結",
+  "summary": "このパートナーシップは、既存の関係を拡大し、女子テニスのライブストリーミング報道と舞台裏の洞察を含みます。",
+  "source": "Social Media Today",
+  "type": "article",
+  "tier": "media",
+  "topic": "sns",
+  "proxy_for": null,
+  "thumbnail": null,
+  "published": "2026-11-03T04:50+09:00",
+  "collected": "2026-11-04T10:39+09:00",
+  "_thumb_tries": 1,
+  "title_orig": "TikTok inks new content deal with WTA",
+  "summary_orig": "The partnership will expand the existing relationship and include livestream women’s tennis coverage as well as behind-the-scenes insights."
  },
  {
   "id": "416fde06b6ab",
